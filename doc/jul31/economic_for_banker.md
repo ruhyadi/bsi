@@ -4,16 +4,17 @@ Istilah-istilah dalam perbankan yang sering digunakan:
 
 Pembicara: Imannudin
 
-| Istilah       | Penjelasan                                                                                          |
-| ------------- | --------------------------------------------------------------------------------------------------- |
-| Giro          | Simpanan yang penarikannya dapat dilakukan dengan cek atau surat perintah pembayaran lainnya.       |
-| Deposito      | Simpanan yang penarikannya hanya dapat dilakukan setelah jangka waktu tertentu.                     |
-| DPK           | Dana Pihak Ketiga. Merupakan dana yang ditempatkan oleh nasabah pada bank.                          |
-| KBMI          | Kelompok Bank Berdasarkan Modal Inti. Kelompok bank yang dibedakan berdasarkan modal inti.          |
-| Ekonomi Makro | Studi tentang perilaku ekonomi secara keseluruhan.                                                  |
-| Ekonomi Mikro | Studi tentang perilaku ekonomi secara individu.                                                     |
-| Motif Ekonomi | Alasan seseorang melakukan sesuatu.                                                                 |
-| DSIP          | Domestic Systemic Important Bank. Bank yang memiliki peran penting dalam sistem perbankan nasional. |
+| Istilah       | Penjelasan                                                                                                      |
+| ------------- | --------------------------------------------------------------------------------------------------------------- |
+| Giro          | Simpanan yang penarikannya dapat dilakukan dengan cek atau surat perintah pembayaran lainnya.                   |
+| Deposito      | Simpanan yang penarikannya hanya dapat dilakukan setelah jangka waktu tertentu.                                 |
+| DPK           | Dana Pihak Ketiga. Merupakan dana yang ditempatkan oleh nasabah pada bank.                                      |
+| KBMI          | Kelompok Bank Berdasarkan Modal Inti. Kelompok bank yang dibedakan berdasarkan modal inti.                      |
+| Ekonomi Makro | Studi tentang perilaku ekonomi secara keseluruhan.                                                              |
+| Ekonomi Mikro | Studi tentang perilaku ekonomi secara individu.                                                                 |
+| Motif Ekonomi | Alasan seseorang melakukan sesuatu.                                                                             |
+| DSIP          | Domestic Systemic Important Bank. Bank yang memiliki peran penting dalam sistem perbankan nasional.             |
+| RBB           | Rencana Bisnis Bank. Merupakan rencana yang dibuat oleh bank untuk mencapai tujuan bisnisnya selama satu tahun. |
 
 Perbedaan deposito dan giros:
 
@@ -132,3 +133,39 @@ Monetary policy: kebijakan yang dilakukan oleh bank sentral untuk mengendalikan 
 Fiscal policy: kebijakan yang dilakukan oleh pemerintah untuk mengendalikan APBN dan APBD.
 
 Moneter dan fiskal sebagai rem dan gas.
+
+## Bank stategic framework
+
+![alt text](image.png)
+
+
+# Industry Analysis
+
+Harus dianalis untuk management resiko supaya tidak ada pembiayaan bermasalah.
+
+Jika sudah masuk APBN pemerintah harus melakukan penganggaran.
+
+
+## Group Assignment
+
+1. Buat analisis ekonomi prospek bisnis di sektor tersebut
+2. Identifikasi dan buat analisis ekonomi yang mempengaruhi
+
+
+## Industri Otomotif
+
+### Struktur industri & kompetisi
+
+- Pemain besar: Toyota, Honda, Suzuki, Daihatsu
+- Pemain lokal: Astra, Indomobil
+- Pemain baru: Wuling, DFSK, BYD
+- Pemain premium: BMW, Mercedes, Audi
+- Pemain motor: Yamaha, Honda, Suzuki
+- Pemain motor premium: Harley Davidson, Ducati
+- Pemain motor lokal: Astra, Indomobil
+- Pemain motor baru: Benelli, KTM
+- Pemain motor listrik: Tesla, BYD, Nissan
+- Pemain motor listrik lokal: Gesits, Viar
+- Pemain motor listrik baru: Niu, Gogoro
+- Pemain motor listrik premium: Zero, Energica
+
