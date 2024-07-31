@@ -82,3 +82,53 @@ Kategori spekulasi, bank syariah tidak masuk
 M2: uang dari investor asing + M1
 
 Uang beredar dipengaruhi oleh suku bunga.
+
+Jumlah uang tidak boleh lebih dari 2x dari target inflasi.
+
+Keungan islam tentang uang:
+
+- transaksi jual beli harus ada barangnya terlebih dahulu
+- uang tidak mempunyai nilai waktunya, tetapi pada nilai saat ini
+
+### Otoritas Keuangan
+
+OJK: Otoritas Jasa Keuangan berfungsi mengatur dan mengawasi perbankan. Mengatur yang terkait lembaga keuangan.
+
+BI: Bank Indonesia, mengatur kebijakan moneter. Mengendalikan jumlah uang beredar. GWM (Giro Wajib Minimum) untuk mengendalikan jumlah uang beredar.
+
+Kementrian Keuangan: mengatur kebijakan fiskal. Pajak, APBN, APBD.
+
+LPS: Lembaga Penjamin Simpanan, menjamin simpanan nasabah.
+
+## Macro Economics
+
+Sistem finansial selalu terhubung dengan ekonomi makro dikarenakan kita menjadi intermediasi yang berada ditengah.
+
+Sektor riil:
+
+- Konsumsi rumah tangga
+- Investasi swasta
+
+Sektor government:
+
+- Belanja pemerintah
+- Subsidi
+- Gaji pegawai
+
+Sektor external:
+
+- Export import
+
+GDP: besarnya nilai barang dan jasa yang dihasilkan dalam suatu negara dalam satu tahun.
+
+GDP Nominal: nilai barang dan jasa dalam satu tahun tanpa menghitung inflasi.
+
+GDP Real: nilai barang dan jasa dalam satu tahun dengan menghitung inflasi.
+
+## Monetary and Fiscal Policy
+
+Monetary policy: kebijakan yang dilakukan oleh bank sentral untuk mengendalikan jumlah uang beredar.
+
+Fiscal policy: kebijakan yang dilakukan oleh pemerintah untuk mengendalikan APBN dan APBD.
+
+Moneter dan fiskal sebagai rem dan gas.
