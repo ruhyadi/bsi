@@ -1,0 +1,88 @@
+---
+import PageLayout from '../layouts/BaseLayout.astro'
+import Section from '../components/Section.astro'
+import Card from '../components/Card.astro'
+import ProjectCard from '../components/ProjectCard.astro'
+import Label from '../components/Label.astro'
+import SkillLayout from '../components/SkillLayout.astro'
+import PostPreview from '@/components/blog/PostPreview.astro'
+
+import { Image } from 'astro:assets'
+import astro from '../assets/logo.png'
+
+import { getAllPosts, sortMDByDate } from '@/utils'
+
+const languages = ['C++', 'Python', 'Typescript']
+const backend = ['FastAPI']
+const frontend = ['React', 'Astro']
+const aiFramework = [
+	'PyTorch',
+	'Lightning',
+	'HuggingFace',
+	'MMEngine',
+	'PaddlePaddle',
+	'ONNX',
+	'TensorRT',
+	'OpenVINO',
+	'DeepStream',
+	'OpenCV',
+	'CVAT',
+	'FiftyOne',
+	'DvC',
+	'MLFlow'
+]
+
+const MAX_POSTS = 10
+const allPosts = await getAllPosts()
+const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
+---
+
+<PageLayout meta={{ title: 'Home' }}>
+	<div class='flex w-full flex-col gap-y-10'>
+		<section class='flex flex-col items-center gap-y-7'>
+			<Image
+				src={astro}
+				alt='profile photo'
+				class='h-28 w-auto rounded-full bg-[#FFBE98] p-2'
+				loading='eager'
+			/>
+
+			<div class='flex flex-col items-center gap-y-4'>
+				<h1 class='text-3xl font-bold'>日本語</h1>
+				<a
+					href='https://github.com/ruhyadi/nihongo'
+					class='flex flex-row items-center gap-x-3 rounded-3xl border border-input px-4 py-2 text-sm shadow-sm transition-all hover:shadow-md'
+				>
+					<span class='relative flex items-center justify-center'>
+						<span
+							class='absolute inline-flex h-2 w-2 animate-ping rounded-full border border-green-400 bg-green-400 opacity-75'
+						></span>
+						<span class='relative inline-flex h-2 w-2 rounded-full bg-green-400'></span>
+					</span>
+
+					<p class='font-medium'>github.com/ruhyadi/nihongo</p>
+				</a>
+			</div>
+		</section>
+
+		<Section title='About'>
+			<p class='text-muted-foreground'>
+				日本語 is a project to help me learn Japanese. I'm going to Japan next year (2025) and I
+				want to be able to speak the language. I'm going to document my journey on this project.
+			</p>
+		</Section>
+		{
+			allPostsByDate.length > 0 && (
+				<Section title='Posts'>
+					<ul class='flex flex-col gap-y-2'>
+						{allPostsByDate.map((p) => (
+							<li class='flex flex-col gap-x-2 sm:flex-row'>
+								<PostPreview post={p} />
+							</li>
+						))}
+					</ul>
+				</Section>
+			)
+		}
+	</div>
+</PageLayout>

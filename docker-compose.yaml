@@ -1,0 +1,18 @@
+services:
+  nihongo:
+    container_name: nihongo
+    image: mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye
+    user: node
+    volumes:
+      - .:/app
+    ports:
+      - 4333:4321
+    working_dir: /app
+    # command: bash scripts/build.sh
+    command: npm run dev
+    networks:
+      - nihongo-network
+
+networks:
+  nihongo-network:
+    driver: bridge
