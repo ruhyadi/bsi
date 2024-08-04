@@ -128,6 +128,43 @@ Akad pemberian harta dapat dibedakan menjadi:
 - **Infak** adalah pemberian harta di jalan Allah untuk kepentingan umum atau amal, yang sifatnya sunnah (tidak wajib) dan dapat dilakukan kapan saja tanpa jumlah tertentu.
 - **Hadiah** adalah pemberian harta atau benda sebagai tanda penghargaan, kasih sayang, atau ucapan terima kasih, yang diberikan tanpa mengharapkan imbalan.
 
+### Akad Mu'awadah
+
+**Aqad Mu'awadah** adalah kontrak yang didasarkan pada prinsip **pertukaran atau imbalan**, di mana setiap pihak memberikan sesuatu dan menerima sesuatu sebagai imbalan. Contoh dari aqad mu'awadah adalah kontrak jual beli (ba'i), sewa menyewa (ijarah), dan kemitraan (syarikah).
+
+#### Jual Beli (Ba'i)
+
+Jual beli adalah akad di mana seseorang (penjual) menyerahkan barang atau jasa kepada orang lain (pembeli) dengan imbalan tertentu. Dalam akad jual beli, penjual bertanggung jawab untuk memberikan barang atau jasa yang dijanjikan, sedangkan pembeli bertanggung jawab untuk membayar harga yang disepakati.
+
+##### Barang
+
+Ditinjau dari jenis barang yang diperjualbelikan, jual beli dapat dibedakan menjadi:
+
+- **Muqayyadah (Barter)** adalah bentuk jual beli di mana barang ditukar dengan barang lain, tanpa menggunakan uang sebagai alat tukar. Ini adalah sistem perdagangan paling dasar dan tertua.
+- **Muthlaqah (Uang)** adalah bentuk jual beli di mana barang diperjualbelikan dengan menggunakan uang sebagai alat tukar. Ini adalah bentuk jual beli yang paling umum dan luas digunakan dalam masyarakat modern.
+- **Sharf (Mata Uang)** adalah bentuk jual beli di mana mata uang atau valuta asing diperjualbelikan. Ini adalah bentuk jual beli yang digunakan dalam perdagangan internasional dan pasar valuta asing.
+
+##### Pendapatan
+
+Jual beli dapat dikategorikan berdasarkan cara perhitungan pendapatan atau keuntungan yang diperoleh, yaitu:
+
+- **Musawamah** adalah bentuk jual beli di mana **harga barang ditentukan berdasarkan negosiasi** antara penjual dan pembeli tanpa menyebutkan harga pokok barang tersebut. Keuntungan yang diperoleh oleh penjual tidak dijelaskan secara rinci kepada pembeli.
+- **Murabahah** adalah bentuk jual beli di mana penjual menyebutkan harga pokok barang dan **menambahkan margin keuntungan** yang telah disepakati dengan pembeli. Pembeli mengetahui dengan jelas harga pokok dan jumlah keuntungan yang diperoleh penjual.
+- **Muwadha'ah** adalah bentuk jual beli di mana penjual menjual barang dengan harga di bawah harga pokok atau dengan **diskon**. Penjual dengan sengaja menurunkan harga untuk mencapai tujuan tertentu, seperti promosi atau amal.
+- **Tauliyah** adalah bentuk jual beli di mana barang dijual dengan harga pokok **tanpa mengambil keuntungan**. Penjual hanya ingin mengembalikan modal yang telah dikeluarkan tanpa mencari profit.
+
+##### Waktu
+
+Jual beli dapat dikategorikan berdasarkan waktu penyerahan barang atau pembayaran harga, yaitu:
+
+- **Naqdan (Tunai)** adalah jual beli di mana **penyerahan barang dan pembayaran harga dilakukan secara tunai** atau segera setelah akad. Ini adalah bentuk jual beli yang paling umum dan sederhana.
+- **Gairu Naqdin (Tidak Tunai)** adalah jual beli di mana **penyerahan barang atau pembayaran harga dilakukan dengan cara lain** selain tunai, seperti kredit, cicilan, atau transfer. Gairu naqdin dapat dibedakan menjadi:
+  - **Salam** adalah jual beli di mana pembeli membayar harga barang di muka dan penyerahan barang dilakukan di masa yang akan datang. Salam digunakan untuk mengatasi masalah kekurangan barang atau likuiditas.
+  - **Istishna'** adalah jual beli di mana penjual **menerima pesanan untuk membuat barang tertentu** sesuai dengan spesifikasi yang diinginkan oleh pembeli. Istishna' digunakan untuk barang yang belum ada atau belum diproduksi. Pembayaran dilakukan di muka atau bertahap sesuai dengan kesepakatan.
+  - **Taqsith** adalah jual beli di mana pembayaran harga barang dilakukan **secara bertahap** atau **cicilan** sesuai dengan kesepakatan antara penjual dan pembeli. Taqsith digunakan untuk barang-barang yang mahal atau besar, seperti rumah, mobil, atau peralatan berat.
+  - **Mu'ajjal** adalah jual beli di mana **penyerahan barang dilakukan di muka** dan **pembayaran harga dilakukan di masa yang akan datang** dalam satu pembayaran penuh. Mu'ajjal digunakan untuk barang-barang yang memerlukan penyerahan segera tetapi pembayaran ditunda.
+
+
 
 ## Istilah-Istilah dalam Fiqih Muamalah
 
