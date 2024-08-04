@@ -108,6 +108,26 @@ Kafalah tidak diharapkan memberikan imbalan, melainkan lebih kepada memberikan j
 - **Kafalah Munjazah** adalah penjaminan yang **tidak terikat pada syarat atau kondisi** tertentu. Penjaminan ini berlaku tanpa syarat dan berlaku secara umum.
 - **Kafalah bil Ujrah** adalah akad kafalah di mana pihak yang memberikan jaminan (kafil) menerima imbalan atau **honorarium (ujrah)** untuk memberikan jaminan atau penjaminan tertentu.
 
+#### Pinjaman (Qardh)
+
+Pinjaman adalah ketika seseorang meminjamkan uang atau barang kepada orang lain tanpa mengharapkan pengembalian lebih dari jumlah yang dipinjam. Dalam akad qardh, peminjam hanya diwajibkan untuk mengembalikan jumlah pokok pinjaman, dan tidak ada tambahan atau bunga yang dikenakan.
+
+- **Hiwalah** adalah akad **pemindahan utang** dari satu pihak ke pihak lain. Dalam hiwalah, seorang debitur (pihak yang berutang) memindahkan kewajiban utangnya kepada pihak ketiga, dengan persetujuan dari kreditur (pihak yang berpiutang).
+- **Rahn** adalah akad **gadai** di mana debitur menyerahkan barang atau aset berharga kepada kreditur sebagai jaminan atas utang yang diterima. Jika debitur gagal membayar utangnya, kreditur dapat menjual barang gadai untuk melunasi utang.
+- **Inayah** (kadang disebut sebagai **Takaful**) adalah bentuk bantuan atau penjaminan di mana **sekelompok orang saling membantu** dalam situasi tertentu, seperti dalam **asuransi syariah**. Ini lebih bersifat **kolektif** dan berdasarkan prinsip gotong royong.
+- **Ariyah** adalah akad **pinjam-meminjam barang** di mana pemilik barang meminjamkan barangnya kepada pihak lain untuk digunakan tanpa mengubah kepemilikan barang tersebut. Barang harus dikembalikan dalam kondisi yang sama setelah digunakan.
+
+#### Pemberian Harta (Hibah)
+
+Akad pemberian harta dapat dibedakan menjadi:
+
+- **Hibah** adalah pemberian harta dari seseorang kepada orang lain secara sukarela dan tanpa mengharapkan imbalan, selama pemberi masih hidup. Kepemilikan harta tersebut langsung berpindah ke penerima hibah setelah diberikan.
+- **Waqf** adalah penahanan harta yang dapat dimanfaatkan untuk kepentingan umum atau amal, sementara kepemilikan harta tersebut tetap atas nama pemberi waqf. Manfaat dari harta tersebut disalurkan untuk tujuan tertentu yang telah ditentukan oleh pemberi waqf.
+- **Sedekah** adalah pemberian harta atau bentuk kebaikan lainnya kepada orang lain secara sukarela, dengan niat untuk mendapatkan pahala dari Allah.
+- **Zakat** adalah kewajiban memberikan sebagian harta tertentu kepada golongan yang berhak menerimanya (asnaf) sesuai dengan syariat Islam.
+- **Infak** adalah pemberian harta di jalan Allah untuk kepentingan umum atau amal, yang sifatnya sunnah (tidak wajib) dan dapat dilakukan kapan saja tanpa jumlah tertentu.
+- **Hadiah** adalah pemberian harta atau benda sebagai tanda penghargaan, kasih sayang, atau ucapan terima kasih, yang diberikan tanpa mengharapkan imbalan.
+
 
 ## Istilah-Istilah dalam Fiqih Muamalah
 
