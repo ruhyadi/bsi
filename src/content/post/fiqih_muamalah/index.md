@@ -165,6 +165,24 @@ Jual beli dapat dikategorikan berdasarkan waktu penyerahan barang atau pembayara
   - **Mu'ajjal** adalah jual beli di mana **penyerahan barang dilakukan di muka** dan **pembayaran harga dilakukan di masa yang akan datang** dalam satu pembayaran penuh. Mu'ajjal digunakan untuk barang-barang yang memerlukan penyerahan segera tetapi pembayaran ditunda.
 
 
+#### Ijarah (Sewa Menyewa)
+
+Ijarah adalah akad di mana seseorang (pemberi sewa) menyewakan barang atau jasa kepada orang lain (penyewa) untuk digunakan dalam jangka waktu tertentu dengan imbalan tertentu. Dalam akad ijarah, pemberi sewa bertanggung jawab untuk memberikan barang atau jasa yang disewakan, sedangkan penyewa bertanggung jawab untuk membayar sewa sesuai dengan kesepakatan.
+
+##### Sifat Obyek
+
+Ijarah dapat dibedakan berdasarkan sifat obyek yang disewakan, yaitu:
+
+- **Benda hidup (haywan)** seperti hewan ternak atau binatang peliharaan.
+- **Benda mati (ghair haywan)** seperti mobil, rumah, atau peralatan.
+
+##### Opsi Peralihan Obyek
+
+Ijarah dapat dibedakan berdasarkan opsi peralihan kepemilikan obyek, yaitu:
+
+- **Ijarah Mutlaqah** adalah bentuk sewa menyewa di mana **tidak ada opsi untuk perpindahan kepemilikan objek** sewa kepada penyewa setelah masa sewa berakhir. Dengan kata lain, setelah masa sewa berakhir, objek sewa tetap menjadi milik pemilik asli dan harus dikembalikan kepada pemilik tersebut. 
+- **Ijarah Muntahiya Bit-Tamlik** adalah bentuk sewa menyewa yang **mencakup opsi untuk perpindahan kepemilikan objek** sewa kepada penyewa setelah masa sewa berakhir. Dengan kata lain, penyewa memiliki opsi atau hak untuk membeli objek sewa pada akhir masa sewa dengan harga yang telah disepakati atau melalui mekanisme tertentu.
+
 
 ## Istilah-Istilah dalam Fiqih Muamalah
 
