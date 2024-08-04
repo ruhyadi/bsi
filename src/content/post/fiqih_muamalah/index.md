@@ -183,6 +183,47 @@ Ijarah dapat dibedakan berdasarkan opsi peralihan kepemilikan obyek, yaitu:
 - **Ijarah Mutlaqah** adalah bentuk sewa menyewa di mana **tidak ada opsi untuk perpindahan kepemilikan objek** sewa kepada penyewa setelah masa sewa berakhir. Dengan kata lain, setelah masa sewa berakhir, objek sewa tetap menjadi milik pemilik asli dan harus dikembalikan kepada pemilik tersebut. 
 - **Ijarah Muntahiya Bit-Tamlik** adalah bentuk sewa menyewa yang **mencakup opsi untuk perpindahan kepemilikan objek** sewa kepada penyewa setelah masa sewa berakhir. Dengan kata lain, penyewa memiliki opsi atau hak untuk membeli objek sewa pada akhir masa sewa dengan harga yang telah disepakati atau melalui mekanisme tertentu.
 
+#### Kemitraan (Syarikah)
+
+Kemitraan adalah akad di mana dua atau lebih pihak (syarik) sepakat untuk **menggabungkan sumber daya, modal, atau usaha** untuk mencapai tujuan bersama dan berbagi keuntungan atau kerugian sesuai dengan kesepakatan. Dalam akad kemitraan, setiap pihak memiliki hak dan kewajiban yang sama dalam mengelola usaha dan membagi hasilnya.
+
+##### Amlak
+
+Amlak merujuk pada **kepemilikan bersama** atas suatu aset atau properti oleh dua pihak atau lebih tanpa adanya akad khusus yang mengatur penggunaan atau pengelolaan aset tersebut. Ini adalah bentuk kepemilikan yang timbul secara alami atau karena situasi tertentu, seperti warisan atau pembelian bersama.
+
+Amlak dapat dibedakan menjadi:
+
+- **Jabr** adalah bentuk kepemilikan bersama yang muncul **secara otomatis atau paksaan**, biasanya disebabkan oleh faktor eksternal seperti warisan atau keputusan hukum. Dalam konteks ini, para pihak memiliki hak atas harta tanpa adanya perjanjian khusus atau kesepakatan awal antara mereka.
+- **Ikhtiar** adalah bentuk kepemilikan bersama yang **muncul berdasarkan keputusan atau pilihan para pihak**. Dalam konteks ini, para pihak secara aktif memilih untuk memiliki hak bersama atas suatu aset atau harta dan sering kali melibatkan perjanjian atau kesepakatan antara mereka.
+
+##### Uqud
+
+Uqud adalah akad atau **kontrak formal** antara dua pihak atau lebih untuk bekerja sama dalam usaha atau proyek tertentu dengan **kesepakatan yang jelas** mengenai hak, kewajiban, dan pembagian keuntungan atau kerugian. Uqud lebih terstruktur dan berdasarkan perjanjian yang disepakati bersama.
+
+###### Musyarakah
+
+Musyarakah adalah akad kerja sama antara dua pihak atau lebih yang masing-masing pihak menyumbangkan modal dan berpartisipasi dalam usaha. Keuntungan dan kerugian dibagi sesuai dengan kontribusi modal yang telah disepakati.
+
+- **Musyarakah Al-Mal (Armwal)** adalah bentuk kerja sama di mana semua pihak yang terlibat **menyumbangkan modal** atau aset finansial ke dalam usaha. Modal ini bisa berupa uang tunai, properti, atau aset lain yang memiliki nilai.
+- **Musyarakah Al-A'mal (Abdan)** adalah bentuk kerja sama di mana para pihak yang terlibat **menyumbangkan tenaga, keterampilan, atau jasa** mereka ke dalam usaha, bukan modal finansial. Ini sering disebut juga sebagai "kemitraan kerja."
+- **Musyarakah Al-Jah (Wujuh)** adalah bentuk kerja sama di mana para pihak yang terlibat **menyumbangkan reputasi, jaringan, atau kepercayaan (goodwill)** mereka untuk mendapatkan barang atau modal tanpa kontribusi finansial atau jasa langsung. Ini dikenal juga sebagai "kemitraan kepercayaan."
+
+###### Mudharabah
+
+Mudharabah adalah akad kerja sama di mana satu pihak (pemilik modal atau **shahibul mal**) menyediakan seluruh modal, sementara pihak lain (pengelola atau **mudharib**) menyediakan tenaga dan keahlian untuk mengelola usaha. Keuntungan dibagi sesuai kesepakatan, sedangkan kerugian hanya ditanggung oleh pemilik modal kecuali kerugian akibat kelalaian atau kesalahan pengelola.
+
+- **Mudharabah Muqayyadah** adalah bentuk kerja sama di mana pemilik modal memberikan modal kepada pengelola dengan syarat dan batasan tertentu. Pengelola harus **mengikuti instruksi** dan batasan yang ditetapkan oleh pemilik modal dalam mengelola usaha.
+- **Mudharabah Muthlaqah** adalah bentuk kerja sama di mana pemilik modal memberikan modal kepada pengelola **tanpa memberikan batasan atau instruksi khusus**. Pengelola memiliki kebebasan penuh dalam mengelola modal dan usaha.
+
+###### Pertanian
+
+Pertanian adalah bentuk kerja sama di mana dua pihak atau lebih bekerja sama dalam usaha pertanian atau perkebunan. Para pihak dapat menyumbangkan modal, tenaga kerja, atau keahlian untuk mengelola tanaman atau hewan ternak dan membagi hasilnya sesuai kesepakatan.
+
+- **Muzara’ah** adalah akad kerja sama di mana **pemilik tanah menyediakan lahan** untuk ditanami, dan **petani mengelola** dan menanam tanaman di lahan tersebut. Hasil panen dibagi antara pemilik tanah dan petani sesuai kesepakatan awal.
+- **Mukhabarah** adalah akad kerja sama di mana **pemilik tanah memberikan lahan** kepada petani untuk diolah dengan imbalan sebagian hasil panen. Namun, **petani juga harus menyediakan benih atau sebagian besar modal pertanian lainnya**.
+- **Musaqah** adalah akad kerja sama di mana pemilik kebun atau tanaman memberikan kebunnya kepada pengelola **untuk dirawat dan dipanen**. Hasil panen dibagi antara pemilik kebun dan pengelola sesuai dengan kesepakatan awal.
+- **Mugharasah** adalah akad kerja sama di mana **pemilik lahan memberikan lahan kepada pengelola** untuk ditanami pohon atau tanaman keras lainnya. Pengelola menanam dan merawat pohon-pohon tersebut sampai menghasilkan. Hasil panen atau nilai tanaman yang sudah tumbuh dibagi sesuai dengan kesepakatan.
+
 
 ## Istilah-Istilah dalam Fiqih Muamalah
 
