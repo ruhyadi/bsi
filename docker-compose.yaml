@@ -1,18 +1,18 @@
 services:
-  nihongo:
-    container_name: nihongo
+  bsi-docs:
+    container_name: bsi-docs
     image: mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye
     user: node
     volumes:
       - .:/app
     ports:
-      - 4333:4321
+      - 4334:4321
     working_dir: /app
     # command: bash scripts/build.sh
     command: npm run dev
     networks:
-      - nihongo-network
+      - bsi-docs-network
 
 networks:
-  nihongo-network:
+  bsi-docs-network:
     driver: bridge
