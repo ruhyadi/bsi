@@ -5,8 +5,6 @@ description: "Small Medium Enterprise"
 tags: ["business"]
 ---
 
-# Standar Prosedur Bisnis (SPB)
-
 ## Macam Pembiayaan
 
 1. **Pembiayaan Produktif** adalah pembiayaan yang diberikan dalam rangka pengolahan/pemanfaatan sumber-sumber produksi yang dapat memberikan nilai tambah dalam menghasilkan barang dan jasa.
