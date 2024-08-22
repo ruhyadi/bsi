@@ -60,4 +60,20 @@ Berikut adalah beberapa tugas utama dari fungsi treasury di bank:
 4. **Manajemen Capital dan Aset-Liabilitas**
    - Treasury mengelola rasio aset terhadap liabilitas (asset-liability management/**ALMA**) untuk memastikan bank dapat memenuhi kebutuhan jangka panjang dan memaksimalkan profitabilitas. Ini termasuk memastikan bahwa tenor aset dan liabilitas seimbang serta mengelola modal bank untuk memenuhi persyaratan regulasi.
 5. **Hedging**
-   - Untuk melindungi nilai portofolio bank dari risiko pasar, treasury melakukan **transaksi lindung nilai (hedging)**, seperti membeli atau menjual derivatif, untuk mengunci nilai aset atau kewajiban di masa depan.    
+   - Untuk melindungi nilai portofolio bank dari risiko pasar, treasury melakukan **transaksi lindung nilai (hedging)**, seperti membeli atau menjual derivatif, untuk mengunci nilai aset atau kewajiban di masa depan.
+
+## Audit
+
+Audit (**pemeriksaan**) dalam perbankan adalah proses sistematis untuk **menilai dan mengevaluasi** keefektifan, efisiensi, dan kepatuhan terhadap kebijakan, prosedur, serta peraturan yang berlaku dalam kegiatan operasional bank.
+
+**Tujuan utama audit** adalah memastikan bahwa bank beroperasi dengan cara yang aman, transparan, dan sesuai dengan standar hukum dan regulasi yang ditetapkan oleh otoritas terkait, seperti Otoritas Jasa Keuangan (OJK) di Indonesia.
+
+Pengawasan unit kerja:
+
+1. Internal Audit
+   - Satuan Kerja Audit Internal (SKAI): bertanggung jawab untuk melakukan audit internal terhadap seluruh unit kerja di bank atas **kebutuhan management bank**.
+2. Eksternal
+   - Audit Bank Indonesia: audit yang dilakukan oleh BI untuk menilai kinerja dan kondisi bank.
+   - Audit Badang Pengawas Keuangan dan Pembangunan (BPKP): audit yang **dilakukan oleh pemerintah** untuk memastikan bahwa bank telah menjalankan program kredit maupun program bantuan.
+   - Audit Badang Pemeriksa Keuangan (BPK): audit yang **dilakukan oleh DPR** untuk menilai kinerja pemerintah dalam sektor perbankan.
+   - Audit Kantor Akuntan Publik: **bentuk transparasi** kondisi keuangan bank go public.
