@@ -38,3 +38,26 @@ tags: ["general"]
    - Kemungkinan besar nasabah tidak akan dapat melunasi pinjaman, sehingga bank akan mengklasifikasikan pinjaman ini sebagai kerugian total.
    - Tindakan penagihan biasanya sudah mencapai tahap akhir, termasuk kemungkinan pelelangan jaminan.
    - Bank melakukan **pencadangan 100%** dari saldo kredit.
+
+## Treasury
+
+Treasury pada bank adalah departemen atau fungsi yang bertanggung jawab untuk **mengelola aset, likuiditas, dan risiko keuangan bank**. Departemen ini memainkan peran kunci dalam memastikan bahwa bank memiliki cukup dana (likuiditas) untuk memenuhi kewajiban keuangannya, serta mengoptimalkan penggunaan dana untuk meningkatkan profitabilitas.
+
+Fungsi treasury:
+
+1. Pengelola liabilitas
+2. ALMA syariah (Asset Liability Management)
+3. Profit center
+
+Berikut adalah beberapa tugas utama dari fungsi treasury di bank:
+
+1. **Manajemen Likuiditas**
+   - Treasury bertanggung jawab memastikan bank memiliki cukup kas atau aset likuid lainnya untuk memenuhi kewajiban jangka pendek, seperti penarikan dana oleh nasabah atau pembayaran hutang.
+2. **Manajemen Risiko Pasar**
+   - Departemen treasury mengelola risiko terkait dengan **fluktuasi pasar keuangan**, seperti risiko suku bunga, risiko nilai tukar mata uang asing, dan risiko harga komoditas. Treasury menggunakan berbagai instrumen keuangan, seperti derivatif, untuk mengelola dan mengurangi risiko ini.
+3. **Investasi dan Pendanaan**
+   - Treasury **mengelola portofolio investasi bank**, termasuk surat berharga, obligasi, dan aset lainnya. Departemen ini juga bertanggung jawab untuk **mendapatkan sumber dana (funding)** dengan cara yang paling efisien, misalnya melalui penerbitan surat utang atau mencari pinjaman dari pasar antarbank.
+4. **Manajemen Capital dan Aset-Liabilitas**
+   - Treasury mengelola rasio aset terhadap liabilitas (asset-liability management/**ALMA**) untuk memastikan bank dapat memenuhi kebutuhan jangka panjang dan memaksimalkan profitabilitas. Ini termasuk memastikan bahwa tenor aset dan liabilitas seimbang serta mengelola modal bank untuk memenuhi persyaratan regulasi.
+5. **Hedging**
+   - Untuk melindungi nilai portofolio bank dari risiko pasar, treasury melakukan **transaksi lindung nilai (hedging)**, seperti membeli atau menjual derivatif, untuk mengunci nilai aset atau kewajiban di masa depan.    
