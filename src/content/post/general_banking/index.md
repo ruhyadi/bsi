@@ -77,3 +77,12 @@ Pengawasan unit kerja:
    - Audit Badang Pengawas Keuangan dan Pembangunan (BPKP): audit yang **dilakukan oleh pemerintah** untuk memastikan bahwa bank telah menjalankan program kredit maupun program bantuan.
    - Audit Badang Pemeriksa Keuangan (BPK): audit yang **dilakukan oleh DPR** untuk menilai kinerja pemerintah dalam sektor perbankan.
    - Audit Kantor Akuntan Publik: **bentuk transparasi** kondisi keuangan bank go public.
+
+## Akuntansi
+
+**Tujuan akuntansi** adalah menyediakan informasi mengenai keuangan suatu badan usaha yang akan digunakan oleh pihak-pihak yang berkepentingan sebagai bahan pertimbangan didalam pengambilan keputusan ekonomi.
+
+Konsep dasar akuntansi syariah:
+
+- **Asumsi kelangsungan usaha (going concern)**: laporan keuangan biasanya disusun atas dasar asumsi kelangsungan usaha entitas syariah yang akan melanjutkan usahanya pada masa depan.
+- **Dasar akrual**: transaksi dan peristiwa **diakui pada saat kejadian**, bukan pada saat kas diterima atau dibayarkan. Namun, perhitungan pendapatan untuk pembagian hasil usaha harus didasarkan pada pendapatan yang telah direalisasikan menjadi kas.
