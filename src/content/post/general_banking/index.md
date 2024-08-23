@@ -86,3 +86,7 @@ Konsep dasar akuntansi syariah:
 
 - **Asumsi kelangsungan usaha (going concern)**: laporan keuangan biasanya disusun atas dasar asumsi kelangsungan usaha entitas syariah yang akan melanjutkan usahanya pada masa depan.
 - **Dasar akrual**: transaksi dan peristiwa **diakui pada saat kejadian**, bukan pada saat kas diterima atau dibayarkan. Namun, perhitungan pendapatan untuk pembagian hasil usaha harus didasarkan pada pendapatan yang telah direalisasikan menjadi kas.
+
+## Compliance
+
+Compliance dalam bank adalah fungsi yang bertanggung jawab untuk memastikan bahwa seluruh kegiatan, kebijakan, prosedur, dan praktik operasional bank mematuhi peraturan perundang-undangan, regulasi, standar, dan etika yang berlaku. Fungsi ini juga memastikan bahwa bank mematuhi semua ketentuan yang dikeluarkan oleh otoritas pengawas, seperti Otoritas Jasa Keuangan (OJK) di Indonesia, serta peraturan internal yang dibuat oleh bank sendiri.
