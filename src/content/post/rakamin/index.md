@@ -17,7 +17,7 @@ tags: ["bootcamp"]
 | Web Application      | Software that runs on a web server.                                                                |
 | Mobile Application   | Software that runs on a mobile device.                                                             |
 
-## Konsep produk vs konsep produksi
+## Product Concept vs Production Concept
 
 | **Aspek**              | **Konsep Produk**                                             | **Konsep Produksi**                                           |
 | ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -32,3 +32,15 @@ tags: ["bootcamp"]
 | **Kelemahan**          | Bisa lebih mahal dan sulit menjangkau pasar massal            | Kurangnya fokus pada kualitas dan kebutuhan spesifik konsumen |
 
 Konsep produk berfokus pada kualitas dan keunikan produk yang ditawarkan kepada konsumen, sementara konsep produksi menekankan efisiensi dan biaya rendah dalam proses produksi.
+
+## Software Development Life Cycle (SDLC)
+
+| **Tahap**       | **Deskripsi**                                                                   |
+| --------------- | ------------------------------------------------------------------------------- |
+| **Requirement** | Menentukan kebutuhan pengguna dan spesifikasi sistem yang akan dikembangkan.    |
+| **Design**      | Merancang arsitektur sistem dan spesifikasi teknis yang akan diimplementasikan. |
+| **Development** | Membangun sistem berdasarkan desain yang telah dibuat.                          |
+| **Testing**     | Menguji sistem untuk memastikan bahwa sistem berfungsi dengan baik.             |
+| **Deployment**  | Meluncurkan sistem ke lingkungan produksi.                                      |
+| **Maintenance** | Memelihara dan memperbaiki sistem sesuai kebutuhan.                             |
+
