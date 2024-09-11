@@ -59,3 +59,23 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Tech stack: APPLE (C#), WISE (Java Spring), E-Qurma (Java Spring), J-FAST (vendor), Magic (PHP), NOS (Low code platform)
 - Jumlah orang: 37
 - Superproject: Medina (menggantikan WISE untuk project pembiayaan KPR (Griya))
+
+### Customer Banking
+
+- Dept Head: Muhammad Akbar
+- Melakukan pengembangan superapp
+- Methodology: Agile
+
+### IT Service Banking
+
+- Dept Head: Agus Mukti
+- Integrasi BSI dengan Channel
+- Middleware & API integration
+- Bertanggung jawab untuk pengembangan digital core dan BaaS
+- Aplikasi: ESB
+
+### IT Digital Resource & Delivery Enabelment
+
+- Langsung dibawah Deputy
+- Mengatur resource dan sumber daya manusia di IDG untuk non-organic
+- Erat dengan ISG vendor management
