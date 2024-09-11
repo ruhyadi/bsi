@@ -33,6 +33,11 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Pengelola ESB Web Method
 - BSI Smart Agent
 - API third party
+- Penengah semua channel, BSI Mobile, Internet Banking
+- Contoh aplikasi: switching ATM, switching umroh dan haji, BSI SMART (EDC, HP, Website) (full stack, backend dan frontend), asuransi
+- Tech stack: Java Spring (Java dan Kotlin)
+- Tidak ada user spesific, semua orang bisa jadi user.
+- Organik 9 orang + 10 outsource
 
 ### MIS (Information and Platform Management)
 
@@ -72,7 +77,7 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Integrasi BSI dengan Channel
 - Middleware & API integration
 - Bertanggung jawab untuk pengembangan digital core dan BaaS
-- Aplikasi: ESB
+- Aplikasi: ESB (Enterprise Service Bus)
 
 ### IT Digital Resource & Delivery Enabelment
 
