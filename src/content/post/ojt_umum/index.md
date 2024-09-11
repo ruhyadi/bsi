@@ -42,19 +42,29 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 ### MIS (Information and Platform Management)
 
 - Dept Head: Rusman Hadi
+- Pembicara: Ali
+- Tentang supply data dan ETL
 - Pengembangan aplikasi pelaporan
 - Memastikan data di basis data BSI terkini dan terupdate
 - Basis data menjadi informasi yang diakses oleh user (bisnis, legal, compliance)
 - Diutamakan yang bisa query SQL
 - Machine learning
-- Aplikasi: dashboard pelaporan, extraksi data core banking, regulatory report
+- Aplikasi: dashboard pelaporan, extraksi data core banking, regulatory report, MIS (Management Information System), SIAP (Aplikasi lebih baru)
+- Tech stack: IBM data state, Oracle data integrator, Pentaho, SIAP (Code Igniter), MIS (PHP)
+- Jumlah orang: 5 
 
 ### Classic E-Channel
 
 - Dept Head: Mukhlis Yani
+- Pembicara: Imam, Farhan Dani
 - Melakukan pengembangan aplikasi/produk digital yang digunakan oleh nasabah (end-user)
-- Aplikasi: BSI mobile, BSI Net, CMS
+- Aplikasi: BSI mobile, BSI Net, CMS, LPC (Landing Page Consumer), Physical Channel (ATM, EDC)
 - Techstack: android, ios, backend (spring)
+- BSI Mobile (semi agile, daily meeting, backend java native, ios objective-c)
+- BSI Net (backend java spring, front-end larevel, SDLC waterfall)
+- CMS (full-stack laravel, oleh vendor)
+- CRM (untuk sales, oleh vendor)
+- Jumlah orang: 39 (10-15 organic)
 
 ### Financing & Collection
 
