@@ -104,12 +104,17 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Semuanya harus lewat ESB
 - EBS: ESB internal, ESB openapi, UBP (Unified Bill Payment)
   - ESB Internal: aplikasi internal to internal
-  - ESB Openapi: aplikasi eksternal to internal
+  - ESB Openapi: aplikasi eksternal to internal, menggunakan standar SNAP BI
   - UBP: internal/eksternal to biller
   - Gateway: software AGI
-- Jumlah: 9 orang. Organik: agus, firman, nugi, alham, ade, kiki, hendra
+- Jumlah: 14 orang. Organik: agus, firman, nugi, alham, ade, kiki, hendra
 - Tidak boleh memanage satu product karena dipake rame-rame
 - Fungsi trothling: pembatasan, gateway, logging, security, monitoring
+- UBP: untuk bayar-bayar taginah, akan migrasi ke SNAP BI
+- Lagi dikerjain: integrasi ke snap dan pembayaran topoup emoney
+- SOP: semua masuk lewat PM, akan manage ke developer terkait
+- Tech stack: software AG (webmethods/IBM) API Gateway, integration server (bawaan gateway)
+- Surronding juga punya otorisasi
 
 ### IT Digital Resource & Delivery Enabelment
 
