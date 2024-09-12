@@ -23,8 +23,13 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Pengembangan aplikasi internal di BSI
 - Robotics Otomasi (RPA)
 - Dept Head: Ricky Mahendra
-- Apliakasi: SIP (Absen), Inventory Mangement, NPS (Dokumen petunjuk tekniks dan prosedur)
+- Pembicara: Zakia
+- Aplikasi: SIP (Absen), Inventory Mangement, NPS (Dokumen petunjuk tekniks dan prosedur), LMS (Learning Management System)
 - Techstack: mobile, web, frontend, backend (lebih variatif)
+- Office otomation
+- Aplikasi: Visualisasi Rekonsilasi data otomatis (data BSI vs pihak ke tiga)
+- Tech stack: PHP Laravel, Java Spring Boot, React Typescript
+- Jumlah: 10 organic + 21 MSA
 
 ### PIN (IT Payment & Integration)
 
@@ -50,7 +55,8 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Diutamakan yang bisa query SQL
 - Machine learning
 - Aplikasi: dashboard pelaporan, extraksi data core banking, regulatory report, MIS (Management Information System), SIAP (Aplikasi lebih baru)
-- Tech stack: IBM data state, Oracle data integrator, Pentaho, SIAP (Code Igniter), MIS (PHP)
+- Tech stack: IBM data state, Oracle data integrator, Pentaho, SIAP (Code Igniter), MIS (**PHP**)
+- Rekonsilasi data untuk WHA (Wholessale & Office Automation) baik data BSI dan pihak ke tiga
 - Jumlah orang: 5 
 
 ### Classic E-Channel
@@ -69,11 +75,13 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 ### Financing & Collection
 
 - Dept Head: Arry Pratama
+- Pembicara: Rifky Ramadhan
 - Melakukan pengembangan aplikasi pembiayaan dan penagihan
 - Aplikasi: APPLE, WISE, E-QURMA, NOS (mitraguna online), Robotic IDEB, J-FAST, Magic, Salam Digital
 - Tech stack: APPLE (C#), WISE (Java Spring), E-Qurma (Java Spring), J-FAST (vendor), Magic (PHP), NOS (Low code platform)
 - Jumlah orang: 37
 - Superproject: Medina (menggantikan WISE untuk project pembiayaan KPR (Griya))
+- MAGIC (Mass Application Govermance Institute and Corporate): payroll dan program-program dari pemerintah (bansos). User governmance dan ACG. Kebanyakan digunakan di daerah aceh.
 
 ### Customer Banking
 
