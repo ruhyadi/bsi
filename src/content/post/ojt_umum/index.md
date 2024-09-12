@@ -89,16 +89,41 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Melakukan pengembangan superapp
 - Methodology: Agile
 
-### IT Service Banking
+### IT Service Banking (SBP)
 
 - Dept Head: Agus Mukti
-- Integrasi BSI dengan Channel
+- Dibawah langsung deputy IT (karena mau fokus ke service banking)
+- Pembicara: Kiki Wahyudi, Adi Nur Rahman
+- Jobdesc: bikin API, middleware, pembuatan service
+- Integrasi BSI dengan Channel (atau channel antar channel)
+- Integrasi untuk core banking
 - Middleware & API integration
 - Bertanggung jawab untuk pengembangan digital core dan BaaS
 - Aplikasi: ESB (Enterprise Service Bus)
+- API: kebutuhan dari setiap channel
+- Semuanya harus lewat ESB
+- EBS: ESB internal, ESB openapi, UBP (Unified Bill Payment)
+  - ESB Internal: aplikasi internal to internal
+  - ESB Openapi: aplikasi eksternal to internal
+  - UBP: internal/eksternal to biller
+  - Gateway: software AGI
+- Jumlah: 9 orang. Organik: agus, firman, nugi, alham, ade, kiki, hendra
+- Tidak boleh memanage satu product karena dipake rame-rame
+- Fungsi trothling: pembatasan, gateway, logging, security, monitoring
 
 ### IT Digital Resource & Delivery Enabelment
 
 - Langsung dibawah Deputy
 - Mengatur resource dan sumber daya manusia di IDG untuk non-organic
 - Erat dengan ISG vendor management
+
+### SDLC
+
+#### Waterfall
+
+- Perlu memo untuk setiap penambahan fitur atau perubahan
+- Memo akan diubah ke CR (costumer request)
+- CR akan menjadi task yang akan dikerjakan
+- Waterfall belum ada devops
+
+#### Agile
