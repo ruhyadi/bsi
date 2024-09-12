@@ -17,6 +17,15 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 - Core banking upgrade dari R10 ke R23
 - Menggunakan Temenos
 - Dept Head: Dedy Wahyudi (Dewa)
+- Pembicara: Nabila
+- Main application: T24, EXA (Express Account)
+  - Kenapa ada dua akun? User experience T24 bisa diganti oleh EXA
+- Semua channel akan disimpan datanya di core banking
+- Temenos Web Service (TWS)
+  - TC merupakan protocol yang digunakan ATM untuk hubungan ke core banking  
+- Day to day: develop user requirement dari tim bisnis, penambahan flagging, penambahan field, penambahan fitur
+- Tech stack: Temenos (R10, Infobasic) akan upgrade ke (R23, Java)
+- Jumlah orang: 18 orang 
 
 ### WHA (IT Wholesale & Office Otomation)
 
