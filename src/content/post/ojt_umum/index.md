@@ -71,7 +71,7 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 ### Classic E-Channel
 
 - Dept Head: Mukhlis Yani
-- Pembicara: Imam, Farhan Dani
+- Pembicara: Farhan Dani
 - Melakukan pengembangan aplikasi/produk digital yang digunakan oleh nasabah (end-user)
 - Aplikasi: BSI mobile, BSI Net, CMS, LPC (Landing Page Consumer), Physical Channel (ATM, EDC)
 - Techstack: android, ios, backend (spring)
@@ -133,11 +133,16 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
 
 ### SDLC
 
-#### Waterfall
+Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 
-- Perlu memo untuk setiap penambahan fitur atau perubahan
-- Memo akan diubah ke CR (costumer request)
-- CR akan menjadi task yang akan dikerjakan
-- Waterfall belum ada devops
-
-#### Agile
+| Aspek                   | Agile                                     | Waterfall                                    |
+| ----------------------- | ----------------------------------------- | -------------------------------------------- |
+| **Pendekatan**          | Iteratif dan inkremental                  | Linear dan berurutan                         |
+| **Proses Pengembangan** | Dibagi menjadi sprint atau iterasi pendek | Dilakukan dalam satu siklus panjang          |
+| **Kebutuhan/Kriteria**  | Fleksibel, bisa berubah selama proses     | Tetap dan harus ditentukan sejak awal        |
+| **Keterlibatan Klien**  | Tinggi, feedback diberikan secara berkala | Biasanya hanya di awal dan akhir proyek      |
+| **Pengujian**           | Dilakukan bersamaan dengan pengembangan   | Dilakukan setelah tahap pengembangan selesai |
+| **Tim**                 | Tim cross-functional bekerja bersamaan    | Tim bekerja dalam fase yang berbeda-beda     |
+| **Risiko**              | Mudah diadaptasi untuk perubahan          | Sulit beradaptasi jika ada perubahan         |
+| **Waktu dan Biaya**     | Bisa bervariasi tergantung pada perubahan | Biasanya lebih mudah diperkirakan sejak awal |
+| **Cocok untuk**         | Proyek kompleks dan yang mungkin berubah  | Proyek dengan kebutuhan tetap dan jelas      |
