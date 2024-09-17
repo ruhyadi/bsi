@@ -146,3 +146,59 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 | **Risiko**              | Mudah diadaptasi untuk perubahan          | Sulit beradaptasi jika ada perubahan         |
 | **Waktu dan Biaya**     | Bisa bervariasi tergantung pada perubahan | Biasanya lebih mudah diperkirakan sejak awal |
 | **Cocok untuk**         | Proyek kompleks dan yang mungkin berubah  | Proyek dengan kebutuhan tetap dan jelas      |
+
+## CISO (Chief Information Security Officer)
+
+- Pembicara: Deni Saputra (Hardening), Firdaus (Security Code Review Engineer), Alfan Azizi (Directory service)
+- Orang pertama yang tau akan ancaman dan orang terakhir yang melindungi
+- Tanggung jawab:
+  - Monitoring ancaman
+  - Management resiko
+  - Kepatuhan regulasi
+
+### Security Project & QA
+
+- Dept Head: Aditya
+- Project management di CISO
+- Mengelola project dari project security digital di BSI
+- Pengadaan software dan alat yang berkaitan dengan security
+- IT QA: memastikan bahwa security sesuai dengan SOP CISO
+- Trendmicro: antivirus
+- Global Protect: VPN
+- Forescout: monitoring device, compliance
+
+### Application Identity Management
+
+- Dept Head: Agus Setiawan
+- Integrasi aplikasi dan user management
+- Pembuatan akun untuk karyawan baru
+- Identity management: LDAP, Active Directory
+- Privilege access management: mengatur hak akses user
+- Cyberark: untuk akses server development dan production
+
+### Network Access & Data Protection
+
+- Mangement keamanan transfer data dan akses jaringan
+- Email keluar masuk di pantau oleh departemen ini
+
+### IT Security Services
+
+- Dept Head: Nanang Setiawan
+- Mengecek keamanan dari setiap device di BSI
+- Hardening dan pengamanan aplikasi
+- Menjaga dari sisi development (Code review)
+- Penetration testing
+- Red teaming
+- Melakukan uji penyerangan pada sistem BSI
+
+### IT Security Operation
+
+- Dept Head: Khairul Umar
+- Mengamankan jaringan dari BSI
+- Menghandle firewall
+
+### Security Operations Center
+
+- Dept Head: Deni Wahyudi
+- Monitoring semua aktivitas di BSI
+- Monitoring 24 jam
