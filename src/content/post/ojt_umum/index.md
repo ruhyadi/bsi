@@ -151,10 +151,16 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 
 - Pembicara: Deni Saputra (Hardening), Firdaus (Security Code Review Engineer), Alfan Azizi (Directory service)
 - Orang pertama yang tau akan ancaman dan orang terakhir yang melindungi
+- Buat PPT
 - Tanggung jawab:
   - Monitoring ancaman
   - Management resiko
   - Kepatuhan regulasi
+  - Perimeter security (endpoint, cloud, internet)
+    - PAM (Privilage Access Management): cyberark
+    - User ID: cloud pakai microsoft 365
+    - DLP (Data Loss Prevention): terlibat untuk penyedia tools
+      - Data masking untuk comply pada UU PDP
 
 ### Security Project & QA
 
@@ -199,6 +205,7 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 
 ### Security Operations Center
 
-- Dept Head: Deni Wahyudi
+- Dept Head: Deni Wahyudi (Bank BTPN, Bank Jago) (Security dan Infra)
+- Pembicara: Deni Wahyudi
 - Monitoring semua aktivitas di BSI
 - Monitoring 24 jam
