@@ -162,7 +162,7 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
     - DLP (Data Loss Prevention): terlibat untuk penyedia tools
       - Data masking untuk comply pada UU PDP
 
-### Security Project & QA
+### IT Security Project & QA
 
 - Dept Head: Aditya
 - Project management di CISO
@@ -172,6 +172,19 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - Trendmicro: antivirus
 - Global Protect: VPN
 - Forescout: monitoring device, compliance
+- 20+ project yang berjalan
+- Total orang: 4 orang + DH
+
+#### IT Security Project
+
+- User internal: semua departemen yang ada di CISO
+- User external: semua departemen yang ada di BSI
+- Dokumen pengadaan:
+  - Nota izin prinsip (pengajuan ke direksi yang telah di review oleh SOR) (terdapat kajian teknis)
+  - Memo pengadaan (info untuk procurement)
+  - PFA
+- Satu kali pengadaan bisa sampai 2-3 bulan
+- Fase: pengadaan, project, maintenance
 
 ### Application Identity Management
 
