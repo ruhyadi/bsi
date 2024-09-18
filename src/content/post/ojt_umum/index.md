@@ -223,11 +223,20 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - Bekerja 24/7 (2/3 shift)
 - Total: 8 orang
 - Seperti satpam perumahan yang melakukan keliling patroli
+- Daily activity: monitoring, patching, availability
+- Hectic:
+  - adanya production issue, cek dari sisi firewall
+  - monitoring dengan vendor
+- Keterkaitan
+  - monitoring disemua perangkat
+  - user yang menginginkan open access (yang dibuka adalah port nya)
 
 #### Infrastructure & System Security
 
 - Endpoint security (antivirus, EDR (Endpoint Detection and Response), XDR (Extended Detection and Response))
 - Monitoring keamanan infrastruktur, jika ditemukan keamanan akan dilaporkan ke IT service untuk di-patch
+- Server: 2000 server fisik & virtual
+- Endpoint: 21,000 endpoint (laptop, desktop)
 
 #### Cloud Security
 
