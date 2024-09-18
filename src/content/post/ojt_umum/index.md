@@ -192,10 +192,24 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - Dept Head: Nanang Setiawan
 - Mengecek keamanan dari setiap device di BSI
 - Hardening dan pengamanan aplikasi
-- Menjaga dari sisi development (Code review)
-- Penetration testing
+- Menjaga dari sisi development (Code review) (SASTI DASTI)
+- Security code review dikasih langsung ke IDG
+- Hardening and patching (CIS Level 1)
+- Assessment VAPT, Red Teaming
+- Penetration testing dengan pihak ketiga
+- Pentest sendiri tidak bisa dilakukan untuk laporan (Rapid7, Nessus)
+- BSI sebagai blue team
+- Bounty hunter harus ke corporate secretary terlebih dahulu
+- Pentest biasanya dilakukan per tahun
+  - Aplikasi critical: core banking, switching
 - Red teaming
 - Melakukan uji penyerangan pada sistem BSI
+- Security assessment
+- Core banking dengan CISO
+  - Hardening dan patching
+  - Penyediaan server yang aman
+  - Aplikasi T24 akan masuk ke source code review
+- Sertifikasi: CEH & CHFI
 
 ### IT Security Operation
 
