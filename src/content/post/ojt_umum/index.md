@@ -216,6 +216,30 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - Dept Head: Khairul Umar
 - Mengamankan jaringan dari BSI
 - Menghandle firewall
+- Ketika ditempatkan:
+  - Terus belajar
+  - Cari hal positvenya
+  - Jangan suka mengeluh
+- Bekerja 24/7 (2/3 shift)
+- Total: 8 orang
+- Seperti satpam perumahan yang melakukan keliling patroli
+
+#### Infrastructure & System Security
+
+- Endpoint security (antivirus, EDR (Endpoint Detection and Response), XDR (Extended Detection and Response))
+- Monitoring keamanan infrastruktur, jika ditemukan keamanan akan dilaporkan ke IT service untuk di-patch
+
+#### Cloud Security
+
+- IaaS (Infrastructure as a Service): kita sewa cloud kemudian kita bangun infrastruktur kita sendiri
+- PaaS (Platform as a Service): kita sewa cloud kemudian kita bangun platform (database, server) kita sendiri
+- SaaS (Software as a Service): kita sewa cloud kemudian kita bangun aplikasi kita sendiri
+- AWS dan GCP digunakan untuk BYOND menggunakan konsep IaaS
+- Security: firewall, CSPM (Cloud Security Posture Management), anti-DDoS (disisi cloud, aplikasi: Imperva)
+
+#### Network Security
+
+- Firewall, IPS (Intrusion Prevention System) (sampai melakukan blocking), WAF (Web Application Firewall), IDS (Intrusion Detection System)
 
 ### Security Operations Center
 
