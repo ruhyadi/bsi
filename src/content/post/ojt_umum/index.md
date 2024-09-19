@@ -266,6 +266,23 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 ### Security Operations Center
 
 - Dept Head: Deni Wahyudi (Bank BTPN, Bank Jago) (Security dan Infra)
-- Pembicara: Deni Wahyudi
+- Pembicara: Lukman
 - Monitoring semua aktivitas di BSI
+- Bertugas:
+  - untuk menemukan celah keamanan di endpoint, server, cloud dan jaringan
+  - memperbaiki celah keamanan
+  - WAF (Web Application Firewall)
+  - membuat blacklist web atau service yang tidak aman
 - Monitoring 24 jam
+- Pembentukan baru setelah tahun 2023
+- ARCSIGHT: SIEM (Security Information and Event Management)
+- Microsfot Sentinel: digunakan untuk monitoring cloud (masih menggunakan vendor Entity)
+- SIEM: platform untuk monitoring security log (antivirus, DNS, firewall)
+  - Punya kemampuan backtrack (history)
+- Antivirus: Trendmicro diinstall diseluruh endpoint
+  - Preventif dan pengecekan untuk mencari celah keamanan
+  - Antivirus akan melapor ke SIEM
+
+#### Incident Response
+
+- Melakukan validasi saat user (endpoint) mengakses situs yang tidak aman (terlarang)
