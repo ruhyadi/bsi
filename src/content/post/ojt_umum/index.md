@@ -197,8 +197,29 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 
 ### Network Access & Data Protection
 
+- Pembicara: Abdul Ghofur
 - Mangement keamanan transfer data dan akses jaringan
 - Email keluar masuk di pantau oleh departemen ini
+- XDR (Extended Detection and Response): untuk mendeteksi ancaman
+- Hanya sebagai gate didepan, tidak untuk monitoring semuanya
+- Mempunyai policy dan aturan (9 Policy)
+  - Antivirus: 14 hari harus update
+  - Forescout: harus terinstall disemua endpoint
+    - Termasuk IoT, server, CCTV, SmartTV
+    - Definisi aplikasi yang tidak boleh diakses (blacklist)
+  - Joint domain
+  - LAPS: mengontrol endpoint non-admin
+  - Harus login user LDAP
+  - VPN global protect
+  - OS ditentukan classificationnya, diatas windows 10 (diatas 22H2)
+  - DLP (Data Loss Protection)
+- Jika ditemukan temuan
+  - Blok by switch (dikarantina)
+    - SNMP
+  - Blok by firewall
+    - whitebox: memenuhi standarisasi
+    - graybox: masih belum terpenuhi terdeteksi oleh forescout
+    - blackbox: di blacklist
 
 ### IT Security Services
 
