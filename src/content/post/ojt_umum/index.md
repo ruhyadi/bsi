@@ -266,7 +266,7 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 ### Security Operations Center
 
 - Dept Head: Deni Wahyudi (Bank BTPN, Bank Jago) (Security dan Infra)
-- Pembicara: Lukman
+- Pembicara: Lukman (0817 0519 760)
 - Monitoring semua aktivitas di BSI
 - Bertugas:
   - untuk menemukan celah keamanan di endpoint, server, cloud dan jaringan
