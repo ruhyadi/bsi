@@ -197,6 +197,17 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
   - Audit
   - Validasi
   - Sebagai jempatan untuk group lain di direktorat atau pihak luar
+- Harus mengerti semua proses bisnis di CISO
+- Project:
+  - Maturitas security: untuk mengevaluasi dept di CISO apakah sudah best-practice dengan praktek diluar sana. Tujuan: minta dibuatkan blue-print oleh vendor untuk pengembangan CISO kedepannya. Ingin mengikuti framework NIST cyberscurity.
+  - Perpanjang ISO 27001 terkait sertifikasi CISO
+- Support data untuk permintaan data dari auditor
+- Berkolaborasi dengan seluruh departemen CISO untuk melengkapi dokumen terkait audit
+- Review berkas open koneksi untuk selanjutnya diserahkan ke bagian Security Operation (SecOps)
+- Standar open koneksi:
+  - Akses lewat PAM
+  - Harus terinstall antivirus
+- PAM adalah pintu pertama untuk akses ke server. PAM menggunakan CybserArk
 
 #### IT Security Project
 
