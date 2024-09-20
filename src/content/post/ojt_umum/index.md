@@ -25,7 +25,7 @@ User IDG untuk superapp adalah DPG (Digital Product Group).
   - TC merupakan protocol yang digunakan ATM untuk hubungan ke core banking  
 - Day to day: develop user requirement dari tim bisnis, penambahan flagging, penambahan field, penambahan fitur
 - Tech stack: Temenos (R10, Infobasic) akan upgrade ke (R23, Java)
-- Jumlah orang: 18 orang 
+- Jumlah orang: 18 orang
 
 ### WHA (IT Wholesale & Office Otomation)
 
@@ -174,6 +174,29 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - Forescout: monitoring device, compliance
 - 20+ project yang berjalan
 - Total orang: 4 orang + DH
+
+#### Security QA
+
+- Memastikan seluruh proses kerja dan bisnis memenuhi PTO & SPO dan juga memenhi ketentuan dari regulator (OJK, BI, Bank Mandiri, dll)
+- Tahapan:
+  - Pengumpulan data yang diakan diaudit
+  - Data dikirim ke pihak yang memninta
+  - Pihak terkait akan melakukan audit (wawanacara, pengecekan dokumen)
+  - Pra-exit, QA akan dikasih CAT (Catatan Atas Temuan)
+  - Jika tidak bisa memenuhi, maka harus membuat memo sampai ke direksi
+- Dari sisi audit:
+  - Audit internal: bisa dari QA
+  - Audit eksternal: bisa dari konsultan (PWC)
+- Collect semua data terkait security
+- Sebagai yang menjawab jika terdapat pertanyaan dari regulator atau pihak luar
+- Validasi terkait permintaan open acess:
+  - Firewall
+  - VPN
+  - Network
+- Inti dari QA:
+  - Audit
+  - Validasi
+  - Sebagai jempatan untuk group lain di direktorat atau pihak luar
 
 #### IT Security Project
 
