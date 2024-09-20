@@ -231,6 +231,7 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - CISO menjadi admin dari setiap aplikasi BSI. Total aplikasi ada 140
 - Total: 14 orang
 - Total daily tiket rerata 500
+- Menangani BAST aplikasi baru untuk dihandle tim user id
 - Project:
   - Reset email by mandiri
 
@@ -276,6 +277,22 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
     - whitebox: memenuhi standarisasi
     - graybox: masih belum terpenuhi terdeteksi oleh forescout
     - blackbox: di blacklist
+
+#### Customer Identity Management
+
+- SSO unutk nasabah
+- Sangat costly untuk 20 juta nasabah BSI
+- CIAM: Customer Identity Access Management -> untuk customer behavior
+
+#### Data Encryption & Key Management
+
+- Bertugas untuk mengelola public key, private key, serta perlindungan jalur server
+- Menggunakan HSM (Hardware Security Module) untuk menyimpan key
+- Handle sertifikat SSL untuk domain yang ada di BSI
+
+#### Data Protection Management
+
+- Data masking: untuk melindungi data sensitif
 
 ### IT Security Services
 
