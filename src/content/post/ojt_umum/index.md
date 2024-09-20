@@ -228,6 +228,28 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 - Identity management: LDAP, Active Directory
 - Privilege access management: mengatur hak akses user
 - Cyberark: untuk akses server development dan production
+- CISO menjadi admin dari setiap aplikasi BSI. Total aplikasi ada 140
+- Total: 14 orang
+- Total daily tiket rerata 500
+- Project:
+  - Reset email by mandiri
+
+#### Identity Management
+
+- CRUD user
+- Metric kewenangan (CS diaplikasi T24 dapat apa saja)
+- Dapat data HC (Human Capital) setiap hari terkait user database
+- Review userid per tahun
+- Portal user id untuk aktivasi kembali dengan form request (harus melampirkan kontrak yang terbaru)
+
+#### Privilege Access Management
+
+- Setiap user mempunyai user metrics
+- Dilakukan review user per tahun 1 kali
+- Tidak login 30 hari akan non-aktif
+
+#### Directory Services & Email Management
+
 
 ### Network Access & Data Protection
 
