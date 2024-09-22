@@ -320,7 +320,7 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 
 ### IT Security Operation
 
-- Dept Head: Khairul Umar
+- Dept Head: Haerul Umar
 - Mengamankan jaringan dari BSI
 - Menghandle firewall
 - Ketika ditempatkan:
@@ -380,3 +380,7 @@ Berikut adalah tabel perbedaan antara **Agile** dan **Waterfall** dalam SDLC:
 #### Incident Response
 
 - Melakukan validasi saat user (endpoint) mengakses situs yang tidak aman (terlarang)
+
+### Presentasi Review
+
+- CIA (Confidentiality, Integrity, Availability)
