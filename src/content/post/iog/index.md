@@ -11,16 +11,50 @@ tags: ["ojt"]
 
 ## IT Service Desk
 
+- Depth head: Ibu Enza
+- ITKU (Jira)
+- Costumer management
+- Service delivery: SLA yang diberikan IT kepada cabang (user)
+- Scheduler ticker notification
+- IT escalation management
+- Knowledge management
+
 ### Help Desk
 
-- ITKU untuk report bugs dan permasalahan
+- ITKU untuk report issue (tiket)
 - Issue akan disolve oleh help desk, jika tidak bisa akan dieskalasi ke IT Solution Management
+- SLA per tiket beda-beda (dibedakan berdasarkan impact)
+  - Critical: 3 jam: Global atau gangguan masal
+  - High: 16 jam: Gangguan local berimpact tinggi. Satu lingkungan mati
+  - Medium: 40 jam: Tidak ada impact ke banyak perangkat (satu PC mati)
+  - Low: 112 jam: Tidak mengganggu operational dan cabang
+- Total: 7 orang
+- Sebagai first layer gangguan IT (pada aplikasi)
 
 ### IT Solution Management
 
+- Pegang aplikasi juga tapi sebagai second layer
+- Saat tim help desk tidak bisa memperbaiki, maka akan di lempar ke IT solution
+- Menggunakan ITKU (jira)
+- Gangguan perangkat kerja (laptop, pc, printer)
+
 ### Desktop & Peripheral
 
-- Pengadaan desktop dan laptop
+- Pengadaan desktop dan laptop (harus melalaui tiket)
+- Standarisasi endpoint
+  - Antivirus: trendmicro
+  - Firewall: Global protect
+  - Network endpoint: forescout
+  - Trelix: backup data
+  - Ivanti: remote desktop
+  - Microsoft Intune: remote desktop
+- Instalasi software melalui IOG dengan persetujuan CISO
+  - Buat tiket di ITKU untuk installasi software melalui IOG
+- Server campur (internal) dan server dmz
+- Intune digunakan untuk remote access
+- Terdapat tim intune
+- Tim pinpad untuk maintenance ganti kartu dan pin pada EDC dan EXA
+- Total: 18 organik
 
 ## IT Implementation and Monitoring
 
