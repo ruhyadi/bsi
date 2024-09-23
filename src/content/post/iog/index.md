@@ -27,7 +27,7 @@ tags: ["ojt"]
 
 ### Help Desk
 
-- Pembicara: Yusuf
+- Pembicara: Yusuf Al Adana Haris
 - ITKU untuk report issue (tiket)
 - Issue akan disolve oleh help desk, jika tidak bisa akan dieskalasi ke IT Solution Management
 - SLA per tiket beda-beda (dibedakan berdasarkan impact)
@@ -37,6 +37,9 @@ tags: ["ojt"]
   - Low: 112 jam: Tidak mengganggu operational dan cabang
 - Total: 7 orang
 - Sebagai first layer gangguan IT (pada aplikasi)
+- Tiket akan closed saat tidak ada balasan selama 8 jam
+- Jika tiket sudah closed, tidak dapat diopen kembali, harus membuat tiket baru
+- Tidak ada spesialisasi per orang pada help desk, semua orang bisa menangani berbagai macam tiket
 
 ### IT Solution Management
 
