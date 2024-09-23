@@ -15,12 +15,19 @@ tags: ["ojt"]
 - ITKU (Jira)
 - Costumer management
 - Service delivery: SLA yang diberikan IT kepada cabang (user)
-- Scheduler ticker notification
+- Scheduler ticker notification: pada saat user create ticker, akan diberikan notifikasi terkait issue (tiket) tersebut, jika ada jawaban maka notifikasi akan terkirim juga
+  - Jika terdapat SLA yang akan habis, sistem akan mengirim notifikasi ke tim service desk
 - IT escalation management
+  - IOG tidak bisa memastikan perbaikan 100%, maka akan dieskalasi ke group ASP
+  - ASP akan menerima tikat dan menganalis tiket tersebut (problem management)
+  - ASP akan memberikan temporary solusi: patching data
+  - ASP akan memberikan permanent solusi: perbaikan aplikasi (SDLC), jika tidak ada perubahan source maka akan dilakukan oleh ASP
 - Knowledge management
+- IOG dimonitoring oleh ASP terkait permasalahan di IT (tiket)
 
 ### Help Desk
 
+- Pembicara: Yusuf
 - ITKU untuk report issue (tiket)
 - Issue akan disolve oleh help desk, jika tidak bisa akan dieskalasi ke IT Solution Management
 - SLA per tiket beda-beda (dibedakan berdasarkan impact)
