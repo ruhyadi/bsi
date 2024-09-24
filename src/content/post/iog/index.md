@@ -43,6 +43,7 @@ tags: ["ojt"]
 
 ### Pinpad
 
+- Pembicara: Admiral
 - EDC punya kertas untuk bukti transaksi
 - Pinpad (tanpa struck) untuk pembayaran juga. Tetapi untuk sekarang hanya digunakan untuk pin saja
 - Pinpad: media untuk pembuatan pin. TCP/IP digunakan untuk connect ke Core Banking
@@ -56,7 +57,7 @@ tags: ["ojt"]
   - Master key
   - EDC serial number
 - Switching: smartvista (sv)
-- Brand: Iginico & verifone
+- Brand: Ingenico & verifone
 - Start date menggunakan 2 kartu
   - Otorisator: kartu teller untuk aktivitas harian (pada menu logon)
   - Supervisor: mengaktifkan pinpad
@@ -86,10 +87,19 @@ tags: ["ojt"]
 - Tim pinpad untuk maintenance ganti kartu dan pin pada EDC dan EXA
 - Total: 18 organik
 
+
+
+<!-- IMPLEMENTATION -->
+
 ## IT Implementation and Monitoring
 
+- Dept. Head: Zaldy Suhatman
+- Pembicara: Rafiati
 - Handling deployment untuk production
 - Punya room monitoring
+- Punya 2 TL:
+  - Rafiati
+  - xxx
 
 ### Core Banking
 
@@ -98,6 +108,10 @@ tags: ["ojt"]
 ### E-Channel
 
 ### Change and Release
+
+<!-- END IMPLEMENTATION -->
+
+
 
 ## Data Center Management
 
