@@ -107,11 +107,19 @@ tags: ["ojt"]
 
 - TL: Supriyono
 - COB (Close of Bussiness): perhitungan transaksi per hari dan perubahan tanggal di jurnal nasabah, dilakukan di command center
+- Tugas:
+  - Proses COB (EOD, EOM, EOY)
+  - Pengelolaan operasional harian atas sistem core banking sehingga berjalan stabil, cepat, tepat dan sesuai dengna SLA yang ditetapkan
+  - Memastikan data dan program aplikasi telah dibackup (penting jika terjadi ransom)
 
 ### Non Core Banking
 
 - TL: Nurman Slamet
 - Aplikasi pembiayaan dan kepegawaian
+- Tugas:
+  - Operasional aplikasi non-core sesuai SLA
+  - Menerapkan backup data
+  - Monitoring layanan non-core
 
 ### E-Channel
 
@@ -145,7 +153,12 @@ tags: ["ojt"]
   - Shift 1: 06.30 - 14.30
   - Shift 2: 14:00 - 22:00
   - Shift 3: 21:30 - 07.00
-
+- Proses deployment:
+  - Project => Tim implementasi ISG
+  - Project issue => Tim ASP
+  - Project (H-1) => Change release IOG
+  - Deployment IOG
+  - Report dan monitoring
 
 <!-- END IMPLEMENTATION -->
 
