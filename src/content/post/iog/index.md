@@ -61,6 +61,10 @@ tags: ["ojt"]
 - Start date menggunakan 2 kartu
   - Otorisator: kartu teller untuk aktivitas harian (pada menu logon)
   - Supervisor: mengaktifkan pinpad
+- Inisialisasi: 
+  - Pastikan jaringan sudah konek dengan intranet (akan muncul `eth` pada pinpad)
+  - Perubahan IP: pilih `#` pilih `0-telium manager`, pilih `1-ethernet setup`, pilih `2-ip address` (contoh `10.18.200.37`) pilih OK, ubah subnet `3-subnet` pilih `255.255.255.240`, Gateway `filan 30`, kemudian save.
+  - Tekan `F *`, BSI Function `7978`, 
 
 ### IT Solution Management
 
@@ -111,6 +115,14 @@ tags: ["ojt"]
   - Proses COB (EOD, EOM, EOY)
   - Pengelolaan operasional harian atas sistem core banking sehingga berjalan stabil, cepat, tepat dan sesuai dengna SLA yang ditetapkan
   - Memastikan data dan program aplikasi telah dibackup (penting jika terjadi ransom)
+- Core banking monitoring:
+  - CBS (Core Banking System)
+  - Disk max 70%
+  - Response time browser T24
+  - Response time TWS
+  - Response time Jbase agent
+  - Response time JSH
+  - Response time tSS
 
 ### Non Core Banking
 
