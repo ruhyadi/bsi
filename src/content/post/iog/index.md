@@ -41,6 +41,26 @@ tags: ["ojt"]
 - Jika tiket sudah closed, tidak dapat diopen kembali, harus membuat tiket baru
 - Tidak ada spesialisasi per orang pada help desk, semua orang bisa menangani berbagai macam tiket
 
+### Pinpad
+
+- EDC punya kertas untuk bukti transaksi
+- Pinpad (tanpa struck) untuk pembayaran juga. Tetapi untuk sekarang hanya digunakan untuk pin saja
+- Pinpad: media untuk pembuatan pin. TCP/IP digunakan untuk connect ke Core Banking
+- Terdapat pinpad berbasis android, menggunakan GSM untuk connect dengan core banking (intranet)
+- Dibatasi hanya menggunakan filan 30
+- Didalam pinpad terdapat master key (untuk enkripsi data), data kemudian akan dikirim ke switching
+- Proses encripsi-descripsi akan diolah di HSM (Hardware Security Module)
+- Yang dibaca oleh swtiching:
+  - Terminal id: berdasarkan kode id cabang menggunakan TMS (terminal management system)
+  - IP address
+  - Master key
+  - EDC serial number
+- Switching: smartvista (sv)
+- Brand: Iginico & verifone
+- Start date menggunakan 2 kartu
+  - Otorisator: kartu teller untuk aktivitas harian (pada menu logon)
+  - Supervisor: mengaktifkan pinpad
+
 ### IT Solution Management
 
 - Pegang aplikasi juga tapi sebagai second layer
