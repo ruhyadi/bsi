@@ -100,14 +100,52 @@ tags: ["ojt"]
 - Punya 2 TL:
   - Rafiati
   - xxx
+- Bertanggung jawab terhadap deployment di production, baik perubahan baru ataupun perbaikan
+- Monitoring: pemantauan issue dan error di production
 
 ### Core Banking
 
+- TL: Supriyono
+- COB (Close of Bussiness): perhitungan transaksi per hari dan perubahan tanggal di jurnal nasabah, dilakukan di command center
+
 ### Non Core Banking
+
+- TL: Nurman Slamet
+- Aplikasi pembiayaan dan kepegawaian
 
 ### E-Channel
 
+- TL: Nurdiansyah
+- Byond masuk ke dalam e-channel
+
 ### Change and Release
+
+- TL: Dudi Royan Effendi & Rafiati
+- Total: 3 orang
+- Tugas:
+  - Menindaklanjuti permintaan perubahan/deploy aplikasi ke server production sesuai dengan SDCL dan RCB (Release Control Board)
+  - Melakukan uji coba DRP dan review pengambilan keputusan untuk dilakukan DRP (DRP melakukan pemindahan aplikasi dari DC ke DRC atau sebaliknya)
+  - Menindaklanjuti audit di tingkat unit yang dilaksanakan sebagai tanggapan positif atas temuan audit
+  - Melakukan pengecekan dokumen terhadap hal-hal yang berkaitan dengan request implementasi dan monitoring
+  - Melakukan evaluasi terhadap aktivitas secara periodik. Evaluasi dilakukan saat masa freeze (22 - 5 setiap bulan)
+- Bertanggung jawab terhadap perubahan dan release pada aplikasi & sistem
+- DRP (Disaster Recovery Plan): perencanaan untuk mengatasi bencana
+  - Regulasi dari BI
+  - DRP akan dijalankan setiap 1 tahun sekali per aplikasi (terbatas untuk aplikasi critical)
+  - DRP dibantu oleh BCM (Business Continuity Management)
+  - Aplikasi yang dibuat sendiri untuk membuat aplikasi monitoring
+- Command center berada di bawah Change and Release
+  - Improvement dengan penambahan sirine
+- Tools:
+  - Dynatrace: alert problem
+  - AppMon: BIFAST dan monitoring service
+  - Malika: server production
+- Flow: analisa -> eskalasi -> report
+- Waktu kerja: 
+  - Shift 1: 06.30 - 14.30
+  - Shift 2: 14:00 - 22:00
+  - Shift 3: 21:30 - 07.00
+
 
 <!-- END IMPLEMENTATION -->
 
