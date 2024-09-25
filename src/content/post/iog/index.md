@@ -174,13 +174,33 @@ tags: ["ojt"]
 
 <!-- END IMPLEMENTATION -->
 
+<!-- DATA CENTER MANAGEMENT -->
 
 
 ## Data Center Management
 
+- Dept. Head: Syarih Hidayat
+- Pembicara: Dedy Andrean
+- Job desc:
+  - Tidak take responsible dengan data center yang kita punya
+  - Lebih bisa disebut database administrator, server storage
+  - Infra server storage, sysadmin
+  - Admin server on-premise
+  - Privilage root user untuk server
+- Total: 5 orang ODP (total 15 orang)
+
 ### Data Center
 
-- Jakarta (Rempoa), DCI (Data Center Indonesia) dan Surabaya
+- Jakarta (Rempoa), DCI (Data Center Indonesia) dan DRC Surabaya
+- Setup OS dan aplikasi yang ada di server
+- Backup dari sisi data dan config server
+- Tools:
+  - VMWare: untuk hypervisor (dibawah OS)
+  - OS: linux (RHEL > 8) dan windows server > 2019
+  - Rubrik: backup management
+  - Oracle VM manager: virtualisasi manager dibawah OS
+- Arsitektur monolit sehingga aplikasi di install langsung di VM bukan di container
+- Brand: HP Enterprise, Dell
 
 ### Data Center Recovery
 
@@ -190,6 +210,7 @@ tags: ["ojt"]
 - Housekeeping dan update data
 
 
+<!-- END DATA CENTER MANAGEMENT -->
 
 
 <!-- IT INFRA/NETWORK MANAGEMENT -->
@@ -228,6 +249,7 @@ tags: ["ojt"]
   - PRTG: monitoring jaringan Multiprotocol Label Switching (MPLS) seperti kinerja, bandwidth, dan statusnya
   - Paloalto: seperti CISCO
   - Strata: digunakan untuk monitoring paloalto (SDWAN) seperti kinerja, bandwidth, dan statusnya
+  - SecureCRT: remote switch dan router
 - Provider:
   - Telkom
   - Sanatel
