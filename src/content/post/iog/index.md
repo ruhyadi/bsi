@@ -189,15 +189,62 @@ tags: ["ojt"]
 - Seperti DDM. Pada IOG datanya secara live (data production)
 - Housekeeping dan update data
 
+
+
+
+<!-- IT INFRA/NETWORK MANAGEMENT -->
+
 ## IT Infrastructure/Network Management
+
+- Job desc:
+  - Menyediakan jalur agar semua di BSI dapat berkomunikasi
+  - Secara hardware dan software (IP Address)
 
 ### Infrastructure Engineer
 
+- Job desc:
+  - Handle hardware
+  - DCIM (Data Center Infra Management) proyek yang sedang berjalan
+  - Utilisasi dan memastikan perangkat berjalan dengan baik
+  - Ruang server (komunikasi data) harus 18 - 27 C
+
 ### Network Operation Center (NOC)
+
+- Pembicara: Ota
+- Job desc:
+  - Melakukan monitoring jaringan (network)
+  - Utilisasi jaringan server
+  - Rekanan dengan provider dan memonitoring providernya
+  - Menjaga kegiatan operasional berjalan dengan lancar
+  - Pintu pelaporan lewat ITKU
+    - Cabang tidak terkoneksi dengan intranet
+    - Pinpad tidak connect
+    - Ruang server bermasalah (kebakaran, kebanjiran)
+  - Terlibat dalam relokasi cabang jika diperlukan
+  - Ruang server pada cabang merupakan tanggung jawab
+    - Perangkat tanggung jawab: switch, router, SDWAN (Software Defined Wide Area Network) (Paloalto), 2 provider yang dipakai
+    - Memastikan perangkat konek dan dapat berkomunikasi dengan pusat
+- Tools:
+  - PRTG: monitoring jaringan Multiprotocol Label Switching (MPLS) seperti kinerja, bandwidth, dan statusnya
+  - Paloalto: seperti CISCO
+  - Strata: digunakan untuk monitoring paloalto (SDWAN) seperti kinerja, bandwidth, dan statusnya
+- Provider:
+  - Telkom
+  - Sanatel
 
 ### Network Management
 
+- Job desc:
+  - Request IP
+  - DRP (Disaster Recovery Plan)
+  - 
+
 - Penyedia IP untuk server
+
+<!-- END OF IT INFRA/NETWORK MANAGEMENT -->
+
+
+
 
 ## IT Infrastructure Ops Management & Optimization
 
