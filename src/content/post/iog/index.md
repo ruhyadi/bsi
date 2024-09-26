@@ -281,3 +281,16 @@ tags: ["ojt"]
 ### Cloud Microservices & Application Platform
 
 ### Cloud Network & Load Balancer Support
+
+<!-- CONFERENCE -->
+
+## Navigating The Digital Horizon
+
+### Bank Syariah Indonesia
+
+- Judul: Innovating Within the Principles of Sharia
+- AI application in banking sector:
+  - AI for Fraud Detection System and Cybersecurity
+  - AI for Chatbots & Virtual Assistant
+  - AI for Customized Financial Advice
+  - AI for Potential Investment
