@@ -270,9 +270,11 @@ tags: ["ojt"]
 
 ## IT Infrastructure Ops Management & Optimization
 
+- Pembicara: Satrio
 - Departemen yang menaungi IOG
 - Bertindak sebagai PM untuk IOG
 - Governance di IOG
+- Mengelola budgeting, kebutuhan audit, dokumentasi, serta analisa dan pengembangan operasional supaya dapat meningkatkan kinerja BSI
 
 ### Database Administrator
 
@@ -283,6 +285,9 @@ tags: ["ojt"]
   - Perencanaan, analisa, dan desain seluruh database yang bersifat transaksional maupun non transaksional
 
 ### Infrastructure & System Optimization
+
+- Tugas:
+  - Melakukan identifikasi dan eksplorasi sistem desain infrastruktur dan assessment topologi infrastruktur
 
 ### IT Operations Liaison and Assurance
 
@@ -309,11 +314,36 @@ tags: ["ojt"]
 
 ## Cloud Infrastructure Technology
 
+- Dept. Head: Wenrizal
+- Tidak jauh beda dengan DCM, hanya berbeda pada infrastruktur yang digunakan
+- Provider: GCP, AWS
+- Standar keamanan jauh lebih baik di cloud
+- Solusi lebih cepat di cloud
+- Aplikasi berada di cloud, sedangkan on-premise ada di DCM
+- Tugas:
+  - Memastikan semua infra yang sudah terbangun dalam kondisi prima
+  - Sebagai SME (Subject Matter Expert) untuk cloud
+  - Memastikan bahwa spending cost bisa di covering
+  - Mapping billing agar optimal dan cost effective
+- Cloud lebih mudah karena tidak ada underlaying infrastruktur
+- IaaS: infrastruktur yang disediakan oleh cloud provider tatapi kita yang mengelola
+- PaaS: GKE (Google Kubernetes Engine)
+- SaaS: Office 365, Google Suite
+- Otomation pada cloud: terraform, ansible, jenkins
+- Arsitektur sudah multiservice dan multinode
+
 ### Cloud Delivery Otomation
+
+- Pengembangan otomasi pada cloud agar operasional cloud dapat berjalan secara efisien
 
 ### Cloud Microservices & Application Platform
 
+- Mengelola proses kontainerisasi pada cloud
+
 ### Cloud Network & Load Balancer Support
+
+- Mengelola koneksi antar server cloud yang dimiliki BSI
+- Monitoring kapasitas cloud server
 
 <!-- END CLOUD INFRASTRUCTURE TECHNOLOGY -->
 
