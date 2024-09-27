@@ -274,6 +274,39 @@ tags: ["ojt"]
 - Bertindak sebagai PM untuk IOG
 - Governance di IOG
 
+### Database Administrator
+
+- Secara posisi sedang kosong
+- Tugas:
+  - Pembuatan konsep database pada aplikasi
+  - Koordinasi dengan DCM, ASP, IDG
+  - Perencanaan, analisa, dan desain seluruh database yang bersifat transaksional maupun non transaksional
+
+### Infrastructure & System Optimization
+
+### IT Operations Liaison and Assurance
+
+- Tugas:
+  - Audit internal
+  - Standarisasi ISO 27001 dan ISO 20000
+  - Pengelolaan OPEX (pembiayaan berulang) seperti pembayaran pihak ke 3
+  - Menerima dan melakukan pambaruan PTO
+
+### Digital Technology Analyst
+
+- Melakukan analisa infrastruktur yang mendukung aplikasi digital serta melakukan support untuk core banking digital
+- Seperti liaison tetapi konsepnya project
+- Saat BSI ingin membuat aplikasi baru, maka akan di planning oleh divisi ini
+- Terkait infrastructure dengan IOG (OS (Windows server dan RHEL))
+- Perancangan konsep aplikasi:
+  - Retension data (lama data disimpan)
+  - Kebutuhan pada scope operational (monitoring, backup, disaster recovery)
+- Improvement pada sisi infrastruktur
+- Perancangan RAB untuk tahun depan
+- Assessment kebutuhan dari setiap departemen di IOG
+
+<!-- CLOUD INFRASTRUCTURE TECHNOLOGY -->
+
 ## Cloud Infrastructure Technology
 
 ### Cloud Delivery Otomation
@@ -281,6 +314,8 @@ tags: ["ojt"]
 ### Cloud Microservices & Application Platform
 
 ### Cloud Network & Load Balancer Support
+
+<!-- END CLOUD INFRASTRUCTURE TECHNOLOGY -->
 
 <!-- CONFERENCE -->
 
