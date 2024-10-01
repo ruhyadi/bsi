@@ -36,6 +36,78 @@ tags: ["ojt"]
 
 ## IT Project Management Officer
 
+- Pembicara: Hamdan
+- Dept Head: Reza Nur Abdul Hadi
+- Total: 50 orang
+- Tahapan IT PMO:
+  - IT PMO dan BA sudah mulai dari TF (technical feasibility) meeting
+    - Menentukan availability dan feasibility dari proyek
+  - IT PMO mengikuti "join disccusion meeting" (meeting antara user dan IT)
+    - Mirip dengan TF meeting
+    - BA akan lebih mengeksplor terkait CR (Customer Requirement)
+    - Timeline akan ditentukan pada tahap ini
+    - Output berupa FSD (Functional Specification Document) dari IT BA
+    - FSD digunakan tim developer untuk membuat aplikasi
+  - Forum arsitektur
+    - Untuk kebutuhan jika ada perubahan terkait arsitektur (server, db, dll)
+    - Forum arsitektur dapat dilakukan sebelum join discussion meeting 
+  - Development:
+    - PMO melakukan checkpoint pada waktu yang disepakati
+    - Provide kebutuhan saat development
+    - Output berupa SDD (Sofware Development Document) dan source code
+    - Pembuatan dokumen QA Need (Quality Assurance) di submit ke TMP (Testing Management Plan) pada ASP (Application Support)
+  - Testing Management Plan (TMP)
+    - Dilaksanakan di ASP, akan mengundang IT PMO dan developer
+    - Membahas terkait skenario yang akan dilakukan terkait pengetestan aplikasi
+      - Dilakukan pentest atau tidak (Tim CISO)
+      - Dilakukan performance test atau tidak (Tim ASP)
+    - Output berupa dokumen kebutuhan SAT, UAT, Performance Test, Security Test
+    - Dijelaskan kebutuhan QA testernya
+    - Estimasi waktu testing dan dokumentasi
+  - Testing
+    - Dilakukan secara series (SAT -> UAT)
+    - SIT: System Integration Testing. Output SIT report
+    - UAT: User Acceptance Testing. Output berita acara UAT
+    - Security Testing: penetration testing (berkaitan dengan aplikasi ke internet)
+    - Performance Testing
+  - RCB (Release Control Board)
+    - Berupa meeting dengan komite untuk dilakukan deployment dan implementasi
+    - Dihandle di ASP
+    - Tim PMO: mengumpulkan semua dokumentasi yang dibutuhkan untuk RCB
+      - SDD: Software Development Document
+      - BASIT: Berita acara Business Acceptance Test
+      - BAUAT: Berita acara User Acceptance Test
+      - SCC: Security Compliance Check
+      - Strategi implementasi (dibuat oleh PM IT) (di ttd oleh Dept. Head IT dan ASP SME (Subject Matter Expert))
+        - Strategi deployment
+        - Strategi rollback
+        - Backup plan yang dilakukan
+      - Source code
+      - PMO mengajukan ke RCB
+      - Output: MOM RCB dari Tim ASP
+        - Mengajukan jadwal deploy
+      - Level:
+        - C: level DH (Dept Head). Review dokumen RCB
+        - B: level GH (Group Head). Bisa ada putusan untuk eskalasi
+        - A: level Direksi. Jika ada putusan, maka ada jadwal deploy
+      - Koordinasi pendaftaran deployment oleh "IT Project Implementation"
+      - Tim implementasi akan melakukan arrangement dengan IOG
+    - PTR (Production Trial Run)
+      - Dilakukan oleh user di environment PTR
+      - Dilakukan pengetesan oleh ASP
+      - Output: berita acara PTR (diminta oleh PMO)
+        - Digunakan sebagai berita acara untuk go live
+    - Go Live:
+      - Di deploy di env produksi
+
+### IT Project Management Officer
+
+- Menjadi pemegang proyek yang mengkoordinasi anara user dengan grup IT lainnya
+
+### IT Business Analyst
+
+### IT Project Implementation
+
 ## IT Policy & Governance
 
 - Drafting PTO (Prosedur Teknis Operasional)
@@ -92,13 +164,13 @@ tags: ["ojt"]
   1. Tahap perencanaan
      - Join planning session (JPS) (grooming dengan IDG, IOG, SOR)
        - Group dapat mengusulkan proyek-proyek inisiatif yang akan dijalankan
-     - Finalisasi DAD (Document Analysis Design)
+     - Finalisasi DAD (Demand Analysis Document)
      - Finalisasi CR (Customer Requirement) dan FS budget
      - Working group
        - pendiskusian CR
      - Melakukan TF (Technical Feasibility) meeting
      - Menghasilkan dokumen:
-       - DAD: Document Analysis Design
+       - DAD: Demand Analysis Document
        - FS (Feasibility Study) Anggaran
        - CR: Customer Requirement
   2. Tahap pendefinisian
