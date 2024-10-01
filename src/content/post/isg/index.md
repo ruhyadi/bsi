@@ -158,7 +158,23 @@ tags: ["ojt"]
   - Terdapat resiko kepatuhan jika memakai perangkat yang sudah end-of-support
   - Akan merambat ke resiko operasional, maka akan ditemukan celah keamanan dan impact ke stabilitas dan operational
   - Resiko operasional akan impact ke resiko reputasi
-
+- Disposal asset yang sudah end-of-support
+  - Secara accounting masih ada barangnya
+  - Disposal dapat berupa:
+    - Hibah
+    - Lelang
+    - Dihancurkan
+  - Disposal akan dilakukan oleh PFA (Procurement Fixed Asset)
+  - IT asset akan memastikan bahwa disposal berjalan dengan baik
+    - Data sudah dihapus
+    - Dismantel: harus berkoordinasi dengan PFA terkait dismantel
+- Support ITSM (IT service management) process
+  - Request management: instalasi software
+  - Insident management: server tidak bisa diakses
+  - Change and release management: perubahan configurasi dari sisi server
+  - Support terhadap proses-proses tersebut
+- CMDB (Configuration Management Database)
+  - Relationship dari assets
 
 ### IT Vendor Management
 
