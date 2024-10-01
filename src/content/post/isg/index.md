@@ -103,6 +103,10 @@ tags: ["ojt"]
 ### IT Project Management Officer
 
 - Menjadi pemegang proyek yang mengkoordinasi anara user dengan grup IT lainnya
+- Sebagai pemegang proyek, PMO harus mengerti seluruh proses SDLC
+- Tidak menghandle detail terkait teknis
+- Arrange meeting terkait proyek
+- Menjembatani kebutuhan user dan developer
 
 ### IT Business Analyst
 
@@ -116,6 +120,47 @@ tags: ["ojt"]
 
 - Pengaturan asset IT (laptop, tv, printer, dll)
 - Mengelola vendor (outsourcing)
+
+### IT Asset Management
+
+- Pembicara: Muhammad Saefudin
+- Asset owner
+  - Server, Endpoint: IOG
+  - Security: CISO
+  - Source code: IDG
+  - Aplikasi: ASP
+  - ATM: DBO
+  - Masing-masing asset owner melakukan pencatatan asset
+  - IT Asset management hanya melakukan accountable (verifikasi) dari sisi asset
+- Asset terbagi menjadi 2:
+  - R1: infra yang ada di data center
+    - Server
+    - Network
+    - Firewall
+  - R3: infra yang diluar data center
+    - Endpoint
+    - ATM
+    - Network cabang
+- Pencatatan masih dilakukan secara manual
+  - Sedang diadakan implementasi tools asset management
+- Assessment (review) pengadaan:
+  - Dalam pengajuan harus dilakukan review berdasarkan kebutuhan
+  - Yang melakukan pengadaan adalah asset owner-nya
+  - Jika barang baru, maka harus dilakukan assessment berdasarkan kebutuhan
+  - Jika dilakukan penambahan, harus cek dengan asset existingnya
+- Baseline-nya adalah kebutuhan bukan anggaran
+- Pengadaan dilakukan pada JPS (Join Planning Session)
+  - Incharge review pada sesi JPS terkait pengadaan asset
+- IT steering comitee (ITSC) akan melakukan penyetujuan terkait pengadaan asset berdasarkan budget yang dimiliki
+- Memastikan perangkat yang digunakan masih dalam kondisi support life cycle product
+  - Fokus pada end-of-support, jangan menggunakan perangkat yang sudah obsolute
+  - Jika sudah end-of-support, maka harus dilakukan upgrade
+  - Terdapat resiko kepatuhan jika memakai perangkat yang sudah end-of-support
+  - Akan merambat ke resiko operasional, maka akan ditemukan celah keamanan dan impact ke stabilitas dan operational
+  - Resiko operasional akan impact ke resiko reputasi
+
+
+### IT Vendor Management
 
 ## IT Business Partner
 
