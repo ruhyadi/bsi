@@ -178,6 +178,20 @@ tags: ["ojt"]
 
 ### IT Vendor Management
 
+- Pembicara: Adli
+- Dept. Head: Rino Nurahmat
+- TL: Lis
+- Total: 10 orang
+- Jobdesc:
+  - Monitoring PKS (perjanjian kerja sama) (Capex dan Opex)
+  - Procurement di bagian SDLC
+  - Monitoring MSA (Master Service Aggrement)
+    - Pegawai yang baseline nya project based
+  - Banyak berurusan dengan third-party atau vendor sehingga mengarah ke pengadaan
+  - Monthly: purchase order (PO) MSA yang ada di ISG (untuk saat ini)
+  - Belum ada tools yang digunakan tetapi sudah ada rencana untuk di develop
+  - Setiap 6 bulan terdapat form evaluasi kinerja vendor
+
 ## IT Business Partner
 
 - Sebagai jembatan utama antara bisnis dan IT
