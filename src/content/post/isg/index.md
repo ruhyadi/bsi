@@ -114,7 +114,39 @@ tags: ["ojt"]
 
 ## IT Policy & Governance
 
+- Pembicara: Naufal & Atikah
 - Drafting PTO (Prosedur Teknis Operasional)
+- Fungsi:
+  - IT policy and governance
+    - IT policy: pembagian tugas terkait kebijakan apa saja yang berkaitan dengan IT
+    - IT security: terkait kebijakan yang berkaitan dengan group security (CISO, IOG, ISG)
+  - IT awareness
+  - IT audit: sebagai liason untuk tim audit internal atau eksternal
+  - IT regulatori: pelaporan-pelaporan ke regulator (OJK, BI)
+- Jobdesc:
+  - Membuat kebijakan yang akan dipatuhi oleh group-group dan SME yang ada di BSI
+  - Membuat SOP (Standar Prosedur Operasional)
+  - Membuat PTO (Petunjuk Teknis Operasional)
+  - In line dengan peraturan regulator
+- Kebijakan akan di review dalam 1 tahun sekali
+- Semua proses yang ada di IT harus tertuang di PTO
+- Melakukan sosialisasi terkait SOP dan PTO
+
+### Security Policy & Awareness
+
+- Merancang dan menyusun kebijakan dan regulasi seperti SPO (Standar Prosedur Operasional) dan Petunjuk Teknis Operasional (PTO) terkait IT
+- Meningkatkan awareness IT security ke cabang dan kantor pusat
+- Memberikan kesadaran (awareness) ke pegawai dan nasabah
+  - Nasabah: sebagai advisory (penasehat)
+  - Pegawai: melalui email, teams, secretary, memo
+  - Dalam bentuk quiz per bulan
+  - Dalam bentuk webminar untuk pegawai cabang baik offline dan online
+- Sharing informasi terkait security dan kesadaran
+
+### IT Infrastructure & Network Governance
+
+- Yang diatur:
+  - Deploy aplikasi dan IT operation
 
 ## IT Asset & Vendor Management
 
