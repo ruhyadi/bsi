@@ -110,6 +110,20 @@ tags: ["ojt"]
 
 ### IT Business Analyst
 
+- Pembicara: Naya
+- Jobdesc:
+  - Menganalisis kebutuhan user
+  - Pembuatan FSD (Functional): dokumen bisnis (alur)
+  - Pembuatan TSD (Technical): lebih ke technical
+  - TF Meeting - SIT/UAT
+  - Setelah IT Architecture
+  - RACI metrics
+  - FSD dan TSD bisa berubah dalam proses development aplikasi
+- Tim:
+  - Pembiayaan: financing
+  - Core: esb
+  - Non-Core
+
 ### IT Project Implementation
 
 ## IT Policy & Governance
