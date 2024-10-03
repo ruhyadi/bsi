@@ -34,6 +34,34 @@ tags: ["ojt"]
 
 ## IT Infrastructure, Network & Security
 
+- Pembicara: Anggi
+- Jobdesc:
+  - Design, strategi, kajian, assessment, dan konsultasi (intinya)
+  - Pembuatan kajian terkait infras, network dan security
+    - Dari hasil audit regulator (OJK, BI)
+    - Mencari gap dari yang ada sekarang
+    - Mengkaji bersama konsulatan (Delloite, Accenture), principal (GCP, AWS) dan group IT: mempunyai nilai di mata management
+  - Pengadaan setelah kajian
+  - Kajian dan implementasi terkait pengadaan dari kebutuhan
+
+### IT Infrastructure, Design & Strategy
+
+- Mengelola server, storage, data center
+- Mendesign data center seperti apa dalam 5 tahun kedepan
+- Erat dengan tim DCM di IOG
+
+### IT Network Design Strategy
+
+- xxx
+
+### IT Security Design & Strategy
+
+- Erat dengan CISO
+- Perangkat yang dikelola:
+  - Firewall
+  - WAF
+  - Antivirus
+
 ## IT Project Management Officer
 
 - Pembicara: Hamdan
