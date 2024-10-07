@@ -46,12 +46,13 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
     - Testing management plan (TMP): beropini pada meeting, pembuatan skenario testing
     - RCB + Deploy + PTR: ikut melakukan monitoring dan reporting RCB dan deploy
     - PTR + Go Live: melakukan review
-    - Post implementation
+    - Post Implementation Review (PIR): melakukan review terkait apakah objective sudah tercapai (lesson learned)
 - ITRCA (IT Risk Control Assessment): 
   - Melakukan pengusulan terkait PTO
 
 ## Digital & E-Channel Risk
 
+- Pembicara: Farizal Andreian
 - Pembicara: Teddy August Prima
 - Mengelola dan memberikan rekomendasi terkait risk review terkait produk digital dan e-channel
 - Membuat risk register pada tahap CR
@@ -71,5 +72,44 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
 
 
 ## Anti Fraud Strategy (AFS)
+
+- Pembicara: Farizal Andreian
+- Menangani yang sudah dalam bentuk produk (hasanah card, etc)
+- Framework SAF:
+  - POJK No.39/POJK03/2019
+  - Koordinator SAF (IT & Fraud Risk Group)
+  - Pilar:
+    - Pilar 1: Pencegahan
+      - Anti-fraud awareness
+      - Identifikasi kerawayanan: 
+        - Aktivitas pemetaan proses bisnis beresiko
+        - Assessment pencarian celah (risk) dalam IT application
+      - Know your employee
+    - Pilar 2: Deteksi
+      - Whistleblowing
+      - Fraud detection system:
+        - Merupakan proyek besar IFG tahun 2024
+      - Suprise Audit
+      - Surveillance system
+        - Pembuatan strategy (parameter) terkait fraud
+        - Terdapat tim monitoring 24/7
+        - Transaksi kartu debit, kartu kredit
+        - Transaksi BSI mobile, BSI net
+    - Pilar 3: Investigasi, Pelaporan & Pengenaan Sanksi
+      - Investigasi
+        - Aktivitas pendalaman dari kasus-kasus fraud
+      - Pelaporan
+      - Pengenaan sanksi
+      - Proses hukum
+    - Pilar 4: Pemantauan, Evaluasi & Tindak Lanjut
+      - Pemantauan
+      - Evaluasi
+      - Tinjak lanjut
+
+### Anti Fraud Strategy & Prevention
+
+### Anti Fraud System & Development
+
+### Anti Fraud Evaluation & Reporting
 
 ## Anti Fraud Operation (AFO)
