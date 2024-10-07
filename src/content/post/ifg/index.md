@@ -49,6 +49,7 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
     - Post Implementation Review (PIR): melakukan review terkait apakah objective sudah tercapai (lesson learned)
 - ITRCA (IT Risk Control Assessment): 
   - Melakukan pengusulan terkait PTO
+- Total: > 60 orang
 
 ## Digital & E-Channel Risk
 
@@ -75,6 +76,11 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
 
 - Pembicara: Farizal Andreian
 - Menangani yang sudah dalam bentuk produk (hasanah card, etc)
+- 3DS transaction: tidak ada ganti rugi
+- Ganti rugi oleh BSI:
+  - 3DS transaction: tidak ada ganti rugi (marketplace)
+  - non 3DS: tidak ada ganti rugi
+  - Dispute and cashback: ada pada kartu kredit, menggunakan principal (mastercard)
 - Framework SAF:
   - POJK No.39/POJK03/2019
   - Koordinator SAF (IT & Fraud Risk Group)
