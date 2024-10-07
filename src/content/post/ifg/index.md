@@ -43,10 +43,12 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
   - Tahapan:
     - CR: membuat risk register
     - FSD
-    - Testing management plan
-    - RCB
+    - Testing management plan (TMP): beropini pada meeting, pembuatan skenario testing
+    - RCB + Deploy + PTR: ikut melakukan monitoring dan reporting RCB dan deploy
+    - PTR + Go Live: melakukan review
     - Post implementation
-
+- ITRCA (IT Risk Control Assessment): 
+  - Melakukan pengusulan terkait PTO
 
 ## Digital & E-Channel Risk
 
