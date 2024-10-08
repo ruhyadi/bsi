@@ -63,14 +63,33 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
 - Sering bekerja secara cross sub departemen maupun departemen dengan departemen Funding, Transaction & Wealth Risk
 - Maksimal pekerjaan 5 project
 
-
 ## Funding, Transaction & Wealth Risk
 
+- Pembicara: Deffira
 - Mengelola dan memberikan rekomendasi terkait risk review terkait produk funding dan transaction
 - Sub departement:
   - Produk
   - IT improvement & application
-
+- Project Medina Griya:
+  - Proyek pembiayaan Griya (KPR)
+  - Mempersingkat proses SLA dari 22 hari ke 2 hari (aspiration) sampai 5 hari (target)
+  - Peran IFG (IPR):
+    - Sebagai proyek member
+    - Memberikan review terhadap resiko dari proses dan pengembangan sistem
+    - Mengeluarkan RR (Risk Review) saat ada pengembangan di sistem (dari CR)
+    - Melakukan monitoring dari implementasi RR (pada TF meeting)
+    - Monitoring pada implmentasi development di monitor oleh SOR IT (bukan IFG)
+    - Melakukan monitoring/assessment RR dari proses testing pada TMP
+  - Originating system: NOS (New Originating System)
+  - Single platform untuk pembiayaan (consumer, SME, mikro, mitra guna)
+  - Start September 2023
+  - Medina Griya:
+    - Quick win
+      - Mempersingkat bisnis proses, RAC di percepat
+        - Contoh: Pengawai negeri sipil
+      - Piloting September 2024 di beberapa cabang
+    - End state
+      - Pilotin Desember 2024
 
 ## Anti Fraud Strategy (AFS)
 
