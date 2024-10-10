@@ -138,3 +138,37 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
 ### Anti Fraud Evaluation & Reporting
 
 ## Anti Fraud Operation (AFO)
+
+- Pembicara: Oin
+- Fungsi yang menjalankan tools atau strategi yang sudah dibuat oleh AFS
+- Dulu bernama SAF (AFO, AFS) dan IPR (sekarang IFG)
+- Fraud management lifecycle:
+  - Pemantauan dan evaluasi
+  - Pencegahan
+  - Deteksi (AFO)
+  - Investigasi, pelaporan & pengenaan sanksi (AFO)
+- Ongoing:
+  - Memantau transaksi nasabah e-channel
+- Deteksi
+- Dispute
+  - Menerima sanggahan dari nasabah atas transaksi yang tidak dilakukan
+  - Memebuat report dari sanggahan tersebut
+- Investigasi
+  - Peninjaklanjutan dari dispute
+- Fraud Detection System:
+  - Fraud Application Mitigation System (FAMS)
+    - Sistem antri fraud aplikasi on boarding yang digunakan untuk pencegahan
+  - Fraud Transaction Mitigation System (FTMS)
+    - Sistem anti fraud yang dapat mendeteksi transaksi anomali
+  - Device Intelligence (DI)
+    - Tools yang dapat digunakan untuk monitoring device nasabah
+    - Dapat membedakan apakah transaksi dilakukan oleh nasabah atau bukan (bot)
+  - Machine Learning (ML)
+- Tipe-tipe fraud:
+  - Card not present/MOTO
+  - Bust out merchant
+    - transaksi fraud yang berasal dari merchant fiktif
+  - Collusive merchant
+    - pemilik merchant bekerja sama dengan pelaku fraud
+  - Account takeover
+  - Lost stolen card
