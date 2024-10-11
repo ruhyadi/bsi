@@ -51,6 +51,24 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
   - Melakukan pengusulan terkait PTO
 - Total: > 60 orang
 
+### Faqih
+
+- Three line of defence:
+  - 1st line of defence
+    - Operational
+    - Daily Product Owner & IT
+  - 2nd line of defence
+    - Reviewer & Policy
+    - IFG (IT Finance Risk Group)
+  - 3rd line of defence
+    - Audit control
+- IT harus menyesuaikan dengan bisnis
+- Policy and Procedure Group (PPG)
+  - Dokumen:
+    - SPO/SPG: kategori konsumber
+    - MP: Manual product (RAC (Risk Acceptance Criteria) dan Feature)
+    - PTO: Petunjuk Teknik Operasional (buku panduan dan langkah-langkah)
+
 ## Digital & E-Channel Risk
 
 - Pembicara: Farizal Andreian
