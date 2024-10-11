@@ -68,6 +68,32 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
     - SPO/SPG: kategori konsumber
     - MP: Manual product (RAC (Risk Acceptance Criteria) dan Feature)
     - PTO: Petunjuk Teknik Operasional (buku panduan dan langkah-langkah)
+- MFA:
+  - What you know?: Pin, password
+  - What you have?: OTP, token, kartu, account
+  - Who you are?: Biometric
+- Hal yang perlu diperhatikan dalam pembuatan RR:
+  - Ketentuan regulator
+  - Ketentuan internal
+  - Flow proses / system
+  - Banchmark
+  - Risk library
+  - Expert discussion
+- IT risk assessment: assessment berkaitan dengan
+  - High dan medium:
+    - Customer facing
+    - Financial
+    - Core banking
+    - Regulatory
+    - Security
+  - Low: lebih tidak diperhatikan
+  - Frequency: berapa kali terjadi
+  - Impact: berapa besar kerugian
+- Risk response & reporting:
+  - Accept: tidak ada yang perlu direvisi dari CR
+  - Mitigate/reduce: ada yang perlu direvisi dari CR
+  - Transfer: berkaitan dengan asuransi, jika terjadi kerugian maka asuransi yang menanggung
+  - Reject: tidak dilanjutkan, jika pengembangan dirasa terlalu beresiko
 
 ## Digital & E-Channel Risk
 
