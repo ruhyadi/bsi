@@ -90,10 +90,32 @@ Merupakan merger dari dua grup (IPR dan SAF) yang bertujuan untuk mengelola risi
   - Frequency: berapa kali terjadi
   - Impact: berapa besar kerugian
 - Risk response & reporting:
-  - Accept: tidak ada yang perlu direvisi dari CR
-  - Mitigate/reduce: ada yang perlu direvisi dari CR
-  - Transfer: berkaitan dengan asuransi, jika terjadi kerugian maka asuransi yang menanggung
-  - Reject: tidak dilanjutkan, jika pengembangan dirasa terlalu beresiko
+  - Risk response:
+    - Accept: tidak ada yang perlu direvisi dari CR
+    - Mitigate/reduce: ada yang perlu direvisi dari CR
+    - Transfer: berkaitan dengan asuransi, jika terjadi kerugian maka asuransi yang menanggung
+    - Reject: tidak dilanjutkan, jika pengembangan dirasa terlalu beresiko
+  - Reporting:
+    - Terdapat dashboard untuk kegiatan reporting
+- IT Security:
+  - Kita punya aset dan data yang berharga (data, portofolio, infrastruktur)
+  - Dari CISO dan Risk menjaga aset dan data
+
+- Product Risk:
+  - Product planning
+  - Acquisition
+  - Maintenance
+  - Recovery & collection
+
+- Antri Fraud:
+  - Pencegahan: edukasi
+  - Deteksi: rule dan parameter yang digunakan untuk mendeteksi fraud
+  - Investigas & pelaporan: 
+    - Investigasi: investigasi terhadap fraud yang terjadi, kerugian fraud akan ditanggung bank atau nasabah
+    - Pelaporan: OJK (per 6 bulan), Mandiri (per 1 bulan)
+  - Evaluasi & tindak lanjut: 
+    - Pengecekan rootcause dan tindak lanjut
+    - Aspek: people, governance, teknologi
 
 ## Digital & E-Channel Risk
 
