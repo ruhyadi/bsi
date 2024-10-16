@@ -60,6 +60,22 @@ tags: ["ojt"]
   - Issue & Action Management (IAM)
     - Pencatatan issue-issue terkait pengelolaan risiko operational yang dapat bersumber antara lain dari: RCSA, KRI, LED, CT, DMTL, issue lain dan sumber eksternal yang lain
 
+## Daftar Istilah
+
+- **Action Plan**: rencana tindakan/mitigas risiko yang akan dilakukan oleh Unit Kerja dalam rangka mencegah atau meminimalisir risiko.
+- **Composite Risk**: tingkat risiko yang masih mungkin timbul meskipun telah mempertimbangkan aspek kontrol yang ada.
+- **Control**: bentuk pengendalian terhadap risiko yang dapat mengurangi kemungkinan dan/atau dampak terjadinya suatu kejadian.
+- **Control Testing**: tool pengujian kecukupan pengendalian (control) yang dilakukan oleh SORH/DCOR/RCB terhadap unit kerja/region office/area office/branch office atau produk/segmen/aktivitas tertentu.
+- **Decentralized Compliance and Operational Risk (DCOR)**: suatu organ independen yang menjalankan tugas compliance assurance services dan penerapan operational risk di ruang lingkup Direktorat. Kedudukan DCOR di bawah supervisi SORH.
+- **Event/Incident**: insiden/kejadian risiko operational yang terjadi karena kegagalan/kurang memadainya proses internal, kesalahan manusia, kegagalan sistem, atau adanya kejadian eksternal.
+- **Impact**: dampak yang ditimbulkan dari terjadinya suatu risiko baik kerugian finansial maupun reputasi.
+- **Inherent risk**: risiko yang melekat pada suatu proses atau produk sebelum mempertimbangkan aspek kontrol.
+- **Issue & Action Management (IAM)**: tool untuk memonitoring atas issue-issue yang harus ditindaklanjuti oleh Risk Owner dan/atau pihak terkait.
+- **Key Risk Indikator**: tool berupa indikator-indikator pengukuran yang digunakan untuk memantau dan mengindikasikan pengingkatan eksposur risiko operational.
+- **Likelihood**: perkiraan potensi kejadian risik pada rentang waktu tertentu atau kemungkinan suatu kejadian/insiden akan terjadi pada rentang waktu tertentu.
+- **Loss Event Database**: tool untuk mencatat/mengelola data insiden/kejadian risiko operational yang menimbulkan dampak bagi Bank.
+
+
 ## DCOR IT
 
 - DCOR: Decentralized Compliance and Operational Risk =
