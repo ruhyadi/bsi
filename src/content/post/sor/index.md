@@ -75,17 +75,26 @@ tags: ["ojt"]
 - **Likelihood**: perkiraan potensi kejadian risik pada rentang waktu tertentu atau kemungkinan suatu kejadian/insiden akan terjadi pada rentang waktu tertentu.
 - **Loss Event Database**: tool untuk mencatat/mengelola data insiden/kejadian risiko operational yang menimbulkan dampak bagi Bank.
 
-
 ## DCOR IT
 
-- DCOR: Decentralized Compliance and Operational Risk =
+- DCOR: Decentralized Compliance and Operational Risk
 
-## PTO ORM Tools
+## ORM Tools
 
-- Tujuan: 
-  - Mengetahui dan memahami risiko di Unit Kerja masing-masing
-  - Melaksanakan mitigasi (control) secara konsisten
-  - Meningkatkan risk awareness seluruh unit kerja
+- Implementasi ORM melalui pembuatan Laporan Perangkat Risiko Operational (LPRO) Unit Kerja secara berkala (triwulan)
+- Control testing regular mempunyai input RCSA
+- Setiap unit kerja mempunyai RCSA
+- Control testing berdasarkan RCSA
+- Dafta Monitoring Tingkat Lanjut (DMTL)
+
+![alt text](image-1.png)
+
+![alt text](image.png)
+
+- Review dan rekomendasi:
+  - Aspek kepatuhan
+  - Aspek kepantasan
+  - Aspek kepatuhan
 
 ### Risk Control Self Assessment
 
