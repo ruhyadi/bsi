@@ -26,7 +26,7 @@ tags: ["digital"]
 - Dept head: Aries Indra G
 - Tugas:
   - Project improvement/inisiatif strategis
-  - Budgeting CAPEx/OPEX
+  - Budgeting CAPEX/OPEX
   - Policy & Governance
   - Penyelesaian audit
   - Mangement information
@@ -34,15 +34,41 @@ tags: ["digital"]
 ## DSS (Digital Solution Service)
 
 - Dept head: M. Arief Haryanto
+- Pembicara: Iqbal
 - Tugas:
   - Monitoring e-channel
   - Pengelolaan FLM ATM/CRM
     - FLM (First Level Maintenance): perbaikan tanpa ganti part
+      - Problem minor
+      - Uang tersangkut
+      - Kartu tersangkut
+      - ATM offline
+      - Reset printer
+      - Untuk eskalasi ke SLM harus terdapat evidence terlebih dahulu
+        - Problem terulang 3 kali
+      - SLA dibawah 1 jam
+      - Sortir uang yang di ATM (ULE: Uang Layak Edar, UTLE: Uang Tidak Layak Edar)
+      - Tidak boleh ada uang UTLE di uang ATM
+    - SLM (Second Level Maintenance): terdapat penggantian part
   - Online onboarding
   - Analsis problem E-channel
     - Berkoordinasi dengan IT
     - Perbaikan tetap di IT (IOG/IDG)
   - Dispatcher pengaduan nasabah via BSIM
+  - Cash replainishment
+    - Pengisian mesin ATM
+  - Monitoring menggunkan apps dari Hitachi
+    - Total mesin: 4141
+    - Diparkir: 123
+  - Vendor untuk menangani problem FLM:
+    - CIGS: hanya di aceh
+    - SSI
+    - Uni Arta
+  - Denom:
+    - A: 20.000
+    - B: 50.000
+    - C: 100.000
+    - D: Mata uang asing
 
 ## ETP (Electronic Transaction Processing)
 
