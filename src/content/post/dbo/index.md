@@ -150,3 +150,31 @@ tags: ["digital"]
     - Reconciliation
     - Settlement
     - Dispute
+- Electronic Draft Capture (EDC)
+  - Full manage service
+    - MTI (Mitra Transaksi Indonesia) (bekerja sama dengan BSI)
+      - Onboarding
+      - Deployment
+      - Dispute
+      - Reporting
+    - BSI
+      - Disburse (bayar ke merchant)
+- Hasanah Card
+  - Per November 2024 sudah dipegang oleh BSI
+  - Non financial: CBG
+  - Financial: DBOj
+  - Story line:
+    - Promo
+    - Apply
+    - Approve
+    - Pin/Aktivasi
+    - Purchase
+    - Billing
+    - Payment
+    - (Renewal)
+    - Overdue
+    - Collecting
+    - Close
+    - Write Off
+    - Meninggal
+    - Klaim asuransi
