@@ -70,6 +70,29 @@ tags: ["digital"]
     - B: 50.000
     - C: 100.000
     - D: Mata uang asing
+- Onboarding:
+  - Pembicar: Mas G
+  - Analitic data:
+    - Pencapaian dan aktivasi
+      - Buat dashboard (scheduler per jam)
+      - Dashboard yang buat di DDM
+    - Services onboarding
+      - Dashboard real time (dynatrace)
+  - KYC:
+    - Biometric
+    - Verifikasi video call (pusat)
+    - Verifikasi manual (cabang)
+  - AML: menghasilkan resiko oboarding nasabah (high, medium, low)
+  - DMS:
+    - Menggunakan documentum
+    - Data image foto dan dokumen nasabah
+  - FAMS: fraud detection system
+  - ESB NIK (Dukcapil): verifikasi NIK dengan dukcapil
+  - ESB Liveness: memastikan bahwa nasabah adalah manusia
+  - ESB Face Recognition (optional): verifikasi wajah nasabah dengan dukcapil
+- Aktivasi:
+  - 
+
 
 ## ETP (Electronic Transaction Processing)
 
@@ -162,7 +185,7 @@ tags: ["digital"]
 - Hasanah Card
   - Per November 2024 sudah dipegang oleh BSI
   - Non financial: CBG
-  - Financial: DBOj
+  - Financial: DBO
   - Story line:
     - Promo
     - Apply
