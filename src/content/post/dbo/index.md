@@ -36,6 +36,7 @@ tags: ["digital"]
 - Dept head: M. Arief Haryanto
 - Pembicara: Iqbal
 - Tugas:
+  - Sebagai mata dan telinga
   - Monitoring e-channel
   - Pengelolaan FLM ATM/CRM
     - FLM (First Level Maintenance): perbaikan tanpa ganti part
@@ -74,6 +75,7 @@ tags: ["digital"]
 
 - Dept head: Mely Rosmelati
 - Tugas:
+  - Sebagai dapur
   - Reconciliation & settlement:
     - Cash
     - Non Cash
@@ -87,7 +89,9 @@ tags: ["digital"]
 ## ECO (Electronic Channel Operation)
 
 - Dept head: Kris Setianto
+- Proyek besar: pengadaan mesin ATM dan installasi (stagging)
 - Tugas:
+  - Sebagai perpanjangan tangan
   - Managemen, produksi, & pengiriman kartu debit & hasanah card
   - Deployment ATM/CRM
   - Pengelolaan SLM ATM/CRM
@@ -97,9 +101,52 @@ tags: ["digital"]
 
 ## DMO
 
-- Dept head: R. G. Eryoko
+- Dept head: R. G. Eryoko (Oko)
 - Tugas:
+  - Sebagai dapur
   - Merchant processing
   - EDC & QRIS operational
   - Help desk merchant
   - Reconciliation, settlement, dispute, & chargeback transaksi merchant & hasanah card
+- Subdept:
+  - Processing dan help desk
+    - Procesing
+      - QRIS: Quick Response Code Indonesian Standard
+        - Tercapai: 400.000 MID
+        - Target: 1.000.000 MID
+        - SLA: 1 malam (10 pagi - 4 sore)
+        - Basis merchant ada UMI (Usaha Micro)
+        - Mengajukan QRIS lewat cabang & install merchant apps
+        - Pengajuan:
+          - Merchant ke Cabang (& install merchant apps)
+          - Cabang mengajukan ke PTEN
+          - PTEN ke cabang
+        - Terbagi menjadi 2:
+          - Dynamic: price di entry oleh merchant
+          - Static: price di entry oleh issuer/buyer
+        - MPM (Merchant Presented Mode)
+        - CPM (Customer Presented Mode)
+          - Customer membuka diri untuk di debet
+        - Transaksi QRIS:
+          - On Us
+            - Issuer: BSI
+            - Acquire: BSI
+          - Off Us
+            - Issuer: Other/BSI
+            - Acquire: BSI/Other
+        - Operational 3D:
+          - Data: pop up message
+          - Dana: sudah berhasil masuk di 3 Batch
+            - 18.00 - **10.00** (Next day)
+            - **14.00** - 18.00
+            - 14.00 - **18.00**
+          - Document: dalam transaksi digital dapat diabaikan
+        - PTEN:
+          - Policy:
+            - MCC, MDR (merchant discount rate)
+        - Settlement: memastikan kecocokan antara data dan dana
+    - Help desk
+  - Reconciliation/settlement
+    - Reconciliation
+    - Settlement
+    - Dispute
