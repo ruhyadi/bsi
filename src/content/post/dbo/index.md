@@ -132,6 +132,7 @@ tags: ["digital"]
 - Pengelolaan Mesin ATM/CRM
   - ATM, CRM, MKK (Mobil Kas Keliling)
   - Cash low di 50 juta
+  - Cash out: uang habis
   - Saat pengisian uang, uang yang masih tersisa harus di kosongkan
   - Metode indikasi vandalisme:
     - Berdasarkan rekonsiliasi selisih kurang
@@ -156,6 +157,28 @@ tags: ["digital"]
     - Denda vendor:
       - Uang habis: 300rb
       - Uang lebih dari 20%: 100rb
+- Non cash reconciliation
+  - Issuer tarik tunai
+    - BSI sebagai issuer (mentransfer)
+    - Tarik tunai menggunakan kartu
+    - Tarik tunai tanpa kartu
+  - Issuer transfer
+    - Menggunakan kartu debit pada ATM
+    - Menggunakan transfer online **antarbank** menggunakan channel BSI mobile, Net, Byond, dll.
+  - Destination interbank transfer
+    - BSI sebagai destinasi
+    - data terlebih dahulu
+    - dana akan ditransfer besoknya (H+1)
+  - Outgoing BIFAST
+    - data dan dana saat itu juga sampai (H-0)
+    - Individual credit transfer
+    - Proxy credit transfer
+    - Bulk credit transfer
+    - Request for payment
+  - Incoming BIFAST
+  - BIFAST shifting reconciliation
+    - Rekon H-0
+    - Terbagi menjad 12 window time
 
 ## ECO (Electronic Channel Operation)
 
@@ -163,6 +186,7 @@ tags: ["digital"]
 - Proyek besar: pengadaan mesin ATM dan installasi (stagging)
 - Tugas:
   - Sebagai perpanjangan tangan
+  - Stagging mesin ATM
   - Managemen, produksi, & pengiriman kartu debit & hasanah card
   - Deployment ATM/CRM
   - Pengelolaan SLM ATM/CRM
