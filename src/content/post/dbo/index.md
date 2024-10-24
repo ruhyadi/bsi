@@ -71,13 +71,14 @@ tags: ["digital"]
     - C: 100.000
     - D: Mata uang asing
 - Onboarding:
-  - Pembicar: Mas G
+  - Pembicar: Mas Kevin
   - Analitic data:
     - Pencapaian dan aktivasi
       - Buat dashboard (scheduler per jam)
       - Dashboard yang buat di DDM
     - Services onboarding
       - Dashboard real time (dynatrace)
+    - Dashboard analytics (Power BI)
   - KYC:
     - Biometric
     - Verifikasi video call (pusat)
@@ -90,8 +91,6 @@ tags: ["digital"]
   - ESB NIK (Dukcapil): verifikasi NIK dengan dukcapil
   - ESB Liveness: memastikan bahwa nasabah adalah manusia
   - ESB Face Recognition (optional): verifikasi wajah nasabah dengan dukcapil
-- Aktivasi:
-  - 
 
 
 ## ETP (Electronic Transaction Processing)
@@ -108,6 +107,28 @@ tags: ["digital"]
   - Dispute resolution
     - Komplain dari nasabah (transaksi gagal)
   - Cash supply ATM/CRM
+- Rekonsiliasi:
+  - Existing menggunakan semi-automatic (excel)
+  - Dilakukan daily
+  - Memandingkan 2 data: data BSI (core) vs data 3rdparty
+  - Cash rekon
+    - Transaksi on us
+  - Non cash rekon
+    - Switching jaringan: prima, bersama, jalin, visa
+  - Payment rekonsiliasi
+    - Institusi
+    - Rekon payment switching
+  - Settlement
+    - Proses pembukuan
+    - Rekon pada settlement
+  - Dispute resolution
+    - Rekonsiliasi proses sanggahan
+    - Aplikasi CHMS untuk keperluan dispute nasabah ke CS
+  - Settlement BI FAST di hari yang sama
+- Payment Reconciliation:
+  - Data 3rdparty vs Data MIS (core banking)
+  - Jika sukses: pelimpahan dana ke pihak ke 3
+  - Jika gagal: Retur/refund ke nasabah
 
 ## ECO (Electronic Channel Operation)
 
