@@ -203,9 +203,22 @@ tags: ["digital"]
     - Pengembalian transaksi gagal nasabah (klaim & pro-aktif)
     - Pembukuan fee-based income transaksi e-channel (SMS notif, telkomsel, indosat, KAI, dll)
     - Pembukuan cash back promo dari grup bisnis
-    - Pelimpahan dana pembayaran merchant
+    - Pelimpahan (pembayaran) dana pembayaran merchant
     - Top up & withdrawal saldo nostro (mandiri, rintis/prima, BI-Fast)
-    - Monitoring saldo pada GL perantara settlement dan nostro
+    - Monitoring saldo pada GL (General Ledger) perantara settlement dan nostro
+  - BSI Pasti:
+    - Maker, checker, approval
+    - Bisa membuku kemana saja (lintas cabang)
+    - Hanya 9000 baris
+  - T24:
+    - Input one-on-one sehingga menyusahkan
+  - Magic:
+    - Bisa sampai 20.000 baris
+    - Hanya pembukuan PL pusat saja tidak lintas cabang
+  - Harapan:
+    - Sistem otomasi bagus
+    - Gak banyak orang
+
 
 ## ECO (Electronic Channel Operation)
 
