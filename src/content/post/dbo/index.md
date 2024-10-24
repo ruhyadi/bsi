@@ -191,11 +191,21 @@ tags: ["digital"]
   - Bank mempunyai hak dan kewajiban
   - Bank yang punya switching harus mempunyai tabungan giro (Nostro) di Bank Indonesia
     - Nostro: rekening bank di bank lain
+    - Fostro: rekening bank lain di bank BSI
   - Tupoksi:
     - Sentralisasi pembukuan e-channel di DBO terkait merchant, EDC, hasanah card
     - Sentralisasi pembayaran hak dan kewajiban Bank BSI kepada pihak-pihak atau mitra terkait transaksi e-channel selain merhcant, EDC, hasanah card
     - Administrasi & pelaporan pajak atas transaksi: tokopedia ke CFA, rintis, artajasa, bersama
     - Administrasi & pelaporan pembayaran invoice tagihan: monthly fee BI-Fast Bank PTL, Jalin, Antarjasa
+  - Ruang lingkup:
+    - Pembayaran kewajiban kepada pihak ke tiga
+    - Penagihan hak kepada pihak ke tiga terkait transaksi e-channel
+    - Pengembalian transaksi gagal nasabah (klaim & pro-aktif)
+    - Pembukuan fee-based income transaksi e-channel (SMS notif, telkomsel, indosat, KAI, dll)
+    - Pembukuan cash back promo dari grup bisnis
+    - Pelimpahan dana pembayaran merchant
+    - Top up & withdrawal saldo nostro (mandiri, rintis/prima, BI-Fast)
+    - Monitoring saldo pada GL perantara settlement dan nostro
 
 ## ECO (Electronic Channel Operation)
 
