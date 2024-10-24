@@ -179,6 +179,23 @@ tags: ["digital"]
   - BIFAST shifting reconciliation
     - Rekon H-0
     - Terbagi menjad 12 window time
+- Settlement
+  - Pelimpahan dan pembukuan
+  - Pelimpahan hak dan kewajiban
+  - Sebagai penjaga gawang (pembukuaan)
+  - Semua pembukuan yang akan ke core akan ke settlement terlebih dahulu
+  - Aplikasi:
+    - T24
+    - BSI Pasti
+    - Magic
+  - Bank mempunyai hak dan kewajiban
+  - Bank yang punya switching harus mempunyai tabungan giro (Nostro) di Bank Indonesia
+    - Nostro: rekening bank di bank lain
+  - Tupoksi:
+    - Sentralisasi pembukuan e-channel di DBO terkait merchant, EDC, hasanah card
+    - Sentralisasi pembayaran hak dan kewajiban Bank BSI kepada pihak-pihak atau mitra terkait transaksi e-channel selain merhcant, EDC, hasanah card
+    - Administrasi & pelaporan pajak atas transaksi: tokopedia ke CFA, rintis, artajasa, bersama
+    - Administrasi & pelaporan pembayaran invoice tagihan: monthly fee BI-Fast Bank PTL, Jalin, Antarjasa
 
 ## ECO (Electronic Channel Operation)
 
