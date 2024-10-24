@@ -129,6 +129,33 @@ tags: ["digital"]
   - Data 3rdparty vs Data MIS (core banking)
   - Jika sukses: pelimpahan dana ke pihak ke 3
   - Jika gagal: Retur/refund ke nasabah
+- Pengelolaan Mesin ATM/CRM
+  - ATM, CRM, MKK (Mobil Kas Keliling)
+  - Cash low di 50 juta
+  - Saat pengisian uang, uang yang masih tersisa harus di kosongkan
+  - Metode indikasi vandalisme:
+    - Berdasarkan rekonsiliasi selisih kurang
+    - Berdasarkan laporan dari pihak luar baik cabang, FLM dadn Pihak Luar
+    - Tracking kartu indikasi vandal
+  - Perlakukan case vandalisme:
+    - Melakukan pengecekan
+    - Melakukan penarikan dokumen pendukung vandalisme (snapshot/cctv)
+    - Membuat laporan ke keamanan setempat atau kepolisian
+    - Melakukan pengajuan klaim asuransi
+  - Format pengisian, pengosongan dan inputan
+  - Indikasi dan Penyelesaian selisih kas ATM
+  - Komplain nasabah gagal tarik / setor tunai
+    - Transaksi gagal
+    - Transaksi berhasil
+    - Pengaduan tidak merasa transaksi
+  - Alur pengelolaan uang atm kelolaan vendor
+    - H-2: Permintaan uang
+    - H-1: Pengambilan uang
+    - H-0: Pengisian ATM
+    - H+1: Pengambilan sisa uang
+    - Denda vendor:
+      - Uang habis: 300rb
+      - Uang lebih dari 20%: 100rb
 
 ## ECO (Electronic Channel Operation)
 
