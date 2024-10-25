@@ -30,6 +30,12 @@ tags: ["digital"]
   - Policy & Governance
   - Penyelesaian audit
   - Mangement information
+- Policy and Quality Assurance:
+  - Menjaga aktivitas dari DBO agar comply dengan regulasi
+  - Audit ekternal dan internal
+  - Ascend: aplikasi untuk audit
+  - Pengiriman kartu dan billing statement
+  - Pembuatan mekanisme pengambilan/pengiriman kartu (debit dan hasanah card)
 
 ## DSS (Digital Solution Service)
 
