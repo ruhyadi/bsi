@@ -36,6 +36,9 @@ tags: ["digital"]
   - Ascend: aplikasi untuk audit
   - Pengiriman kartu dan billing statement
   - Pembuatan mekanisme pengambilan/pengiriman kartu (debit dan hasanah card)
+  - Pembuatan ketentuan
+  - Update operasional bisnis
+  - Pendampingan audit eksternal dan internal
 
 ## DSS (Digital Solution Service)
 
