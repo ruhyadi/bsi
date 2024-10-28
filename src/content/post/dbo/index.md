@@ -242,6 +242,17 @@ tags: ["digital"]
     - SLM (Second Level Maintenance): kerusakan yang membutuhkan ganti part
   - Operational tabungan emas
     - Monitoring stock emas (penyimpanan tetap di antam)
+- Pejompongan:
+  - Emas: menjaga stock emas
+    - Request cetak emas
+  - Internal
+  - SLM (Second Level Maintenance)
+    - Tetap memakai vendor
+  - Instalasi dan maintenance (SLM) ATM
+    - IOG: network
+  - Card production
+    - Hasanah
+    - Debit
 
 ## DMO
 
