@@ -58,6 +58,7 @@ tags: ["digital"]
 - Query ke data mart yang dibuat oleh Data Management
 - Query data menggunakan claudera dan impala
 - Visualisasi menggunakan PowerBI dan Tableu
+- IM (DDM) langsung face to face dengan user tanpa ada perantara
 
 ## Data Analytics
 
