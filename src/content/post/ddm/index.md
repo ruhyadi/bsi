@@ -18,7 +18,7 @@ tags: ["digital"]
 - Pemilik big data (Claudera)
 - Data warehouse (data yang sudah diolah)
   - Node: 16
-  - Cpacity: 300 TB
+  - Capacity: 300 TB
   - BSI total apps: 170
   - Big data not ready: 119
   - Big data ready: 51 (30%)
@@ -47,6 +47,17 @@ tags: ["digital"]
 ## Information Management
 
 - Dashboard tableu & power BI
+- Mirip dengan BI
+- Orang pertama yang ditemui oleh user jika butuh data
+- Tugas: mencari tahu kebutuhan user terkait data (availability)
+- Data yang dikasih ke user bisa bermacam-macam
+  - Project: minta data secara berkala (rutin) (dalam bentuk dashboard)
+  - Ad hoc: sekali minta selesai (by request) (dalam bentuk excel)
+- Permintaan data memerlukan memo
+- Memberikan business service terkait kebutuhan user (yang belum tahu data apa yang dibutuhkan)
+- Query ke data mart yang dibuat oleh Data Management
+- Query data menggunakan claudera dan impala
+- Visualisasi menggunakan PowerBI dan Tableu
 
 ## Data Analytics
 
