@@ -9,6 +9,8 @@ tags: ["digital"]
 
 - You are a data driven company only if everyone uses data
 - DDM sekarang under directorat digital
+- Objektif:
+  - Mencari nasabah potensial terkait pembiayaan
 
 ## Data Governance
 
@@ -63,6 +65,29 @@ tags: ["digital"]
 ## Data Analytics
 
 - Python & Claudera
+- Mikro dan SME
+  - Pembicara: Alfian Prisma Yopiangga
+  - Mencari nasabah mikro untuk upgrade ke SME
+    - Harapan agar nasabah mikro dapat platform lebih tinggi
+  - Mencari pattern kemudina implementasi
+  - Wholesale value chain:
+    - Supplier/distributor (SME, Mikro)
+    - Koperasi (SME)
+    - Payroll (Retail funding)
+  - Skema:
+    - By request
+    - Propose ide
+  - Task:
+    - Query SQL di Hue
+    - Python untuk analysis
+    - Visualisasi di PowerBI
+- Wholesale
+- Hasanah Card
+- Griya
+- Cicil emas
+- Implementasi AI:
+  - Generative AI
+  - NER (Named Entity Recognition)
 
 ## Campaign Management
 
