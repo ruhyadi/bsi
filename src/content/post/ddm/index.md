@@ -65,6 +65,7 @@ tags: ["digital"]
 ## Data Analytics
 
 - Python & Claudera
+- Intinya: cari pattern dari data
 - Mikro dan SME
   - Pembicara: Alfian Prisma Yopiangga
   - Mencari nasabah mikro untuk upgrade ke SME
@@ -76,6 +77,7 @@ tags: ["digital"]
     - Payroll (Retail funding)
   - Skema:
     - By request
+      - SLA: tidak ada
     - Propose ide
   - Task:
     - Query SQL di Hue
@@ -88,6 +90,9 @@ tags: ["digital"]
 - Implementasi AI:
   - Generative AI
   - NER (Named Entity Recognition)
+- User:
+  - Orang bisnis
+  - Data dari DM (Data management)
 
 ## Campaign Management
 
