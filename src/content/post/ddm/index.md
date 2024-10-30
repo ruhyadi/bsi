@@ -66,6 +66,19 @@ tags: ["digital"]
 
 - Python & Claudera
 - Intinya: cari pattern dari data
+- Membuat data mart sendiri
+  - Membiasakan data sendiri agar dapat diotomatis
+  - Memakai talend dan claudera
+- Data exploration
+  - Menggunakan python
+  - CDSW (Cloudera Data Science Workbench)
+- Membuat report dan visualisasi data
+  - Membuat dashboard yang berisi analytics
+- Tipe analytics yang digunakan:
+  - Descriptive: apa yang terjadi
+  - Diagnostic: mengapa terjadi
+  - Predictive: apa yang akan terjadi
+  - Prescriptive: apa yang harus dilakukan
 - Mikro dan SME
   - Pembicara: Alfian Prisma Yopiangga
   - Mencari nasabah mikro untuk upgrade ke SME
@@ -83,6 +96,19 @@ tags: ["digital"]
     - Query SQL di Hue
     - Python untuk analysis
     - Visualisasi di PowerBI
+- Digital and E-Channel
+  - Pembicara: Azarin
+  - Mobile banking
+  - Digital transaction
+  - OOB
+  - Net backing
+  - ATM
+  - Merchant QRIS
+  - Merchant EDC
+  - Fokus ke mobile banking:
+    - Tujuan untuk meningkatkan user aktivasi (UREG) dan transaksi (USAK)
+  - Tipe analytics bergantung kebutuhan bisnis dan user
+  - Menggunakan machine learning untuk prediksi
 - Wholesale
 - Hasanah Card
 - Griya
