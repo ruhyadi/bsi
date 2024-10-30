@@ -79,6 +79,22 @@ tags: ["digital"]
   - Diagnostic: mengapa terjadi
   - Predictive: apa yang akan terjadi
   - Prescriptive: apa yang harus dilakukan
+- Hasil:
+  - Analisa untuk strategi
+  - Data leads
+    - Kita mau jualan hasanah card tapi tidak tahu ke siapa?
+    - Monitoring: sucess rate, cpa (cost per aquisition)
+- Proses flow:
+  - Initiatif
+    - Naik ke GH
+    - Naik ke product owner
+    - Hasil perbandingan:
+      - Success rate growth
+      - Product volume growth
+  - Request bussiness owner
+    - Lebih banyak dari Angga
+    - Menggunakan memo
+    - Diskusi terkait kebutuhan
 - Mikro dan SME
   - Pembicara: Alfian Prisma Yopiangga
   - Mencari nasabah mikro untuk upgrade ke SME
@@ -109,6 +125,20 @@ tags: ["digital"]
     - Tujuan untuk meningkatkan user aktivasi (UREG) dan transaksi (USAK)
   - Tipe analytics bergantung kebutuhan bisnis dan user
   - Menggunakan machine learning untuk prediksi
+- Non Digital
+  - Pembicara: Anugrah
+  - Digital financing
+  - Digital funding
+  - Konsumtif:
+    - Hasanah card
+  - Investment:
+    - Emas
+    - Deposito
+  - Needs:
+    - Griya
+    - Oto
+    - Mitraguna
+    - Gadai
 - Wholesale
 - Hasanah Card
 - Griya
