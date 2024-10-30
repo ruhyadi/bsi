@@ -3,7 +3,7 @@
     "name": "nihongo",
     "privileged": true,
     "remoteUser": "node",
-    "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
+    "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bookworm",
     "containerEnv": {
         "TZ": "Asia/Jakarta"
     },
