@@ -46,6 +46,51 @@ tags: ["digital"]
   - Data downstream
 - Single source of truth
 
+### Strategi
+
+- Pada tahun 2024, DM melakukan implementasi rencana pemulihan bencana, penyediaan inventaris sandbox, dan penyediaan data untuk advanced fraud detection
+- Pada tahun 2025, DM menyediakan enterprise datamart dengan infrastruktur lebih maju
+- Pada tahun 2026, DM menyediakan platform enterprise data dengan datamart yang kompleks
+
+### Fungsi Peran
+
+- Downstream
+  - Proses penarikan data dari sumber data (aplikasi) ke data warehouse (Claudera)
+  - Diawali dengan pembuatan memo akses database aplikasi (IDG/ASP/IOG)
+- Upstream
+  - Proses penarikan data dari data warehouse (Claudera) ke data mart atau sesuai kebutuhan user
+- ETL
+  - Proses extract, transform, load data dari sumber data ke data warehouse
+  - Extract: menarik data dari sumber data
+  - Transform: merapikan data
+  - Load: menyimpan data ke data warehouse
+
+### Bisnis Proses
+
+1. Memo akses database aplikasi (IDG/ASP/IOG)
+2. Pembuatan proses ETL
+3. ETL data dari sumber data ke data warehouse
+4. ETL data dari data warehouse ke data mart
+5. Penyediaan data mart ke user
+
+### Keterkaitan
+
+- Data governance: sumber kebijakan terhadap data
+- Dept DDM lain: sebagai sumber data raw dan data mart
+
+### Ketentuan
+
+- UU Perlindungan Data Pribadi
+- SPO Data Management
+- PTO CIF
+- PTO Data Leads
+
+### Kegiatan Oprational
+
+- Downstream
+- Pembuatan ETL
+- Upstream
+
 ## Information Management
 
 - Dashboard tableu & power BI
