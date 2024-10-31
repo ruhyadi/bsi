@@ -153,3 +153,34 @@ tags: ["digital"]
 ## Campaign Management
 
 - Membuat data leads (potensi nasabah yang akan berhasil jika ditawarin)
+- Step: 
+  - Determine campaign
+  - Choose marketing platform
+  - Lead generation
+  - Campaign execution
+  - Monitor & report campaign program
+  - Review & evaluation
+- Service:
+  - Data lead distribution
+  - Cashback
+  - Personalize path notif
+  - Personalize WAB (Whatsapp blast)
+  - Personalize email
+- Tools: semua tools di DDM digunakan
+  - Talend
+  - Dataku
+- Tugas:
+  - Membuat leads
+  - Menjalankan campaign
+  - Monitoring campaign
+  - Salesnya DDM
+- Dataku:
+  - Menaruh data leads
+  - Tujuan: convertion rate meningkat
+  - Consumer leads collaboration
+- Terbagi menjadi 2 unit:
+  - Digital infrastruktur
+  - Penetration
+- CM mengambil data dari data mart yang dibuat oleh DM
+- WA blast dan push notif direct ke nasabah
+- 
