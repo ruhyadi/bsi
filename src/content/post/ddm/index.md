@@ -14,6 +14,20 @@ tags: ["digital"]
 
 ## Data Governance
 
+### Strategi
+
+### Fungsi Peran
+
+### Bisnis Proses
+
+### Keterkaitan
+
+### Ketentuan
+
+### Kegiatan Operational
+
+### Lain-lain
+
 ## Data Management
 
 - The more you know, the more you can create. There's no end to imagination in the kicthen
@@ -107,6 +121,20 @@ tags: ["digital"]
 - Visualisasi menggunakan PowerBI dan Tableu
 - IM (DDM) langsung face to face dengan user tanpa ada perantara
 
+### Strategi
+
+### Fungsi Peran
+
+### Bisnis Proses
+
+### Keterkaitan
+
+### Ketentuan
+
+### Kegiatan Operational
+
+### Lain-lain
+
 ## Data Analytics
 
 - Python & Claudera
@@ -195,6 +223,58 @@ tags: ["digital"]
   - Orang bisnis
   - Data dari DM (Data management)
 
+### Strategi
+
+- Sepanjang 2024, DA berfokus mengembangkan dan meningkatkan infrastruktur seperti Decision Support System
+- Peningkatan penggunaan analytics predictive (machine learning, deep learning) untuk mendukung insight bisnis
+- Penggunaan Generative AI (LLM, VLM) untuk memahami, merangkum, dan memprediksi data yang dapat dimanfaatkan oleh DA demi kebutuhan bisnis
+
+### Fungsi Peran
+
+- Data leads
+  - Data nasabah potensial yang dapat dijadikan target marketing
+  - Kriteria nasabah potensial yang dapat dijadikan target marketing
+- Data analytics
+  - Proses mencari pattern dari data yang dapat digunakan untuk strategi bisnis
+- Monitoring
+  - Success rate
+  - CPA (Cost Per Aquisition)
+
+### Bisnis Proses
+
+- Inisiatif: Tim secara inisiatif melakukan analisis data yang dapat digunakan Tim secara inisiatif melakukan analisis data yang dapat digunakan untuk strategi bisnisuntuk strategi bisnis
+- Request: Tim melakukan analisis data berdasarkan permintaan dari business owner
+- General flow:
+  1. Pendefinisian masalah bisnis
+  2. Exploratori data analysis (EDA)
+  3. Data preparation
+  4. Model building
+  5. Model evaluation
+  6. Model deployment
+  7. Monitoring
+  8. Reporting
+  9. Feedback
+  10. Improvement
+
+### Keterkaitan
+
+- Unit bisnis (SRG, DPG, DAG): sebagai user yang membutuhkan analisis data
+- Data Management: sebagai sumber data yang digunakan untuk analisis data
+
+### Ketentuan
+
+- UU Perlindungan Data Pribadi
+- SPO Data Management
+- PTO CIF
+- PTO Data Leads
+
+### Kegiatan Operational
+
+- Inisiatif
+- Request
+
+### Lain-lain
+
 ## Campaign Management
 
 - Membuat data leads (potensi nasabah yang akan berhasil jika ditawarin)
@@ -228,4 +308,17 @@ tags: ["digital"]
   - Penetration
 - CM mengambil data dari data mart yang dibuat oleh DM
 - WA blast dan push notif direct ke nasabah
-- 
+
+### Strategi
+
+### Fungsi Peran
+
+### Bisnis Proses
+
+### Keterkaitan
+
+### Ketentuan
+
+### Kegiatan Operational
+
+### Lain-lain
