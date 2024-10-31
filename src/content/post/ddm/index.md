@@ -123,15 +123,46 @@ tags: ["digital"]
 
 ### Strategi
 
+- Pada tahun 2024, IM berfokus pada peran Business Analytics dan Intelligence
+- Pada tahun 2025, IM memainkan peran utama dalam wawasan bisnis yang komprehensif
+
 ### Fungsi Peran
+
+- Data visualization
+  - Visualisasi data yang mudah dipahami oleh user untuk mendukung keputusan bisnis
+- Data provider
+  - Memberikan data yang dibutuhkan oleh user untuk mendukung keputusan bisnis
+- Business analyst
+  - Menganalisis kebutuhan bisnis user sehingga dapat disediakan visualisasi atau data yang sesuai
 
 ### Bisnis Proses
 
+- Project based: data provide ke user secara rutin baik dalam bentuk dashboard atau laporan
+- Ad hoc based: data provide ke user sesuai permintaan user
+- Alur kerja:
+  1. User meminta data melalui memo
+  2. IM melakukan query data dari data mart
+  3. IM melakukan visualisasi data menggunakan PowerBI atau Tableu
+  4. IM memberikan dashboard atau laporan kepada user
+  5. IM melakukan monitoring dan maintenance dashboard atau laporan
+
 ### Keterkaitan
+
+- Data Management: sebagai sumber data yang digunakan oleh IM
+- Unit bisnis (SRG, CM, CBG, CF1, CF2): sebagai user yang membutuhkan data
 
 ### Ketentuan
 
+- UU Perlindungan Data Pribadi
+- SPO Data Management
+- PTO CIF
+- PTO Data Leads"
+
 ### Kegiatan Operational
+
+- Project based
+- Ad hoc based
+- Monitoring dan maintenance
 
 ### Lain-lain
 
