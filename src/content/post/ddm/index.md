@@ -16,6 +16,9 @@ tags: ["digital"]
 
 ### Strategi
 
+- Pemenuhan policy data
+- Pada tahun 2024, DG fokus pada data quality terkait penurunan CIF kotor dan ganda
+
 ### Fungsi Peran
 
 - Policy maker
@@ -26,8 +29,36 @@ tags: ["digital"]
   - Memastikan data yang digunakan oleh unit bisnis adalah data yang berkualitas
   - Memastikan data yang digunakan oleh unit bisnis adalah data yang valid
   - Memastikan tidak ada data raw yang duplikat
+  - Fokus meningkatkan kualitas data BSI
+    - Data CIF (Costumer Identification File) atau data nasabah
+      - Kasus CIF kotor (kosong) dan ganda
+      - CIF perorangan (28 field)
+      - CIF non perorangan (35 field)
 - Project manager
   - Mengelola proyek-proyek DDM
+- Oversight data governance di BSI (bukan hanya DDM)
+- Data policy & architect
+  - Sebagai control tower
+  - Building data policy foundation
+    - Merancang SPO data management & PTO turunannya
+    - SPO data management
+      - PTO data leads & campaign
+      - PTO CIF
+      - PTO dataku
+      - PTO big data
+  - Initiating UU PDP implementation
+  - Leading data governance body
+  - Developing data governance tools
+    - Metadata baru sampai table
+    - Kedepannya metadata sampai field
+  - Ketentuan pengolahan data
+    - Data architecture
+    - Data lifecycle management
+    - Data integration & interoperability
+    - Reference & master data management
+    - Data warehouse & data mart
+    - Data security
+    - Data quality management
 
 ### Bisnis Proses
 
