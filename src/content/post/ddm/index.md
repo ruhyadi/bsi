@@ -342,14 +342,49 @@ tags: ["digital"]
 
 ### Strategi
 
+- Pada tahun 2024, CM menentukan titik fokus untuk membuat pengadaan dan mengembangkan beberapa tools
+
 ### Fungsi Peran
+
+- Segmentasi user (leads): membagi user berdasarkan karakteristik tertentu. Data leads yang dihasilkan akan digunakan oleh CM atau unit bisnis lainnya
+- PUblikasi campaign: mempublikasikan campaign ke user (Notification BSIM, WA Blast, Email Blast)
+- Monitoring: memonitor efektifitas campaign yang telah dijalankan
 
 ### Bisnis Proses
 
+- Determine campaign: menentukan campaign yang akan dijalankan
+- Choose marketing platform: memilih platform marketing yang akan digunakan
+- Lead generation: menghasilkan data leads
+- Campaign execution: menjalankan campaign
+- Monitor & report campaign program: memonitor dan melaporkan efektifitas campaign
+- Review & evaluation: mengevaluasi campaign yang telah dijalankan
+
+- Alur kerja:
+  1. Membuat data leads dari data mart
+  2. Koordinasi terkait konten campaign
+  3. Blasting campaign ke user
+  4. Monitoring campaign
+
 ### Keterkaitan
+
+- Data Management: sebagai sumber data yang digunakan oleh CM
+- Data Analis: sebagai sumber data lead atau analisis yang digunakan oleh CM
+- Unit bisnis (SRG, CBG, CF1, CF2): sebagai user yang membutuhkan data leads untuk campaign
 
 ### Ketentuan
 
+- UU Perlindungan Data Pribadi
+- SPO Data Management
+- PTO CIF
+- PTO Data Leads
+
 ### Kegiatan Operational
+
+- Determine campaign
+- Choose marketing platform
+- Lead generation
+- Campaign execution
+- Monitor & report campaign program
+- Review & evaluation
 
 ### Lain-lain
