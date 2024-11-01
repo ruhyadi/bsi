@@ -18,13 +18,48 @@ tags: ["digital"]
 
 ### Fungsi Peran
 
+- Policy maker
+  - Membuat kebijakan terkait data governance
+  - Menyusun SPO (Standar Prosedur Operasional) terkait data governance
+  - Menyusun PTO (Prosedur Teknis Operasional) terkait data governance
+- Quality assurance
+  - Memastikan data yang digunakan oleh unit bisnis adalah data yang berkualitas
+  - Memastikan data yang digunakan oleh unit bisnis adalah data yang valid
+  - Memastikan tidak ada data raw yang duplikat
+- Project manager
+  - Mengelola proyek-proyek DDM
+
 ### Bisnis Proses
+
+1. Menentukan tujuan data governance
+2. Analisis prinsip tata kelola data
+3. Menentukan indikator KPI dan tools
+4. Evaluasi
 
 ### Keterkaitan
 
+- Data management: menjaga kualitas data pada data warehouse DM
+- SOR: sebagai pendamping dalam kegiatan risk assessment
+- Dept DDM lain: sebagai policy maker dan quality assurance
+
 ### Ketentuan
 
+- UU Perlindungan Data Pribadi
+- SPO Data Management
+- PTO CIF
+- PTO Data Leads
+
 ### Kegiatan Operational
+
+- Policy maker:
+  - Membuat kebijakan SPO dan PTO
+- Quality assurance
+  - Data cleaning
+  - Data validation (CIF ganda)
+- Project manager
+  - Planning
+  - Budgeting
+  - Koordinasi vendor
 
 ### Lain-lain
 
