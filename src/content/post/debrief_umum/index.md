@@ -177,9 +177,25 @@ Digital Forensic bertugas memeriksa sistem setelah terjadinya insiden. Tujuannya
 
 Hardening and Patch Management bertugas memperkuat sistem (hardening) dan memperbarui perangkat lunak untuk mengatasi kerentanan potensial (patch). Hardening bertujuan mencegah serangan dengan mengurangi permukaan serangan potensial, sementara patch memastikan bahwa kerentanan yang diketahui diperbaiki dengan cepat setelah patch tersedia. Kedua langkah ini meningkatkan ketahanan terhadap serangan siber dan mengurangi risiko keamanan secara keseluruhan.
 
-##### Security Code Review
+###### Security Code Review
 
 Security Code Review bertugas memonitor dan memperbaiki kekurangan keamanan sebelum aplikasi atau perangkat lunak diimplementasikan secara luas. Tujuan utamanya adalah menemukan celah keamanan potensial yang dapat dieksploitasi oleh penyerang dan memastikan bahwa kode tersebut mematuhi praktik keamanan terbaik.
+
+##### IT Security Operations
+
+IT Security Operation (SecOps) merupakan departemen yang melakukan operasional kemanan terhadap arsitektur teknologi Bank BSI, menganalisa penanganan isu terkait perangkat pendeteksi gangguan, mengevaluasi pelaksanaan keamanan informasi, mengimplementasikan pembaharuan perangkat terkait network, system, infrastructure dan melakukan langkah mitigasi terhadap potensi ancaman.
+
+###### Infrastructure and System Security
+
+Infrastructure and System Security melakukan pengamanan dengan menggunakan dengan berbagai cara seperti menggunakan antivirus, xdr, block rdc, serta menggunakan SSH. Keamanan infrastruktur dan system adalah bagian penting dari strategi keamanan informasi yang komprehensif, karena mereka memberikan perlindungan terhadap serangan dan ancaman yang ditujukan langsung kepada aser-aset teknologi informasi organisasi.
+
+###### Network Security
+
+Network Security melakukan perlindungan dengan memitigasi jaringan dari sarangan yang dapat mengambil informasi dengan menggunakan firewall, instrusion prevention system, juga attack surface management. Network security merupakan komponen penting dari strategi keamana informasi yang komprehensif, karena jaringan komputer seringkali menjadi sasaran utama bagi penyerang siber.
+
+###### Cloud Security
+
+Cloud Security melakukan perlindungan dan pengamanan dalam data storage, infrastuktur dan jaringan dalam cloud pada koneksi internet maupun intranet. Cloud security menjadi semakin penting karena banyak organisasi yang memanfaatkan layanan cloud untuk menyimpan data sensitive dan menjalankan aplikasi yang critical.
 
 ## Kesimpulan dan Rekomendasi
 
