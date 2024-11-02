@@ -66,10 +66,14 @@ Dengan memantau dan mengelola indikator-indikator ini, IOG memastikan bahwa laya
 
 ## Ketentuan Operasional
 
-IT Operations Group memegang peran penting dalam penyediaan infrastruktur yang berkaitan dengan operasional bank dengan kerjasama antar departemen di dalamnya. Selama OJT ini, penulis ditempatkan pada Departemen Data Center Management (DCM) khususnya di Data Warehouse. Hal tersebut bertujuan un untuk melakukan beberapa hal secara non-technical. Tim DCM memainkan peran krusial dalam memastikan data center bank beroperasi secara aman, stabil, dan andal untuk mendukung keseluruhan kegiatan operasional bank dan menyediakan layanan perbankan yang lancar bagi pelanggan. 
-
-Data Center Management bertanggung jawab atas pemenuhan kebutuhan resource infrastruktur DC, DRC (server dan storage) sesuai dengan capacity planning dan kebutuhan bisnis, pemenuhan SLA availability > 99% serta menjaga reliability, scalability dan security untuk system very critical, critical dan moderate, DRP terlaksana 1 kali setahun untuk aplikasi critical dan Uptime server DB, CBS, aplikasi surrounding CBS serta aplikasi kritikal lainnya. 
-
-Kegiatan Operasional saat melakukan OJT spesiifik yaitu melakukan monitoring permintaan dan penyediaan server monitoring. Proses permintaan dan penyediaan server dimulai dengan menyediakan permintaan memo atau FKK untuk diisi PMO IT Strategic Group (ISG) ataupun departement yang membutuhkan pembuatan dan penyediaan server yang terkait dengan deployment, permintaan tersebut juga dapat dikirim melalui email (outlook), kemudian menginput data permintaan server di spreadsheet data CMDB server DC DRC kemudian menambahkan ke Planner untuk proses lanjutan.
 
 ## Kegiatan Operasional
+
+IT Operations Group memainkan peran penting dalam menyediakan infrastruktur yang mendukung operasional bank melalui kolaborasi antar departemen. Berikut adalah beberapa kegiatan operasional yang dilakukan oleh IOG:
+
+1. IT Service Desk: Memberikan bantuan teknis kepada pengguna untuk menyelesaikan masalah operasional TI dan memastikan perangkat IT berfungsi optimal.
+2. IT Implementation & Monitoring: Mengelola implementasi dan monitoring aplikasi core, non-core, dan e-channel untuk memastikan stabilitas dan ketersediaan aplikasi sesuai SLA.
+3. Data Center Management: Mengelola infrastruktur Data Center dan Disaster Recovery Center untuk mendukung operasional teknologi informasi sesuai kebutuhan dan strategi perusahaan.
+4. IT Infrastructure/Network Environment: Merancang, memantau, dan mengelola hardware dan software teknologi informasi serta jaringan agar beroperasi optimal sesuai ketentuan dan SLA.
+5. IT Infrastructure Operation Management & Optimization: Mengelola fungsi budgeting, audit, dan ISO, serta mendesain dan menganalisis sistem/infrastruktur untuk mendukung aplikasi digital dan core banking.
+6. Cloud Infrastructure Technology: Mengelola teknologi infrastruktur cloud secara efektif dan efisien melalui aktivitas cloud delivery automation, microservices & application platform, dan network & load balancer support.

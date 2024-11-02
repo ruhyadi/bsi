@@ -187,3 +187,15 @@ IT Planning dan Budgeting melakukan review terhadap FS yang disusun oleh user da
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
+
+
+
+1. Monitoring dan evaluasi kinerja infrastruktur IT untuk memastikan ketersediaan dan keandalan layanan.
+2. Implementasi dan monitoring aplikasi core, aplikasi non-core, dan e-channel untuk memastikan kinerja sistem yang optimal.
+3. Pengelolaan Data Center dan Disaster Recovery Center untuk mendukung operasional teknologi informasi.
+4. Pengembangan dan evaluasi infrastruktur jaringan guna meningkatkan keunggulan kompetitif.
+5. Pengelolaan fungsi budgeting IOG, fungsi liaison & assurance terkait kebutuhan audit dan ISO.
+6. Pengelolaan teknologi infrastruktur cloud secara efektif dan efisien.
+7. Pemantauan dan pengelolaan indikator kinerja utama infrastruktur dan layanan bisnis yang didefinisikan dalam SLA, OLA, dan UC.
+8. Kolaborasi antar departemen untuk menyediakan infrastruktur yang mendukung operasional bank.
+9. Menyusun RCSA, menindaklanjuti hasil audit, meninjau ketentuan, serta melaksanakan standar mutu ISO di IOG.
