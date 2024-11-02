@@ -41,7 +41,20 @@ Departemen IT Infrastructure/Network Environment terbagi menjadi 3 divisi yaitu 
 
 ### IT Infrastructure Operation Management & Optimization
 
+Departemen IT Infrastructure Operation Management & Optimization terbagi menjadi 4 divisi yaitu Database Administrator, Infrastructure & System Optimization, IT Operations Liaison and Assurance, dan Digital Technology Analyst. IT Infrastructure Operation Management & Optimization bertanggung jawab atas pengelolaan fungsi budgeting IOG, fungsi liaison & assurance terkait kebutuhan audit dan ISO, serta memastikan deliverable group comply dengan ketentuan internal dan eksternal. Berikut adalah peran fungsi dari IT Infrastructure Operation Management & Optimization:
+
+1. Merencanakan, menganalisa, serta mendesign seluruh database baik yang bersifat transaksional maupun non transaksional perusahaan dapat dijalankan dengan baik sesuai prosedur.
+2. Melakukan eksplorasi/identifikasi design system/infrastruktur dan topology assessment.
+3. Melakukan pengelolaan OPEX dan Pembayaran Pihak Ketiga, Penyusunan RCSA, Tindak Lanjut Hasil Audit, Review Ketentuan serta pelaksanaan Standar Mutu ISO di IOG serta mengelola aktivitas IT Operations di Overseas Branches.
+4. Melakukan analisa infrastructure yang mendukung aplikasi digital serta melakukan support untuk core banking digital yang berbasis cloud.
+
 ### Cloud Infrastructure Technology
+
+Departemen Cloud Infrastructure Technology terbagi menjadi 3 divisi yaitu Cloud Delivery Automation, Cloud Microservices & Application Platform, dan Cloud Network & Load Balancer Support. Cloud Infrastructure Technology bertanggung jawab atas teknologi infrastruktur cloud dengan efektif dan efisien. Berikut adalah peran fungsi dari Cloud Infrastructure Technology:
+
+1. Melakukan aktivitas cloud delivery automation secara efektif dan efisien.
+2. Melakukan aktivitas cloud microservices & application platform secara efektif dan efisien.
+3. Melakukan aktivitas cloud network & load balancer support secara efektif dan efisien.
 
 ## Bisnis Proses
 
