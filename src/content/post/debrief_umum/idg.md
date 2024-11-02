@@ -12,71 +12,71 @@ Unit kerja IT & Digital Development Group (IDG) bertanggung jawab atas pengemban
 
 ## Fungsi dan Peran
 
-Unit kerja IDG terbagi menjadi sembilan departemen, yaitu: IT Core Banking Development, IT Wholesale & Office Automation Development, IT Payment Integration Develoment, IT Information & Platform Management Development, Classic E-channel Development, IT Financing & Collection Development, IT Customer Banking Platform, IT Service Banking Platform, dan Digital Delivery Enablement. Setiap departemen mempunyai fungsi dan peran berbeda-beda sesuai fokus dan tanggung jawabnya.
+Unit kerja IDG terdiri dari sembilan departemen, yaitu: IT Core Banking Development, IT Wholesale & Office Automation Development, IT Payment Integration Development, IT Information & Platform Management Development, Classic E-channel Development, IT Financing & Collection Development, IT Customer Banking Platform, IT Service Banking Platform, dan Digital Delivery Enablement. Setiap departemen memiliki fungsi dan peran yang berbeda sesuai dengan fokus dan tanggung jawab masing-masing.
 
-Diagram di atas menunjukan struktur organisasi IDG. Masing-masing departemen tersebuh dipimpin oleh seorang Department Head. Namun terdapat perbedaan pada departemen IT Customer Banking Platform, IT Service Banking Platform, dan Digital Delivery Enablement. Masing-masing Departemen Head tersebut bertanggung jawab terhadap seorang Deputi. Kemudian, Deputi yang bertanggung jawab langsung terhadap Group Head.
+Diagram di atas menunjukkan struktur organisasi IDG. Setiap departemen dipimpin oleh seorang Department Head. Namun, ada perbedaan pada departemen IT Customer Banking Platform, IT Service Banking Platform, dan Digital Delivery Enablement. Masing-masing Department Head di departemen tersebut bertanggung jawab kepada seorang Deputi, yang kemudian melapor langsung kepada Group Head.
 
 ### IT Core Banking Development
 
-IT Core Banking Development mempunyai fungsi dan peran sebagai berikut:
+IT Core Banking Development memiliki fungsi dan peran sebagai berikut:
 
 1. Mengembangkan dan mengelola sistem core banking.
 2. Mengembangkan dan mengelola channel yang terintegrasi dengan core banking, seperti T24 dan EXA (Express Account).
 
 ### IT Wholesale & Office Automation Development
 
-IT Wholesale & Office Automation Development mempunyai fungsi dan peran sebagai berikut:
+IT Wholesale & Office Automation Development memiliki fungsi dan peran sebagai berikut:
 
-1. Melakukan pengembangan aplikasi wholesale & office automation.
-2. Melakukan monitoring dan maintenance aplikasi wholesale & office automation.
+1. Mengembangkan aplikasi wholesale & office automation.
+2. Melakukan monitoring dan pemeliharaan aplikasi wholesale & office automation.
 
 ### IT Payment Integration Development
 
-IT Payment Integration Development mempunyai fungsi dan peran sebagai berikut:
+IT Payment Integration Development memiliki fungsi dan peran sebagai berikut:
 
-1. Melakukan pengembangan middleware payment, seperti payment gateway dan payment switch.
+1. Mengembangkan middleware payment, seperti payment gateway dan payment switch.
 2. Melakukan integrasi dengan third party payment gateway dan payment switch.
 
 ### IT Information & Platform Management Development
 
-IT Information & Platform Management Development mempunyai fungsi dan peran sebagai berikut:
+IT Information & Platform Management Development memiliki fungsi dan peran sebagai berikut:
 
 1. Melakukan ETL (Extract, Transform, Load) data core banking.
-2. Memberikan data yang diperlukan untuk keperluan SLIK (Sistem Layanan Informasi Keuangan) OJK (Otoritas Jasa Keuangan).
-3. Melakukan pengembangan dashboard untuk pengambilan data core banking.
+2. Menyediakan data yang diperlukan untuk keperluan SLIK (Sistem Layanan Informasi Keuangan) OJK (Otoritas Jasa Keuangan).
+3. Mengembangkan dashboard untuk pengambilan data core banking.
 
 ### Classic E-channel Development
 
-Classic E-channel Development mempunyai fungsi dan peran sebagai berikut:
+Classic E-channel Development memiliki fungsi dan peran sebagai berikut:
 
-1. Melakukan pengembangan aplikasi e-channel, seperti internet banking dan mobile banking.
+1. Mengembangkan aplikasi e-channel, seperti internet banking dan mobile banking.
 2. Melakukan integrasi dengan middleware payment.
 
 ### IT Financing & Collection Development
 
-IT Financing & Collection Development mempunyai fungsi dan peran sebagai berikut:
+IT Financing & Collection Development memiliki fungsi dan peran sebagai berikut:
 
-1. Melakukan pengembangan aplikasi pembiayaan dan penagihan untuk mendukung unit kerja pembiayaan dan penagihan (Consumer, Micro, SME, Wholesale Financing).
+1. Mengembangkan aplikasi pembiayaan dan penagihan untuk mendukung unit kerja pembiayaan dan penagihan (Consumer, Micro, SME, Wholesale Financing).
 2. Membuat business logic terkait pembiayaan dan penagihan.
 
 ### IT Customer Banking Platform
 
-IT Customer Banking Platform mempunyai fungsi dan peran sebagai berikut:
+IT Customer Banking Platform memiliki fungsi dan peran sebagai berikut:
 
-1. Melakukan pengembangan aplikasi customer banking platform atau super app BYOND.
-2. Bertanggung jawab atas pelaksaan dan pengembangan aplikasi BYOND.
+1. Mengembangkan aplikasi customer banking platform atau super app BYOND.
+2. Bertanggung jawab atas pelaksanaan dan pengembangan aplikasi BYOND.
 
 ### IT Service Banking Platform
 
-IT Service Banking Platform mempunyai fungsi dan peran sebagai berikut:
+IT Service Banking Platform memiliki fungsi dan peran sebagai berikut:
 
-1. Melakukan integrasi antara API aplikasi internal dan eksternal. Integrasi dilakukan menggunakan ESB (Enterprise Service Bus).
-2. Melakukan pengembangan open API BaaS (Banking as a Service).
-3. Melakukan monitoring dari API yang sudah diintegrasikan.
+1. Melakukan integrasi antara API aplikasi internal dan eksternal menggunakan ESB (Enterprise Service Bus).
+2. Mengembangkan open API BaaS (Banking as a Service).
+3. Melakukan monitoring terhadap API yang sudah diintegrasikan.
 
 ### Digital Delivery Enablement
 
-Digital Delivery Enablement mempunyai fungsi dan peran sebagai berikut:
+Digital Delivery Enablement memiliki fungsi dan peran sebagai berikut:
 
 1. Mengelola kebutuhan untuk menunjang pengembangan aplikasi digital.
 2. Bertanggung jawab atas ketersediaan manpower, infrastruktur, dan kebutuhan lainnya untuk pengembangan aplikasi digital.
