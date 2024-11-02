@@ -111,50 +111,52 @@ Kegiatan operasional IT & Digital Development Group mengikuti SDLC (System Devel
 
 ## Kegiatan Operasional
 
-IT & Digital Development Group dalam menjalankan peranannya tidak terlepas dari kegitan operasional. Kegiatan operasional tercantum dalam PTO SDLC dan SDLC Agile. Berdasarkan PTO SDLC, kegiatan operasional IT & Digital Development Group adalah sebagai berikut:
+IT & Digital Development Group dalam menjalankan perannya tidak terlepas dari kegiatan operasional yang tercantum dalam PTO SDLC dan SDLC Agile. Berdasarkan PTO SDLC, kegiatan operasional IT & Digital Development Group meliputi:
 
-1. Kegiatan operasional programmer internal adalah:
-   1. Melakukan pengembangan sistem/aplikasi, apabila tidak menggunakan jasa vendor. 
-   2. Membuat dokumen pengembangan Software Development Document (SDD).
-   3. Memperbaiki kelemahan atau permasalahan pada sistem/aplikasi berdasarkan hasil tahapan uji coba. 
-   4. Melakukan Software Versioning, untuk memudahkan dalam melakukan tracking pengembangan, perubahan-perubahan atau revisi yang terjadi di dalam source code yang digunakan pada tahapan pengembangan maupun uji coba. 
-   5. Menyimpan source code dan object delivery dari suatu sistem/aplikasi yang dikembangkan dalam Version Control System (VCS) dan Repository Tools mengacu PTO Pengelolaan Source Code
-2. Kegiatan operasional programmer ekternal adalah:
-   1. Melakukan pengembangan sistem/aplikasi sesuai Request for Proposal (RFP) dan Surat Perintah Kerja (SPK) dan/atau perjanjian kontrak kerjasama (PKS).
-   2. Menyusun dokumen Functional Specification Document (FSD). 
-   3. Menyusun dokumen Technical Specification Document (TSD). 
-   4. Memperbaiki kelemahan atau permasalahan pada sistem/aplikasi berdasarkan hasil tahapan uji coba. 
-   5. Menyelesaikan pengembangan sesuai timeline yang disepakati dalam SPK/PKS. 
-   6. Memberikan source code dan object delivery dari suatu sistem/aplikasi yang dikembangkan kepada IT Development
+1. Kegiatan operasional programmer internal:
+   1. Mengembangkan sistem/aplikasi tanpa menggunakan jasa vendor.
+   2. Menyusun dokumen pengembangan Software Development Document (SDD).
+   3. Memperbaiki kelemahan atau masalah pada sistem/aplikasi berdasarkan hasil uji coba.
+   4. Melakukan Software Versioning untuk memudahkan tracking pengembangan, perubahan, atau revisi pada source code selama tahap pengembangan dan uji coba.
+   5. Menyimpan source code dan object delivery dari sistem/aplikasi yang dikembangkan dalam Version Control System (VCS) dan Repository Tools sesuai PTO Pengelolaan Source Code.
 
-Kemudian, berdasarkan SDLC Agile, kegiatan operasional IT & Digital Development Group adalah sebagai berikut:
+2. Kegiatan operasional programmer eksternal:
+   1. Mengembangkan sistem/aplikasi sesuai Request for Proposal (RFP), Surat Perintah Kerja (SPK), dan/atau perjanjian kontrak kerjasama (PKS).
+   2. Menyusun dokumen Functional Specification Document (FSD).
+   3. Menyusun dokumen Technical Specification Document (TSD).
+   4. Memperbaiki kelemahan atau masalah pada sistem/aplikasi berdasarkan hasil uji coba.
+   5. Menyelesaikan pengembangan sesuai timeline yang disepakati dalam SPK/PKS.
+   6. Menyerahkan source code dan object delivery dari sistem/aplikasi yang dikembangkan kepada IT Development.
 
-1. Kegiatan operasional dari Scrum Master adalah:
-   1. Memastikan scrum (kerangka kerja/framework) dalam suatu project dapat berjalan lancar. 
-   2. Memastikan metode Agile Development dapat diimplementasikan oleh Squad Member dan Squad Support, serta menjadi penghubung antara Product Owner dengan Development Team. 
-   3. Memastikan pekerjaan Squad Member dan Squad Support sesuai dengan prioritas dan timeline yang telah ditetapkan. 
-   4. Mengatur dan administrasi dokumentasi dari setiap project. 
-   5. Mengajukan permintaan kepada CISO terkait akses firewall. 
-   6. Mengajukan permintaan kepada Unit Kerja IOG terkait permintaan server baru, penambahan development environment, atau testing server eksisting. 
-   7. Scrum master dapat mengundang/meminta Squad Support yang diperlukan untuk hadir dalam daily activity meeting.
-   8. Memfasilitasi pertemuan Backlog Grooming dan memastikan peserta Backlog Grooming wajib hadir terutama Product Owner termasuk Group Head dan/atau Department Head Product Owner, Squad Member, dan Squad Sponsor (antara lain Unit kerja Risk terkait dan IT Security). 
-   9. Memeriksa kesiapan dan kelengkapan dari setiap Product Backlog untuk menjadi catatan produk yang dapat disertakan ke dalam aktivitas selanjutnya. Apabila daftar kesiapan tidak terpenuhi, maka Product Backlog tidak dapat dimasukkan pada aktivitas perencanaan pengembangan. 
-   10. Berkoordinasi dengan koordinator Stress Test untuk pelaksanaan Stress Test. 
-   11. Memastikan hasil pengembangan telah memenuhi mitigasi resiko dari Risk Registry dan Security baseline. 
-   12. Memonitor dan memastikan catatan hasil RCB dari implementasi sebelumnya telah terpenuhi. 
-   13. Mengangkat catatan hasil Post Implementation Review (PIR) dari iterasi sebelumnya untuk dibahas. Apabila dibutuhkan dapat dilakukan penyesuaian terhadap Product Backlog oleh Product Owner. 
-   14. Memandu kegiatan dan mengundang semua Squad untuk melakukan pembahasan Product Backlog yang akan dieksekusi ke dalam Sprint. 
-   15. Memastikan Product Backlog yang diajukan telah memenuhi syarat untuk dieksekusi ke dalam Sprint. 
-   16. Memastikan kriteria produk selesai (Definition of Done) dari Product Owner telah tersedia, apabila produk akan dilanjutkan ke tahapan implementasi. 
-   17. Memfasilitasi kegiatan praktik Daily Scrum dengan mengundang anggota Squad.
-   18. Membantu komunikasi antar anggota tim apabila terdapat kebutuhan atau kendala yang timbul selama proses pengembangan. 
-   19. Memastikan setiap proses pengembangan tidak melebihi batas tugas yang disepakati. 
-   20. Memasukkan dokumen hasil pengembangan (TSD), pengujian integrasi (SIT), dan pengujian performa (Stress Test) ke dalam Aplikasi Managemen Proyek.
-2. Kegiatan operasional dari peranan IT Developer adalah:
-   1. Melakukan pengkodean program dengan memerhatikan User Story dan Acceptance Criteria yang telah ditetapkan, serta menghindari risiko yang dapat muncul dari proses pengembangan. 
-   2. Memberikan estimasi jangka waktu pengkodean program untuk suatu tugas. 
-   3. Memerhatikan jangka waktu pengerjaan yang telah disepakati untuk proses pengembangan. 
-   4. Berkomunikasi dengan System Analyst atau Business Analyst untuk mendapatkan detail dari alur sistem atau dependensi dengan system lain. 
-   5. Menggunakan GIT untuk berkolaborasi antara pengembangan dan pengelolaan versi kode program. 
-   6. Meninjau hasil pengujian, apabila terdapat ketidaksesuaian maka pengembang perlu melakukan perbaikan. 
-   7. Menyusun dokumen hasil pengembangan atau dokumen TSD yang mencantumkan perubahan atau penambahan kode program, daftar request dan response dari service, dan cara implementasi.
+Berdasarkan SDLC Agile, kegiatan operasional IT & Digital Development Group meliputi:
+
+1. Kegiatan operasional Scrum Master:
+   1. Memastikan kerangka kerja scrum berjalan lancar dalam suatu proyek.
+   2. Memastikan metode Agile Development diimplementasikan oleh Squad Member dan Squad Support, serta menjadi penghubung antara Product Owner dan Development Team.
+   3. Memastikan pekerjaan Squad Member dan Squad Support sesuai prioritas dan timeline yang ditetapkan.
+   4. Mengatur dan mengelola dokumentasi dari setiap proyek.
+   5. Mengajukan permintaan akses firewall kepada CISO.
+   6. Mengajukan permintaan server baru, penambahan development environment, atau testing server eksisting kepada Unit Kerja IOG.
+   7. Mengundang/meminta Squad Support yang diperlukan untuk hadir dalam daily activity meeting.
+   8. Memfasilitasi pertemuan Backlog Grooming dan memastikan peserta wajib hadir, terutama Product Owner, Group Head, Department Head Product Owner, Squad Member, dan Squad Sponsor (termasuk Unit kerja Risk terkait dan IT Security).
+   9. Memeriksa kesiapan dan kelengkapan setiap Product Backlog untuk disertakan dalam aktivitas selanjutnya. Jika tidak memenuhi syarat, Product Backlog tidak dapat dimasukkan dalam perencanaan pengembangan.
+   10. Berkoordinasi dengan koordinator Stress Test untuk pelaksanaan Stress Test.
+   11. Memastikan hasil pengembangan memenuhi mitigasi risiko dari Risk Registry dan Security baseline.
+   12. Memonitor dan memastikan catatan hasil RCB dari implementasi sebelumnya telah terpenuhi.
+   13. Mengangkat catatan hasil Post Implementation Review (PIR) dari iterasi sebelumnya untuk dibahas. Jika diperlukan, Product Owner dapat menyesuaikan Product Backlog.
+   14. Memandu kegiatan dan mengundang semua Squad untuk membahas Product Backlog yang akan dieksekusi dalam Sprint.
+   15. Memastikan Product Backlog yang diajukan memenuhi syarat untuk dieksekusi dalam Sprint.
+   16. Memastikan kriteria produk selesai (Definition of Done) dari Product Owner tersedia sebelum produk dilanjutkan ke tahap implementasi.
+   17. Memfasilitasi kegiatan Daily Scrum dengan mengundang anggota Squad.
+   18. Membantu komunikasi antar anggota tim jika ada kebutuhan atau kendala selama proses pengembangan.
+   19. Memastikan setiap proses pengembangan tidak melebihi batas tugas yang disepakati.
+   20. Memasukkan dokumen hasil pengembangan (TSD), pengujian integrasi (SIT), dan pengujian performa (Stress Test) ke dalam Aplikasi Manajemen Proyek.
+
+2. Kegiatan operasional IT Developer:
+   1. Melakukan pengkodean program dengan memperhatikan User Story dan Acceptance Criteria yang ditetapkan, serta menghindari risiko yang mungkin muncul selama pengembangan.
+   2. Memberikan estimasi waktu pengkodean program untuk suatu tugas.
+   3. Memperhatikan jangka waktu pengerjaan yang disepakati untuk proses pengembangan.
+   4. Berkomunikasi dengan System Analyst atau Business Analyst untuk mendapatkan detail alur sistem atau dependensi dengan sistem lain.
+   5. Menggunakan GIT untuk kolaborasi pengembangan dan pengelolaan versi kode program.
+   6. Meninjau hasil pengujian dan melakukan perbaikan jika terdapat ketidaksesuaian.
+   7. Menyusun dokumen hasil pengembangan atau dokumen TSD yang mencantumkan perubahan atau penambahan kode program, daftar request dan response dari service, serta cara implementasi.
