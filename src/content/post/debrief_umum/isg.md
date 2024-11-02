@@ -2,7 +2,7 @@
 
 Unit IT Strategic and Planning Group (ISG) bertanggung jawab untuk merancang dan mengawasi perencanaan strategis teknologi informasi yang selaras dengan kebutuhan bisnis perusahaan. Strategi unit kerja ISG dijelaskan pada Gambar 1 berikut ini:
 
-### 1. Stakeholder Vision Business Aspiration
+### Stakeholder Vision Business Aspiration
 
 Strategi ini berfokus pada pengumpulan informasi dan kebutuhan dari para stakeholder, baik internal maupun eksternal, terkait visi dan aspirasi bisnis yang ingin dicapai. Informasi yang diperoleh menjadi dasar dalam merumuskan strategi teknologi informasi yang sesuai dengan kebutuhan bisnis perusahaan. Visi dan aspirasi bisnis dari stakeholder ini tercantum dalam dokumen IT Strategic Plan (ITSP) yang diselaraskan dengan Rencana Bisnis Bank (RBB) dan Rencana Korporasi (Corplan).
 
