@@ -161,6 +161,26 @@ Data Protection Management bertugas untuk melakukan pencegahan dan deteksi pelan
 
 Data Encryption & Key Management bertugas mengelola konfigurasi kunci pribadi (private key) melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi yang dilakukan serta mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
 
+##### IT Security Services
+
+IT Security Services merupakan departemen yang melakukan assessment keamanan informasi, serta menerapkan penyelarasan keamanan, kegiatan forensik, mengevaluasi laporan hasil tindak lanjut investigasi dan melakukan mitigasi risiko. Dengan tujuan untuk melindungi perusahaan dari ancaman siber yang terus berkembang.
+
+###### Security Assessment
+
+Security Assessment merupakan strategi dalam melakukan checking terhadap semua system yang dimiliki untuk tindakan preventif sebelum insiden. Tujuan dari security assessment adalah untuk mengidentifikasi kelemahan atau kerentanan keamanan yang mungkin ada dalam infrastruktur TI Perusahaan, serta memberikan rekomendasi untuk memperbaiki atau mengurangi rirsiko keamanan yang terkait. Melalui proses security assessment, Perusahaan dapat mengidentifikasi, mengurangi, dan mengelola risiko keamanan mereka dengan lebih baik, serta memastikan bahwa infrastruktur TI tetap erlindungi dari ancaman siber yang terus berkembang.
+
+###### Digital Forensic
+
+Digital Forensic melakukan pengecekan terhadap system setelah terjadinya insiden. Bertujuan untuk memulihkan, menganalisis, dan memvalidasi data yang ditemukan pada perangkat elektronik atau media digital. Digital forensic memiliki peran yang sangat penting dalam menyelidiki dan menangani pelanggaran keamanan, serta memfasilitasi proses hukum dan keadilan.
+
+###### Hardening and Patch Management
+
+Hardening and Patch Management melakukan penguatan dalam sisi sistem (hardening) dan pembaharuan software untuk mengatasi kerentanan potensi riisko (patch). Hardening bertujuan untuk mencegah serangan dengan mengurangi permukaan serangan potensial, sementara patch memastikan bahwa kerentanan yang diketahui diperbaiki dengan cepat setelah patch tersedia, Dimana dapat meningkatkan ketahanan terhadap serangan siber dan mengurangi risiko keamanan secara keseluruhan.
+
+##### Security Code Review
+
+Security Code Review melakukan monitoring dalam menemukan dan memperbaiki kurangnya keamanan sebelum aplikasi atau perangkat lunak tersebut diimplementasikan secara luas serta memastikan aplikasi yang dikembangkan aman dari potensi serangan siber.tujuan utamanya adalah untuk menemukan celah keamanan potensial yang dapat dieksploitasi oleh penyerang dan memastikan bahwa kode tersbeut mematuhi praktik keamanan yang terbaik.
+
 ## Kesimpulan dan Rekomendasi
 
 ## Penutup
