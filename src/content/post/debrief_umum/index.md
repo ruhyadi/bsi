@@ -197,6 +197,22 @@ Network Security bertugas mengamankan jaringan dari serangan yang dapat mencuri 
 
 Cloud Security bertugas melindungi dan mengamankan data, infrastruktur, dan jaringan yang berada di cloud, baik pada koneksi internet maupun intranet. Keamanan cloud menjadi semakin penting karena banyak organisasi menggunakan layanan cloud untuk menyimpan data sensitif dan menjalankan aplikasi penting.
 
+##### Security Operations Center
+
+Security Operation Center bertanggung jawab untuk mengawasi, mendeteksi, mengevaluasi dan merespons ancaman keamanan informasi dan serangan siber terhadap suatu organisasi.
+
+###### Security Monitoring
+
+Security Monitoring melakukan monitor atas insiden yang terjadi dengan tujuan untuk mengidentifikasi serangan siber, pelanggaran keamanan, atau perilaku yang tidak biasa dapat menunjukkan kegiatan yang mencurigakan di dalam atau di sekitar jaringan atau system. Melalui security monitoring yang efektif, orgaisasi dapat mengidentifikasi serangan siber lebih cepat, meminimalkan dampaknya, dan meningkatkan kemampuan untuk melindungi infrastruktur IT dari ancaman kemanan yang terus berkembang.
+
+###### Incident Response
+
+Incident Response melakukan validasi terhadap pola aktivitas yang terjadi dan memberikan penanganan atas kejadian yang terjadi terkait IT Security, dengan tujuan untuk mengurangi dampak insiden, mengidentifikasi penyebabnya, memulihkan layanan yang terpengaruh, serta memastikan bahwa serangan atau pelanggaran keamanan yang terjadi tidak terulang di masa mendatang.
+
+###### Threat Hunting
+
+Threat Hunting bertugas akif untuk mencari ancaman yang mungkin ada dalam jaringan atau system IT suatu organisasi. Tujuannya adalah untuk mengidentifikasi dan menangani ancaman yang tidak terdeteksi oleh solusi keamanan otomatis, serta untuk mencegah serangan yang lebih luas. Threat Hunting merupakan pendekatan yang penting dalam keamanan informasi modern yang membantu organisasi mengidentifikasi dan mengatasi ancaman siber yang tidak terdeteksi. Dengan melaksanakan Threat Hunting secara teratur, organisasi dapat meningkatkan kemampuan mereka untuk merespons secara cepat dan efektif terhadap 15ancaman yang muncul dan melindungi infrasturktur IT dari serangan siber.
+
 ## Kesimpulan dan Rekomendasi
 
 ## Penutup
