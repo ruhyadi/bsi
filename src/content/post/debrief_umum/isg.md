@@ -186,4 +186,40 @@ IT Planning dan Budgeting melakukan review terhadap FS yang disusun oleh user da
 
 ## Ketentuan Operasional
 
+Aktivitas kegiatan operasional IT Strategic Planning Group didasarkan pada ketentuan internal PT Bank Syariah Indonesia Tbk dan juga ketentuan yang ditetapkan oleh regulator. Berikut beberapa ketentuan kegiatan operasional terkait dengan pengembangan produk digital Bank yang diterapkan oleh IT Strategic Planning Group:
+
+### Ketentuan Internal
+
+Ketentuan internal yang berlaku di PT Bank Syariah Indonesia Tbk terkait dengan pengembangan produk digital Bank adalah sebagai berikut:
+
+#### Standar Prosedur Operasional (SPO) Teknologi Informasi
+
+SPO Teknologi Informasi meliputi pengaturan proses perencanaan, pengembangan, pengelolaan operasional, sampai dengan pengamanan TI secara end to end yang berlaku di PT Bank Syariah Indonesia Tbk. Pada kegiatan operasional di ISG, SPO TI mengatur hal- hal yang terkait dengan:
+
+1. Perencanaan Teknologi Informasi
+2. Pengembangan Teknologi Informasi
+3. Dokumentasi, Administrasi, dan Pelaporan
+4. Monitoring dan Mitigasi Risiko
+
+#### Petunjuk Teknis Operasional (PTO)
+
+PTO digunakan menjadi panduan yang merinci langkah-langkah atau instruksi teknis yang harus diikuti untuk menjalankan proses, perangkat, atau sistem dengan benar dan efisien. PTO yang berlaku meliputi:
+
+1. PTO SDLC: PTO ini mengatur tahapan proses dalam proses SDLC untuk pengembangan sistem/aplikasi dengan menggunakan metode SDLC Waterfall Development Model
+2. PTO SDLC Agile: PTO SLDC Agile mengatur tahapan proses dalam SDLC untuk pembuatan/pengembangan sistem/aplikasi dengan menggunakan metode SDLC Agile
+3. PTO RCB: PTO ini mengatur terkait salah satu tahapan proses dalam SDLC yaitu tahapan RCB (Release Control Board)
+
+#### ITSP/RSTI BSI
+
+Sebuah dokumen yang berisi arah, tujuan, dan rencana tindakan dalam jangka waktu 5 tahun yang berkaitan dengan pemanfaatan teknologi informasi untuk mencapai tujuan bisnis atau organisasi secara keseluruhan. ITSP/RSTI mencakup langkah-langkah yang direncanakan untuk mengembangkan, mengimplementasikan, dan mengelola TI guna mendukung kebutuhan bisnis dan memberikan nilai tambah bagi perusahaan.
+
+
+### Ketentuan Eksternal (Regulator)
+
+Ketentuan eksternal yang berlaku di PT Bank Syariah Indonesia Tbk terkait dengan pengembangan produk digital Bank adalah sebagai berikut:
+
+1. UU No.19/2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik 
+2. Peraturan Otoritas Jasa Keuangan (POJK) No. 38/POJK.03/2016 tentang Penerapan Manajemen Risiko dalam Penggunaan Teknologi Informasi oleh Bank Umum sebagaimana diubah dengan POJK No. 13/POJK.03/2020 tentang Perubahan atas Peraturan Otoritas Jasa Keuangan dalam Penggunaan Teknologi Informasi oleh Bank Umum 
+3. Peraturan Bank Indonesia No. 9/15/2007 tanggal 30 November 282007 tentang Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi Oleh Bank Umum berikut segala perubahannya.
+
 ## Kegiatan Operasional
