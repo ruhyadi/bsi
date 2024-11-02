@@ -90,6 +90,40 @@ IT Security Quality Assurance adalah bagian dari departemen Security Project & Q
 5. Mengelola profil risiko operasional di unit kerja CSO.
 6. Mengelola pemenuhan KPI Group CSO.
 
+##### Application Identity Management 
+
+Application Identity Management merupakan sub departemen yang mengelola identitas dan hak akses pengguna terhadap suatu aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuannya adalah untuk memastikan bahwa pengguna memiliki akses yang tepat ke aplikasi sesuai dengan kebutuhannya.
+
+###### Identity Management
+
+Identity Management bertanggung jawab untuk mengelola identitas pengguna dan hak aksesnya terhadap aplikasi perangkat lunak di BSI. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Melakukan ticketing operasional terkait kebutuhan user. 
+2. Melakukan review user terkait user yang aktif. 
+3. Melakukan review user matrix.
+
+###### Privilege Access Management
+
+Privilege Access Management bertanggung jawab untuk mengelola hak akses khusus (privilege access) yang diberikan kepada pengguna tertentu. Hak akses khusus ini biasanya diberikan kepada pengguna yang memiliki tanggung jawab khusus atau akses ke data sensitif. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Mengatur dan memantau hak akses khusus untuk memastikan hanya pengguna yang berwenang.
+2. Memastikan bahwa pengguna yang diberikan hak akses khusus telah melalui proses otentikasi dan otorisasi yang ketat.
+3. Mengelola kata sandi untuk akun dengan hak akses khusus, termasuk rotasi kata sandi secara berkala dan penggunaan kata sandi yang kuat.
+
+###### Endpoint Access Management
+
+Endpoint Access Management melakukan pengelolaan akses seperti desktop, laptop, tablet dan handphone. Tujuan utamanya adalah untuk memastikan bahwa hanya pengguna yang sah dan perangkat yang diberikan izin yang dapat mengakses data dan sumber daya jaringan yang sensitif. Dengan menerapkan Endpoint Access Management secara efektif organisasi dapat mengurangi risiko keamanan, menjaga kepatuhan, dan memastikan bahwa sumber daya dan data sensitif dilindungi dengan baik. 
+
+###### Directory Services & Email Management
+
+Directory Services & Email Management bertanggung jawab untuk mengelola konfigurasi dalam penyimpanan, pembuatan dan penghapusan data seperti informasi pengguna, hak akses, email dan lainnya. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Penerapan global policy object. 
+2. Manage akses user pada active directory hybrid. 
+3. Handle user, computer, aplikasi, dan policy. 
+4. Manage assigment licence.
+
+
 ## Kesimpulan dan Rekomendasi
 
 ## Penutup
