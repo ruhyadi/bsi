@@ -45,12 +45,29 @@ Tujuan penulisan laporan ini adalah untuk:
 
 ## Pembahasan
 
-Pembahasan meliputi:
+### Chief Information Security Officer (CSO)
 
-- Tugas dan fungsi
-- Alur proses
-- Output kerja
-- Keterkaitan proses kerja
+#### Strategi Unit Kerja
+
+Unit kerja Chief Information Security Officer (CSO) bertanggung jawab atas keamanan informasi dan sistem informasi di BSI. Strategi unit kerja ini difokuskan pada pencegahan dan deteksi ancaman keamanan informasi, perlindungan data nasabah, dan kepatuhan terhadap regulasi yang berlaku. Dalam menghadapi ancaman keamanan yang semakin kompleks, CSO BSI mengadopsi pendekatan proaktif dan berbasis risiko untuk memastikan keamanan informasi dan sistem informasi.
+
+Strategi umum yang ditetapkan CSO mengikuti standar Internasional yaitu framework NIST (National Institute of Standards and Technology). NIST digunakan sebagai acuan penilaian resiko keamanan informasi. Framework ini akan diturunkan menjadi peran-peran yang akan diambil oleh setiap departemen di CSO. Framework ini berfokus pada aspek Identify, Detect, Response, dan Recover terhadap ancaman keamanan siber.
+
+1. Identifikasi (Identify): mencakup pengenalan dan pencatatan asset IT yang dimiliki oleh organisasi. Identifikasi yang baik memungkinkan manajemen keamanan untuk memiliki pemahaman yang kuat terkait apa yang harus dilindungi.
+2. Proteksi (Protect): Langkah-langkah ini dirancang untuk melindungi asset IT dari berbagai ancaman, seperti serangan siber. Dimana mencakup penggunaan firewall, enkripsi data, sistem otentikasi yang kuat, dan tindakan keamanan lainnya.
+3. Deteksi (Detect): Pemantauan terus-menerus terhadap aktivitas di jaringan dan sistem IT. Bertujuan untuk mendeteksi adanya perilaku yang mencurigakan atau indikasi serangan siber yang sedang berlangsung.
+4. Respons (Respond): Ketika serangan atau insiden terjadi, penting untuk merespons dengan cepat dan efektif. Ini termasuk mengambil tindakan untuk menghentikan serangan, memperbaiki kerusakan, dan mengurangi dampaknya.
+5. Pemulihan (Recover): Pemulihan terhadap sistem dan data yang terkena dampak. Meliputi pemulihan data dari cadangan, memperbaiki kerusakan pada system, dan memastikan bahwa operasi organisasi dapat kembali normal secepat mungkin.
+
+CSO Office Group di dalam Corporate Plan masuk pada project 8 Modern Tech & Infrastructure stream Cyber-Resilience. CSO Office Group juga berperan aktif dalam melakukan support project corplan lainnya. Selain itu CSO Office Group mempunyai target memenuhi roadmap ITSP yang berdasarkan pada framework NIST dimana target tersebut merupakan salah satu dari KPI group.
+
+Dalam menjelaskan Fungsi dan Unit kerja, CSO melakukan pendekatan sesuai dengan PPT framework yaitu People, Process, and Technology. People, Process, and Technology (PPT) adalah pendekatan komprehensif untuk meningkatkan keamanan dalam sebuah organisasi.
+
+Pendekatan ini mengakui bahwa langkah-langkah keamanan yang efektif memerlukan integrasi seimbang dari tiga elemen penting yaitu Manusia, Proses, dan Teknologi. Komponen pertama adalah pada sisi manusia/ people yang mempengaruhi. Terdapat organisasi CSO, training mengenai security awareness, dan sosialisasi mengenai security policy kepada nasabah dan pegawai. Komponen kedua adalah proses yang dilakukan dalam pengendalian risiko layanan digital BSI. Proses ini mencakup peraturan standar dan prosedur security, resiko management security, physical security, dan management perihal userid / identity. Untuk melaksanakan proses tersebut, diperlukan komponen teknologi yang menunjang. Teknologi yang digunakan adalah anti DDOS, web application firewall, next generation firewall, anti-malware, dan pengelolaan user akses menggunakan PAM, IAM. Melalui 3 komponen tersebut, maka didapat strategi CSO yang diterapkan menjadi jobdesk, ketentuan operasional dan kegiatan operasional di setiap departemen CSO.
+
+#### Fungsi dan Peran Unit Kerja
+
+CSO terbagi dalam 6 fungsi, yaitu: Security Project & QA, Application Identity Management, Network Access & Data Protection, IT Security Services, IT security Operations, Security Operations Center. Berikut struktur organisasi CSO:
 
 ## Kesimpulan dan Rekomendasi
 
