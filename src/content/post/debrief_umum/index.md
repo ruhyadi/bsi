@@ -64,7 +64,31 @@ Selain itu, CSO juga menggunakan pendekatan PPT (People, Process, and Technology
 
 #### Fungsi dan Peran Unit Kerja
 
-CSO terbagi dalam 6 fungsi, yaitu: Security Project & QA, Application Identity Management, Network Access & Data Protection, IT Security Services, IT Security Operations, Security Operations Center. Berikut struktur organisasi CSO:
+CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Application Identity Management, Network Access & Data Protection, IT Security Services, IT Security Operations, Security Operations Center. Setiap departemen memiliki fungsi dan peran yang berbeda sesuai dengan fokus dan tanggung jawabnya.
+
+##### Security Project & QA
+
+Security Project & Quality Assurance adalah sub-departemen dalam CSO yang bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Mereka mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik.
+
+###### IT Security Project
+
+IT Security Project bertugas meningkatkan dan melindungi keamanan sistem informasi dan teknologi organisasi. Tujuannya adalah untuk mengidentifikasi, mengurangi, dan mengelola risiko keamanan yang terkait dengan penggunaan teknologi informasi. Berikut adalah tugas dan tanggung jawab IT Security Project:
+
+1. Mengelola proyek atau pengadaan perangkat/jasa keamanan internal CSO.
+2. Mengawal proses pengadaan mulai dari proposal, BAST, PKS hingga implementasi.
+3. Memberikan saran terkait IT Security kepada grup lain yang membutuhkan.
+4. Mengajukan proposal dan anggaran untuk proyek di CSO berdasarkan kebutuhan end user.
+
+###### IT Security Quality Assurance
+
+IT Security Quality Assurance adalah bagian penting dari strategi keamanan informasi yang komprehensif dan memainkan peran kunci dalam melindungi organisasi dari ancaman keamanan yang berkembang. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Memastikan proses kerja di seluruh departemen mematuhi ketentuan internal dan eksternal.
+2. Memantau kinerja keamanan secara berkala.
+3. Melakukan tes keamanan yang tepat.
+4. Memastikan aktivitas audit di CSO berjalan dengan baik.
+5. Mengelola profil risiko operasional di unit kerja CSO.
+6. Mengelola pemenuhan KPI Group CSO.
 
 ## Kesimpulan dan Rekomendasi
 
