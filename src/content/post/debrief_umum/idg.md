@@ -1,15 +1,14 @@
-
 ## Strategi
 
-Unit kerja IT & Digital Development Group (IDG) bertanggung jawab atas pengembangan aplikasi dan sistem digital di BSI. Stategi IDG mengacu pada Rencana Stategis Teknologi Informasi (RSTI) 2021-2025. Strategi tersebut antara lain:
+Unit kerja IT & Digital Development Group (IDG) bertanggung jawab atas pengembangan aplikasi dan sistem digital di BSI. Strategi IDG didasarkan pada Rencana Strategis Teknologi Informasi (RSTI) 2021-2025. Strategi ini mencakup beberapa aspek penting, yaitu:
 
-1. Stabilisasi core banking
-2. Adaptasi teknologi baru 
-3. Mengembangkan kapabilitas baru melalui pengembangan sumber daya manusia 
-4. Digitalisasi bisnis diantaranya: 
-   1. Peningkatan user aktif mobile banking 
-   2. Shifting transaction ke digital 
-   3. Digitalisasi proses bisnis
+1. Menstabilkan sistem core banking untuk memastikan keandalan dan kinerja yang optimal.
+2. Mengadopsi teknologi baru untuk meningkatkan efisiensi dan inovasi.
+3. Meningkatkan kapabilitas melalui pengembangan sumber daya manusia yang berkelanjutan.
+4. Melakukan digitalisasi bisnis yang meliputi:
+   1. Meningkatkan jumlah pengguna aktif mobile banking.
+   2. Mengalihkan transaksi ke platform digital.
+   3. Mendigitalisasi proses bisnis untuk meningkatkan efisiensi operasional.
 
 ## Fungsi dan Peran
 
