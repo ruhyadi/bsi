@@ -92,37 +92,36 @@ IT Security Quality Assurance adalah bagian dari departemen Security Project & Q
 
 ##### Application Identity Management 
 
-Application Identity Management merupakan sub departemen yang mengelola identitas dan hak akses pengguna terhadap suatu aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuannya adalah untuk memastikan bahwa pengguna memiliki akses yang tepat ke aplikasi sesuai dengan kebutuhannya.
+Application Identity Management adalah sub-departemen yang bertanggung jawab untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuan utamanya adalah memastikan bahwa setiap pengguna memiliki akses yang sesuai dengan kebutuhannya.
 
 ###### Identity Management
 
-Identity Management bertanggung jawab untuk mengelola identitas pengguna dan hak aksesnya terhadap aplikasi perangkat lunak di BSI. Berikut adalah tugas dan tanggung jawabnya:
+Identity Management bertugas mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak di BSI. Berikut adalah tugas dan tanggung jawabnya:
 
-1. Melakukan ticketing operasional terkait kebutuhan user. 
-2. Melakukan review user terkait user yang aktif. 
-3. Melakukan review user matrix.
+1. Menangani tiket operasional terkait kebutuhan pengguna.
+2. Melakukan review terhadap pengguna yang aktif.
+3. Melakukan review terhadap matriks pengguna.
 
 ###### Privilege Access Management
 
-Privilege Access Management bertanggung jawab untuk mengelola hak akses khusus (privilege access) yang diberikan kepada pengguna tertentu. Hak akses khusus ini biasanya diberikan kepada pengguna yang memiliki tanggung jawab khusus atau akses ke data sensitif. Berikut adalah tugas dan tanggung jawabnya:
+Privilege Access Management bertugas mengelola hak akses khusus yang diberikan kepada pengguna tertentu. Hak akses ini biasanya diberikan kepada pengguna dengan tanggung jawab khusus atau akses ke data sensitif. Berikut adalah tugas dan tanggung jawabnya:
 
-1. Mengatur dan memantau hak akses khusus untuk memastikan hanya pengguna yang berwenang.
-2. Memastikan bahwa pengguna yang diberikan hak akses khusus telah melalui proses otentikasi dan otorisasi yang ketat.
+1. Mengatur dan memantau hak akses khusus untuk memastikan hanya pengguna yang berwenang yang memiliki akses.
+2. Memastikan bahwa pengguna dengan hak akses khusus telah melalui proses otentikasi dan otorisasi yang ketat.
 3. Mengelola kata sandi untuk akun dengan hak akses khusus, termasuk rotasi kata sandi secara berkala dan penggunaan kata sandi yang kuat.
 
 ###### Endpoint Access Management
 
-Endpoint Access Management melakukan pengelolaan akses seperti desktop, laptop, tablet dan handphone. Tujuan utamanya adalah untuk memastikan bahwa hanya pengguna yang sah dan perangkat yang diberikan izin yang dapat mengakses data dan sumber daya jaringan yang sensitif. Dengan menerapkan Endpoint Access Management secara efektif organisasi dapat mengurangi risiko keamanan, menjaga kepatuhan, dan memastikan bahwa sumber daya dan data sensitif dilindungi dengan baik. 
+Endpoint Access Management bertugas mengelola akses ke perangkat seperti desktop, laptop, tablet, dan handphone. Tujuan utamanya adalah memastikan bahwa hanya pengguna dan perangkat yang sah yang dapat mengakses data dan sumber daya jaringan yang sensitif. Dengan menerapkan Endpoint Access Management secara efektif, organisasi dapat mengurangi risiko keamanan, menjaga kepatuhan, dan memastikan bahwa sumber daya dan data sensitif terlindungi dengan baik.
 
 ###### Directory Services & Email Management
 
-Directory Services & Email Management bertanggung jawab untuk mengelola konfigurasi dalam penyimpanan, pembuatan dan penghapusan data seperti informasi pengguna, hak akses, email dan lainnya. Berikut adalah tugas dan tanggung jawabnya:
+Directory Services & Email Management bertugas mengelola konfigurasi dalam penyimpanan, pembuatan, dan penghapusan data seperti informasi pengguna, hak akses, email, dan lainnya. Berikut adalah tugas dan tanggung jawabnya:
 
-1. Penerapan global policy object. 
-2. Manage akses user pada active directory hybrid. 
-3. Handle user, computer, aplikasi, dan policy. 
-4. Manage assigment licence.
-
+1. Menerapkan kebijakan global.
+2. Mengelola akses pengguna pada direktori aktif hibrida.
+3. Menangani pengguna, komputer, aplikasi, dan kebijakan.
+4. Mengelola penugasan lisensi.
 
 ## Kesimpulan dan Rekomendasi
 
