@@ -93,9 +93,9 @@ IT & Digital Development Group mengadopsi dua jenis SDLC: SDLC Waterfall dan SDL
 
 Dalam SDLC Agile, terdapat lima squad (yang akan bertambah lagi jumlahnya) dengan fokus tugas masing-masing. Squad satu berfokus pada pengembangan fitur lifestyle & engagement, squad dua pada fitur investment & saving, squad tiga pada fitur financing, squad empat pada fitur islamic ecosystem, dan squad lima pada fitur payment.
 
-## Ketentuan Operational
+## Ketentuan Operasional
 
-Kegiatan operasional IT & Digital Development Group mengacu pada SDLC (System Development Life Cycle) adalah melakukan pengembangan di tahap development. Selama melakukan kegiatan operasional, IT & Digital Development Group mengacu pada beberapa ketentuan, khususnya PTO SDLC dan PTO SDLC Agile yang sangat erat kaitannya dengan proses bisnis unit kerja ini. Selain kedua PTO tersebut, ada beberapa ketentuan lain yang juga mengatur tugas dan tanggung jawab IT & Digital Development Group. Berikut adalah ketentuan-ketentuan terkait kegiatan operasional IT & Digital Development Group:
+Kegiatan operasional IT & Digital Development Group mengikuti SDLC (System Development Life Cycle) dan berfokus pada tahap pengembangan. Selama menjalankan kegiatan operasional, IT & Digital Development Group mematuhi beberapa ketentuan, terutama PTO SDLC dan PTO SDLC Agile yang sangat terkait dengan proses bisnis unit kerja ini. Selain kedua PTO tersebut, ada beberapa ketentuan lain yang juga mengatur tugas dan tanggung jawab IT & Digital Development Group. Berikut adalah ketentuan-ketentuan terkait kegiatan operasional IT & Digital Development Group:
 
 - Petunjuk Teknis Operasional System Development Life Cycle (SDLC)
 - Petunjuk Teknis Operasional System Development Life Cycle (SDLC) Agile
