@@ -199,19 +199,34 @@ Cloud Security bertugas melindungi dan mengamankan data, infrastruktur, dan jari
 
 ##### Security Operations Center
 
-Security Operations Center (SOC) bertanggung jawab untuk memantau, mendeteksi, mengevaluasi, dan merespons ancaman keamanan informasi serta serangan siber terhadap organisasi. SOC berperan penting dalam menjaga keamanan infrastruktur IT dengan berbagai tugas utama:
+Security Operations Center (SOC) bertanggung jawab untuk memantau, mendeteksi, mengevaluasi, dan merespons ancaman keamanan informasi serta serangan siber terhadap organisasi.
 
 ###### Security Monitoring
 
-Security Monitoring bertugas memantau insiden yang terjadi untuk mengidentifikasi serangan siber, pelanggaran keamanan, atau aktivitas mencurigakan di dalam atau sekitar jaringan dan sistem. Dengan monitoring yang efektif, organisasi dapat mendeteksi serangan siber lebih cepat, meminimalkan dampaknya, dan meningkatkan kemampuan untuk melindungi infrastruktur IT dari ancaman yang terus berkembang.
+Security Monitoring bertugas memantau insiden yang terjadi untuk mengidentifikasi serangan siber, pelanggaran keamanan, atau aktivitas mencurigakan di dalam atau sekitar jaringan dan sistem. Dengan monitoring yang efektif, organisasi dapat mendeteksi serangan siber lebih cepat, meminimalkan dampaknya, dan meningkatkan kemampuan untuk melindungi infrastruktur IT dari ancaman yang terus berkembang. Tugas dan tanggung jawab Security Monitoring meliputi:
+
+1. Memantau jaringan dan sistem secara real-time.
+2. Mengidentifikasi aktivitas mencurigakan atau pelanggaran keamanan.
+3. Menggunakan alat deteksi intrusi dan analitik keamanan.
+4. Melaporkan insiden keamanan kepada tim terkait.
 
 ###### Incident Response
 
 Incident Response bertugas memvalidasi pola aktivitas yang terjadi dan menangani insiden terkait keamanan IT. Tujuannya adalah untuk mengurangi dampak insiden, mengidentifikasi penyebabnya, memulihkan layanan yang terpengaruh, dan memastikan bahwa serangan atau pelanggaran keamanan tidak terulang di masa mendatang.
 
+1. Menangani insiden keamanan dengan cepat dan efektif.
+2. Melakukan investigasi dan mitigasi insiden.
+3. Memulihkan layanan yang terpengaruh oleh insiden.
+4. Mengidentifikasi penyebab insiden dan mencegah terulangnya.
+
 ###### Threat Hunting
 
-Threat Hunting bertugas secara aktif mencari ancaman yang mungkin ada dalam jaringan atau sistem IT organisasi. Tujuannya adalah untuk mengidentifikasi dan menangani ancaman yang tidak terdeteksi oleh solusi keamanan otomatis, serta mencegah serangan yang lebih luas. Threat Hunting merupakan pendekatan penting dalam keamanan informasi modern yang membantu organisasi mengidentifikasi dan mengatasi ancaman siber yang tidak terdeteksi. Dengan melaksanakan Threat Hunting secara teratur, organisasi dapat meningkatkan kemampuan mereka untuk merespons secara cepat dan efektif terhadap ancaman yang muncul dan melindungi infrastruktur IT dari serangan siber.
+Threat Hunting bertugas secara aktif mencari ancaman dalam jaringan atau sistem IT organisasi yang tidak terdeteksi oleh solusi keamanan otomatis. Tujuannya adalah mengidentifikasi dan menangani ancaman serta mencegah serangan yang lebih luas. Dengan Threat Hunting yang teratur, organisasi dapat meningkatkan respons terhadap ancaman dan melindungi infrastruktur IT dari serangan siber.
+
+1. Mencari ancaman yang mungkin ada dalam jaringan atau sistem.
+2. Mengidentifikasi dan menangani ancaman yang tidak terdeteksi oleh solusi otomatis.
+3. Mencegah serangan yang lebih luas.
+4. Melakukan Threat Hunting secara teratur untuk meningkatkan respons terhadap ancaman.
 
 ## Kesimpulan dan Rekomendasi
 
