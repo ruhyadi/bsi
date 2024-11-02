@@ -1,5 +1,17 @@
 ## Strategi
 
+Strategi IT Operation Group (IOG) adalah memastikan operasional infrastruktur IT yang mencakup jaringan, server, storage, dan layanan IT lainnya berjalan dengan baik dan memenuhi kebutuhan bisnis. Untuk mencapai tujuan ini, IOG mengimplementasikan beberapa strategi utama:
+
+1. Optimalisasi Infrastruktur IT: Mengelola dan mengoptimalkan infrastruktur Data Center (DC) dan Disaster Recovery Center (DRC) untuk mendukung operasional teknologi informasi dan meningkatkan daya saing perusahaan.
+2. Peningkatan Kualitas Layanan: Memberikan bantuan teknis yang efektif kepada pengguna melalui IT Service Desk, serta memastikan perangkat IT berfungsi optimal dengan dukungan aplikasi yang beroperasi dengan baik.
+3. Implementasi dan Monitoring Aplikasi: Mengelola implementasi dan monitoring aplikasi core, non-core, dan e-channel untuk memastikan stabilitas dan ketersediaan aplikasi sesuai dengan Service Level Agreement (SLA).
+4. Manajemen Kapasitas dan Pemulihan Bencana: Melaksanakan perencanaan kapasitas dan mengelola Disaster Recovery Plan (DRP) untuk memastikan kesiapan dan efektivitas prosedur pemulihan dalam situasi bencana.
+5. Pengelolaan Infrastruktur Jaringan: Merancang, memantau, dan mengelola hardware dan software teknologi informasi serta jaringan agar beroperasi optimal sesuai ketentuan dan SLA.
+6. Efisiensi Operasional dan Kepatuhan: Mengelola fungsi budgeting, audit, dan ISO, serta mendesain dan menganalisis sistem/infrastruktur untuk mendukung aplikasi digital dan core banking, memastikan kepatuhan terhadap ketentuan internal dan eksternal.
+7. Pengelolaan Teknologi Cloud: Mengelola teknologi infrastruktur cloud secara efektif dan efisien melalui aktivitas cloud delivery automation, microservices & application platform, dan network & load balancer support.
+
+Dengan strategi-strategi ini, IOG berperan sebagai enabler atau fasilitator yang mendukung eksekusi strategi digital bisnis melalui pengembangan infrastruktur, manajemen data, lingkungan jaringan, dan evaluasi operasional teknologi informasi.
+
 ## Peran Fungsi
 
 Unit IT Operation Group (IOG) bertanggung jawab atas operasional infrastruktur IT yang mencakup jaringan, server, storage, dan layanan IT lainnya. IOG bertugas memastikan bahwa infrastruktur IT beroperasi dengan baik dan memenuhi kebutuhan bisnis. Unit ini terdiri dari 6 departemen, yaitu: IT Service Desk, IT Implementation & Monitoring, Data Center Management, IT Infrastructure/Network Environment, IT Infrastructure Operation Management & Optimization, dan Cloud Infrastructure Technology. Berikut adalah peran dan fungsi dari masing-masing departemen:
