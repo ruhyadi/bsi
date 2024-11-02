@@ -68,11 +68,11 @@ CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Application Iden
 
 ##### Security Project & QA
 
-Security Project & Quality Assurance adalah sub-departemen dalam CSO yang bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Mereka mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik.
+Security Project & Quality Assurance adalah departemen dalam CSO yang bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Departemen ini mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik.
 
 ###### IT Security Project
 
-IT Security Project bertugas meningkatkan dan melindungi keamanan sistem informasi dan teknologi organisasi. Tujuannya adalah untuk mengidentifikasi, mengurangi, dan mengelola risiko keamanan yang terkait dengan penggunaan teknologi informasi. Berikut adalah tugas dan tanggung jawab IT Security Project:
+IT Security Project adalah bagian dari departemen Security Project & QA yang bertanggung jawab untuk mengelola proyek-proyek keamanan informasi di BSI. Berikut adalah tugas dan tanggung jawabnya:
 
 1. Mengelola proyek atau pengadaan perangkat/jasa keamanan internal CSO.
 2. Mengawal proses pengadaan mulai dari proposal, BAST, PKS hingga implementasi.
@@ -81,7 +81,7 @@ IT Security Project bertugas meningkatkan dan melindungi keamanan sistem informa
 
 ###### IT Security Quality Assurance
 
-IT Security Quality Assurance adalah bagian penting dari strategi keamanan informasi yang komprehensif dan memainkan peran kunci dalam melindungi organisasi dari ancaman keamanan yang berkembang. Berikut adalah tugas dan tanggung jawabnya:
+IT Security Quality Assurance adalah bagian dari departemen Security Project & QA yang bertanggung jawab untuk memastikan bahwa implementasi keamanan informasi di BSI memenuhi standar kualitas yang telah ditetapkan. Berikut adalah tugas dan tanggung jawabnya:
 
 1. Memastikan proses kerja di seluruh departemen mematuhi ketentuan internal dan eksternal.
 2. Memantau kinerja keamanan secara berkala.
