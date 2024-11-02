@@ -64,7 +64,7 @@ Selain itu, CSO juga menggunakan pendekatan PPT (People, Process, and Technology
 
 #### Fungsi dan Peran Unit Kerja
 
-CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Application Identity Management, Network Access & Data Protection, IT Security Services, IT Security Operations, Security Operations Center. Setiap departemen memiliki fungsi dan peran yang berbeda sesuai dengan fokus dan tanggung jawabnya.
+Unit kerja CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Application Identity Management, Network Access & Data Protection, IT Security Services, IT Security Operations, Security Operations Center. Setiap departemen memiliki fungsi dan peran yang berbeda sesuai dengan fokus dan tanggung jawabnya.
 
 ##### Security Project & QA
 
