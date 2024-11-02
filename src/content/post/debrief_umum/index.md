@@ -123,6 +123,32 @@ Directory Services & Email Management bertugas mengelola konfigurasi dalam penyi
 3. Menangani pengguna, komputer, aplikasi, dan kebijakan.
 4. Mengelola penugasan lisensi.
 
+##### Network Access & Data Protection
+
+Network Access & Data Protection merupakan departemen yang memanage komputer di seluruh cabang Indonesia BSI dan data protection, serta melaksanakan keamanan identitas dan aplikasi melakukan proses identifikasi dan klasifikasi data privacy berdasarkan penilaian risiko.
+
+Tujuan dari Network Access & Data Protection adalah untuk melindungi integritas, kerahasiaan, dan ketersediaan data dalamsebuah organisasi, serta memastikan bahwa akses ke jaringan dansumber daya informasi diatur dengan tepat. Dengan mencapai tujuantersebut, organisasi dapat meminimalkan risiko kehilangan datasensitif, mengurangi dampak serangan siber, dan memenuhipersyaratan kepatuhan yang berlaku, serta memastikan bahwaakses ke sumber daya jaringan diatur dengan benar dan sesuai dengan kebutuhan bisnis.
+
+###### Customer Identity Management
+
+Customer Identity Management adalah strategi yang digunakan untuk Mengelola data nasabah yang mengunakan aplikasi BSI, dan melihat behavior transaksi nasabah untuk menjaga transaksi agar tetap aman, mencakup pengumpulan, penyimpanan, dan penelolaan informasi identitas pelanggan, serta control akses terhadap layanan dan fitur yang disediakan kepada mereka. Tujuan utamanya adalah untuk meningkatkan pengalaman pelanggan keamanan, dan privasi serta memungkinkan organisasi untuk memahami serta berinteraksi dengan pelanggan mereka secara lebih baik. Dengan menerapkan Customer Identity Management dengan baik, Perusahaan dapat meningkatkan kepercayaan, dan retensi pelanggan, meningkatkan kesetiaan membangun pelanggan dengan memberikan pengalaman yang aman.
+
+###### Cloud Access Management
+
+Cloud Access Management merupakan strategi yang digunakan dalam melakukan pengelolaan data identitas dalam system cloud mengunakan AWS, GCP, dan Alibaba, dengan tujuan untuk memastikan bahawa pengguna dan perangkat yang diizinkan hanya dapat mengakses sumber daya yang sesuai di lingkungan cloud. Dengan menerapkan Cloud Access Management dengan baik, perusahaan dapat memastikan bahwa akses ke layanan cloud diatur dengan tepat, risiko keamanan dikurangi, dan kepatuhan terhadap regulasi dipertahankan. Ini memungkinkan penggunaan cloud yang aman dan efisien dalam lingkungan bisnis.
+
+###### Network Access Management
+
+Network Access Management merupakan strategi dalam mengelola endpoint agar dapat mengakses perangkat yang terhubung dengan intranet BSI seperti perangkat keras yang tidak sesuai dengan standar, dengan tujuan untuk memastikan bahwa pengguna dan perangkat terhubung ke jaringan memiliki akses yang sesuai dengan kebutuhan mereka, sambil tetap menjaga kemanan dan kepatuhan.dengan menerapkan Network Access Management secara efektif, Perusahaan dapat mengelola akses jaringan dengan lebih baik, meningkatkan keamanan jaringan, dan memastikan bahwa pengguna dan perangkat terhubung ke jaringan beroperasi sesuai dengan kebutuhan bisnis dan kebijakan keamanan.
+
+###### Data Protection Management
+
+Data Protection Management merupakan strategi dalam melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi dan memblokir data sensitife BSI. Dengan menerapkan Data Protection Management secara efektif, Perusahaan dapat mengurangi risiko kehilangan data sensitif, menjaga kepercayaan pelanggan, dan memenuhi persyaratan kepatuhan yang berlaku, sehingga meningkatkan keamanan dan integritas operasi bisnis.
+
+###### Data Encryption & Key Management
+
+Data Encryption & Key Management melakukan pengelolaan terkait konfigurasi kunci pribadi melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi yang dilakukan serta mengelola secure socket language (SSL) untuk menjaga domain agar secure.
+
 ## Kesimpulan dan Rekomendasi
 
 ## Penutup
