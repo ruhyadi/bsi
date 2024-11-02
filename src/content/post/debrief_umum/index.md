@@ -136,19 +136,30 @@ Customer Identity Management bertugas mengelola data nasabah yang menggunakan ap
 
 ###### Cloud Access Management
 
-Cloud Access Management adalah strategi untuk mengelola data identitas dalam sistem cloud menggunakan AWS, GCP, dan Alibaba. Tujuannya adalah memastikan bahwa hanya pengguna dan perangkat yang diizinkan dapat mengakses sumber daya yang sesuai di lingkungan cloud. Dengan menerapkan Cloud Access Management yang efektif, perusahaan dapat memastikan bahwa akses ke layanan cloud diatur dengan tepat, risiko keamanan dikurangi, dan kepatuhan terhadap regulasi dipertahankan. Ini memungkinkan penggunaan cloud yang aman dan efisien dalam lingkungan bisnis.
+Cloud Access Management bertugas mengelola hak akses ke layanan server cloud BSI (AWS, GCP). Cloud Access Management bertanggung jawab untuk memastikan bahwa pengguna dan perangkat yang diizinkan dapat mengakses sumber daya yang sesuai di lingkungan cloud. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Mengelola hak akses ke layanan server cloud BSI (AWS, GCP).
+2. Melakukan aktivitas monitoring dan logging pada layanan server cloud.
 
 ###### Network Access Management
 
-Network Access Management adalah strategi untuk mengelola endpoint agar dapat mengakses perangkat yang terhubung dengan intranet BSI, seperti perangkat keras yang tidak sesuai dengan standar. Tujuannya adalah memastikan bahwa pengguna dan perangkat yang terhubung ke jaringan memiliki akses yang sesuai dengan kebutuhan mereka, sambil tetap menjaga keamanan dan kepatuhan. Dengan menerapkan Network Access Management yang efektif, perusahaan dapat mengelola akses jaringan dengan lebih baik, meningkatkan keamanan jaringan, dan memastikan bahwa pengguna dan perangkat yang terhubung ke jaringan beroperasi sesuai dengan kebutuhan bisnis dan kebijakan keamanan.
+Network Access Management bertugas untuk mengelola akses ke jaringan internal perusahaan, seperti intranet BSI. Tujuannya adalah memastikan bahwa hanya pengguna dan perangkat yang sesuai dengan standar keamanan yang dapat terhubung ke jaringan perusahaan. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Mengelola endpoint agar dapat mengakses perangkat yang terhubung dengan intranet BSI.
+2. Memastikan bahwa pengguna dan perangkat yang terhubung ke jaringan memiliki akses yang sesuai dengan kebutuhan mereka.
+3. Meningkatkan keamanan jaringan dan memastikan kepatuhan terhadap kebijakan keamanan.
 
 ###### Data Protection Management
 
-Data Protection Management adalah strategi untuk melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI. Dengan menerapkan Data Protection Management yang efektif, perusahaan dapat mengurangi risiko kehilangan data sensitif, menjaga kepercayaan pelanggan, dan memenuhi persyaratan kepatuhan yang berlaku, sehingga meningkatkan keamanan dan integritas operasi bisnis.
+Data Protection Management bertugas untuk melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI.
+2. Mengurangi risiko kehilangan data sensitif dan menjaga kepercayaan nasabah.
+3. Memenuhi persyaratan kepatuhan yang berlaku.
 
 ###### Data Encryption & Key Management
 
-Data Encryption & Key Management bertugas mengelola konfigurasi kunci pribadi melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi yang dilakukan serta mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
+Data Encryption & Key Management bertugas mengelola konfigurasi kunci pribadi (private key) melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi yang dilakukan serta mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
 
 ## Kesimpulan dan Rekomendasi
 
