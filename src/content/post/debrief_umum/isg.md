@@ -229,72 +229,71 @@ Unit kerja IT Strategic and Planning Group (ISG) melaksanakan berbagai kegiatan 
 
 #### IT PMO
 
-1. Berkoordinasi dengan Project Owner dalam menyusun Project Charter terkait pembuatan atau pengembangan sistem/aplikasi yang merupakan Project Corplan/Project Inisiatif Strategis TI
-2. Berkoordinasi dengan User menentukan Timeline dan Resource Project
-3. Mengawal sistem/aplikasi hingga berhasil diimplementasi dan menyusun Berita Acara Instalasi
+1. Berkoordinasi dengan Project Owner dalam menyusun Project Charter terkait pembuatan atau pengembangan sistem/aplikasi yang merupakan Project Corplan/Project Inisiatif Strategis TI.
+2. Berkoordinasi dengan User untuk menentukan Timeline dan Resource Project.
+3. Mengawal sistem/aplikasi hingga berhasil diimplementasi dan menyusun Berita Acara Instalasi.
 
 #### IT Business Analyst
 
-1. Melakukan review draft dokumen Functional Specification Document (FSD) dari Vendor jika dilakukan pengembangan dari eksternal
-2. Melakukan review draft dokumen Software Development Document (SDD) dari IT Development
+1. Melakukan review draft dokumen Functional Specification Document (FSD) dari Vendor jika dilakukan pengembangan dari eksternal.
+2. Melakukan review draft dokumen Software Development Document (SDD) dari IT Development.
 3. Mengadakan Joint Discussion Meeting untuk membahas detail pengembangan sistem/aplikasi yang akan dikembangkan.
 
 #### IT Project Implementation
 
-1. Mengadakan dan memantau proses Production Trial Run (PTR), serta berkoordinasi dengan User dan IT QA selama proses PTR
-2. Memastikan dalam pelaksanaan Production Trial Run (PTR), seluruh object testing yang dilakukan pada tahapan System Integration Test (SIT) dan User Acceptance Test (UAT) dilakukan kembali secara menyeluruh
-3. Menyusun Berita Acara PTR
+1. Mengadakan dan memantau proses Production Trial Run (PTR), serta berkoordinasi dengan User dan IT QA selama proses PTR.
+2. Memastikan dalam pelaksanaan Production Trial Run (PTR), seluruh object testing yang dilakukan pada tahapan System Integration Test (SIT) dan User Acceptance Test (UAT) dilakukan kembali secara menyeluruh.
+3. Menyusun Berita Acara PTR.
 
 #### IT Vendor Management
 
-1. Melakukan analisis mengenai kebutuhan terkait pihak ketiga pada project yang membutuhkan
-2. Mencari jasa pihak ketiga yang berkemungkinan dapat memenuhi kebutuhan yang dibutuhkan perusahaan (sistem atau resources)
-3. Berkoordinasi kepada pihak ketiga dan Procurement group terkait kebutuhan di sisi TI atau resources pada perusahaan
+1. Melakukan analisis mengenai kebutuhan terkait pihak ketiga pada project yang membutuhkan.
+2. Mencari jasa pihak ketiga yang berkemungkinan dapat memenuhi kebutuhan yang dibutuhkan perusahaan (sistem atau resources).
+3. Berkoordinasi dengan pihak ketiga dan Procurement group terkait kebutuhan di sisi TI atau resources pada perusahaan.
 
 ### IT Policy & Governance
 
 #### IT QA & Release Control
 
-1. Menerima QA Need dari IT PMO
-2. Mengadakan Test Management Plan (TMP) Meeting bersama dengan User, IT BA, IT Development, dan IT SIT setelah requirement dari CR dan Software Development Document (SDD) sudah dipenuhi oleh IT Development
-3. Menyusun dokumen Test Management Plan (TMP)
+1. Menerima QA Need dari IT PMO.
+2. Mengadakan Test Management Plan (TMP) Meeting bersama dengan User, IT BA, IT Development, dan IT SIT setelah requirement dari CR dan Software Development Document (SDD) sudah dipenuhi oleh IT Development.
+3. Menyusun dokumen Test Management Plan (TMP).
 
 #### IT Infrastructure & Network Governance
 
-1. Membuat dokumen Standarisasi Pelaksanaan Operasional (SPO) dan Petunjuk Teknis Operasional (PTO) terkait IT Infrastructure dan Network
-2. Mengkomunikasikan SPO dan PTO kepada pihak terkait
+1. Membuat dokumen Standarisasi Pelaksanaan Operasional (SPO) dan Petunjuk Teknis Operasional (PTO) terkait IT Infrastructure dan Network.
+2. Mengkomunikasikan SPO dan PTO kepada pihak terkait.
 
 #### IT Policy & Procedure
 
-1. Memastikan keseuaian aplikasi atau sistem dengan kebijakan dan prosedur bank
-2. Menyusun kebijakan dan pedoman yang mengatur penggunaan dan keamanan teknologi informasi di seluruh departemen dan unit kerja di bank
-3. Memastikan penggunaan standar industri dan praktik terbaik dalam semua aspek TI bank
+1. Memastikan kesesuaian aplikasi atau sistem dengan kebijakan dan prosedur bank.
+2. Menyusun kebijakan dan pedoman yang mengatur penggunaan dan keamanan teknologi informasi di seluruh departemen dan unit kerja di bank.
+3. Memastikan penggunaan standar industri dan praktik terbaik dalam semua aspek TI bank.
 
 ### IT Strategic & Architecture
 
 #### IT Strategy
 
-1. Menyelenaggarakan Feasibility Study Meeting (FS Meeting) sebulan sekali atau bisa dilakukan sewaktu-waktu
-2. Menyelenggarakan Joint Planning untuk pembahasan project Inisiatif Strategis TI dengan mengundang unit kerja MOR, CTO, AMG dan Unit Kerja Risk lainnya, minimal setahun sekali
+1. Menyelenggarakan Feasibility Study Meeting (FS Meeting) sebulan sekali atau sewaktu-waktu jika diperlukan.
+2. Menyelenggarakan Joint Planning untuk pembahasan project Inisiatif Strategis TI dengan mengundang unit kerja MOR, CTO, AMG, dan Unit Kerja Risk lainnya, minimal setahun sekali.
 
 #### IT Planning & Budgeting
 
-1. Menyusun dan mengkoordinasikan laporan berupa progress report project inisiatif TI tahunan sesuai dengan perencanaan di awal
-2. Menyusun dan mengkoordinasikan budget TI (Capex dan Opex) atas project inisiatif TI tahunan
-
+1. Menyusun dan mengkoordinasikan laporan berupa progress report project inisiatif TI tahunan sesuai dengan perencanaan di awal.
+2. Menyusun dan mengkoordinasikan budget TI (Capex dan Opex) atas project inisiatif TI tahunan.
 
 #### IT Architecture
 
-1. Menyusun dan mengkoordinasikan rencana arsitektur penggunaan TI
-2. Menyusun dan memperbarui dokumen arsitektur TI untuk semua aplikasi
+1. Menyusun dan mengkoordinasikan rencana arsitektur penggunaan TI.
+2. Menyusun dan memperbarui dokumen arsitektur TI untuk semua aplikasi.
 
 ### IT Infrastructure & Network Strategy
 
-1. Memastikan penerapan seluruh aktivitas pada ruang Data Center / Disaster Recovery Center berjalan sesuai dengan pengaturan ketentuan Bank (PTO Pengelolaan DC dan DRC)
-2. Melakukan analisa dan identifikasi kebutuhan kapasitas agar dapat memberikan solusi yang sejalan dengan rencana dan strategi bisnis
-3. Membuat perencanaan sistem infrastruktur (Infrastructure System Planning)
+1. Memastikan penerapan seluruh aktivitas pada ruang Data Center / Disaster Recovery Center berjalan sesuai dengan pengaturan ketentuan Bank (PTO Pengelolaan DC dan DRC).
+2. Melakukan analisa dan identifikasi kebutuhan kapasitas agar dapat memberikan solusi yang sejalan dengan rencana dan strategi bisnis.
+3. Membuat perencanaan sistem infrastruktur (Infrastructure System Planning).
 
 ### IT Business Partner
 
-1. IT Business Partner Pendampingan CR/ BR
-2. Sinergi dengan HIMBARA
+1. Mendampingi user dalam proses pembuatan dan pengembangan Customer Request (CR) atau Business Request (BR).
+2. Bekerja sama dengan HIMBARA untuk sinergi dalam pengembangan teknologi.
