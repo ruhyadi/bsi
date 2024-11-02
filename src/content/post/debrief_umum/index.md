@@ -9,6 +9,12 @@ tags: ["brief"]
 
 ### Latar Belakang
 
+Industri perbankan secara umum memiliki peran yang sangat vital dalam perekonomian Indonesia. Bank berfungsi sebagai lembaga intermediasi yang menghubungkan pihak yang memiliki kelebihan dana dengan pihak yang membutuhkan dana. Melalui berbagai produk dan layanan keuangan, bank mendukung aktivitas ekonomi, mulai dari pembiayaan usaha kecil dan menengah hingga proyek-proyek besar yang memerlukan investasi jangka panjang. Selain itu, bank juga berperan dalam stabilisasi ekonomi melalui kebijakan moneter yang diterapkan oleh bank sentral.
+
+Perbankan syariah memainkan peran penting dalam perekonomian Indonesia. Perbankan syariah tidak hanya menyediakan layanan keuangan yang sesuai dengan prinsip-prinsip syariah, tetapi juga berkontribusi pada inklusi keuangan dan pembangunan ekonomi yang berkelanjutan. Dengan prinsip-prinsip yang mengedepankan keadilan dan kesejahteraan bersama, perbankan syariah mampu menarik segmen masyarakat yang sebelumnya tidak terjangkau oleh perbankan konvensional, sehingga memperluas basis ekonomi dan mendukung pertumbuhan yang lebih inklusif.
+
+Bank Syariah Indonesia (BSI) adalah salah satu entitas utama dalam industri perbankan syariah di Indonesia. Resmi berdiri pada 1 Februari 2021, BSI merupakan hasil penggabungan tiga bank syariah milik negara, yaitu Bank Syariah Mandiri, BNI Syariah, dan BRI Syariah. Untuk mencapai visinya menjadi salah satu dari 10 bank syariah terbesar di dunia, BSI memiliki tiga misi utama. Salah satu misi tersebut adalah menjadi perusahaan yang menjadi pilihan dan kebanggaan bagi talenta terbaik Indonesia. Sebagai bagian dari upaya ini, BSI memenuhi kebutuhan sumber daya manusia melalui program BSI Young Leadership Excellence & Agility Development (BYLEAD).
+
 ### Perumusan Masalah
 
 Dalam laporan ini, beberapa masalah utama yang akan dibahas meliputi:
