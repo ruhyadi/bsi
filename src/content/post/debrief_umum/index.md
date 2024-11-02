@@ -183,19 +183,19 @@ Security Code Review bertugas memonitor dan memperbaiki kekurangan keamanan sebe
 
 ##### IT Security Operations
 
-IT Security Operation (SecOps) merupakan departemen yang melakukan operasional kemanan terhadap arsitektur teknologi Bank BSI, menganalisa penanganan isu terkait perangkat pendeteksi gangguan, mengevaluasi pelaksanaan keamanan informasi, mengimplementasikan pembaharuan perangkat terkait network, system, infrastructure dan melakukan langkah mitigasi terhadap potensi ancaman.
+Departemen IT Security Operation (SecOps) bertanggung jawab untuk memastikan keamanan arsitektur teknologi di Bank BSI. Tujuan utamanya adalah melindungi aset teknologi informasi organisasi dari serangan dan ancaman dengan tindakan preventif.
 
 ###### Infrastructure and System Security
 
-Infrastructure and System Security melakukan pengamanan dengan menggunakan dengan berbagai cara seperti menggunakan antivirus, xdr, block rdc, serta menggunakan SSH. Keamanan infrastruktur dan system adalah bagian penting dari strategi keamanan informasi yang komprehensif, karena mereka memberikan perlindungan terhadap serangan dan ancaman yang ditujukan langsung kepada aser-aset teknologi informasi organisasi.
+Infrastructure and System Security bertugas melindungi infrastruktur dan sistem dengan berbagai metode seperti penggunaan antivirus, Extended Detection and Response (XDR), pemblokiran Remote Desktop Connection (RDC), dan penggunaan Secure Shell (SSH). Langkah-langkah ini penting untuk melindungi aset teknologi informasi dari serangan dan ancaman.
 
 ###### Network Security
 
-Network Security melakukan perlindungan dengan memitigasi jaringan dari sarangan yang dapat mengambil informasi dengan menggunakan firewall, instrusion prevention system, juga attack surface management. Network security merupakan komponen penting dari strategi keamana informasi yang komprehensif, karena jaringan komputer seringkali menjadi sasaran utama bagi penyerang siber.
+Network Security bertugas mengamankan jaringan dari serangan yang dapat mencuri informasi dengan menggunakan firewall, sistem pencegahan intrusi (IPS), dan manajemen permukaan serangan. Keamanan jaringan adalah komponen penting karena jaringan komputer sering menjadi target utama serangan siber.
 
 ###### Cloud Security
 
-Cloud Security melakukan perlindungan dan pengamanan dalam data storage, infrastuktur dan jaringan dalam cloud pada koneksi internet maupun intranet. Cloud security menjadi semakin penting karena banyak organisasi yang memanfaatkan layanan cloud untuk menyimpan data sensitive dan menjalankan aplikasi yang critical.
+Cloud Security bertugas melindungi dan mengamankan data, infrastruktur, dan jaringan yang berada di cloud, baik pada koneksi internet maupun intranet. Keamanan cloud menjadi semakin penting karena banyak organisasi menggunakan layanan cloud untuk menyimpan data sensitif dan menjalankan aplikasi penting.
 
 ## Kesimpulan dan Rekomendasi
 

@@ -34,3 +34,16 @@ Network Access & Data Protection adalah departemen yang bertanggung jawab untuk 
 5. **Data Encryption & Key Management**:
    - Mengelola konfigurasi kunci pribadi melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi.
    - Mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
+
+
+##### IT Security Operations
+
+Departemen IT Security Operations (SecOps) bertanggung jawab untuk memastikan keamanan arsitektur teknologi di Bank BSI. Tugas utama departemen ini meliputi:
+
+1. **Infrastructure and System Security**: Melindungi infrastruktur dan sistem dengan berbagai metode seperti penggunaan antivirus, Extended Detection and Response (XDR), pemblokiran Remote Desktop Connection (RDC), dan penggunaan Secure Shell (SSH). Langkah-langkah ini penting untuk melindungi aset teknologi informasi dari serangan dan ancaman.
+
+2. **Network Security**: Mengamankan jaringan dari serangan yang dapat mencuri informasi dengan menggunakan firewall, sistem pencegahan intrusi (IPS), dan manajemen permukaan serangan. Keamanan jaringan adalah komponen penting karena jaringan komputer sering menjadi target utama serangan siber.
+
+3. **Cloud Security**: Melindungi dan mengamankan data, infrastruktur, dan jaringan yang berada di cloud, baik pada koneksi internet maupun intranet. Keamanan cloud menjadi semakin penting karena banyak organisasi menggunakan layanan cloud untuk menyimpan data sensitif dan menjalankan aplikasi penting.
+
+Departemen ini juga menganalisis dan menangani isu-isu terkait perangkat pendeteksi gangguan, mengevaluasi pelaksanaan keamanan informasi, dan mengimplementasikan pembaruan perangkat terkait jaringan, sistem, dan infrastruktur. Selain itu, mereka melakukan langkah-langkah mitigasi untuk mengatasi potensi ancaman.
