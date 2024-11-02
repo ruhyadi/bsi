@@ -58,13 +58,15 @@ Departemen Cloud Infrastructure Technology dibagi menjadi 3 divisi: Cloud Delive
 
 ## Bisnis Proses
 
-IT Operation Group (IOG) IT Operations Group (IOG) berfungsi sebagai enabler atau fasilitator yang berperan memberikan solusi dan membantu eksekusi segala strategi digital bisnis melalui pengembangan infrastruktur, data management, network environment, dan mengevaluasi operasional teknologi informasi. 
+IT Operation Group (IOG) berperan sebagai enabler atau fasilitator yang mendukung eksekusi strategi digital bisnis melalui pengembangan infrastruktur, manajemen data, lingkungan jaringan, dan evaluasi operasional teknologi informasi.
 
-IT Operations Group menjalankan kegiatan operasionalnya dengan berpedoman pada beberapa perencanaan IT service untuk memberikan pelayanan yang unggul. PT Bank Syariah Indonesia Tbk memantau indikator kinerja infrastruktur utama dan layanan bisnis yang didefinisikan ke dalam SLA, OLA, dan UC. Indikator kinerja infrasturktur dan layanan digambarkan pada skema berikut. 
+IOG menjalankan operasionalnya dengan berpedoman pada beberapa perencanaan layanan IT untuk memberikan pelayanan yang unggul. PT Bank Syariah Indonesia Tbk memantau indikator kinerja utama infrastruktur dan layanan bisnis yang didefinisikan dalam SLA, OLA, dan UC. Indikator kinerja ini digambarkan dalam skema berikut.
 
 Service Level Agreement (SLA) adalah kesepakatan tertulis antara penyedia layanan dan pengguna layanan yang menetapkan tingkat layanan yang diharapkan. Dokumen ini mencakup aspek-aspek seperti waktu respons, waktu pemulihan, ketersediaan layanan, dan metrik lain yang digunakan untuk menilai kinerja layanan yang disediakan. Tujuan SLA adalah untuk memastikan bahwa layanan yang disediakan sesuai dengan harapan pengguna dan bahwa penyedia layanan bertanggung jawab untuk memenuhi standar layanan yang telah ditetapkan.
 
-Sementara itu, OLA (Operational Level Agreements) berkaitan dengan komitmen internal antara tim dalam organisasi untuk memastikan penyediaan layanan yang efisien, termasuk waktu tanggapan internal, waktu penyelesaian, dan efektivitas komunikasi dan kolaborasi. Di sisi lain, UC (Underpinning Contracts) mengacu pada kontrak antara organisasi dan penyedia layanan eksternal seperti provider, dan supplier yang mengatur aspek-aspek seperti penyediaan sumber daya, ketersediaan perangkat keras dan perangkat lunak, kualitas layanan, dan keamanan. Melalui indikator- indikator ini, organisasi dapat memastikan bahwa layanan sesuai dengan ekspektasi pengguna dan memenuhi standar yang telah ditetapkan.
+Operational Level Agreements (OLA) adalah komitmen internal antara tim dalam organisasi untuk memastikan penyediaan layanan yang efisien. Ini mencakup waktu tanggapan internal, waktu penyelesaian, serta efektivitas komunikasi dan kolaborasi.
+
+Underpinning Contracts (UC) adalah kontrak antara organisasi dan penyedia layanan eksternal seperti provider dan supplier. Kontrak ini mengatur aspek-aspek seperti penyediaan sumber daya, ketersediaan perangkat keras dan perangkat lunak, kualitas layanan, dan keamanan. Melalui indikator-indikator ini, organisasi dapat memastikan bahwa layanan sesuai dengan ekspektasi pengguna dan memenuhi standar yang telah ditetapkan.
 
 ## Ketentuan Operasional
 
