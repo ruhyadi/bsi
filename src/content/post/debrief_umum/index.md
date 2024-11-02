@@ -125,13 +125,14 @@ Directory Services & Email Management bertugas mengelola konfigurasi dalam penyi
 
 ##### Network Access & Data Protection
 
-Network Access & Data Protection merupakan departemen yang memanage komputer di seluruh cabang Indonesia BSI dan data protection, serta melaksanakan keamanan identitas dan aplikasi melakukan proses identifikasi dan klasifikasi data privacy berdasarkan penilaian risiko.
-
-Tujuan dari Network Access & Data Protection adalah untuk melindungi integritas, kerahasiaan, dan ketersediaan data dalamsebuah organisasi, serta memastikan bahwa akses ke jaringan dansumber daya informasi diatur dengan tepat. Dengan mencapai tujuantersebut, organisasi dapat meminimalkan risiko kehilangan datasensitif, mengurangi dampak serangan siber, dan memenuhipersyaratan kepatuhan yang berlaku, serta memastikan bahwaakses ke sumber daya jaringan diatur dengan benar dan sesuai dengan kebutuhan bisnis.
+Network Access & Data Protection adalah departemen yang bertanggung jawab untuk mengelola akses jaringan dan melindungi data di seluruh cabang BSI di Indonesia. Departemen ini memastikan keamanan identitas dan aplikasi dengan melakukan identifikasi dan klasifikasi data privasi berdasarkan penilaian risiko. Tujuan utama dari departemen ini adalah untuk melindungi integritas, kerahasiaan, dan ketersediaan data, serta memastikan bahwa akses ke jaringan dan sumber daya informasi diatur dengan tepat.
 
 ###### Customer Identity Management
 
-Customer Identity Management adalah strategi yang digunakan untuk Mengelola data nasabah yang mengunakan aplikasi BSI, dan melihat behavior transaksi nasabah untuk menjaga transaksi agar tetap aman, mencakup pengumpulan, penyimpanan, dan penelolaan informasi identitas pelanggan, serta control akses terhadap layanan dan fitur yang disediakan kepada mereka. Tujuan utamanya adalah untuk meningkatkan pengalaman pelanggan keamanan, dan privasi serta memungkinkan organisasi untuk memahami serta berinteraksi dengan pelanggan mereka secara lebih baik. Dengan menerapkan Customer Identity Management dengan baik, Perusahaan dapat meningkatkan kepercayaan, dan retensi pelanggan, meningkatkan kesetiaan membangun pelanggan dengan memberikan pengalaman yang aman.
+Customer Identity Management bertugas mengelola data nasabah yang menggunakan aplikasi BSI dan memantau aktivitas transaksi nasabah untuk menjaga keamanan transaksi. Tujuan utamanya adalah meningkatkan pengalaman pelanggan, keamanan, dan privasi dalam bertransaksi. Berikut adalah tugas dan tanggung jawabnya:
+
+1. Mengelola data nasabah yang menggunakan aplikasi BSI.
+2. Memantau dan menganalisis perilaku transaksi pelanggan untuk mendeteksi aktivitas yang mencurigakan atau tidak biasa.
 
 ###### Cloud Access Management
 

@@ -8,3 +8,29 @@ On Job Training (OJT) di perbankan syariah di Indonesia memberikan kesempatan ba
 
 
 Unit kerja Chief Information Security Officer (CSO) bertanggung jawab atas keamanan informasi dan sistem informasi di BSI. Strategi unit kerja ini difokuskan pada pencegahan dan deteksi ancaman keamanan informasi, perlindungan data nasabah, dan kepatuhan terhadap regulasi yang berlaku. Dalam menghadapi ancaman keamanan yang semakin kompleks, CSO BSI mengadopsi pendekatan proaktif dan berbasis risiko untuk memastikan keamanan informasi dan sistem informasi.
+
+Network Access & Data Protection adalah departemen yang bertanggung jawab untuk mengelola akses jaringan dan melindungi data di seluruh cabang BSI di Indonesia. Departemen ini memastikan keamanan identitas dan aplikasi dengan melakukan identifikasi dan klasifikasi data privasi berdasarkan penilaian risiko. Tujuan utama dari departemen ini adalah untuk melindungi integritas, kerahasiaan, dan ketersediaan data, serta memastikan bahwa akses ke jaringan dan sumber daya informasi diatur dengan tepat. Berikut adalah fungsi utama dari departemen ini:
+
+1. **Customer Identity Management**:
+   - Mengelola data nasabah yang menggunakan aplikasi BSI.
+   - Memantau perilaku transaksi nasabah untuk menjaga keamanan transaksi.
+   - Meningkatkan pengalaman pelanggan, keamanan, dan privasi.
+
+2. **Cloud Access Management**:
+   - Mengelola data identitas dalam sistem cloud menggunakan AWS, GCP, dan Alibaba.
+   - Memastikan bahwa hanya pengguna dan perangkat yang diizinkan dapat mengakses sumber daya di lingkungan cloud.
+   - Mengurangi risiko keamanan dan memastikan kepatuhan terhadap regulasi.
+
+3. **Network Access Management**:
+   - Mengelola endpoint agar dapat mengakses perangkat yang terhubung dengan intranet BSI.
+   - Memastikan bahwa pengguna dan perangkat terhubung ke jaringan memiliki akses yang sesuai dengan kebutuhan mereka.
+   - Meningkatkan keamanan jaringan dan memastikan kepatuhan terhadap kebijakan keamanan.
+
+4. **Data Protection Management**:
+   - Melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI.
+   - Mengurangi risiko kehilangan data sensitif dan menjaga kepercayaan pelanggan.
+   - Memenuhi persyaratan kepatuhan yang berlaku.
+
+5. **Data Encryption & Key Management**:
+   - Mengelola konfigurasi kunci pribadi melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi.
+   - Mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
