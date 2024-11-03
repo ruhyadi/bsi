@@ -11,19 +11,18 @@ Secara ringkas, strategi unit kerja SOR adalah sebagai berikut:
 
 ## Fungsi Peran
 
-Unit kerja SOR IT terdiri dari 4 departemen, yaitu DCOR Finance & Strategy, DCOR Compliance & Human Capital, DCOR Vice President Directorate, dan DCOR Information Technology. Masing-masing departemen memiliki fungsi dan peran yang berbeda. Pada pembahasan kali ini, penulis hanya mengulas mengenai fungsi dan peran dari DCOR Information Technology (IT).
+Unit kerja Senior Operational Risk (SOR) terdiri dari 4 departemen: DCOR Finance & Strategy, DCOR Compliance & Human Capital, DCOR Vice President Directorate, dan DCOR Information Technology. Setiap departemen memiliki fungsi dan peran yang unik. Pada kesempatan ini, penulis akan fokus pada fungsi dan peran dari DCOR Information Technology (IT).
 
-Dalam prinsip 3rd Line of Defense, DCOR IT memiliki peran sebagai 1.5 line of defense untuk memberi rekomendasi terhadap pelaksanaan control yang dilakukan oleh unit kerja IT. Adapun tugas dan tanggungjawab DCOR IT adalah sebagai berikut:
+Dalam prinsip 3rd Line of Defense, DCOR IT berperan sebagai 1.5 line of defense dengan memberikan rekomendasi terkait pelaksanaan kontrol yang dilakukan oleh unit kerja IT. Tugas dan tanggung jawab DCOR IT meliputi:
 
-1. Memonitor kewajiban pelaporan Unit Kerja kepada regulator.
-2. Audit Counterpart dan monitoring DMTL pada saat pelaksanaan Audit Internal atau Audit Eksternal.
-3. Merekomendasikan kepada Direktur Bidang untuk pemeriksaan atau investigasi.
-4. Memberikan masukan dan review atas rancangan atau eksisting proses bisnis atau pengambilan keputusan agar mampu meminimalisir risiko dan memastikan sesuai ketentuan yang berlaku baik ketentuan internal maupun eksternal.
-5. Melaksanakan fungsi kepatuhan sesuai dengan kewenangan yang diatur dalam SPP Kepatuhan.
-6. Penerapan Operational Risk Tools RCSA, KRI, LED, IAM (LPRO).
-7. Pelaksanaan Control Testing.
-8. Pelaksanaan verifikasi Insiden Risiko Operasional sesuai kewenangan mengacu pada SPP Manajemen Risiko Operasional.
-
+1. Memantau kewajiban pelaporan unit kerja kepada regulator.
+2. Melakukan audit counterpart dan memonitor DMTL selama pelaksanaan audit internal atau eksternal.
+3. Memberikan rekomendasi kepada Direktur Bidang untuk melakukan pemeriksaan atau investigasi.
+4. Menyediakan masukan dan ulasan atas rancangan atau proses bisnis yang ada, serta pengambilan keputusan untuk meminimalisir risiko dan memastikan kepatuhan terhadap ketentuan internal maupun eksternal.
+5. Menjalankan fungsi kepatuhan sesuai dengan kewenangan yang diatur dalam SPP Kepatuhan.
+6. Menerapkan alat-alat manajemen risiko operasional seperti RCSA, KRI, LED, dan IAM (LPRO).
+7. Melaksanakan pengujian kontrol.
+8. Melakukan verifikasi insiden risiko operasional sesuai dengan kewenangan yang diatur dalam SPP Manajemen Risiko Operasional.
 
 ## Bisnis Proses
 
