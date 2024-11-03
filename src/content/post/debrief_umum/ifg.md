@@ -28,13 +28,13 @@ Departemen ini menangani produk seperti Direct Debit, Tabungan, Deposito, Hasana
 
 ## Bisnis Proses
 
-Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Unit kerja IFG bertanggung jawab atas manajemen risiko dalam setiap tahapan pengembangan, peluncuran, dan operasi produk atau layanan digital. Berikut adalah tahapan bisnis proses IFG:
+Bisnis proses adalah serangkaian aktivitas untuk mencapai tujuan organisasi. IFG bertanggung jawab atas manajemen risiko dalam setiap tahap pengembangan, peluncuran, dan operasi produk atau layanan digital. Tahapan bisnis proses IFG meliputi:
 
-1. Tahap Pre-Launch: Mengidentifikasi ide atau kebutuhan untuk pengembangan produk atau layanan baru melalui analisis pasar, permintaan pelanggan, atau perubahan regulasi. Melakukan identifikasi dan pengukuran risiko, serta self-assessment bersama unit owner. Meninjau desain produk atau layanan untuk mengidentifikasi potensi risiko dan kontrol terkait, serta memastikan produk memenuhi spesifikasi dan standar melalui pengujian fungsionalitas, keamanan, kinerja, dan kompatibilitas.
-2. Tahap Launch: Memperkenalkan produk atau layanan yang telah selesai dikembangkan secara operasional. Ini melibatkan migrasi data, pelatihan pengguna, dan pengaturan infrastruktur tambahan. Unit reviewer melakukan review risiko untuk kesiapan live implementasi pada RCB (Release Control Board).
-3. Tahap Post-Launch: Memantau produk atau layanan secara teratur untuk memastikan operasi yang lancar dan kepatuhan terhadap kebijakan dan regulasi. Unit kerja reviewer melakukan identifikasi risiko, pengukuran efektivitas kontrol, dan merekomendasikan perbaikan. Melakukan pengujian kontrol operasional dan evaluasi pencapaian target untuk memastikan kelayakan bisnis dan kepatuhan terhadap tujuan perusahaan.
+1. Tahap Pre-Launch: Mengidentifikasi ide atau kebutuhan pengembangan produk baru melalui analisis pasar, permintaan pelanggan, atau perubahan regulasi. Melakukan identifikasi dan pengukuran risiko, serta self-assessment bersama unit owner. Meninjau desain produk untuk mengidentifikasi potensi risiko dan kontrol terkait, serta memastikan produk memenuhi spesifikasi dan standar melalui pengujian fungsionalitas, keamanan, kinerja, dan kompatibilitas.
+2. Tahap Launch: Memperkenalkan produk yang telah selesai dikembangkan secara operasional, melibatkan migrasi data, pelatihan pengguna, dan pengaturan infrastruktur tambahan. Unit reviewer melakukan review risiko untuk kesiapan live implementasi pada RCB (Release Control Board).
+3. Tahap Post-Launch: Memantau produk secara teratur untuk memastikan operasi yang lancar dan kepatuhan terhadap kebijakan dan regulasi. Unit reviewer melakukan identifikasi risiko, pengukuran efektivitas kontrol, dan merekomendasikan perbaikan. Melakukan pengujian kontrol operasional dan evaluasi pencapaian target untuk memastikan kelayakan bisnis dan kepatuhan terhadap tujuan perusahaan.
 
-Dalam prosesnya, IFG melakukan identifikasi dan pengukuran risiko menggunakan risk register pada customer request. Untuk produk baru terkait IT, mitigasi risiko operasional harus mencakup prinsip pengendalian pengamanan data dan transaksi nasabah, termasuk:
+IFG menggunakan risk register pada customer request untuk identifikasi dan pengukuran risiko. Untuk produk baru terkait IT, mitigasi risiko operasional harus mencakup prinsip pengendalian pengamanan data dan transaksi nasabah, termasuk:
 
 1. Kerahasiaan (Confidentiality)
 2. Integritas (Integrity)
