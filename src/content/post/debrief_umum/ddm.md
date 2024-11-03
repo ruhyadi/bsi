@@ -37,12 +37,16 @@ Departemen Information Management (IM) memiliki dua fokus utama: layanan informa
 
 ### Data Analytics
 
-Departemen Data Analytics (DA) memiliki dua titik fokus bidang analisa yaitu Investment, Funding, and Financing dan Digital Data and Operation Analytics. Masing-masing titik bidang analisa memiliki fokus untuk mendukung operasional dan bisnis BSI. Bidang Investment, Funding, and Financing memiliki fokus mendukung bisnis BSI seperti data payroll, merchan acquistiion, debit card, cicil emas, mitraguna, dan lain-lain. Bidang Digital Data and Operation Analytics memiliki fokus mendukung bisnis BSI seperti user aktif bsi mobile, user registered bsi mobile serta digital transactin profitability. Secara rinci, fungsi dan peran departemen DA adalah sebagai berikut:
+Departemen Data Analytics (DA) memiliki dua fokus utama dalam analisis data: Investment, Funding, and Financing serta Digital Data and Operation Analytics. Setiap fokus ini bertujuan untuk mendukung operasional dan bisnis BSI. 
 
-1. Tim DA mendukung fungsi analitik dari setiap direktorat, yang bertanggung jawab atas area tertentu seperti digital, funding, investment, financing, dan operation. 
-2. Pengambilan keputusan didasarkan pada data, mengurangi risiko, dan mendapatkan wawasan bisnis, membangun informasi dan pengetahuan yang strategis untuk mendukung strategi bisnis di masa depan, serta mengidentifikasi peluang bisnis potensial dan mengurangi risiko.
-3. Meningkatkan keterampilan yang memungkinkan organisasi untuk tetap kompetitif dan beradaptasi, serta memantau dan mengevaluasi program yang sedang berjalan di unit bisnis, serta melakukan perbaikan berkelanjutan. 
-4. Mengimplementasikan penggunaan Python, RapidMiner, PowerBI, Tableau, dan machine learning yang akan diintegrasikan ke dalam big data. Departemen Analitik Data juga membantu menyusun laporan untuk presentasi mingguan, serta mencatat masukan dan permintaan analisis data dari unit kerja BSI.
+Bidang Investment, Funding, and Financing berfokus pada mendukung bisnis BSI melalui analisis data terkait payroll, akuisisi merchant, kartu debit, cicilan emas, mitraguna, dan lainnya. Sementara itu, bidang Digital Data and Operation Analytics berfokus pada mendukung bisnis BSI dengan menganalisis data pengguna aktif BSI Mobile, pengguna terdaftar BSI Mobile, serta profitabilitas transaksi digital.
+
+Secara rinci, fungsi dan peran departemen DA adalah sebagai berikut:
+
+1. Tim DA mendukung fungsi analitik dari setiap direktorat, yang bertanggung jawab atas area tertentu seperti digital, funding, investment, financing, dan operation.
+2. Pengambilan keputusan berbasis data untuk mengurangi risiko, mendapatkan wawasan bisnis, membangun informasi dan pengetahuan strategis guna mendukung strategi bisnis masa depan, serta mengidentifikasi peluang bisnis potensial dan mengurangi risiko.
+3. Meningkatkan keterampilan yang memungkinkan organisasi tetap kompetitif dan adaptif, serta memantau dan mengevaluasi program yang sedang berjalan di unit bisnis, serta melakukan perbaikan berkelanjutan.
+4. Mengimplementasikan penggunaan Python, RapidMiner, PowerBI, Tableau, dan machine learning yang diintegrasikan ke dalam big data. Departemen Data Analytics juga membantu menyusun laporan untuk presentasi mingguan, serta mencatat masukan dan permintaan analisis data dari unit kerja BSI.
 
 ### Data Governance
 
