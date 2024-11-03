@@ -8,24 +8,23 @@ Unit kerja IT Finance Risk Group (IFG) bertugas mengelola risiko keuangan terkai
 
 ## Fungsi Peran
 
-IFG memiliki peran dalam menjaga keseimbangan dalam pengendalian perusahaan untuk menciptakan performance sustainability sebagai 1st Line of defense yaitu unit kerja pemilik dan pengendali risiko. Dimana Unit kerja IPR berfungsi dalam mereview dan asses risiko produk serta mengusulkan mitigasi risiko atas produk dan project IT yang akan dijalankan.
+IFG berperan menjaga keseimbangan pengendalian perusahaan untuk menciptakan performance sustainability sebagai 1st Line of Defense, yaitu unit kerja pemilik dan pengendali risiko. Unit kerja IFG mereview dan menilai risiko produk serta mengusulkan mitigasi risiko atas produk dan proyek IT yang akan dijalankan.
 
-Unit kerja IFG terdiri dari 4 departemen, hanya saja dalam pembahasan kali ini hanya dikaji 2 departemen yang berkaitan dengan risk IT, yaitu: Departemen Digital & E-Channel Risk dan Departemen Funding, Transaction & Wealth Risk. Struktur organisasi IFG dapat dilihat pada Gambar x dibawah. Adapun fungsi peran dari masing-masing departemen adalah sebagai berikut:
+Unit kerja IFG terdiri dari 4 departemen, namun kali ini hanya dibahas 2 departemen terkait risk IT: Departemen Digital & E-Channel Risk dan Departemen Funding, Transaction & Wealth Risk. Struktur organisasi IFG dapat dilihat pada Gambar x di bawah. Fungsi peran masing-masing departemen adalah sebagai berikut:
 
 ### Departemen Digital & E-Channel Risk
 
-Departemen Digital & E-Channel Risk menangani risiko keuangan beberapa produk antara lain, ATM, CRM, EDC, QRIS, CMS, Mobile Banking, dan BSI Net. Departemen ini terbagi kedalam dua tim kerja sebagai berikut:
+Departemen ini menangani risiko keuangan produk seperti ATM, CRM, EDC, QRIS, CMS, Mobile Banking, dan BSI Net. Terbagi dalam dua tim kerja:
 
-1. Digital & E-Channel Risk Assessment Team: Tim ini bertanggung jawab untuk melakukan assessment risiko dari sisi Channel (pengecekan yang bisa dilihat secara langsung) terhadap semua channel yang dimiliki dengan porsi terbesar di mobile banking berdasarkan parameter yang ditetapkan, misalnya Face Recognition.
-2. IT Improvement & Application Risk Assessment Team: Tim ini bertanggung jawab untuk melakukan assessment risiko dari sisi IT (pengecekan yang tidak terlihat secara langsung) terhadap semua aplikasi yang digunakan oleh bank.
+1. Digital & E-Channel Risk Assessment Team: Bertanggung jawab melakukan assessment risiko dari sisi Channel (pengecekan langsung) terhadap semua channel, terutama mobile banking berdasarkan parameter yang ditetapkan, misalnya Face Recognition.
+2. IT Improvement & Application Risk Assessment Team: Bertanggung jawab melakukan assessment risiko dari sisi IT (pengecekan tidak langsung) terhadap semua aplikasi yang digunakan oleh bank.
 
 ### Departemen Funding, Transaction & Wealth Risk
 
-Departemen Funding, Transaction & Wealth Risk menangani beberapa produk antara lain, Direct Debit, Tabungan, Deposito, Hasanah Card, Debit Card, dan Produk-Produk Prioritas (Reksadana). Departemen ini terbagi kedalam dua tim kerja sebagai berikut:
+Departemen ini menangani produk seperti Direct Debit, Tabungan, Deposito, Hasanah Card, Debit Card, dan Produk-Produk Prioritas (Reksadana). Terbagi dalam dua tim kerja:
 
-1. Funding, Transaction & Wealth Risk Assessment Team: Tim ini bertanggung jawab untuk melakukan assessment risiko dari sisi Produk (pengecekan yang bisa dilihat secara langsung) terhadap semua Produk yang termasuk dalam kategori Funding, Transaction dan Produk-Produk Prioritas.
-2. IT Improvement & Application Risk Assessment Team: Tim ini bertanggung jawab untuk melakukan assessment risiko dari sisi IT (pengecekan yang tidak terlihat secara langsung) terhadap semua aplikasi yang digunakan oleh bank.
-
+1. Funding, Transaction & Wealth Risk Assessment Team: Bertanggung jawab melakukan assessment risiko dari sisi Produk (pengecekan langsung) terhadap semua produk dalam kategori Funding, Transaction, dan Produk-Produk Prioritas.
+2. IT Improvement & Application Risk Assessment Team: Bertanggung jawab melakukan assessment risiko dari sisi IT (pengecekan tidak langsung) terhadap semua aplikasi yang digunakan oleh bank.
 
 ## Bisnis Proses
 
