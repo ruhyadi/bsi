@@ -144,34 +144,34 @@ Kegiatan operasional di DDM merujuk pada serangkaian aktivitas rutin yang dilaku
 
 Kegiatan operasional di Departemen Data Management (DM) melibatkan pengelolaan data dari berbagai sumber, pemrosesan data, dan penyimpanan data. Berikut adalah beberapa kegiatan operasional di DM:
 
-1. Data Downstream Engineer: Tim Data Downstream Engineer melakukan pengambilan data dari berbagai sumber surrounding BSI seperti data digital, payroll, Islamic Ecosystem, single CIF, Product Holding Ration (PHR) dan data FIN.
-2. Data Upstream Engineer: Tim Data Upstream Engineer membangun datamart dari data yang diturunkan tim Data Downstream Engineer. Datamart tersebut akan digunakan oleh departemen di DDM maupun unit kerja lain untuk kebutuhan analisis bisnis atau keperluan lainnya.
+1. Data Downstream Engineer: Mengambil data dari berbagai sumber seperti data digital, payroll, Islamic Ecosystem, single CIF, Product Holding Ratio (PHR), dan data FIN.
+2. Data Upstream Engineer: Membangun datamart dari data yang dikumpulkan oleh tim Data Downstream Engineer untuk analisis bisnis dan kebutuhan lainnya.
 
 ### Information Management
 
 Kegiatan operasional di Departemen Information Management (IM) melibatkan pengembangan dashboard dan visualisasi data, serta penyediaan data dan laporan ad hoc. Berikut adalah beberapa kegiatan operasional di IM:
 
-1. Information Services: Tim Information Services bertanggung jawab dalam memenuhi permintaan report data adhoc dan menyediakan Web Data Access.
-2. Data Visualization Developer: Tim Data Visualization Developer bertanggung jawab dalam pengelolaan dan pengembangan peralatan visualisasi dati mulai dari 360-Degree Data Aggregation, Reporting Data Aggregation, BI & Visualization Tools, dan Web Data Access.
+1. Information Services: Memenuhi permintaan report data ad hoc dan menyediakan Web Data Access.
+2. Data Visualization Developer: Mengelola dan mengembangkan alat visualisasi data seperti 360-Degree Data Aggregation, Reporting Data Aggregation, BI & Visualization Tools, dan Web Data Access.
 
 ### Data Analytics
 
 Kegiatan operasional di Departemen Data Analytics (DA) melibatkan analisis data untuk mendukung keputusan bisnis. Berikut adalah beberapa kegiatan operasional di DA:
 
-1. Tim 1 DA: Tim 1 DA bertanggung jawab dalam memberikan analisis data yang mendukung bisnis BSI terkait dengan produk non digital BSI. Produk Non digital BSI meliputi BSI OTO, griya, Mitraguna, cicil emas, gadai emas, dan hasanah card.
-2. Tim 2 DA: Tim 2 DA bertanggung jawab dalam memberikan analisis data yang mendukung bisnis BSI terkait dengan produk digital BSI. Produk digital BSI meliputi Mobile Banking (USAK dan UREG). E-banking, ATM, dan ZISWAF.
+1. Tim 1 DA: Memberikan analisis data untuk mendukung bisnis BSI terkait produk non-digital seperti BSI OTO, griya, Mitraguna, cicil emas, gadai emas, dan hasanah card.
+2. Tim 2 DA: Memberikan analisis data untuk mendukung bisnis BSI terkait produk digital seperti Mobile Banking (USAK dan UREG), E-banking, ATM, dan ZISWAF.
 
 ### Data Governance
 
 Kegiatan operasional di Departemen Data Governance (DG) melibatkan pengelolaan kebijakan data, pemantauan kualitas data, dan pengelolaan proyek. Berikut adalah beberapa kegiatan operasional di DG:
 
-1. Data Policy and Architect: Mengembangkan serta menetapkan kebijakan data yang mengatur proses pengumpulan, pengolahan, penyimpanan, dan penggunaan data secara akurat dan sesuai dengan hukum yang berlaku serta prinsip-prinsip syariah yang dijelaskan dalam Standar Prosedur Operasional (SPO) atau Petunjuk Teknis Operasional (PTO) terkait, seperti SPO Data Management, PTO Data Leads, PTO CIF, Implementasi Undang-Undang 20Perlindungan Data Pribadi, PMO Data Quality (Stream Data Governance).
-2. Data Quality: Menjamin bahwa data yang dimiliki oleh BSI memiliki tingkat kualitas yang tinggi, termasuk keakuratan, kelengkapan, konsistensi, dan integritas. Beberapa proyek yang dilakukan oleh tim Data Quality termasuk proyek Super CIF, Data Cleansing, dan Data Monitoring.
-3. Data PMO and Business Partner: Beberapa proyek yang diurus oleh Project Manager Data meliputi pengelolaan proyek untuk pengembangan sistem Customer Relationship Management (CRM) dan PMO Master Data Management (MDM).
+1. Data Policy and Architect: Mengembangkan dan menetapkan kebijakan data sesuai hukum dan prinsip syariah, seperti SPO Data Management, PTO Data Leads, PTO CIF, dan Implementasi UU Perlindungan Data Pribadi.
+2. Data Quality: Menjamin kualitas data melalui proyek seperti Super CIF, Data Cleansing, dan Data Monitoring.
+3. Data PMO and Business Partner: Mengelola proyek seperti pengembangan sistem CRM dan PMO Master Data Management (MDM).
 
 ### Campaign & Leads Management
 
 Kegiatan operasional di Departemen Campaign and Leads Management (CM) melibatkan pengelolaan kampanye dan leads, serta distribusi data. Berikut adalah beberapa kegiatan operasional di CM:
 
-1. Customer Relation and Lead Management: Tim Customer Relation and Lead Management bertanggung jawab dalam mengelola data leads, mengelola Channel Campaign Digital, dan membangun engagement factory.
-2. Campaign Distribution and Management: Tim Campaign Distribution and Management bertanggung jawab dalam menyelaraskan campaign antar channel dan mendistribusikan data melalui FTP, telemarketing, dan networking.
+1. Customer Relation and Lead Management: Mengelola data leads, Channel Campaign Digital, dan membangun engagement factory.
+2. Campaign Distribution and Management: Menyelaraskan campaign antar channel dan mendistribusikan data melalui FTP, telemarketing, dan networking.
