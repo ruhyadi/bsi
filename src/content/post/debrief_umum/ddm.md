@@ -27,12 +27,12 @@ Departemen Data Management (DM) memiliki dua fokus utama: data upstream engineer
 
 ### Information Management
 
-Departemen Information Management (IM) memiliki dua titik fokus yaitu information services dan data visualization developer. Departemen ini berfokus pada penyusunan dashboard dan visualisasi dari proses awal hingga dibagikan pada user. Tim Information Services memiliki fokus utama berupa proyek business insight, visualisasi data, dan penyedia data. Tim Data Visualization memiliki fokus pada proyek datamart, logical, physical database design, serta efisiensi dan efektivitas database. Secara rinci, fungsi dan peran departemen IM adalah sebagai berikut:
+Departemen Information Management (IM) memiliki dua fokus utama: layanan informasi dan pengembangan visualisasi data. Departemen ini bertanggung jawab atas penyusunan dashboard dan visualisasi data dari awal hingga dibagikan kepada pengguna. Tim Layanan Informasi berfokus pada proyek wawasan bisnis, visualisasi data, dan penyediaan data. Tim Pengembangan Visualisasi Data berfokus pada proyek datamart, desain basis data logis dan fisik, serta efisiensi dan efektivitas database. Secara rinci, fungsi dan peran departemen IM adalah sebagai berikut:
 
-1. Memberikan wawasan bisnis: Membantu pengguna atau departemen terkait dengan memberikan wawasan bisnis melalui dashboard (report and analytics).
-2. Visualisasi Data: Memfasilitasi permintaan data dengan efektif melalui visualisasi (chart, table, diagram, dan lain-lain). 
-3. Penyediaan Data dan laporan ad hoc: Menyediakan data yang akurat dan dapat diandalkan sesuai permintaan. 
-4. Informasi Tunggal atau Sumber Informasi Utama: Manajemen Informasi sebagai sumber informasi tunggal dan menjaga data yang paling dapat diandalkan. 
+1. Memberikan Wawasan Bisnis: Membantu pengguna atau departemen terkait dengan menyediakan wawasan bisnis melalui dashboard (laporan dan analisis).
+2. Visualisasi Data: Memfasilitasi permintaan data secara efektif melalui visualisasi (grafik, tabel, diagram, dan lain-lain).
+3. Penyediaan Data dan Laporan Ad Hoc: Menyediakan data yang akurat dan dapat diandalkan sesuai permintaan.
+4. Sumber Informasi Utama: Berperan sebagai sumber informasi tunggal yang menjaga keandalan data.
 5. Datamart: Menyediakan datamart untuk mempermudah dan meningkatkan efisiensi pengambilan data yang diperlukan.
 
 ### Data Analytics
