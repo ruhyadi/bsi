@@ -68,6 +68,18 @@ Departemen Campaign and Leads Management (CM) terdiri dari dua bagian utama: Cus
 
 ## Bisnis Proses
 
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Bisnis proses di Departemen Data Management (DDM) melibatkan pengelolaan data dari berbagai sumber, memastikan kualitas data, melakukan analisis pada data dan menyediakan data yang siap digunakan untuk unit bisnis. Secara rinci, bisnis proses di DDM terbagi pada masing-masing departemen sebagai berikut:
+
+### Data Management
+
+### Information Management
+
+### Data Analytics
+
+### Data Governance
+
+### Campaign & Leads Management
+
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
