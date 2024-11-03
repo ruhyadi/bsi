@@ -54,4 +54,35 @@ Bank harus mematuhi regulasi yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) d
 3. Standar Prosedur Operasional (SPO IT): Panduan internal untuk pengelolaan IT yang efisien dan aman.
 4. Petunjuk Teknis Operasional (PTO): PTO SDLC (System Development Life Cycle) dan PTO RCB (Release Control Board) untuk memastikan proses pengembangan sistem dan mitigasi risiko terkait IT dilaksanakan secara terstruktur dan sesuai standar.
 
-## Ketentuan Operasional
+## Kegiatan Operasional
+
+Kegiatan operasional IFG merujuk pada serangkaian aktivitas rutin yang dilakukan untuk memastikan manajemen risiko keuangan dan operasional terkait teknologi informasi berjalan dengan efektif dan efisien. Berikut adalah kegiatan operasional IFG:
+
+1. Identifikasi dan Pengukuran Risiko:
+   - Menggunakan risk register pada customer request untuk identifikasi dan pengukuran risiko.
+   - Melakukan self-assessment bersama unit owner untuk mengidentifikasi dan mengukur risiko.
+2. Pengelolaan Risiko dalam Pengembangan Produk:
+   - Mengidentifikasi ide atau kebutuhan pengembangan produk baru melalui analisis pasar, permintaan pelanggan, atau perubahan regulasi.
+   - Meninjau desain produk untuk mengidentifikasi potensi risiko dan kontrol terkait.
+   - Memastikan produk memenuhi spesifikasi dan standar melalui pengujian fungsionalitas, keamanan, kinerja, dan kompatibilitas.
+3. Pengelolaan Risiko dalam Peluncuran Produk:
+   - Memperkenalkan produk yang telah selesai dikembangkan secara operasional.
+   - Melibatkan migrasi data, pelatihan pengguna, dan pengaturan infrastruktur tambahan.
+   - Melakukan review risiko untuk kesiapan live implementasi pada RCB (Release Control Board).
+4. Pengelolaan Risiko dalam Operasi Produk:
+   - Memantau produk secara teratur untuk memastikan operasi yang lancar dan kepatuhan terhadap kebijakan dan regulasi.
+   - Melakukan identifikasi risiko, pengukuran efektivitas kontrol, dan merekomendasikan perbaikan.
+   - Melakukan pengujian kontrol operasional dan evaluasi pencapaian target untuk memastikan kelayakan bisnis dan kepatuhan terhadap tujuan perusahaan.
+5. Penerapan Prinsip Pengendalian Pengamanan Data dan Transaksi Nasabah:
+   - Kerahasiaan (Confidentiality)
+   - Integritas (Integrity)
+   - Ketersediaan (Availability)
+   - Keaslian (Authentication)
+   - Tidak dapat diingkari (Non-repudiation)
+   - Pengendalian otorisasi (Authorization of control)
+   - Pemisahan tugas dan tanggung jawab (Segregation of duties)
+   - Pemeliharaan jejak audit (Maintenance of audit trails)
+6. Kepatuhan terhadap Regulasi:
+   - Mematuhi peraturan yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI)
+   - Mengikuti POJK Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum.
+   - Mengikuti SEOJK Nomor 21/SEOJK.03/2017 tentang Penerapan Manajemen Risiko Teknologi Informasi oleh Bank Umum.
