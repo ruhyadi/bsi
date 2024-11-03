@@ -59,6 +59,15 @@ Departemen Data Governance (DG) terdiri dari tiga tim utama: Data Policy and Arc
 
 ### Campaign & Leads Management
 
+Departemen Campaign and Leads Management (CM) terdiri dari dua bagian utama: Customer Relations and Leads Management serta Campaign Distribution and Management. Bagian Customer Relations and Leads Management berfokus pada pengumpulan data leads, pengelolaan Channel Campaign Digital, dan pengembangan engagement factory. Sementara itu, bagian Campaign Distribution and Management berfokus pada penyelarasan kampanye antar channel dan distribusi data melalui FTP, telemarketing, dan networking. Secara rinci, fungsi dan peran departemen CM adalah sebagai berikut:
+
+1. Inisiasi Program Kampanye: Memulai program kampanye berdasarkan analisis data untuk mencapai tujuan tertentu yang didukung oleh data demografi.
+2. Pengumpulan Data Leads: Menghasilkan data leads, yaitu kelompok nasabah yang berpotensi meningkatkan tingkat penerimaan dan konversi dalam program kampanye. Data leads dibentuk melalui analisis demografi nasabah, perilaku, dan ketentuan kampanye.
+3. Penentuan Channel Kampanye: Menentukan channel kampanye, termasuk saluran digital (seperti notifikasi push BSI Mobile, email blast, WA blast, SMS blast) dan saluran non-digital (seperti telemarketing, digital ambassador, dan jaringan). Pemilihan saluran disesuaikan dengan tujuan kampanye, data leads, dan biaya untuk mencapai efisiensi program.
+4. Distribusi Leads: Mendistribusikan leads melalui berbagai platform seperti Dataku, RM Tools, FTP, dan Cloud. Dataku menyediakan informasi data leads dan PHR yang dapat diakses melalui jaringan internal. RM Tools adalah CRM yang mengelola interaksi nasabah secara terpusat. FTP adalah layanan untuk mentransfer file antar komputer. Cloud adalah infrastruktur komputasi dari cloud computing.
+5. Engagement Factory: Melaksanakan Engagement Factory, sebuah metode untuk menciptakan keterlibatan pelanggan yang baik, yang merupakan prediktor kuat untuk meningkatkan loyalitas pelanggan.
+6. Pelacakan dan Pemantauan Kampanye: Melacak dan memantau kampanye untuk memastikan kelancaran program, terutama untuk saluran notifikasi push dan email blast.
+
 ## Bisnis Proses
 
 ## Ketentuan Operasional
