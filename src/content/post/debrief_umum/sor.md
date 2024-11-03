@@ -15,14 +15,11 @@ Unit kerja Senior Operational Risk (SOR) terdiri dari 4 departemen: DCOR Finance
 
 Dalam prinsip 3rd Line of Defense, DCOR IT berperan sebagai 1.5 line of defense dengan memberikan rekomendasi terkait pelaksanaan kontrol yang dilakukan oleh unit kerja IT. Tugas dan tanggung jawab DCOR IT meliputi:
 
-1. Memantau kewajiban pelaporan unit kerja kepada regulator.
-2. Melakukan audit counterpart dan memonitor DMTL selama pelaksanaan audit internal atau eksternal.
-3. Memberikan rekomendasi kepada Direktur Bidang untuk melakukan pemeriksaan atau investigasi.
-4. Menyediakan masukan dan ulasan atas rancangan atau proses bisnis yang ada, serta pengambilan keputusan untuk meminimalisir risiko dan memastikan kepatuhan terhadap ketentuan internal maupun eksternal.
-5. Menjalankan fungsi kepatuhan sesuai dengan kewenangan yang diatur dalam SPP Kepatuhan.
-6. Menerapkan alat-alat manajemen risiko operasional seperti RCSA, KRI, LED, dan IAM (LPRO).
-7. Melaksanakan pengujian kontrol.
-8. Melakukan verifikasi insiden risiko operasional sesuai dengan kewenangan yang diatur dalam SPP Manajemen Risiko Operasional.
+1. Pelaporan dan Audit: Memantau kewajiban pelaporan unit kerja kepada regulator dan melakukan audit counterpart serta memonitor DMTL (Data Management Task List) selama pelaksanaan audit internal atau eksternal.
+2. Rekomendasi dan Investigasi: Memberikan rekomendasi kepada Direktur Bidang untuk melakukan pemeriksaan atau investigasi.
+3. Masukan dan Ulasan: Menyediakan masukan dan ulasan atas rancangan atau proses bisnis yang ada untuk meminimalisir risiko dan memastikan kepatuhan terhadap ketentuan internal maupun eksternal.
+4. Fungsi Kepatuhan: Menjalankan fungsi kepatuhan sesuai dengan kewenangan yang diatur dalam SPP Kepatuhan.
+5. Manajemen Risiko Operasional: Menerapkan alat-alat manajemen risiko operasional seperti RCSA (Risk and Control Self-Assessment), KRI (Key Risk Indicators), LED (Loss Event Database), dan IAM (Incident and Action Management), melaksanakan pengujian kontrol, dan melakukan verifikasi insiden risiko operasional sesuai dengan kewenangan yang diatur dalam SPP Manajemen Risiko Operasional.
 
 ## Bisnis Proses
 
