@@ -136,6 +136,15 @@ Bisnis proses di Departemen Campaign and Leads Management (CM) dapat dilihat pad
 
 ## Ketentuan Operasional
 
+Ketentuan operasional di DDM merujuk pada aturan, prosedur, dan standar yang harus diikuti untuk memastikan bahwa semua kegiatan operasional berjalan dengan efisien, konsisten, dan sesuai dengan tujuan bisnis serta regulasi yang berlaku.
+
+Ketentuan operasional di DDM disusun secara rinci oleh departemen Data Governance (DG) dan diterapkan oleh seluruh departemen di DDM. Ketentuan operasional ini mencakup berbagai aspek, seperti kebijakan data, prosedur pengelolaan data, standar kualitas data, dan tata kelola proyek. Berikut adalah beberapa ketentuan operasional yang berlaku di DDM:
+
+1. SPO Data Management: Standar Prosedur Operasional (SPO) Data Management adalah panduan yang mengatur proses pengelolaan data dari awal hingga akhir, termasuk pengumpulan, pemrosesan, penyimpanan, dan distribusi data.
+2. PTO Data Leads: Petunjuk Teknis Operasional (PTO) Data Leads adalah panduan yang mengatur proses pengumpulan, pemrosesan, dan distribusi data leads untuk kampanye dan program pemasaran.
+3. PTO CIF: Petunjuk Teknis Operasional (PTO) CIF adalah panduan yang mengatur proses pengelolaan data Customer Information File (CIF) untuk memastikan kualitas data nasabah.
+4. Implementasi UU Perlindungan Data Pribadi: DDM harus mematuhi Undang-Undang Perlindungan Data Pribadi (UU PDP) dalam pengelolaan data nasabah dan data internal bank.
+
 ## Kegiatan Operasional
 
 Kegiatan operasional di DDM merujuk pada serangkaian aktivitas rutin yang dilakukan untuk memastikan pengelolaan data berjalan dengan lancar dan efektif. Kegiatan ini mencakup berbagai tugas yang mendukung pengumpulan, pemrosesan, penyimpanan, dan distribusi data, serta memastikan kualitas dan keamanan data.
