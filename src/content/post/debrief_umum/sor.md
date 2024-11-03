@@ -44,10 +44,27 @@ Proses bisnis yang dilakukan oleh DCOR IT bertujuan untuk mengintegrasikan tools
 
 ## Ketentuan Operasional
 
-Dalam menjalankan proses bisnis dan kegiatan operasional, terdapat peraturan baik internal maupun eksternal yang menjadi landasan bagi Senior Operational Risk – 1 dalam menjalankan kewajibannya. Adapun peraturan – peraturan tersebut ialah:
+Dalam menjalankan proses bisnis dan kegiatan operasional, Senior Operational Risk (SOR) berpedoman pada berbagai peraturan baik internal maupun eksternal. Berikut adalah peraturan-peraturan yang menjadi landasan operasional SOR:
 
-a. Ketentuan Eksternal 1) Nomor 12/POJK.03/2018 Tentang Penyelenggaraan Layanan Perbankan Digital Oleh Bank Umum 2) Nomor 13/POJK.03/2020 Tentang Perubahan Atas Peraturan Otoritas Jasa Keuangan 3) Nomor 38/POJK.03/2016 Tentang Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi Oleh Bank Umum 4) Nomor 11/POJK.03/2022 Tentang Penyelenggaraan Teknologi Informasi Oleh Bank Umum 5) Undang Undang Republik Indonesia Nomor 19 Tahun 2016 Tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi dan Transaksi Elektronik 6) Peraturan Bank Indonesia Nomor 18/40/PBI/2016 Tentang Penyelenggaraan Pemrosesan Transaksi Pembayaran
-
-b. Ketentuan Internal 1) Standar Prosedur Pengendalian (SPP) Kepatuhan 2) SPP MRO 3) SPP Pembuatan Kebijakan dan Prosedur 4) PTO DCOR 5) PTO ORM TOOLS 6) SPO TI 7) SPO Procurement 8) PTO SDLC 9) PTO SDLC Agile 10) PTO RCB 11) PTO DRP 12) PTO Procurement Pengadaan Barang dan Jasa 13) PTO Kewajiban Pelaporan Kepada Regulator 14) PTO lain yang berkaitan
-
-## Kegiatan Operasional
+1. Ketentuan Eksternal:
+   1. Peraturan Otoritas Jasa Keuangan (POJK) Nomor 12/POJK.03/2018 tentang Penyelenggaraan Layanan Perbankan Digital oleh Bank Umum.
+   2. POJK Nomor 13/POJK.03/2020 tentang Perubahan atas Peraturan Otoritas Jasa Keuangan.
+   3. POJK Nomor 38/POJK.03/2016 tentang Penerapan Manajemen Risiko dalam Penggunaan Teknologi Informasi oleh Bank Umum.
+   4. POJK Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum.
+   5. Undang-Undang Republik Indonesia Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik.
+   6. Peraturan Bank Indonesia Nomor 18/40/PBI/2016 tentang Penyelenggaraan Pemrosesan Transaksi Pembayaran.
+2. Ketentuan Internal:
+   1. Standar Prosedur Pengendalian (SPP) Kepatuhan.
+   2. SPP Manajemen Risiko Operasional (MRO).
+   3. SPP Pembuatan Kebijakan dan Prosedur.
+   4. Prosedur Teknis Operasional (PTO) DCOR.
+   5. PTO ORM TOOLS.
+   6. Standar Prosedur Operasional (SPO) Teknologi Informasi (TI).
+   7. SPO Pengadaan.
+   8. PTO Siklus Hidup Pengembangan Sistem (SDLC).
+   9. PTO SDLC Agile.
+   10. PTO Rencana Kontinuitas Bisnis (RCB).
+   11. PTO Pemulihan Bencana (DRP).
+   12. PTO Pengadaan Barang dan Jasa.
+   13. PTO Kewajiban Pelaporan kepada Regulator.
+   14. PTO lainnya yang relevan.
