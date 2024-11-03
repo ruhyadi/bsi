@@ -50,6 +50,13 @@ Secara rinci, fungsi dan peran departemen DA adalah sebagai berikut:
 
 ### Data Governance
 
+Departemen Data Governance (DG) merupakan departemen yang memiliki tiga tim yang terdiri dari data policy and architecture, data quality, dan PMO & Business Partner (BP). Tim data policy and architecture memiliki tugas untuk mengelola tata kelola dan kebijakan data di Bank Syariah Indonesia. Data Quality memastikan kualitas data BSI tetap terjaga. PMO dan BP memiliki tugas menjadi project manager untuk project departemen DG maupun unit kerja DDM. Secara rinci, fungsi dan peran departemen DG adalah sebagai berikut:
+
+1. Menyusun Petunjuk Teknis Operasional serta kebijakan perlindungan data konsumen bertujuan untuk memastikan tata kelola data di Bank Syariah Indonesia berjalan sesuai dengan ketentuan yang berlaku. 
+2. Memastikan kualitas data yang digunakan untuk analisis lebih lanjut dijaga dengan baik, termasuk memeriksa keberadaan data ganda dalam CIF. 
+3. Mengelola proyek-proyek di departemen DG dan unit kerja DDM untuk memastikan penyelenggaraan proyek sesuai dengan jadwal yang ditentukan. 
+4. Memverifikasi kecocokan data mapping dan struktur data dengan peraturan yang berlaku.
+
 ### Campaign & Leads Management
 
 ## Bisnis Proses
