@@ -11,18 +11,18 @@ Strategi DDM dirancang untuk mendukung visi dan misi BSI menjadi Top 10 Global I
 
 ## Fungsi Peran
 
-Unit kerja DDM terdiri dari 5 departemen, yaitu: Data Management (DM), Information Management (IM), Data Analytivs (DA) Data Governance (DG), dan Campaign & Leads Management (CM). Unit kerja ini bertanggung jawab atas pengelolaan data dan informasi, analisis data, pengelolaan kampanye dan leads, serta pengelolaan data governance. Secara diagram, unit kerja ini dapat digambarkan pada Gambar di bawah ini.
+Unit kerja DDM terdiri dari 5 departemen, yaitu: Data Management (DM), Information Management (IM), Data Analytics (DA), Data Governance (DG), dan Campaign & Leads Management (CM). Unit kerja ini bertanggung jawab atas pengelolaan data dan informasi, analisis data, pengelolaan kampanye dan leads, serta tata kelola data. Diagram unit kerja ini dapat dilihat pada Gambar di bawah ini.
 
 ### Data Management
 
 Departemen Data Management (DM) memiliki dua fokus utama: data upstream engineer dan data downstream engineer. Data downstream engineer bertugas mengambil dan memindahkan data dari berbagai sumber sistem BSI seperti core banking, mobile banking, dan internet banking ke database BSI melalui proses Extract, Transfer, Load (ETL) menggunakan tools seperti Talend. Data ini disimpan dalam Enterprise Data Warehouse (EDW) atau Big Data sebagai data turunan pertama (raw) dan kedua (terstandarisasi). Data upstream engineer kemudian mengelola dan memproses data ini untuk digunakan dalam analisis bisnis oleh departemen atau unit kerja lainnya. Secara rinci, fungsi dan peran departemen DM adalah sebagai berikut:
 
-1. Bertanggung jawab mengidentifikasi dan memetakan data sesuai dengan klasifikasi dan struktur data yang ditentukan. 
-2. Melakukan pengelolaan kegiatan penerimaan dan pengecekan data, serta mengunggah data ke pusat basis data. 
-3. Mengidentifikasi dan memetakan data internal dan eksternal bank sesuai dengan klasifikasi yang telah ditetapkan. 
-4. Memastikan bahwa arsitektur data internal dan eksternal bank mendukung penyusunan strategi bank dan mencapai tujuan bisnis. 
-5. Menjamin bahwa proses pembaruan, pembersihan, dan integrasi data internal bank berlangsung sesuai dengan ketentuan yang berlaku dan dilakukan secara terus-menerus. 
-6. Menjamin kualitas data internal dan eksternal yang dapat digunakan untuk mengevaluasi bisnis, serta mendukung penyusunan strategi bank sesuai dengan rencana bisnis yang telah ditetapkan. 
+1. Mengidentifikasi dan memetakan data sesuai dengan klasifikasi dan struktur data yang telah ditentukan.
+2. Mengelola kegiatan penerimaan dan pengecekan data, serta mengunggah data ke pusat basis data.
+3. Mengidentifikasi dan memetakan data internal dan eksternal bank sesuai dengan klasifikasi yang telah ditetapkan.
+4. Memastikan arsitektur data internal dan eksternal bank mendukung penyusunan strategi bank dan pencapaian tujuan bisnis.
+5. Menjamin proses pembaruan, pembersihan, dan integrasi data internal bank berlangsung sesuai dengan ketentuan yang berlaku dan dilakukan secara terus-menerus.
+6. Menjamin kualitas data internal dan eksternal yang dapat digunakan untuk mengevaluasi bisnis, serta mendukung penyusunan strategi bank sesuai dengan rencana bisnis yang telah ditetapkan.
 7. Menjamin ketersediaan data secara akurat dan tepat sesuai dengan standar tata kelola data, khususnya di Departemen Data.
 
 ### Information Management
