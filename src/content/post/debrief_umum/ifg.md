@@ -47,4 +47,8 @@ IFG menggunakan risk register pada customer request untuk identifikasi dan pengu
 
 ## Kebijakan Operasional
 
+Dalam menjalankan operasional internal, Bank harus mematuhi regulasi yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI). OJK bertanggung jawab sebagai pengawas bank dan memiliki wewenang untuk mengeluarkan peraturan terkait Bank Umum / Syariah secara umum, kecuali untuk sistem pembayaran, monetary, dan lalu lintas keuangan. Sementara BI berperan sebagai regulator sistem moneter. Dalam konteks regulasi Teknologi Informasi (TI), Bank Umum / Syariah tunduk pada Peraturan Otoritas Jasa Keuangan (POJK) Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum. Selain itu, SEOJK Nomor 21/SEOJK.03/2017 tentang Penerapan Manajemen Risiko TI oleh Bank Umum juga mengatur aspek manajemen risiko TI yang harus dipatuhi oleh Bank.
+
+Dalam menjalankan operasional TI, Bank juga mengimplementasikan Standar Prosedur Operasional (SPO TI) sebagai panduan internal untuk pengelolaan TI yang efisien dan aman. Selain itu, Bank juga menggunakan Petunjuk Teknis Operasional (PTO) seperti PTO SDLC (System Development Life Cycle) dan PTO RCB (Release Control Board) untuk memastikan bahwa proses pengembangan sistem dan mitigasi risiko terkait TI dilaksanakan secara terstruktur dan sesuai dengan standar yang ditetapkan. Dalam hal ini, peran IPR sangat penting karena mereka terlibat dalam mengawal kepatuhan dan penerapan standar operasional internal tersebut. IPR berperan dalam memastikan bahwa Bank mematuhi regulasi yang berlaku serta menjalankan operasional TI sesuai dengan standar terbaik dalam industri perbankan.
+
 ## Ketentuan Operasional
