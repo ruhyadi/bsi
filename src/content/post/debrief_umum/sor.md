@@ -11,15 +11,21 @@ Secara ringkas, strategi unit kerja SOR adalah sebagai berikut:
 
 ## Fungsi Peran
 
-Unit kerja Senior Operational Risk (SOR) terdiri dari 4 departemen: DCOR Finance & Strategy, DCOR Compliance & Human Capital, DCOR Vice President Directorate, dan DCOR Information Technology. Setiap departemen memiliki fungsi dan peran yang unik. Pada kesempatan ini, penulis akan fokus pada fungsi dan peran dari DCOR Information Technology (IT).
+Unit kerja Senior Operational Risk (SOR) terdiri dari 4 departemen: DCOR (Decentralized Compliance and Operational Risk) Finance & Strategy, DCOR Compliance & Human Capital, DCOR Vice President Directorate, dan DCOR Information Technology. Setiap departemen memiliki fungsi dan peran yang unik. Pada kesempatan ini, penulis akan fokus pada fungsi dan peran dari DCOR Information Technology (IT).
 
-Dalam prinsip 3rd Line of Defense, DCOR IT berperan sebagai 1.5 line of defense dengan memberikan rekomendasi terkait pelaksanaan kontrol yang dilakukan oleh unit kerja IT. Tugas dan tanggung jawab DCOR IT meliputi:
+Dalam prinsip 3rd Line of Defense, SOR berperan sebagai 1.5 line of defense dengan memberikan rekomendasi terkait pelaksanaan kontrol yang dilakukan oleh unit kerja IT. Tugas dan tanggung jawab SOR meliputi:
 
 1. Pelaporan dan Audit: Memantau kewajiban pelaporan unit kerja kepada regulator dan melakukan audit counterpart serta memonitor DMTL (Data Management Task List) selama pelaksanaan audit internal atau eksternal.
 2. Rekomendasi dan Investigasi: Memberikan rekomendasi kepada Direktur Bidang untuk melakukan pemeriksaan atau investigasi.
 3. Masukan dan Ulasan: Menyediakan masukan dan ulasan atas rancangan atau proses bisnis yang ada untuk meminimalisir risiko dan memastikan kepatuhan terhadap ketentuan internal maupun eksternal.
 4. Fungsi Kepatuhan: Menjalankan fungsi kepatuhan sesuai dengan kewenangan yang diatur dalam SPP Kepatuhan.
 5. Manajemen Risiko Operasional: Menerapkan alat-alat manajemen risiko operasional seperti RCSA (Risk and Control Self-Assessment), KRI (Key Risk Indicators), LED (Loss Event Database), dan IAM (Incident and Action Management), melaksanakan pengujian kontrol, dan melakukan verifikasi insiden risiko operasional sesuai dengan kewenangan yang diatur dalam SPP Manajemen Risiko Operasional.
+
+Departemen DCOR IT terbagi menjadi tiga tim, yaitu: Tim Data & Strategy, Tim IT Service, dan Tim IT Digital & Banking Channel. Peran dan fungsi masing-masing tim adalah sebagai berikut:
+
+1. Tim Data & Strategy: Tim Data & Strategy berkaitan secara langsung dengan unit kerja DDM dan ISG. Tim ini memiliki peran penting dalam pengembangan strategi mitigasi risiko. Selain itu, tim ini bertanggungjawab untuk menganalisa data untuk mengidentifikasi pola risiko dan tren yang mungkin timbul sehingga dapat melakukan tindakan pencegahan secara proaktif.
+2. Tim IT Service: Tim IT Service berkaitan secara langsung dengan unit kerja CSO, IOG, dan ASP. Tim ini memiliki peran penting dalam memastikan bahwa infrastruktur teknologi informasi dan sistem yang digunakan BSI mendukung pengelolaan risiko operasional.
+3. Tim IT Digital & Banking Channel: Tim IT Digital & Banking Channel berkaitan secara langsung dengan unit kerja DAG, DPG, IDG, dan MCG. Tim ini memiliki peran penting dalam pengelolaan risiko yang berkaitan dengan teknologi digital, termasuk platform dan aplikasi layanan digital. Selain itu, tim ini bertanggungjawab untuk memastikan keamanan dan proteksi data, ketersediaan sistem, hingga kepatuhan yang berkaitan dengan teknologi digital BSI.
 
 ## Bisnis Proses
 
