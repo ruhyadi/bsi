@@ -43,10 +43,10 @@ Bidang Investment, Funding, and Financing berfokus pada mendukung bisnis BSI mel
 
 Secara rinci, fungsi dan peran departemen DA adalah sebagai berikut:
 
-1. Tim DA mendukung fungsi analitik dari setiap direktorat, yang bertanggung jawab atas area tertentu seperti digital, funding, investment, financing, dan operation.
-2. Pengambilan keputusan berbasis data untuk mengurangi risiko, mendapatkan wawasan bisnis, membangun informasi dan pengetahuan strategis guna mendukung strategi bisnis masa depan, serta mengidentifikasi peluang bisnis potensial dan mengurangi risiko.
-3. Meningkatkan keterampilan yang memungkinkan organisasi tetap kompetitif dan adaptif, serta memantau dan mengevaluasi program yang sedang berjalan di unit bisnis, serta melakukan perbaikan berkelanjutan.
-4. Mengimplementasikan penggunaan Python, RapidMiner, PowerBI, Tableau, dan machine learning yang diintegrasikan ke dalam big data. Departemen Data Analytics juga membantu menyusun laporan untuk presentasi mingguan, serta mencatat masukan dan permintaan analisis data dari unit kerja BSI.
+1. Fungsi Analitik: Mendukung fungsi analitik dari setiap direktorat, yang bertanggung jawab atas area tertentu seperti digital, funding, investment, financing, dan operation.
+2. Pengambilan Keputusan Berbasis Data: Mengurangi risiko, mendapatkan wawasan bisnis, membangun informasi dan pengetahuan strategis guna mendukung strategi bisnis masa depan, serta mengidentifikasi peluang bisnis potensial dan mengurangi risiko.
+3. Meningkatkan Keterampilan: Meningkatkan keterampilan yang memungkinkan organisasi tetap kompetitif dan adaptif, serta memantau dan mengevaluasi program yang sedang berjalan di unit bisnis, serta melakukan perbaikan berkelanjutan.
+4. Implementasi Teknologi Data: Mengimplementasikan penggunaan Python, RapidMiner, PowerBI, Tableau, dan machine learning yang diintegrasikan ke dalam big data. Departemen Data Analytics juga membantu menyusun laporan untuk presentasi mingguan, serta mencatat masukan dan permintaan analisis data dari unit kerja BSI.
 
 ### Data Governance
 
