@@ -29,6 +29,13 @@ Departemen DCOR (Decentralized Compliance and Operational Risk) IT terbagi menja
 
 ## Bisnis Proses
 
+Proses bisnis yang dilakukan oleh DCOR IT bertujuan untuk mengintegrasikan tools yang efektif dalam mendeteksi, mengevaluasi, dan memonitor risiko yang berkaitan dengan operasional BSI. Melalui proses bisnis yang dilakukan, DCOR IT memastikan bahwa control yang diterapkan secara efektif dapat meminimalkan risiko yang mungkin timbul dan memaksimalkan efisiensi serta kepatuhan dengan peraturan yang berlaku. Berikut merupakan proses bisnis yang dilakukan oleh DCOR IT:
+
+1. Penyusunan RCSA Risk Control Self Assessment adalah salah satu tools dalam Operational Risk yang digunakan untuk melakukan suatu pendekatan yang melibatkan partisipasi aktif unit kerja dalam mengidentifikasi, mengevaluasi, dan mengelola risiko yang terkait dengan operasional unit kerja tersebut. Berikut merupakan tahapan dalam penyusunan RCSA: a. Proses identifikasi key process. b. Proses identifikasi key risk. c. Proses identifikasi key control. d. Risk Assessment. e. Pengukuran inheren risk dan control. f. Memperhitungkan residual/composite risk.
+2. Pelaksanaan Control Testing Pelaksanaan Control Testing merupakan tahapan lanjutan setelah penyusunan RCSA. Kegiatan operasional ini merupakan langkah untuk memastikan bahwa control yang telah ditetapkan dalam manajemen risiko berfungsi sebagaimana mestinya. 
+3. Monitoring Pelaksanaan Action Plan Pelaksanaan monitoring Action Plan diperlukan untuk memastikan bahwa upaya perbaikan yang dilakukan setelah identifikasi masalah dalam control testing berjalan sesuai dengan rencana, efektif dalam mengurangi risiko, dan sesuai dengan kebijakan serta regulasi yang berlaku. Melalui proses monitoring ini, SOR - 1 dapat menilai apakah langkah-langkah action plan telah berhasil mengurangi risiko atau meningkatkan kinerja control unit kerja. 
+4. Penerbitan Laporan Executive Summary Laporan Executive Summary yang disusun akan diterbitkan kepada Direktur Bidang TI secara langsung dan diteruskan kepada Direktur Risk Management dan Direktur Compliance. Laporan ini berisi laporan atas kegiatan Compliance Assurance dan penerapan Operational Risk.
+
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
