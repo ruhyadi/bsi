@@ -117,14 +117,11 @@ Bisnis proses di Departemen Data Analytics (DA) dapat dilihat pada Gambar x. Ber
 
 Bisnis proses di Departemen Data Governance (DG) dapat dilihat pada Gambar x. Berikut adalah penjelasan dari masing-masing proses tersebut:
 
-1. Set Goals Priorities and Outcome: Para pengambil keputusan menetapkan tujuan, prioritas, dan hasil bisnis yang diharapkan, seperti mengurangi risiko dengan meningkatkan keamanan data, mengurangi biaya penyimpanan data, atau meningkatkan kepatuhan terhadap regulasi terkait data.
-2. Asses and Analyze: Setelah mengidentifikasi hasil yang diinginkan dan hasil bisnis yang dapat diukur, langkah berikutnya adalah mengevaluasi dan menganalisis seberapa efektif prinsip-prinsip tata kelola data telah diterapkan. Contohnya, dengan menilai apakah proses pengelolaan data sudah cukup mendukung proses bisnis atau belum.
-3. Define: Langkah selanjutnya adalah menentukan indikator kinerja kunci (KPI) berdasarkan kesuksesan hasil bisnis dan ukuran risiko, dan juga membentuk tim untuk menjalankan tugas terkait, seperti: 
-   1. Data Owner (Bertanggung jawab dalam memastikan konsistensi dan keamanan data secara keseluruhan)
-   2. Data Custodian (Bertanggung jawab dalam menjaga keamanan data)
-   3. Data Steward (Bertanggung jawab untuk memastikan kualitas data)
-4. Operate: Selanjutnya adalah menentukan KPI dan memilih tools yang akan digunakan untuk menerapkan kebijakan dan proses tersebut. Contoh alat yang dapat digunakan adalah AWS Lake Formation yang menyediakan tools terkait manajemen keamanan dan tata kelola data.
-5. Evaluate and Govern: Proses tata kelola merupakan proses yang sifatnya berkelanjutan, sehingga apabila proses telah dijalankan perlu dilakukan evaluasi.
+1. Set Goals, Priorities, and Outcomes: Pengambil keputusan menetapkan tujuan, prioritas, dan hasil yang diharapkan, seperti meningkatkan keamanan data, mengurangi biaya penyimpanan, atau meningkatkan kepatuhan terhadap regulasi.
+2. Assess and Analyze: Mengevaluasi dan menganalisis efektivitas penerapan prinsip tata kelola data untuk mendukung proses bisnis.
+3. Define: Menentukan KPI berdasarkan hasil bisnis dan risiko, serta membentuk tim yang terdiri dari Data Owner (bertanggung jawab atas konsistensi dan keamanan data), Data Custodian (menjaga keamanan data), dan Data Steward (memastikan kualitas data).
+4. Operate: Menentukan KPI dan memilih tools untuk menerapkan kebijakan dan proses tata kelola data, seperti AWS Lake Formation untuk manajemen keamanan dan tata kelola data.
+5. Evaluate and Govern: Melakukan evaluasi berkelanjutan terhadap proses tata kelola untuk memastikan efektivitas dan kepatuhan.
 
 ### Campaign & Leads Management
 
