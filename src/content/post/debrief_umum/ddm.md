@@ -27,6 +27,14 @@ Departemen Data Management (DM) memiliki dua fokus utama: data upstream engineer
 
 ### Information Management
 
+Departemen Information Management (IM) memiliki dua titik fokus yaitu information services dan data visualization developer. Departemen ini berfokus pada penyusunan dashboard dan visualisasi dari proses awal hingga dibagikan pada user. Tim Information Services memiliki fokus utama berupa proyek business insight, visualisasi data, dan penyedia data. Tim Data Visualization memiliki fokus pada proyek datamart, logical, physical database design, serta efisiensi dan efektivitas database. Secara rinci, fungsi dan peran departemen IM adalah sebagai berikut:
+
+1. Memberikan wawasan bisnis: Membantu pengguna atau departemen terkait dengan memberikan wawasan bisnis melalui dashboard (report and analytics).
+2. Visualisasi Data: Memfasilitasi permintaan data dengan efektif melalui visualisasi (chart, table, diagram, dan lain-lain). 
+3. Penyediaan Data dan laporan ad hoc: Menyediakan data yang akurat dan dapat diandalkan sesuai permintaan. 
+4. Informasi Tunggal atau Sumber Informasi Utama: Manajemen Informasi sebagai sumber informasi tunggal dan menjaga data yang paling dapat diandalkan. 
+5. Datamart: Menyediakan datamart untuk mempermudah dan meningkatkan efisiensi pengambilan data yang diperlukan.
+
 ### Data Analytics
 
 ### Data Governance
