@@ -38,13 +38,16 @@ Proses bisnis yang dilakukan oleh DCOR IT bertujuan untuk mengintegrasikan tools
    d. Penilaian risiko.
    e. Pengukuran inherent risk dan control risk.
    f. Perhitungan residual/composite risk.
-   
 2. Pelaksanaan Control Testing: Setelah penyusunan RCSA, langkah selanjutnya adalah pelaksanaan control testing. Kegiatan ini bertujuan untuk memastikan bahwa kontrol yang telah ditetapkan dalam manajemen risiko berfungsi dengan baik.
-
 3. Monitoring Pelaksanaan Action Plan: Monitoring action plan diperlukan untuk memastikan bahwa upaya perbaikan yang dilakukan setelah identifikasi masalah dalam control testing berjalan sesuai rencana, efektif dalam mengurangi risiko, dan sesuai dengan kebijakan serta regulasi yang berlaku. Melalui proses monitoring ini, SOR dapat menilai apakah langkah-langkah action plan telah berhasil mengurangi risiko atau meningkatkan kinerja kontrol unit kerja.
-
 4. Penerbitan Laporan Executive Summary: Laporan Executive Summary disusun dan diterbitkan kepada Direktur Bidang IT, kemudian diteruskan kepada Direktur Risk Management dan Direktur Compliance. Laporan ini berisi ringkasan kegiatan Compliance Assurance dan penerapan manajemen risiko operasional.
 
 ## Ketentuan Operasional
+
+Dalam menjalankan proses bisnis dan kegiatan operasional, terdapat peraturan baik internal maupun eksternal yang menjadi landasan bagi Senior Operational Risk – 1 dalam menjalankan kewajibannya. Adapun peraturan – peraturan tersebut ialah:
+
+a. Ketentuan Eksternal 1) Nomor 12/POJK.03/2018 Tentang Penyelenggaraan Layanan Perbankan Digital Oleh Bank Umum 2) Nomor 13/POJK.03/2020 Tentang Perubahan Atas Peraturan Otoritas Jasa Keuangan 3) Nomor 38/POJK.03/2016 Tentang Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi Oleh Bank Umum 4) Nomor 11/POJK.03/2022 Tentang Penyelenggaraan Teknologi Informasi Oleh Bank Umum 5) Undang Undang Republik Indonesia Nomor 19 Tahun 2016 Tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi dan Transaksi Elektronik 6) Peraturan Bank Indonesia Nomor 18/40/PBI/2016 Tentang Penyelenggaraan Pemrosesan Transaksi Pembayaran
+
+b. Ketentuan Internal 1) Standar Prosedur Pengendalian (SPP) Kepatuhan 2) SPP MRO 3) SPP Pembuatan Kebijakan dan Prosedur 4) PTO DCOR 5) PTO ORM TOOLS 6) SPO TI 7) SPO Procurement 8) PTO SDLC 9) PTO SDLC Agile 10) PTO RCB 11) PTO DRP 12) PTO Procurement Pengadaan Barang dan Jasa 13) PTO Kewajiban Pelaporan Kepada Regulator 14) PTO lain yang berkaitan
 
 ## Kegiatan Operasional
