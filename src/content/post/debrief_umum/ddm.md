@@ -1,14 +1,13 @@
-
 ## Strategi
 
-Unit kerja Data and Decision Management (DDM) berfokus dalam manajemen dan analisis data. DDM dibentuk dengan tujuan mengelola data secara end to end yang meliputi mengelola kebijakan data, manajemen data, memantau kualitas data, analisa data, serta menyajikan informasi dalam bentuk laporan, analisis, dashboard, maupun keputusan bisnis yang dapat digunakan dalam mendukung aktivitas unit kerja di perusahaan.
+Unit kerja Data and Decision Management (DDM) berfokus pada pengelolaan dan analisis data secara menyeluruh. DDM dibentuk dengan tujuan untuk mengelola data dari awal hingga akhir, termasuk kebijakan data, manajemen data, pemantauan kualitas data, analisis data, serta penyajian informasi dalam bentuk laporan, analisis, dashboard, dan keputusan bisnis yang mendukung aktivitas unit kerja di perusahaan.
 
-Strategi unit kerja DDM diharapkan dapat mendukung visi dan misi BSI menjadi Top 10 Global Islamic Bank. Secara lengkap strategi DDM dapat dilihat pada Gambar x. Strategi-strategi tersebut dijabarkan sebagai berikut:
+Strategi DDM dirancang untuk mendukung visi dan misi BSI menjadi Top 10 Global Islamic Bank. Secara rinci, strategi DDM dapat dilihat pada Gambar x. Berikut adalah penjabaran dari strategi-strategi tersebut:
 
-1. Increase Visibility: DDM fokus pada meningkatkan visibilitas dengan menciptakan beberapa dashboard, seperti dashboard eksekutif, dashboard kinerja produk, dashboard analisis pelanggan, dan lain-lain. Pembuatan visualisasi ini bertujuan untuk memberikan pemahaman yang lebih menyeluruh terhadap kinerja BSI dan memberikan gambaran menyeluruh tentang kinerja bank BSI.
-2. Inform Business Strategies: DDM berperan penting dalam menyampaikan informasi strategis yang berharga untuk mencapai tujuan bisnis bank. Informasi tersebut dipresentasikan dalam bentuk analisis seperti analisis konsumen payroll dan non-payroll, rekomendasi produk untuk setiap segmen nasab
-3. Customer Engagement: DDM dalam hal interaksi dengan nasabah, memiliki strategi untuk meningkatkan keterikatan nasabah melalui profiling dan segmentasi nasabah. Selain itu, personalized marketing dan Automatic engagement machine digunakan untuk mengembangkan strategi pemasaran yang lebih personal dan sesuai sasaran
-4. Streamline Operations: DDM melakukan beberapa hal untuk meningkatkan efisiensi operasional di Bank Syariah Indonesia, seperti melakukan prediksi untuk cadangan uang di ATM dan cabang, serta mendeteksi kecurangan dan anomali. Selain itu, peningkatan kualitas data juga dilakukan oleh Manajer Proyek Operasional Data.
+1. Increase Visibility: DDM berfokus pada peningkatan visibilitas dengan menciptakan berbagai dashboard, seperti dashboard eksekutif, dashboard kinerja produk, dashboard analisis pelanggan, dan lainnya. Visualisasi ini bertujuan untuk memberikan pemahaman yang lebih komprehensif mengenai kinerja BSI dan memberikan gambaran menyeluruh tentang kinerja bank.
+2. Inform Business Strategies: DDM memainkan peran penting dalam menyampaikan informasi strategis yang berharga untuk mencapai tujuan bisnis bank. Informasi ini disajikan dalam bentuk analisis, seperti analisis konsumen payroll dan non-payroll, serta rekomendasi produk untuk setiap segmen nasabah.
+3. Customer Engagement: Dalam hal interaksi dengan nasabah, DDM memiliki strategi untuk meningkatkan keterlibatan nasabah melalui profiling dan segmentasi nasabah. Selain itu, pemasaran yang dipersonalisasi dan mesin keterlibatan otomatis digunakan untuk mengembangkan strategi pemasaran yang lebih personal dan tepat sasaran.
+4. Streamline Operations: DDM melakukan berbagai upaya untuk meningkatkan efisiensi operasional di Bank Syariah Indonesia, seperti melakukan prediksi kebutuhan cadangan uang di ATM dan cabang, serta mendeteksi kecurangan dan anomali. Selain itu, peningkatan kualitas data juga dilakukan oleh Manajer Proyek Operasional Data.
 
 ## Fungsi Peran
 
