@@ -56,7 +56,7 @@ Bank harus mematuhi regulasi yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) d
 
 ## Kegiatan Operasional
 
-Kegiatan operasional IFG merujuk pada serangkaian aktivitas rutin yang dilakukan untuk memastikan manajemen risiko keuangan dan operasional terkait teknologi informasi berjalan dengan efektif dan efisien. Berikut adalah kegiatan operasional IFG:
+Kegiatan operasional IFG mencakup aktivitas rutin untuk memastikan manajemen risiko keuangan dan operasional terkait IT berjalan efektif dan efisien. Kegiatan tersebut meliputi:
 
 1. Identifikasi dan Pengukuran Risiko:
    - Menggunakan risk register pada customer request untuk identifikasi dan pengukuran risiko.
@@ -83,6 +83,6 @@ Kegiatan operasional IFG merujuk pada serangkaian aktivitas rutin yang dilakukan
    - Pemisahan tugas dan tanggung jawab (Segregation of duties)
    - Pemeliharaan jejak audit (Maintenance of audit trails)
 6. Kepatuhan terhadap Regulasi:
-   - Mematuhi peraturan yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI)
+   - Mematuhi peraturan yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI).
    - Mengikuti POJK Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum.
    - Mengikuti SEOJK Nomor 21/SEOJK.03/2017 tentang Penerapan Manajemen Risiko Teknologi Informasi oleh Bank Umum.
