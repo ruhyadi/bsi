@@ -72,6 +72,16 @@ Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk menca
 
 ### Data Management
 
+Bisnis proses di Departemen Data Management (DM) dapat dilihat pada Gambar x. Berikut adalah penjelasan dari masing-masing proses tersebut:
+
+1. Rencana (Plan): Tahap perencanaan untuk manajemen data mencakup infrastruktur yang akan digunakan, inventarisasi data, tata kelola data yang akan diterapkan, dan aspek lainnya.
+2. Kumpulkan (Collect): Tahap pengumpulan data dari berbagai sumber yang akan disatukan dalam satu inventaris.
+3. Proses (Process): Tahap pengolahan kembali data untuk keperluan departemen dan unit kerja di BSI, yang biasanya berbentuk enterprise datamart.
+4. Analisis (Analyze): Analisa terhadap data yang tersedia dan memberikan umpan balik kepada tim lain sesuai kebutuhan tim. Analisa yang dilakukan termasuk pengecekan dan perbaikan data yang tidak akurat atau hilang. Departemen DM bertanggung jawab untuk memperbaiki data yang terdeteksi kotor dan menganalisis data nasabah yang kemungkinan terdeteksi sebagai data kotor.
+5. Simpan (Preserve): Data yang telah dianalisis akan disimpan dengan baik dalam infrastruktur yang telah disiapkan sebelumnya. Penyimpanan data dapat disesuaikan dengan kegunaan dan penggunaannya.
+6. Bagikan (Share): Data dibagikan dan digunakan oleh departemen atau unit kerja di BSI untuk mendukung bisnis dan operasi perusahaan.
+7. Gunakan Ulang (Reuse): Data yang telah digunakan dapat disimpan atau digunakan kembali, namun harus dipertimbangkan untuk dihapus jika tidak digunakan kembali agar tidak membebani sistem.
+
 ### Information Management
 
 ### Data Analytics
