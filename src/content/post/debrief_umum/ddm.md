@@ -125,6 +125,15 @@ Bisnis proses di Departemen Data Governance (DG) dapat dilihat pada Gambar x. Be
 
 ### Campaign & Leads Management
 
+Bisnis proses di Departemen Campaign and Leads Management (CM) dapat dilihat pada Gambar x. Berikut adalah penjelasan dari masing-masing proses tersebut:
+
+1. Inisiasi Program Kampanye: Memulai program kampanye berdasarkan analisis data untuk mencapai tujuan tertentu yang didukung oleh data demografi.
+2. Pengumpulan Data Leads: Menghasilkan data leads, yaitu kelompok nasabah yang berpotensi meningkatkan tingkat penerimaan dan konversi dalam program kampanye. Data leads dibentuk melalui analisis demografi nasabah, perilaku, dan ketentuan kampanye.
+3. Kerja Sama dengan Unit Bisnis: Departemen Campaign and Lead Management bekerja sama dengan unit bisnis untuk menyediakan saluran campaign dan memantau program campaign.
+4. Penetapan Target Pelanggan: Unit bisnis berperan dalam menetapkan target pelanggan dan menyebarkan data leads ke wilayah atau cabang yang relevan.
+5. Dukungan Materi Pemasaran: Key Virtual (KV) membutuhkan dukungan dari Marketing Communication Group (MCG) untuk materi pemasaran.
+6. Pendaftaran KV pada Server: Digital Strategy & Product Group (DPG) ikut serta dalam mendaftarkan KV pada server BSI Mobile.
+
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
