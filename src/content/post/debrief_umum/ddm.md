@@ -84,6 +84,24 @@ Bisnis proses di Departemen Data Management (DM) dapat dilihat pada Gambar x. Be
 
 ### Information Management
 
+Bisnis proses di Departemen Information (IM) dapat dilihat pada Gambar x. Bisnis proses tersebut terbagi menjadi basis proyek dan basis Ad Hoc. Berikut adalah penjelasan dari masing-masing proses tersebut:
+
+#### Basis Proyek
+
+1. Data Request: Tim IM berkomunikasi dengan pemohon data untuk memahami tujuan bisnis, analisis yang diinginkan, dan informasi apa saja yang diharapkan dari dashboard.
+2. Project: Tim IM mengembangkan rencana kerja yang mencakup tahapan analisis, desain, pengembangan, pengujian dan implementasi dashborad.
+3. Dashboard Development: Tim IM mulai mengumpulkan, membersihkan, dan memproses da yang dibutuhkan untuk menghasilkan informasi dalam bentuk dashboard menggunakan Power BI.
+4. Maintenance: Tim IM melakukan pemeliharaan/pemantauan terus menerus terkait dashboard untuk memastikan data yang digunakan akurat dan relevan. Apabila terdapat perubahan dalam struktur data atau kebutuhan bisnis, dashboard diperbarui sesuai dengan kebutuhan user.
+5. User: Tim IM memberikan akses pada user untuk menggunakan dashboard yang telah dibuat. User juga diberikan panduan terkait penggunaan dashboard, sehingga dapat mengambil keputusan yang didasarkan pada data yang diberikan oleh dashboard.
+
+#### Basis Ad Hoc
+
+1. Data Request: Tim IM menerima permintaan data yang tiba-tiba atau tidak terjadwal sebelumnya dari user yang membutuhkan informasi tambahan untuk situasi tertentu.
+2. Ad-hoc: Tim IM merancang dan mengeksekusi Query database menggunakan SQL dengan alat seperti Hive atau Dbeaver untuk mengekstrak data yang diminta oleh pengguna.
+3. Query: Setelah data berhasil diekstrak melalui Query, langkah berikutnya adalah mengekspor data ke format yang sesuai dengan kebutuhan pengguna, seperti Excel, CSV, atau format lainnya agar mudah diakses dan digunakan.
+4. Export Data: Tim IM menyediakan hasil ekspor data kepada user yang membutuhkan informasi tersebut. User kemudian dapat menggunakan data tersebut untuk analisis lebih lanjut, penyusunan laporan, atau kebutuhan lain sesuai dengan kebutuhan unit kerja masing-masing.
+5. User: Tim IM menyediakan hasil ekspor data kepada user yang membutuhkan informasi tersebut. User kemudian dapat menggunakan data tersebut untuk analisis lebih lanjut, penyusunan laporan, atau kebutuhan lain sesuai dengan kebutuhan unit kerja masing-masing.
+
 ### Data Analytics
 
 ### Data Governance
