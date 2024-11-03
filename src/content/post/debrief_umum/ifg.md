@@ -1,11 +1,10 @@
-
 ## Strategi
 
-Unit kerja IT Finance Risk Group (IFG) berperan dalam mengelola risiko keuangan yang berkaitan dengan kejahatan siber yang dihadapi oleh bank. IFG memiliki peran penting dalam memastikan keberlangsungan bisnis bank dengan meminimalisasi risiko keuangan yang dihadapi oleh bank. Untuk mencapai visi dan misi bank, strategi unit kerja IT Finance Risk Group (IFG) adalah melakukan perumusan dan implementasi keputusan strategis yang berkaitan dengan teknologi informasi berdasarkan Risk Management Road Map dengan 3 (tiga) pendekatan melalui:
+Unit kerja IT Finance Risk Group (IFG) bertugas mengelola risiko keuangan terkait kejahatan siber yang dihadapi bank dan memastikan keberlangsungan bisnis dengan meminimalisasi risiko. Strategi IFG untuk mencapai visi dan misi bank melibatkan perumusan dan implementasi keputusan strategis berbasis Risk Management Road Map dengan tiga pendekatan:
 
-1. One Risk Culture Implementation: Menerapkan budaya organisasi yang menempatkan manajemen risiko sebagai prioritas utama dan mengintegrasikannya ke dalam seluruh aspek operasional dan pengambilan keputusan. Ini mencakup kebijakan, prosedur, kerangka kerja, sistem, pelatihan, komunikasi, dan infrastruktur untuk mendukung praktik manajemen risiko yang efektif dan berkelanjutan.
-2. Strengthen the Risk Engine for Aggressive Business Growth: Meningkatkan sistem dan proses untuk mengidentifikasi, mengevaluasi, dan mengelola risiko bisnis melalui pengembangan teknologi baru, perbaikan proses, dan penerapan strategi baru. Ini termasuk integrasi sistem dan penggunaan kecerdasan buatan untuk meningkatkan kinerja dan pengambilan keputusan.
-3. Robust & Agile Risk Management for Sustainable Global Business: Mengembangkan pendekatan manajemen risiko yang tangguh dan responsif berdasarkan praktik terbaik internasional. Ini mencakup penggunaan kerangka kerja standar, teknologi terkini, dan metodologi analisis risiko yang maju untuk memastikan manajemen risiko yang efektif dan berkelanjutan dalam konteks bisnis global.
+1. One Risk Culture Implementation: Menerapkan budaya organisasi yang menempatkan manajemen risiko sebagai prioritas utama, mengintegrasikannya ke dalam seluruh aspek operasional dan pengambilan keputusan melalui kebijakan, prosedur, kerangka kerja, sistem, pelatihan, komunikasi, dan infrastruktur.
+2. Strengthen the Risk Engine for Aggressive Business Growth: Meningkatkan sistem dan proses untuk mengidentifikasi, mengevaluasi, dan mengelola risiko bisnis melalui teknologi baru, perbaikan proses, dan strategi baru, termasuk integrasi sistem dan penggunaan kecerdasan buatan.
+3. Robust & Agile Risk Management for Sustainable Global Business: Mengembangkan pendekatan manajemen risiko yang tangguh dan responsif berdasarkan praktik terbaik internasional, menggunakan kerangka kerja standar, teknologi terkini, dan metodologi analisis risiko yang maju untuk memastikan manajemen risiko yang efektif dalam konteks bisnis global.
 
 ## Fungsi Peran
 
