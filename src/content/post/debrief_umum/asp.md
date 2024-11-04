@@ -14,12 +14,12 @@ Strategi ASP tercermin dalam tahapan SDLC (Software Development Life Cycle) yang
 
 ## Fungsi Peran
 
-Unit kerja ASP terdiri dari 9 departemen yang dapat dikategorikan menjadi 4 bagian utama, yaitu: Subject Matter Expert (SME), IT Testing & Quality Assurance, IT Information & Data Services, dan IT Release Management & Testing. Tanggung jawab utama ASP adalah sebagai Subject Matter Expert (SME) yang memberikan perbaikan (troubleshoot) dari isu-isu yang terjadi di production. Berikut adalah overview fungsi peran dari masing-masing bagian:
+Unit kerja ASP terdiri dari 9 departemen yang dikelompokkan menjadi 4 bagian utama: Subject Matter Expert (SME), IT Testing & Quality Assurance, IT Information & Data Services, dan IT Release Management & Testing. Tanggung jawab utama ASP adalah sebagai Subject Matter Expert (SME) yang menangani perbaikan (troubleshoot) isu-isu yang terjadi di production. Berikut adalah gambaran fungsi peran dari masing-masing bagian:
 
-1. Subject Matter Expert (SME): Merupakan departemen mirroring dari masing-masing departemen IDG yang bertugas sebagai pemegang pengetahuan aplikasi dan memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan.
-2. IT Testing & Quality Assurance: Bertugas untuk melakukan testing dan quality assurance terhadap aplikasi baik saat tahap development maupun pre-production.
-3. IT Information & Data Services: Bertugas untuk memberikan dukungan terhadap isu-isu yang terkait dengan data (data warehouse, data migration, dll) di production.
-4. IT Release Management & Testing: Bertugas untuk melakukan release management dan monitoring terhadap aplikasi yang telah diimplementasikan.
+1. Subject Matter Expert (SME): Departemen ini merupakan cerminan dari masing-masing departemen IDG, bertugas sebagai pemegang pengetahuan aplikasi dan memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan.
+2. IT Testing & Quality Assurance: Bertugas melakukan pengujian dan quality assurance terhadap aplikasi, baik saat tahap pengembangan maupun sebelum produksi.
+3. IT Information & Data Services: Bertanggung jawab memberikan dukungan terhadap isu-isu yang terkait dengan data (data warehouse, data migration, dll) di production.
+4. IT Release Management & Testing: Bertugas melakukan manajemen rilis dan pemantauan terhadap aplikasi yang telah diimplementasikan.
 
 ## Bisnis Proses
 
