@@ -95,6 +95,22 @@ Departemen IT Wholesale & Office Automation Services bertugas mengelola, menerim
 
 ## Bisnis Proses
 
+1. Identifikasi dan Penanganan Masalah:
+   - Subject Matter Expert (SME): Mengidentifikasi dan menangani masalah yang terjadi di production, memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan.
+   - IT Core Banking System Services: Menangani dan memperbaiki masalah dalam sistem Core Banking.
+   - IT Digital Channel Services: Menangani dan memperbaiki masalah dalam channel-channel digital.
+   - IT Financing & Collection Services: Menangani dan memperbaiki masalah dalam sistem pembiayaan dan collection.
+   - IT Payment & Integration Services: Menangani dan memperbaiki masalah dalam proses payment dan integrasi.
+   - IT Classic Channel Services: Menangani dan memperbaiki masalah dalam channel-channel klasik.
+2. Pengujian dan Quality Assurance:
+   - IT Testing & Quality Assurance: Melakukan pengujian aplikasi/software yang akan dirilis, mengidentifikasi dan melaporkan defect, serta memvalidasi dan memperbaiki defect yang terkonfirmasi.
+3. Manajemen Rilis dan Pemantauan:
+   - IT Release Management & Testing: Berpartisipasi dalam Release Control Board (RCB) untuk mengesahkan rilis software, membuat rencana rinci proses rilis, memantau proses rilis, dan melakukan performance testing serta monitoring aplikasi.
+4. Pengelolaan Informasi dan Data:
+   - IT Information & Data Services: Mengelola informasi dan data yang masuk melalui aplikasi, mengatur penyimpanan data, memenuhi permintaan data dari departemen/unit bisnis, dan memindahkan database dari DB2 ke Oracle.
+5. Pengembangan dan Otomasi Proses:
+   - IT Wholesale & Office Automation Services: Mengelola dan memperbaiki masalah dalam aplikasi wholesale, mengembangkan dan melaksanakan otomasi proses di ASP, serta menangani aplikasi berdasarkan skala prioritas perbaikan.
+
 ## Ketentuan Operasional
 
 ## Kebijakan Operasional
