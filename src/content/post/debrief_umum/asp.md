@@ -23,39 +23,75 @@ Unit kerja ASP terdiri dari 9 departemen yang dikelompokkan menjadi 4 bagian uta
 
 ### IT Core Banking System Services
 
-Departemen IT Core Banking System Services memiliki tugas utama untuk menerima dan memperbaiki masalah yang muncul dalam sistem Core Banking yang digunakan oleh BSI, seperti transaksi dan setor tunai. Sistem Core Banking yang digunakan oleh BSI yakni Temenos 24 atau yang biasa disingkat T24. Departemen ini juga bertugas untuk mengimplementasikan sistem inti perbankan atau melakukan peningkatan pada sistem yang sudah ada, dan juga melakukan maintenance pada sistem untuk mencegah terjadinya gangguan. Memberikan dukungan teknis kepada pengguna sistem, baik internal maupun eksternal juga merupakan tanggung jawab dari departemen ini. Pengintegrasian sistem inti dengan sistem-sistem lain yang digunakan oleh bank, seperti sistem ATM, Net banking, dan Mobile banking juga merupakan tugas dari departemen ini. Departemen ini juga bertugas untuk menjaga konektivitas yang baik dengan sistem surrounding. Aplikasi yang baru dan hendak dihubungkan ke sistem Core Banking tidak disambungkan atau dimasukkan langsung ke dalam sistem T24, namun ia dimasuklkan ke dalam Temenos Web Service dimana ia baru akan dihubungkan dengan Core Banking.
+Departemen IT Core Banking System Services bertanggung jawab untuk menangani dan memperbaiki masalah yang muncul dalam sistem Core Banking yang digunakan oleh BSI, seperti transaksi dan setor tunai. Sistem Core Banking yang digunakan oleh BSI adalah Temenos 24 (T24). Departemen ini juga bertugas mengimplementasikan dan meningkatkan sistem inti perbankan, serta melakukan maintenance untuk mencegah gangguan. Fungsi peran sebagai berikut:
+1. Mengelola dan memperbaiki masalah dalam sistem Core Banking.
+2. Mengimplementasikan dan meningkatkan sistem inti perbankan.
+3. Memberikan dukungan teknis dan melakukan maintenance untuk mencegah gangguan.
+4. Mengintegrasikan sistem inti dengan sistem lain (ATM, Mobile Banking, Temenos Web Service) dan menjaga konektivitas yang baik.
 
 ### IT Digital Channel Services
 
-Departemen IT Digital Channel Services bertugas untuk menerima dan memperbaiki masalah yang muncul dalam channel-channel digital yang ada di BSI. Tugas utama departemen ini yakni untuk membangun dan mengelola platform digital, mengintegrasikan sistem, seperti sistem Core Banking, dengan channel-channel digital baru, serta mengembangkan fitur-fitur baru dan layanan digital yang inovatif untuk memenuhi kebutuhan nasabah. Channel digital ini termasuk SuperApps BYOND yang baru rilis secara terbatas. Digital channel yang digunakan dalam SuperApps dilewatkan ke ESB terlebih dahulu sebelum menuju ke sistem Core Banking. Jika terjadi error dalam transaksi melewati channel digital, departemen akan memeriksa log yang muncul dari transaksi tersebut. Jika tidak ketemu maka harus dilakukan query yang detail hingga ke menit dan detik dimana transaksi tersebut dilakukan agar log dari permasalahan tersebut dapat terbaca. Saat inidepartemen sedang memastikan channel-channel digital yang dimiliki oleh SuperApps BYOND dapat berjalan dengan benar dalam environment production yang terbatas dan jika terjadi masalah maka root cause dapat diidentifikasi dengan tepat dan penanganan dapat cepat dilakukan.
+Departemen IT Digital Channel Services bertugas menangani dan memperbaiki masalah dalam channel-channel digital di BSI. Tugas utama departemen ini adalah membangun dan mengelola platform digital, mengintegrasikan sistem Core Banking dengan channel digital baru, serta mengembangkan fitur dan layanan digital inovatif. Fungsi peran sebagai berikut:
+1. Membangun dan mengelola platform digital.
+2. Mengintegrasikan sistem Core Banking dengan channel digital baru.
+3. Mengembangkan fitur dan layanan digital inovatif.
+4. Memastikan channel digital berjalan dengan baik dalam environment production terbatas.
+5. Mengidentifikasi root cause dan menangani masalah dengan cepat.
 
 ### IT Testing & Quality Assurance
 
-Departemen IT Testing & Quality Assurance memiliki tugas utama untuk melakukan proses pengujian dari aplikasi / software yang akan dirilis. Dalam prosesnya, departemen akan mengacu pada TMP yang telah disusun untuk proses pengujian. Departemen ini memiliki test script yang mengcover hampir seluruh kemungkinan yang terjadi saat software digunakan oleh user. Kesalahan atau bug yang muncul dapat disebut sebagai defect. Defect yang muncul akan diberi keterangan detailnya beserta bukti eksekusi dan hasil testing kemudian dikumpulkan dan dilaporkan kembali agar bisa diperbaiki oleh tim development. Tim development kemudian akan memvalidasi defect yang muncul apakah sesuai dengan pelaporan dan kemudian jika terkonfirmasi maka dilakukan proses perbaikan program. Setelah itu akan diserahkan kembali ke tester agar diperiksa kembali.
+Departemen IT Testing & Quality Assurance bertanggung jawab untuk melakukan pengujian aplikasi/software yang akan dirilis. Departemen ini mengacu pada TMP yang telah disusun dan memiliki test script yang mencakup berbagai kemungkinan penggunaan software. Fungsi peran sebagai berikut:
+1. Melakukan pengujian aplikasi/software.
+2. Mengidentifikasi dan melaporkan defect yang muncul.
+3. Mengumpulkan dan melaporkan defect untuk diperbaiki oleh tim development.
+4. Memvalidasi dan memperbaiki defect yang terkonfirmasi.
 
 ### IT Release Management & Testing
 
-Departemen IT Release Management & Testing berperan sebagai representasi ASP dalam Release Control Board (RCB), yakni komite yang bertanggung jawab untuk mengesahkan atau membuat keputusan rilis software. RCB biasanya terdiri dari perwakilan dari berbagai departemen, dan bertugas untuk membuat rencana rinci tentang bagaimana proses rilis akan diterapkan, mengkoordinasikan berbagai tim yang terlibat dalam proses rilis, dan memantau proses rilis untuk mengidentifikasi dan mengatasi masalah yang mungkin terjadi. Selain itu, tanggung jawab dan kewenangan untuk melakukan performance testing dari aplikasi yang akan dideploy juga ada di departemen ini. Departemen ini juga bertugas untuk memantau dan memonitoring kelancaran jalannya aplikasi.
+Departemen IT Release Management & Testing berperan sebagai representasi ASP dalam Release Control Board (RCB), komite yang bertanggung jawab untuk mengesahkan atau membuat keputusan rilis software. Departemen ini juga bertanggung jawab untuk melakukan performance testing dan memantau kelancaran aplikasi. Fungsi peran sebagai berikut:
+1. Berpartisipasi dalam RCB untuk mengesahkan rilis software.
+2. Membuat rencana rinci proses rilis dan mengkoordinasikan tim yang terlibat.
+3. Memantau proses rilis untuk mengidentifikasi dan mengatasi masalah.
+4. Melakukan performance testing dan monitoring aplikasi.
 
 ### IT Financing & Collection Services
 
-Departemen IT Financing & Collection Services bertugas untuk menerima dan memperbaiki masalah yang muncul dalam sistem pembiayaan dan collection yang digunakan oleh BSI. Departmen ini juga memiliki decision engine, yakni sebuah tools yang dapat menentukan apakah kriteria dari permohonan pembiayaan yang diajukan nasabah sudah sesuai dan berapa nilai pembiayaan yang sesuai. Ketika departemen menerima tiket terkait permasalahan di aplikasi pengelola pembiayaan, departemen akan menganalisa dan mengidentifikasi root cause dari permasalahan tersebut. Jika dinilai tidak bisa ditangani di ASP maka akan dieskalasi untuk diperbaiki di IDG.
+Departemen IT Financing & Collection Services bertugas menangani dan memperbaiki masalah dalam sistem pembiayaan dan collection yang digunakan oleh BSI. Departemen ini juga memiliki decision engine untuk menentukan kriteria dan nilai pembiayaan yang sesuai. Fungsi peran sebagai berikut:
+1. Menangani dan memperbaiki masalah dalam sistem pembiayaan dan collection.
+2. Menggunakan decision engine untuk menentukan kriteria dan nilai pembiayaan.
+3. Menganalisa dan mengidentifikasi root cause dari permasalahan.
+4. Mengeskalasi masalah yang tidak bisa ditangani di ASP ke IDG.
 
 ### IT Payment & Integration Services
 
-Departemen IT Payment & Integration Services memiliki tugas utama untuk menerima dan memperbaiki masalah yang muncul dalam proses payment dan integrasi yang digunakan oleh BSI. Masalah-masalah yang dihadapi seringkali terkait dengan channel sistem pembayaran yang melalui SmartVista, Enterprise Service Bus (ESB), JSwitch, dan berbagai aplikasi middleware yang digunakan untuk menghubungkan channel pembayaran BSI ke channel pembayaran eksternal / Banklain. SmartVista sendiri adalah sebuah platform perbankan end-to-end untuk pembayaran elektronik seperti transfer dana dan pembayaran tagihan. Beberapa tools SmartVista yang digunakan diantaranya SmartVista FE, SmartVista BO, dan SmartVista Perso. Departemen akan memeriksa log yang masuk apabila terdapat laporan error yang masuk dan diidentifikasi root causenya.
+Departemen IT Payment & Integration Services bertanggung jawab menangani dan memperbaiki masalah dalam proses payment dan integrasi yang digunakan oleh BSI. Masalah seringkali terkait dengan channel sistem pembayaran seperti SmartVista, ESB, dan JSwitch. Fungsi peran sebagai berikut:
+1. Menangani dan memperbaiki masalah dalam proses payment dan integrasi.
+2. Memeriksa log error dan mengidentifikasi root cause.
+3. Mengelola channel sistem pembayaran melalui SmartVista, ESB, dan JSwitch.
+4. Menghubungkan channel pembayaran BSI ke channel pembayaran eksternal.
 
 ### IT Classic Channel Services
 
-Departemen IT Classic Channel Services bertugas untuk menerima dan memperbaiki masalah yang muncul dalam channel-channel klasik yang digunakan oleh BSI, seperti BSI Net Banking, Mobile Banking (BSI Mobile), dan BSI Smart Agent. Ketika departemen menerima laporan / tiket terkait permasalahan di channel klasik, departemen akan menganalisa dan mengidentifikasi root cause dari permasalahan tersebut. Jika dinilai tidak bisa ditangani di ASP maka akan dieskalasi untuk diperbaiki di IDG.
+Departemen IT Classic Channel Services bertugas menangani dan memperbaiki masalah dalam channel-channel klasik yang digunakan oleh BSI, seperti Net Banking, Mobile Banking, dan Smart Agent. Fungsi peran sebagai berikut:
+1. Menangani dan memperbaiki masalah dalam channel klasik.
+2. Menganalisa dan mengidentifikasi root cause dari permasalahan.
+3. Mengeskalasi masalah yang tidak bisa ditangani di ASP ke IDG.
 
 ### IT Information & Data Services
 
-Departemen IT Information & Data Services tugas utama untuk mengelola informasi dan data yang masuk melalui aplikasi yang berjalan serta mengatur penyimpanan data dan memenuhi permintaan data oleh departemen / unit bisnis yang memerlukannya. Dalam praktiknya, permintaan data dari departemen atau unit bisnis dapat dikategorikan menjadi 2, yakni data yang diupdate dalam kurun waktu tertentu seperti harian, dan permintaan data ad-hoc yakni ketika unit bisnis meminta data untuk kepentingan tertentu. Data yang masuk dari aplikasi yang dimaintain oleh ASP akan masuk ke Data Warehouse yang dimiliki oleh departemen ini. Departemen ini juga bertugas untuk melakukan data engineering dari data yang masuk agar data tertata dan mudah untuk digunakan. Salah satu kegiatan yang dilakukan departemen Information & Data Services saat ini adalah untuk memindahkan database dari DB2 yang sudah tidak disupport lagi ke database Oracle
+Departemen IT Information & Data Services bertanggung jawab mengelola informasi dan data yang masuk melalui aplikasi yang berjalan, serta mengatur penyimpanan data dan memenuhi permintaan data dari departemen/unit bisnis. Fungsi peran sebagai berikut:
+1. Mengelola informasi dan data yang masuk melalui aplikasi.
+2. Mengatur penyimpanan data dan melakukan data engineering.
+3. Memenuhi permintaan data dari departemen/unit bisnis.
+4. Memindahkan database dari DB2 ke Oracle.
 
 ### IT Wholesale & Office Automation Services
 
-Departemen IT Wholesale & Office Automation Services memiliki tugas utama untuk mengelola, menerima dan memperbaiki masalah yang muncul dalam aplikasi yang digunakan oleh bagian wholesale. Departemen ini memiliki jumlah aplikasi terbanyak yang dikelola, yakni 44 aplikasi. Aplikasi-aplikasi tersebut dapat dibagi berdasarkan skala prioritasnya dalam perbaikan masalah. Pembagian tersebut yakniVery Critical Applications yang termasuk didalamnya aplikasi EXA dan New CMS, Critical Applications seperti Web BSI, Moderate Applications seperti WebForm, dan Non Critical Applications seperti E-Doc. Departemen ini juga bertugas untuk mengembangkan dan melaksanakan otomasi dari proses-proses yang ada di ASP.
+Departemen IT Wholesale & Office Automation Services bertugas mengelola, menerima, dan memperbaiki masalah dalam aplikasi yang digunakan oleh bagian wholesale. Departemen ini juga bertanggung jawab mengembangkan dan melaksanakan otomasi dari proses-proses di ASP. Fungsi peran sebagai berikut:
+1. Mengelola dan memperbaiki masalah dalam aplikasi wholesale.
+2. Mengembangkan dan melaksanakan otomasi proses di ASP.
+3. Mengelola aplikasi berdasarkan skala prioritas perbaikan.
+4. Menangani aplikasi Very Critical (EXA), Critical (Web BSI), Moderate (WebForm), dan Non Critical (e-Doc).
 
 ## Bisnis Proses
 

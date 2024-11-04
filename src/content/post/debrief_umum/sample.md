@@ -199,3 +199,116 @@ IT Planning dan Budgeting melakukan review terhadap FS yang disusun oleh user da
 7. Pemantauan dan pengelolaan indikator kinerja utama infrastruktur dan layanan bisnis yang didefinisikan dalam SLA, OLA, dan UC.
 8. Kolaborasi antar departemen untuk menyediakan infrastruktur yang mendukung operasional bank.
 9. Menyusun RCSA, menindaklanjuti hasil audit, meninjau ketentuan, serta melaksanakan standar mutu ISO di IOG.
+
+
+## Strategi
+
+Unit kerja IT Application Support Group (ASP) adalah unit baru yang terbentuk dari pemekaran IT & Digital Development Group (IDG). Tugas utama ASP adalah memberikan dukungan operasional untuk aplikasi yang telah diimplementasikan oleh IDG, memastikan aplikasi tersebut berjalan dengan baik dan memenuhi kebutuhan pengguna.
+
+Strategi ASP tercermin dalam tahapan SDLC (Software Development Life Cycle) yang meliputi Test Management Plan (TMP), Testing (SIT, UAT, Performance testing), Release Control Board (RCB), Product Trial Run (PTR), dan Post Implementation Review (PIR). Berikut adalah rincian strategi ASP:
+
+1. Test Management Plan (TMP): Menyusun rencana pengujian yang menyeluruh untuk memastikan semua aspek pengujian tercakup.
+2. System Integration Testing (SIT): Memastikan bahwa berbagai komponen atau sistem yang berbeda dapat bekerja bersama dengan baik.
+3. User Acceptance Testing (UAT): Memastikan bahwa sistem atau aplikasi memenuhi kebutuhan dan persyaratan bisnis pengguna akhir.
+4. Performance Testing: Mengukur kinerja sistem atau aplikasi di bawah beban kerja tertentu untuk memastikan kecepatan, skalabilitas, dan stabilitas.
+5. Release Control Board (RCB): Mengelola dan mengontrol rilis perangkat lunak atau sistem untuk memastikan kualitas dan kesiapan sebelum diterapkan ke lingkungan produksi.
+6. Product Trial Run (PTR): Mengidentifikasi dan memperbaiki masalah potensial dalam kondisi yang mendekati lingkungan produksi sebelum peluncuran penuh.
+7. Post Implementation Review (PIR): Mengevaluasi keberhasilan dan efektivitas implementasi sistem atau proyek.
+
+## Fungsi Peran
+
+Unit kerja ASP terdiri dari 9 departemen yang dikelompokkan menjadi 4 bagian utama: Subject Matter Expert (SME), IT Testing & Quality Assurance, IT Information & Data Services, dan IT Release Management & Testing. Tanggung jawab utama ASP adalah sebagai Subject Matter Expert (SME) yang menangani perbaikan (troubleshoot) isu-isu yang terjadi di production. Berikut adalah gambaran fungsi peran dari masing-masing bagian:
+
+1. Subject Matter Expert (SME): Departemen ini merupakan cerminan dari masing-masing departemen IDG, bertugas sebagai pemegang pengetahuan aplikasi dan memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan.
+2. IT Testing & Quality Assurance: Bertugas melakukan pengujian dan quality assurance terhadap aplikasi, baik saat tahap pengembangan maupun sebelum produksi.
+3. IT Information & Data Services: Bertanggung jawab memberikan dukungan terhadap isu-isu yang terkait dengan data (data warehouse, data migration, dll) di production.
+4. IT Release Management & Testing: Bertugas melakukan manajemen rilis dan pemantauan terhadap aplikasi yang telah diimplementasikan.
+
+### IT Core Banking System Services
+
+Departemen IT Core Banking System Services bertanggung jawab untuk menangani dan memperbaiki masalah yang muncul dalam sistem Core Banking yang digunakan oleh BSI, seperti transaksi dan setor tunai. Sistem Core Banking yang digunakan oleh BSI adalah Temenos 24 (T24). Departemen ini juga bertugas mengimplementasikan dan meningkatkan sistem inti perbankan, serta melakukan maintenance untuk mencegah gangguan. Fungsi peran sebagai berikut:
+1. Mengelola dan memperbaiki masalah dalam sistem Core Banking.
+2. Mengimplementasikan dan meningkatkan sistem inti perbankan.
+3. Melakukan maintenance untuk mencegah gangguan.
+4. Memberikan dukungan teknis kepada pengguna sistem.
+5. Mengintegrasikan sistem inti dengan sistem lain seperti ATM, Net banking, dan Mobile banking.
+6. Menjaga konektivitas yang baik dengan sistem surrounding.
+7. Menghubungkan aplikasi baru ke sistem Core Banking melalui Temenos Web Service.
+
+### IT Digital Channel Services
+
+Departemen IT Digital Channel Services bertugas menangani dan memperbaiki masalah dalam channel-channel digital di BSI. Tugas utama departemen ini adalah membangun dan mengelola platform digital, mengintegrasikan sistem Core Banking dengan channel digital baru, serta mengembangkan fitur dan layanan digital inovatif. Fungsi peran sebagai berikut:
+1. Membangun dan mengelola platform digital.
+2. Mengintegrasikan sistem Core Banking dengan channel digital baru.
+3. Mengembangkan fitur dan layanan digital inovatif.
+4. Memeriksa log transaksi untuk mengidentifikasi error.
+5. Memastikan channel digital berjalan dengan baik dalam environment production terbatas.
+6. Mengidentifikasi root cause dan menangani masalah dengan cepat.
+
+### IT Testing & Quality Assurance
+
+Departemen IT Testing & Quality Assurance bertanggung jawab untuk melakukan pengujian aplikasi/software yang akan dirilis. Departemen ini mengacu pada TMP yang telah disusun dan memiliki test script yang mencakup berbagai kemungkinan penggunaan software. Fungsi peran sebagai berikut:
+1. Melakukan pengujian aplikasi/software.
+2. Mengacu pada TMP untuk proses pengujian.
+3. Mengidentifikasi dan melaporkan defect yang muncul.
+4. Mengumpulkan dan melaporkan defect untuk diperbaiki oleh tim development.
+5. Memvalidasi dan memperbaiki defect yang terkonfirmasi.
+
+### IT Release Management & Testing
+
+Departemen IT Release Management & Testing berperan sebagai representasi ASP dalam Release Control Board (RCB), komite yang bertanggung jawab untuk mengesahkan atau membuat keputusan rilis software. Departemen ini juga bertanggung jawab untuk melakukan performance testing dan memantau kelancaran aplikasi. Fungsi peran sebagai berikut:
+1. Berpartisipasi dalam RCB untuk mengesahkan rilis software.
+2. Membuat rencana rinci proses rilis.
+3. Mengkoordinasikan tim yang terlibat dalam proses rilis.
+4. Memantau proses rilis untuk mengidentifikasi dan mengatasi masalah.
+5. Melakukan performance testing aplikasi.
+6. Memantau dan memonitoring kelancaran aplikasi.
+
+### IT Financing & Collection Services
+
+Departemen IT Financing & Collection Services bertugas menangani dan memperbaiki masalah dalam sistem pembiayaan dan collection yang digunakan oleh BSI. Departemen ini juga memiliki decision engine untuk menentukan kriteria dan nilai pembiayaan yang sesuai. Fungsi peran sebagai berikut:
+1. Menangani dan memperbaiki masalah dalam sistem pembiayaan dan collection.
+2. Menggunakan decision engine untuk menentukan kriteria dan nilai pembiayaan.
+3. Menganalisa dan mengidentifikasi root cause dari permasalahan.
+4. Mengeskalasi masalah yang tidak bisa ditangani di ASP ke IDG.
+
+### IT Payment & Integration Services
+
+Departemen IT Payment & Integration Services bertanggung jawab menangani dan memperbaiki masalah dalam proses payment dan integrasi yang digunakan oleh BSI. Masalah seringkali terkait dengan channel sistem pembayaran seperti SmartVista, ESB, dan JSwitch. Fungsi peran sebagai berikut:
+1. Menangani dan memperbaiki masalah dalam proses payment dan integrasi.
+2. Memeriksa log error dan mengidentifikasi root cause.
+3. Mengelola channel sistem pembayaran melalui SmartVista, ESB, dan JSwitch.
+4. Menghubungkan channel pembayaran BSI ke channel pembayaran eksternal.
+
+### IT Classic Channel Services
+
+Departemen IT Classic Channel Services bertugas menangani dan memperbaiki masalah dalam channel-channel klasik yang digunakan oleh BSI, seperti Net Banking, Mobile Banking, dan Smart Agent. Fungsi peran sebagai berikut:
+1. Menangani dan memperbaiki masalah dalam channel klasik.
+2. Menganalisa dan mengidentifikasi root cause dari permasalahan.
+3. Mengeskalasi masalah yang tidak bisa ditangani di ASP ke IDG.
+
+### IT Information & Data Services
+
+Departemen IT Information & Data Services bertanggung jawab mengelola informasi dan data yang masuk melalui aplikasi yang berjalan, serta mengatur penyimpanan data dan memenuhi permintaan data dari departemen/unit bisnis. Fungsi peran sebagai berikut:
+1. Mengelola informasi dan data yang masuk melalui aplikasi.
+2. Mengatur penyimpanan data.
+3. Memenuhi permintaan data dari departemen/unit bisnis.
+4. Melakukan data engineering untuk menata data.
+5. Memindahkan database dari DB2 ke Oracle.
+
+### IT Wholesale & Office Automation Services
+
+Departemen IT Wholesale & Office Automation Services bertugas mengelola, menerima, dan memperbaiki masalah dalam aplikasi yang digunakan oleh bagian wholesale. Departemen ini juga bertanggung jawab mengembangkan dan melaksanakan otomasi dari proses-proses di ASP. Fungsi peran sebagai berikut:
+1. Mengelola dan memperbaiki masalah dalam aplikasi wholesale.
+2. Mengembangkan dan melaksanakan otomasi proses di ASP.
+3. Mengelola aplikasi berdasarkan skala prioritas perbaikan.
+4. Menangani aplikasi Very Critical seperti EXA dan New CMS.
+5. Menangani aplikasi Critical seperti Web BSI.
+6. Menangani aplikasi Moderate seperti WebForm.
+7. Menangani aplikasi Non Critical seperti E-Doc.
+
+## Bisnis Proses
+
+## Ketentuan Operasional
+
+## Kebijakan Operasional
