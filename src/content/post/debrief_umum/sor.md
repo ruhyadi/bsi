@@ -21,6 +21,8 @@ Dalam kerangka 3rd Line of Defense, SOR berperan sebagai 1.5 line of defense den
 4. Fungsi Kepatuhan: Menjalankan fungsi kepatuhan sesuai dengan kewenangan yang diatur dalam SPP Kepatuhan.
 5. Manajemen Risiko Operasional: Menerapkan alat-alat manajemen risiko operasional seperti RCSA (Risk and Control Self-Assessment), KRI (Key Risk Indicators), LED (Loss Event Database), dan IAM (Incident and Action Management), melaksanakan pengujian kontrol, dan melakukan verifikasi insiden risiko operasional sesuai dengan kewenangan yang diatur dalam SPP Manajemen Risiko Operasional.
 
+### DCOR IT
+
 Departemen DCOR (Decentralized Compliance and Operational Risk) IT terbagi menjadi tiga tim, yaitu: Tim Data & Strategy, Tim IT Service, dan Tim IT Digital & Banking Channel. Peran dan fungsi masing-masing tim adalah sebagai berikut:
 
 1. Tim Data & Strategy: Tim ini berhubungan langsung dengan unit kerja DDM dan ISG, bertanggung jawab dalam pengembangan strategi mitigasi risiko, serta menganalisis data untuk mengidentifikasi pola dan tren risiko guna melakukan tindakan pencegahan proaktif.
