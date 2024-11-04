@@ -1,14 +1,13 @@
-
 ## Strategi
 
-Unit kerja IT Application Support Group (ASP) merupakan unit kerja baru pemekaran dari unit kerja IT & Digital Development Group (IDG) yang bertugas untuk memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan oleh IDG. ASP bertugas untuk memastikan aplikasi yang telah diimplementasikan dapat berjalan dengan baik dan sesuai dengan kebutuhan pengguna.
+Unit kerja IT Application Support Group (ASP) adalah unit baru yang terbentuk dari pemekaran IT & Digital Development Group (IDG). Tugas utama ASP adalah memberikan dukungan operasional untuk aplikasi yang telah diimplementasikan oleh IDG, memastikan aplikasi tersebut berjalan dengan baik dan memenuhi kebutuhan pengguna.
 
-Strategi ASP tertuang dalam SDLC (Software Development Life Cycle) pada tahap Test Management Plan (TMP), Testing (SIT, UAT, Performance testing), Release Control Board (RCB), Product Trial Run (PTR), dan PIR (Post Implementation Review). Berikut adalah rincian strategi ASP:
+Strategi ASP tercermin dalam tahapan SDLC (Software Development Life Cycle) yang meliputi Test Management Plan (TMP), Testing (SIT, UAT, Performance testing), Release Control Board (RCB), Product Trial Run (PTR), dan Post Implementation Review (PIR). Berikut adalah rincian strategi ASP:
 
-1. Test Management Plan (TMP): Menyusun rencana pengujian yang komprehensif untuk memastikan semua aspek pengujian tercakup.
+1. Test Management Plan (TMP): Menyusun rencana pengujian yang menyeluruh untuk memastikan semua aspek pengujian tercakup.
 2. System Integration Testing (SIT): Memastikan bahwa berbagai komponen atau sistem yang berbeda dapat bekerja bersama dengan baik.
 3. User Acceptance Testing (UAT): Memastikan bahwa sistem atau aplikasi memenuhi kebutuhan dan persyaratan bisnis pengguna akhir.
-4. Performance Testing: Menilai kinerja sistem atau aplikasi di bawah beban kerja tertentu untuk memastikan kecepatan, skalabilitas, dan stabilitas.
+4. Performance Testing: Mengukur kinerja sistem atau aplikasi di bawah beban kerja tertentu untuk memastikan kecepatan, skalabilitas, dan stabilitas.
 5. Release Control Board (RCB): Mengelola dan mengontrol rilis perangkat lunak atau sistem untuk memastikan kualitas dan kesiapan sebelum diterapkan ke lingkungan produksi.
 6. Product Trial Run (PTR): Mengidentifikasi dan memperbaiki masalah potensial dalam kondisi yang mendekati lingkungan produksi sebelum peluncuran penuh.
 7. Post Implementation Review (PIR): Mengevaluasi keberhasilan dan efektivitas implementasi sistem atau proyek.
