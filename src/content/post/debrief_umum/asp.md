@@ -95,6 +95,12 @@ Departemen IT Wholesale & Office Automation Services bertugas mengelola, menerim
 
 ## Bisnis Proses
 
+## Ketentuan Operasional
+
+## Kegiatan Operasional
+
+Kegiatan operasional di ASP merujuk pada serangkaian aktivitas yang dilakukan untuk memberikan dukungan operasional terhadap aplikasi dan data yang telah diimplementasikan di production. Rincian kegiatan operasional di ASP adalah sebagai berikut:
+
 1. Identifikasi dan Penanganan Masalah:
    - Subject Matter Expert (SME): Mengidentifikasi dan menangani masalah yang terjadi di production, memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan.
    - IT Core Banking System Services: Menangani dan memperbaiki masalah dalam sistem Core Banking.
@@ -110,7 +116,3 @@ Departemen IT Wholesale & Office Automation Services bertugas mengelola, menerim
    - IT Information & Data Services: Mengelola informasi dan data yang masuk melalui aplikasi, mengatur penyimpanan data, memenuhi permintaan data dari departemen/unit bisnis, dan memindahkan database dari DB2 ke Oracle.
 5. Pengembangan dan Otomasi Proses:
    - IT Wholesale & Office Automation Services: Mengelola dan memperbaiki masalah dalam aplikasi wholesale, mengembangkan dan melaksanakan otomasi proses di ASP, serta menangani aplikasi berdasarkan skala prioritas perbaikan.
-
-## Ketentuan Operasional
-
-## Kebijakan Operasional
