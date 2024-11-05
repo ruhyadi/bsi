@@ -54,19 +54,11 @@ IT Security Services bertanggung jawab untuk melakukan penilaian keamanan inform
 
 ### IT Security Operations
 
-Departemen IT Security Operation (SecOps) bertanggung jawab untuk memastikan keamanan arsitektur teknologi di Bank BSI. Tujuan utamanya adalah melindungi aset teknologi informasi organisasi dari serangan dan ancaman dengan tindakan preventif.
+IT Security Operations (SecOps) bertanggung jawab untuk memastikan keamanan arsitektur teknologi di Bank BSI. Tujuan utamanya adalah melindungi aset teknologi informasi organisasi dari serangan dan ancaman dengan tindakan preventif. Departemen ini terdiri dari beberapa sub-departemen dengan fungsi peran sebagai berikut:
 
-#### Infrastructure and System Security
-
-Infrastructure and System Security bertugas melindungi infrastruktur dan sistem dengan berbagai metode seperti penggunaan antivirus, Extended Detection and Response (XDR), pemblokiran Remote Desktop Connection (RDC), dan penggunaan Secure Shell (SSH). Langkah-langkah ini penting untuk melindungi aset teknologi informasi dari serangan dan ancaman.
-
-#### Network Security
-
-Network Security bertugas mengamankan jaringan dari serangan yang dapat mencuri informasi dengan menggunakan firewall, sistem pencegahan intrusi (IPS), dan manajemen permukaan serangan. Keamanan jaringan adalah komponen penting karena jaringan komputer sering menjadi target utama serangan siber.
-
-#### Cloud Security
-
-Cloud Security bertugas melindungi dan mengamankan data, infrastruktur, dan jaringan yang berada di cloud, baik pada koneksi internet maupun intranet. Keamanan cloud menjadi semakin penting karena banyak organisasi menggunakan layanan cloud untuk menyimpan data sensitif dan menjalankan aplikasi penting.
+1. Infrastructure and System Security: Melindungi infrastruktur dan sistem dengan berbagai metode seperti penggunaan antivirus, Extended Detection and Response (XDR), pemblokiran Remote Desktop Connection (RDC), dan penggunaan Secure Shell (SSH).
+2. Network Security: Mengamankan jaringan dari serangan yang dapat mencuri informasi dengan menggunakan firewall, sistem pencegahan intrusi (IPS), dan manajemen permukaan serangan.
+3. Cloud Security: Melindungi dan mengamankan data, infrastruktur, dan jaringan yang berada di cloud, baik pada koneksi internet maupun intranet.
 
 ### Security Operations Center
 
