@@ -18,11 +18,11 @@ Unit IT Operation Group (IOG) bertanggung jawab atas operasional infrastruktur I
 
 ### IT Service Desk
 
-Departemen IT Service Desk dibagi menjadi 3 divisi: Help Desk, Desktop & Peripheral, dan IT Solution Management. IT Service Desk bertanggung jawab memberikan bantuan teknis kepada pengguna untuk menyelesaikan masalah operasional TI. Berikut adalah peran dan fungsi dari IT Service Desk:
+Departemen ini terbagi menjadi 3 divisi: Help Desk, Desktop & Peripheral, dan IT Solution Management. Departemen ini bertanggung jawab memberikan bantuan teknis kepada pengguna untuk menyelesaikan masalah operasional IT. Berikut adalah peran dan fungsinya:
 
-1. Memberikan layanan kepada pengguna untuk menyelesaikan masalah operasional TI secara efektif sesuai ketentuan yang berlaku.
-2. Memastikan perangkat IT di seluruh unit kerja berfungsi optimal dengan dukungan aplikasi IT yang beroperasi dengan baik sesuai ketentuan.
-3. Menyediakan bantuan teknis kepada pengguna untuk menyelesaikan masalah operasional TI.
+1. Layanan Pengguna: Memberikan layanan kepada pengguna untuk menyelesaikan masalah operasional IT secara efektif sesuai ketentuan yang berlaku.
+2. Optimalisasi Perangkat: Memastikan perangkat IT di seluruh unit kerja berfungsi optimal dengan dukungan aplikasi IT yang beroperasi dengan baik sesuai ketentuan.
+3. Bantuan Teknis: Menyediakan bantuan teknis kepada pengguna untuk menyelesaikan masalah operasional IT.
 
 ### IT Implementation & Monitoring
 
