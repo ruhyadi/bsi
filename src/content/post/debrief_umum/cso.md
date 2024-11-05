@@ -83,7 +83,7 @@ Security Operations Center (SOC) bertanggung jawab untuk memantau, mendeteksi, m
 
 ## Ketentuan Kegiatan Operasional
 
-Unit kerja CSO memiliki beberapa ketentuan yang harus dipatuhi dalam menjalankan kegiatan operasionalnya. Unit kerja ini memiliki SPO (Standar Prosedur Operasional) bersama yang mengatur berbagai aspek operasional, mulai dari pengelolaan akses pengguna hingga penanganan insiden keamanan. Setiap departemen memiliki PTO (Prosedur Teknis Operasional) yang berbeda sesuai dengan area kerjanya masing-masing. Total terdapat 1 SPO dan 19 PTO yang berlaku di CSO. Secara umum, ketentuan operasional di CSO mencakup:
+Unit kerja CSO memiliki SPO (Standar Prosedur Operasional) dan 19 PTO (Prosedur Teknis Operasional) yang mengatur berbagai aspek operasional, mulai dari pengelolaan akses pengguna hingga penanganan insiden keamanan. Setiap departemen memiliki PTO sesuai area kerjanya masing-masing. Secara umum, ketentuan operasional di CSO mencakup:
 
 1. Kerahasiaan (Confidentiality): Memastikan bahwa informasi hanya diakses oleh orang yang berwenang, mencegah akses yang tidak sah atau tidak sah ke data sensitif atau rahasia.
 2. Integritas (Integrity): Menjaga keaslian, kebenaran, dan kelengkapan informasi, sehingga data tidak dimodifikasikan atau diubah oleh pihak yang tidak berwenang atau tanpa izin.
