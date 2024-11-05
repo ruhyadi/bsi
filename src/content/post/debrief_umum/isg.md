@@ -16,25 +16,11 @@ Unit kerja IT Strategic and Planning Group (ISG) terdiri dari 6 departemen yang 
 
 ### IT Strategy, Planning & Architecture
 
-Departemen IT Strategy, Planning & Architecture bertanggung jawab untuk merumuskan strategi teknologi informasi yang sesuai dengan kebutuhan bisnis perusahaan. Departemen ini memiliki fungsi dan peran sebagai berikut:
+Departemen terbagi menjadi 3 divisi: IT Strategy, IT Planning & Budgeting, dan IT Architecture. Departemen ini bertanggung jawab untuk merumuskan strategi teknologi informasi yang sesuai dengan kebutuhan bisnis perusahaan. Departemen ini memiliki fungsi dan peran sebagai berikut:
 
-#### IT Strategy
-
-1. Menyusun, merekomendasikan, dan memonitor rencana strategis IT.
-2. Melaksanakan rapat ITSC untuk memutuskan proyek inisiatif IT tahunan dan anggaran TI.
-3. Mengontrol dan memonitor proses One and One serta menyusun dan mengusulkan inisiatif dalam rencana pengembangan tahunan.
-
-#### IT Planning & Budgeting
-
-1. Menyusun dan mengkoordinasikan laporan kemajuan proyek inisiatif IT tahunan sesuai dengan perencanaan.
-2. Menyusun dan mengkoordinasikan anggaran TI (Capex dan Opex) untuk proyek inisiatif TI tahunan.
-3. Mengkoordinasikan proses dokumentasi pengembangan proyek TI terkait studi kelayakan dan dokumen pendukung lainnya.
-
-#### IT Architecture
-
-1. Menyusun dan mengkoordinasikan rencana arsitektur penggunaan TI.
-2. Menyusun dan memperbarui dokumen arsitektur TI untuk semua aplikasi.
-3. Menganalisis, memonitor, dan memberikan usulan penyelesaian atas arsitektur proyek/inisiatif baru.
+1. IT Strategy: Menyusun, merekomendasikan, dan memonitor rencana strategis IT, termasuk memutuskan proyek inisiatif dan anggaran tahunan melalui rapat ITSC, serta mengontrol proses One and One.
+2. IT Planning & Budgeting: Menyusun, mengkoordinasikan, dan memonitor laporan kemajuan proyek inisiatif IT tahunan, anggaran IT (Capex dan Opex), serta dokumentasi pengembangan proyek IT.
+3. IT Architecture: Menyusun dan mengkoordinasikan rencana arsitektur penggunaan IT, memperbarui dokumen arsitektur IT untuk semua aplikasi, dan menganalisis serta memberikan usulan penyelesaian atas arsitektur proyek/inisiatif baru.
 
 ### IT Project & Partnership Management
 
