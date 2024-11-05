@@ -33,42 +33,18 @@ Departemen ini terbagi menjadi 4 divisi: IT Project Management, IT Business Anal
 
 ### IT Policy & Governance
 
-Departemen IT Policy & Governance bertanggung jawab untuk merumuskan kebijakan dan tata kelola teknologi informasi yang sesuai dengan kebutuhan bisnis perusahaan. Departemen ini memiliki fungsi dan peran sebagai berikut:
+Departemen ini terbagi menjadi 3 divisi: IT QA & Release Control, IT Infrastructure & Network Governance, dan IT Policy & Procedure. Departemen ini bertanggung jawab untuk merumuskan kebijakan dan tata kelola teknologi informasi yang sesuai dengan kebutuhan bisnis perusahaan. Departemen ini memiliki fungsi dan peran sebagai berikut:
 
-#### IT Infrastructure & Network Governance
-
-1. Melakukan review kerjasama dengan pihak ketiga dalam pengembangan TI dan review terhadap kesesuaian kontrak dengan pihak ketiga dalam pengembangan IT infrastructure dan network serta mereview kontrak secara bisnis, hukum, dan ketentuan yang berlaku.
-2. Mengidentifikasi, menyusun, dan memonitor tindak lanjut hasil compliance, audit internal, dan eksternal terkait dengan penyimpangan/kelemahan proses kerja penggunaan IT infrastructure dan network.
-3. Menyusun pelaporan pengembangan produk dan jasa IT infrastructure dan network kepada pihak internal dan eksternal (regulator).
-
-#### IT QA & Release Control
-
-1. Menyusun kebijakan dan framework pengujian melalui koordinasi dengan group IT terkait untuk menjamin konsistensi antara kebijakan kebutuhan test dan rencana bisnis bank.
-2. Merancang metode software testing dan test plan agar tercipta scope of test, resource test, time plan testing dengan baik.
-3. Menjaga proses quality assurance melalui kesiapan environment SIT dan UAT, untuk mencapai ketaatan proses Change Management dan Release Management terhadap standar dan kebijakan, serta menjaga SLA.
-4. Merekomendasikan area dan proses QA serta Release Control yang membutuhkan perbaikan dan pengembangan.
-
-#### IT Policy & Procedure
-
-1. Menyusun dan mensosialisasikan kebijakan dan prosedur untuk seluruh kegiatan TI yang berorientasi kepada Teknologi Informasi (TI).
-2. Mengidentifikasi, menyusun, dan memonitor tindak lanjut hasil compliance, audit internal.
-3. Menyusun laporan pengembangan produk dan jasa TI serta laporan penggunaan TI kepada pihak internal dan eksternal (regulator).
+1. IT Infrastructure & Network Governance: Mengelola kerjasama dengan pihak ketiga, memastikan kesesuaian kontrak, memonitor tindak lanjut hasil audit, dan menyusun pelaporan pengembangan produk serta jasa IT infrastructure dan network kepada pihak internal dan eksternal (regulator).
+2. IT QA & Release Control: Menyusun kebijakan dan framework pengujian, merancang metode software testing, menjaga proses quality assurance, dan merekomendasikan area dan proses QA serta Release Control yang membutuhkan perbaikan dan pengembangan.
+3. IT Policy & Procedure: Menyusun dan mensosialisasikan kebijakan dan prosedur IT, mengidentifikasi tindak lanjut hasil compliance dan audit internal, serta menyusun laporan pengembangan produk dan jasa IT kepada pihak internal dan eksternal (regulator).
 
 ### IT Infrastructure & Network Strategy
 
-#### IT Infrastructure Design & Strategy
+Departemen ini terbagi menjadi 2 divisi: IT Infrastructure Design & Strategy dan IT Network Design & Strategy. Departemen ini bertanggung jawab untuk merancang dan mengelola infrastruktur dan jaringan teknologi informasi yang sesuai dengan kebutuhan bisnis perusahaan. Departemen ini memiliki fungsi dan peran sebagai berikut:
 
-1. Mengelola penerapan proyek/solusi IT infrastructure yang sejalan dengan kebutuhan bisnis dan terimplementasi.
-2. Mengkoordinasikan implementasi proyek IT terkait pengembangan IT infrastructure.
-3. Mengelola periodic assessment IT infrastructure terkait kestabilan sistem informasi IT dalam rangka menjaga kestabilan dan kualitas sesuai dengan tingkat pemenuhan layanan yang diharapkan
-4. Menganalisa solusi design dan pengembangan IT Infrastructure terhadap proses pengalihan Data Center (DC) ke Disaster Recovery Center (DRC) dan sebaliknya untuk memastikan kelancaran proses recovery dan operasional yang maksimal
-
-#### IT Network Design & Strategy
-
-1. Mengelola penerapan proyek/solusi IT Network yang sejalan dengan kebutuhan bisnis dan terimplementasi
-2. Mengkoordinasikan implementasi project IT terkait pengembangan IT network
-3. Mengelola periodic assessment IT infrastructure terkait kestabilan sistem informasi IT dalam rangka menjaga kestabilan dan kualitas sesuai dengan tingkat pemenuhan layanan yang diharapkan
-4. Menganalisa solusi design dan pengembangan IT Network terhadap proses pengalihan Data Center (DC) ke Disaster Recovery Center (DRC) dan sebaliknya untuk memastikan kelancaran proses recovery dan operasional yang maksimal
+1. IT Infrastructure Design & Strategy: Mengelola penerapan proyek/solusi IT infrastructure yang sejalan dengan kebutuhan bisnis dan terimplementasi, mengkoordinasikan implementasi proyek IT terkait pengembangan IT infrastructure, dan menganalisis solusi design dan pengembangan IT Infrastructure terhadap proses pengalihan Data Center (DC) ke Disaster Recovery Center (DRC) dan sebaliknya.
+2. IT Network Design & Strategy: Mengelola penerapan proyek/solusi IT Network yang sejalan dengan kebutuhan bisnis dan terimplementasi, mengkoordinasikan implementasi project IT terkait pengembangan IT network, dan menganalisis solusi design dan pengembangan IT Network terhadap proses pengalihan Data Center (DC) ke Disaster Recovery Center (DRC) dan sebaliknya.
 
 ### IT Business Partner
 
