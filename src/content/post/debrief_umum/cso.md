@@ -19,14 +19,14 @@ Unit kerja CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Appli
 
 ### Security Project & QA
 
-Security Project & Quality Assurance bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Departemen ini mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik. Departemen ini terdiri dari dua sub-departemen dengan fungsi peran sebagai berikut:
+Security Project & Quality Assurance bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Departemen ini mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik. Departemen ini terdiri dari dua sub-departemen:
 
 1. IT Security Project: Mengelola proyek atau pengadaan perangkat/jasa keamanan internal CSO, mengawal proses pengadaan mulai dari proposal hingga implementasi, memberikan saran terkait IT Security, dan mengajukan proposal serta anggaran untuk proyek di CSO.
 2. IT Security Quality Assurance: Memastikan proses kerja di seluruh departemen mematuhi ketentuan internal dan eksternal, memantau kinerja keamanan secara berkala, melakukan tes keamanan, memastikan aktivitas audit berjalan dengan baik, mengelola profil risiko operasional, dan mengelola pemenuhan KPI Group CSO.
 
 ### Application Identity Management 
 
-Application Identity Management bertanggung jawab untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuan utamanya adalah memastikan bahwa setiap pengguna memiliki akses yang sesuai dengan kebutuhannya. Departemen ini terdiri dari beberapa sub-departemen dengan fungsi peran sebagai berikut:
+Application Identity Management bertanggung jawab untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuan utamanya adalah memastikan bahwa setiap pengguna memiliki akses yang sesuai dengan kebutuhannya. Departemen ini terdiri dari empat sub-departemen:
 
 1. Identity Management: Menangani tiket operasional terkait kebutuhan pengguna, melakukan review terhadap pengguna yang aktif, dan melakukan review terhadap matriks pengguna.
 2. Privilege Access Management: Mengatur dan memantau hak akses khusus untuk memastikan hanya pengguna yang berwenang yang memiliki akses, memastikan bahwa pengguna dengan hak akses khusus telah melalui proses otentikasi dan otorisasi yang ketat, serta mengelola kata sandi untuk akun dengan hak akses khusus.
@@ -35,41 +35,13 @@ Application Identity Management bertanggung jawab untuk mengelola identitas peng
 
 ### Network Access & Data Protection
 
-Departemen Network Access & Data Protection bertanggung jawab untuk mengelola akses jaringan dan melindungi data di seluruh cabang BSI di Indonesia. Departemen ini memastikan keamanan identitas dan aplikasi dengan melakukan identifikasi dan klasifikasi data privasi berdasarkan penilaian risiko. Tujuan utama dari departemen ini adalah untuk melindungi integritas, kerahasiaan, dan ketersediaan data, serta memastikan bahwa akses ke jaringan dan sumber daya informasi diatur dengan tepat.
+Network Access & Data Protection mengelola akses jaringan dan melindungi data di seluruh cabang BSI, memastikan keamanan identitas dan aplikasi melalui identifikasi dan klasifikasi data privasi berdasarkan risiko. Tujuan utamanya adalah melindungi integritas, kerahasiaan, dan ketersediaan data, serta mengatur akses ke jaringan dan sumber daya informasi dengan tepat. Departemen ini terdiri dari lima sub-departemen:
 
-#### Customer Identity Management
-
-Customer Identity Management bertugas mengelola data nasabah yang menggunakan aplikasi BSI dan memantau aktivitas transaksi nasabah untuk menjaga keamanan transaksi. Tujuan utamanya adalah meningkatkan pengalaman pelanggan, keamanan, dan privasi dalam bertransaksi. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Mengelola data nasabah yang menggunakan aplikasi BSI.
-2. Memantau dan menganalisis perilaku transaksi pelanggan untuk mendeteksi aktivitas yang mencurigakan atau tidak biasa.
-
-#### Cloud Access Management
-
-Cloud Access Management bertugas mengelola hak akses ke layanan server cloud BSI (AWS, GCP). Cloud Access Management bertanggung jawab untuk memastikan bahwa pengguna dan perangkat yang diizinkan dapat mengakses sumber daya yang sesuai di lingkungan cloud. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Mengelola hak akses ke layanan server cloud BSI (AWS, GCP).
-2. Melakukan aktivitas monitoring dan logging pada layanan server cloud.
-
-#### Network Access Management
-
-Network Access Management bertugas untuk mengelola akses ke jaringan internal perusahaan, seperti intranet BSI. Tujuannya adalah memastikan bahwa hanya pengguna dan perangkat yang sesuai dengan standar keamanan yang dapat terhubung ke jaringan perusahaan. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Mengelola endpoint agar dapat mengakses perangkat yang terhubung dengan intranet BSI.
-2. Memastikan bahwa pengguna dan perangkat yang terhubung ke jaringan memiliki akses yang sesuai dengan kebutuhan mereka.
-3. Meningkatkan keamanan jaringan dan memastikan kepatuhan terhadap kebijakan keamanan.
-
-#### Data Protection Management
-
-Data Protection Management bertugas untuk melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI.
-2. Mengurangi risiko kehilangan data sensitif dan menjaga kepercayaan nasabah.
-3. Memenuhi persyaratan kepatuhan yang berlaku.
-
-#### Data Encryption & Key Management
-
-Data Encryption & Key Management bertugas mengelola konfigurasi kunci pribadi (private key) melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi yang dilakukan serta mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
+1. Customer Identity Management: Mengelola data nasabah yang menggunakan aplikasi BSI dan memantau aktivitas transaksi nasabah untuk menjaga keamanan transaksi.
+2. Cloud Access Management: Mengelola hak akses ke layanan server cloud BSI (AWS, GCP) dan melakukan aktivitas monitoring serta logging pada layanan server cloud.
+3. Network Access Management: Mengelola endpoint agar dapat mengakses perangkat yang terhubung dengan intranet BSI, memastikan bahwa pengguna dan perangkat yang terhubung ke jaringan memiliki akses yang sesuai dengan kebutuhan mereka, serta meningkatkan keamanan jaringan.
+4. Data Protection Management: Melakukan pencegahan dan deteksi pelanggaran dengan memantau, mendeteksi, dan memblokir data sensitif BSI, mengurangi risiko kehilangan data sensitif, dan memenuhi persyaratan kepatuhan yang berlaku.
+5. Data Encryption & Key Management: Mengelola konfigurasi kunci pribadi (private key) melalui hardware security module (HSM) untuk menjamin keamanan dan kebenaran transaksi yang dilakukan serta mengelola secure socket language (SSL) untuk menjaga domain agar tetap aman.
 
 ### IT Security Services
 
