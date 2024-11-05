@@ -13,6 +13,17 @@ Strategi umum yang ditetapkan CSO mengikuti standar internasional, yaitu framewo
 
 Selain itu, CSO juga menggunakan pendekatan PPT (People, Process, and Technology) untuk menjelaskan fungsi dan unit kerja. Pendekatan ini menekankan pentingnya integrasi seimbang antara Manusia, Proses, dan Teknologi. Manusia mencakup struktur organisasi CSO, pelatihan kesadaran keamanan, dan sosialisasi kebijakan keamanan. Proses mencakup standar dan prosedur keamanan, manajemen risiko, keamanan fisik, dan manajemen identitas pengguna. Sementara itu, Teknologi mencakup anti-DDOS, web application firewall, next-generation firewall, anti-malware, dan pengelolaan akses pengguna menggunakan PAM dan IAM. Integrasi ketiga komponen ini diterapkan dalam jobdesk, ketentuan operasional, dan kegiatan operasional di setiap departemen CSO.
 
+Unit kerja Chief Information Security Officer (CSO) bertanggung jawab atas keamanan informasi dan sistem informasi di BSI, dengan fokus pada pencegahan dan deteksi ancaman, perlindungan data nasabah, dan kepatuhan regulasi. CSO mengadopsi pendekatan proaktif dan berbasis risiko, mengikuti framework NIST yang mencakup Pengelolaan, Identifikasi, Proteksi, Deteksi, Respons, dan Pemulihan.
+
+1. Govern: Mengelola dan mengawasi program keamanan siber, termasuk kebijakan, prosedur, dan kepatuhan regulasi.
+2. Identify: Mengidentifikasi aset informasi, menilai risiko, dan mengelola akses pengguna.
+3. Protect: Melindungi aset IT dengan firewall, enkripsi, dan sistem otentikasi.
+4. Detect: Mendeteksi ancaman dengan sistem deteksi intrusi dan pemantauan real-time.
+5. Respond: Merespons ancaman dengan perencanaan dan pelaksanaan respons keamanan.
+6. Recover: Memulihkan sistem dan layanan setelah serangan.
+
+CSO juga menggunakan pendekatan PPT (People, Process, and Technology) untuk integrasi seimbang antara Manusia, Proses, dan Teknologi dalam operasionalnya.
+
 ## Fungsi Peran
 
 Unit kerja CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Application Identity Management, Network Access & Data Protection, IT Security Services, IT Security Operations, Security Operations Center. Setiap departemen memiliki fungsi dan peran yang berbeda sesuai dengan fokus dan tanggung jawabnya.
