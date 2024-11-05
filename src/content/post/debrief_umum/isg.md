@@ -57,7 +57,7 @@ Departemen ini bertanggung jawab untuk mendampingi user dalam proses pembuatan d
 
 ## Bisnis Proses
 
-Dalam melaksanakan proses bisnis di unit kerja, IT Strategic and Planning Group (ISG) menggunakan pendekatan Software Development Life Cycle (SDLC) untuk menjalankan proyek inisiatif IT dan proyek enhancement IT yang dilakukan oleh internal BSI maupun pihak ketiga (eksternal).
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Bisnis proses di ISG menggunakan pendekatan Software Development Life Cycle (SDLC) untuk menjalankan proyek inisiatif IT dan proyek enhancement IT yang dilakukan oleh internal BSI maupun pihak ketiga (eksternal). Berikut adalah bisnis proses yang dilakukan oleh ISG:
 
 ### Project Initiative
 
@@ -109,17 +109,25 @@ Tahap implementasi adalah tahap di mana aplikasi/program yang telah dikembangkan
 1. Forum Release Control Board (RCB) menetapkan jadwal implementasi.
 2. Deployment aplikasi/program ke lingkungan produksi.
 
-#### Kaji Ulang Pasca Implementasi (Post Implementation Review)
+#### Tahap Post Implementation Review
 
 Pada tahap kaji ulang ini, proyek yang sudah live diawasi dari segi arsitektur TI. Jika diperlukan pengembangan lebih lanjut, IT Architecture dapat melakukan update terkait dokumen arsitektur yang telah dibuat.
 
 ### Project Enhancement
 
-Secara umum, proses bisnis antara proyek inisiatif dan enhancement berbeda pada tahap pendefinisian. Pada proyek enhancement, setelah user membuat dokumen CR dan mengisi data rinci terkait kebutuhan aplikasi yang akan dikembangkan, project owner menyusun Feasibility Study (FS) yang berisi analisis manfaat dan biaya (cost and benefit analysis). Dokumen CR dan FS kemudian diserahkan kepada ISG untuk ditindaklanjuti.
+Proses bisnis antara proyek inisiatif dan enhancement berbeda pada tahap pendefinisian. Berikut adalah proses bisnis tahap pendefinisian proyek enhancement:
 
-ISG menindaklanjuti dokumen CR dan FS dengan mengadakan feasibility study meeting yang dihadiri oleh IT Strategy, Planning, and Architecture, user, IT Business Analyst, IT Development, dan unit risk.
+#### Tahap Pendefinisian (User Requirement)
 
-IT Planning dan Budgeting melakukan review terhadap FS yang disusun oleh user dan memutuskan budget yang disetujui. Selain itu, IT Strategy dan Planning memutuskan CR yang dapat dilanjutkan ke tahap pengembangan dengan mempertimbangkan cost and benefit analysis serta membantu merancang resource dan timeline secara umum.
+Tahap pendefinisian proyek enhancement adalah tahap awal dalam proses pengembangan proyek enhancement IT. Pada tahap ini, ISG melakukan analisis kebutuhan pengguna (user requirement) yang akan menjadi dasar dalam tahap pengembangan. Tahap ini meliputi:
+
+1. User membuat dokumen Change Request (CR) dan mengisi data rinci terkait kebutuhan aplikasi.
+2. Project owner menyusun Feasibility Study (FS) yang berisi analisis manfaat dan biaya.
+3. Dokumen CR dan FS diserahkan kepada ISG untuk ditindaklanjuti.
+4. ISG mengadakan feasibility study meeting yang melibatkan IT Strategy, Planning, and Architecture, user, IT Business Analyst, IT Development, dan unit risk.
+5. IT Planning dan Budgeting melakukan review terhadap FS dan memutuskan budget yang disetujui.
+6. IT Strategy dan Planning memutuskan CR yang dapat dilanjutkan ke tahap pengembangan dengan mempertimbangkan analisis manfaat dan biaya.
+7. IT Strategy dan Planning membantu merancang resource dan timeline secara umum.
 
 ## Ketentuan Operasional
 
