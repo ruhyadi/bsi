@@ -72,7 +72,11 @@ Departemen ini terbagi menjadi 3 divisi: Cloud Delivery Automation, Cloud Micros
 
 IT Operation Group (IOG) berperan sebagai enabler atau fasilitator yang mendukung eksekusi strategi digital bisnis melalui pengembangan infrastruktur, manajemen data, lingkungan jaringan, dan evaluasi operasional teknologi informasi. IOG menjalankan operasionalnya dengan berpedoman pada beberapa perencanaan layanan IT untuk memberikan pelayanan yang unggul.
 
-Bisnis proses di IOG melibatkan pemantauan dan pengelolaan indikator kinerja utama infrastruktur dan layanan bisnis yang didefinisikan dalam Service Level Agreement (SLA), Operational Level Agreements (OLA), dan Underpinning Contracts (UC). SLA adalah kesepakatan tertulis antara penyedia layanan dan pengguna layanan yang menetapkan tingkat layanan yang diharapkan, termasuk waktu respons, waktu pemulihan, dan ketersediaan layanan. OLA adalah komitmen internal antara tim dalam organisasi untuk memastikan penyediaan layanan yang efisien, mencakup waktu tanggapan internal dan efektivitas komunikasi. UC adalah kontrak antara organisasi dan penyedia layanan eksternal yang mengatur penyediaan sumber daya, ketersediaan perangkat keras dan perangkat lunak, serta kualitas layanan.
+Bisnis proses di IOG melibatkan pemantauan dan pengelolaan indikator kinerja utama infrastruktur dan layanan bisnis yang didefinisikan dalam Service Level Agreement (SLA), Operational Level Agreements (OLA), dan Underpinning Contracts (UC). Berikut adalah penjelasan dari masing-masing indikator:
+
+1. Service Level Agreement (SLA): Kesepakatan tertulis antara penyedia layanan dan pengguna layanan yang menetapkan tingkat layanan yang diharapkan, termasuk waktu respons, waktu pemulihan, dan ketersediaan layanan.
+2. Operational Level Agreements (OLA): Komitmen internal antara tim dalam organisasi untuk memastikan penyediaan layanan yang efisien, mencakup waktu tanggapan internal dan efektivitas komunikasi.
+3. Underpinning Contracts (UC): Kontrak antara organisasi dan penyedia layanan eksternal yang mengatur penyediaan sumber daya, ketersediaan perangkat keras dan perangkat lunak, serta kualitas layanan.
 
 Dengan memantau dan mengelola indikator-indikator ini, IOG memastikan bahwa layanan yang disediakan sesuai dengan ekspektasi pengguna dan memenuhi standar yang telah ditetapkan, sehingga mendukung operasional bisnis yang efisien dan efektif.
 
