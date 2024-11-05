@@ -24,31 +24,12 @@ Departemen terbagi menjadi 3 divisi: IT Strategy, IT Planning & Budgeting, dan I
 
 ### IT Project & Partnership Management
 
-Departemen IT Project & Partnership Management bertanggung jawab untuk mengelola proyek inisiatif IT dan proyek enhancement IT yang dilakukan oleh internal BSI maupun pihak ketiga (eksternal). Departemen ini memiliki fungsi dan peran sebagai berikut:
+Departemen ini terbagi menjadi 4 divisi: IT Project Management, IT Business Analyst, IT Project Implementation, dan IT Vendor Management. Departemen ini bertanggung jawab untuk mengelola proyek inisiatif IT dan proyek enhancement IT yang dilakukan oleh internal BSI maupun pihak ketiga (eksternal). Departemen ini memiliki fungsi dan peran sebagai berikut:
 
-#### IT Project Management
-
-1. Menyusun perencanaan proyek meliputi ruang lingkup pengembangan, pengelolaan sumber daya tim proyek, pengelolaan anggaran, dan manajemen komunikasi dalam proyek.
-2. Mengulas User Requirement terhadap kebutuhan bisnis dan pengembangan proyek TI yang berkolaborasi dengan Business Analyst.
-3. Merumuskan prinsip serta kerangka analisis penyusunan portofolio inisiatif strategis dan rutin TI.
-
-#### IT Business Analyst
-
-1. Menganalisis user requirement secara terperinci, mengidentifikasi, dan menguraikan masalah.
-2. Menganalisis dan merekomendasikan solusi potensial yang sesuai dengan strategi bisnis dan strategi teknologi.
-3. Mengevaluasi dan menganalisis sistem, kemudian mengusulkan perubahan/perbaikan jika diperlukan.
-
-#### IT Project Implementation
-
-1. Mengkoordinasikan dan menindaklanjuti kelengkapan dokumen proyek sesuai dengan SDLC dan Rencana Bisnis Bank.
-2. Mengidentifikasi dan mengembangkan area dan proses dalam IT Project Implementation yang membutuhkan perbaikan dan pengembangan, termasuk manajemen pengetahuan dari proyek.
-3. Melakukan dokumentasi lesson learned dari hasil PTR dan PIR.
-
-#### IT Vendor Management
-
-1. Mengkoordinasikan dan mengontrol seluruh proses monitoring kinerja dan Service Level Agreement (SLA) atas penyedia jasa pihak ketiga dalam pemenuhan proyek TI.
-2. Melakukan review, evaluasi, dan penilaian atas kinerja vendor pihak ketiga secara berkala terkait relevansi, keamanan, dan kehandalan.
-3. Memastikan kesesuaian kontrak dengan pihak ketiga secara bisnis, hukum, dan ketentuan lainnya yang berlaku.
+1. IT Project Management: Menyusun perencanaan proyek, mengulas User Requirement, dan merumuskan prinsip serta kerangka analisis penyusunan portofolio inisiatif strategis dan rutin TI.
+2. IT Business Analyst: Menganalisis user requirement, merekomendasikan solusi potensial, dan mengevaluasi serta menganalisis sistem.
+3. IT Project Implementation: Mengkoordinasikan dan menindaklanjuti kelengkapan dokumen proyek, mengidentifikasi dan mengembangkan area dan proses yang membutuhkan perbaikan, serta melakukan dokumentasi lesson learned dari PTR (Production Trial Run) dan PIR (Post Implementation Review).
+4. IT Vendor Management: Mengkoordinasikan dan mengontrol proses monitoring kinerja dan SLA atas penyedia jasa pihak ketiga, melakukan review, evaluasi, dan penilaian kinerja vendor pihak ketiga, serta memastikan kesesuaian kontrak dengan pihak ketiga.
 
 ### IT Policy & Governance
 
