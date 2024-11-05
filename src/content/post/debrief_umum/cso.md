@@ -1,4 +1,3 @@
-
 ## Strategi
 
 Unit kerja Chief Information Security Officer (CSO) bertanggung jawab atas keamanan informasi dan sistem informasi di BSI. Strategi unit kerja ini berfokus pada pencegahan dan deteksi ancaman keamanan informasi, perlindungan data nasabah, dan kepatuhan terhadap regulasi yang berlaku. Menghadapi ancaman keamanan yang semakin kompleks, CSO BSI mengadopsi pendekatan proaktif dan berbasis risiko untuk memastikan keamanan informasi dan sistem informasi.
@@ -20,27 +19,10 @@ Unit kerja CSO terbagi menjadi 6 departemen, yaitu: Security Project & QA, Appli
 
 ### Security Project & QA
 
-Security Project & Quality Assurance adalah departemen dalam CSO yang bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Departemen ini mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik.
+Security Project & Quality Assurance bertanggung jawab memastikan bahwa proyek teknologi informasi dilaksanakan dengan mempertimbangkan aspek keamanan dari awal hingga akhir, serta memastikan bahwa implementasi keamanan tersebut memenuhi standar kualitas yang telah ditetapkan. Departemen ini mengidentifikasi area yang memerlukan perbaikan dan menyusun laporan strategi perencanaan keamanan informasi secara periodik. Departemen ini terdiri dari dua sub-departemen dengan fungsi peran sebagai berikut:
 
-#### IT Security Project
-
-IT Security Project adalah bagian dari departemen Security Project & QA yang bertanggung jawab untuk mengelola proyek-proyek keamanan informasi di BSI. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Mengelola proyek atau pengadaan perangkat/jasa keamanan internal CSO.
-2. Mengawal proses pengadaan mulai dari proposal, BAST, PKS hingga implementasi.
-3. Memberikan saran terkait IT Security kepada grup lain yang membutuhkan.
-4. Mengajukan proposal dan anggaran untuk proyek di CSO berdasarkan kebutuhan end user.
-
-#### IT Security Quality Assurance
-
-IT Security Quality Assurance adalah bagian dari departemen Security Project & QA yang bertanggung jawab untuk memastikan bahwa implementasi keamanan informasi di BSI memenuhi standar kualitas yang telah ditetapkan. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Memastikan proses kerja di seluruh departemen mematuhi ketentuan internal dan eksternal.
-2. Memantau kinerja keamanan secara berkala.
-3. Melakukan tes keamanan yang tepat.
-4. Memastikan aktivitas audit di CSO berjalan dengan baik.
-5. Mengelola profil risiko operasional di unit kerja CSO.
-6. Mengelola pemenuhan KPI Group CSO.
+1. IT Security Project: Mengelola proyek atau pengadaan perangkat/jasa keamanan internal CSO, mengawal proses pengadaan mulai dari proposal hingga implementasi, memberikan saran terkait IT Security, dan mengajukan proposal serta anggaran untuk proyek di CSO.
+2. IT Security Quality Assurance: Memastikan proses kerja di seluruh departemen mematuhi ketentuan internal dan eksternal, memantau kinerja keamanan secara berkala, melakukan tes keamanan, memastikan aktivitas audit berjalan dengan baik, mengelola profil risiko operasional, dan mengelola pemenuhan KPI Group CSO.
 
 ### Application Identity Management 
 

@@ -238,4 +238,10 @@ Unit kerja CSO memiliki beberapa ketentuan yang harus dipatuhi dalam menjalankan
 
 ## Kesimpulan dan Rekomendasi
 
+1. Kerahasiaan (Confidentiality): Memastikan bahwa informasi hanya diakses oleh orang yang berwenang, mencegah akses yang tidak sah atau tidak sah ke data sensitif atau rahasia.
+2. Integritas (Integrity): Menjaga keaslian, kebenaran, dan kelengkapan informasi, sehingga data tidak dimodifikasikan atau diubah oleh pihak yang tidak berwenang atau tanpa izin.
+3. Ketersediaan (Availability): Menjamin bahwa informasi dan sumber daya terkait siap digunakan oleh pengguna yang sah ketika diperlukan, serta mengatasi gangguan atau serangan yang dapat menghambat ketersediaan layanan maupun sistem.
+
+## Kesimpulan dan Rekomendasi
+
 ## Penutup
