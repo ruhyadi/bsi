@@ -26,7 +26,7 @@ Departemen terbagi menjadi 3 divisi: IT Strategy, IT Planning & Budgeting, dan I
 
 Departemen ini terbagi menjadi 4 divisi: IT Project Management, IT Business Analyst, IT Project Implementation, dan IT Vendor Management. Departemen ini bertanggung jawab untuk mengelola proyek inisiatif IT dan proyek enhancement IT yang dilakukan oleh internal BSI maupun pihak ketiga (eksternal). Departemen ini memiliki fungsi dan peran sebagai berikut:
 
-1. IT Project Management: Menyusun perencanaan proyek, mengulas User Requirement, dan merumuskan prinsip serta kerangka analisis penyusunan portofolio inisiatif strategis dan rutin TI.
+1. IT Project Management: Menyusun perencanaan proyek, mengulas User Requirement, dan merumuskan prinsip serta kerangka analisis penyusunan portofolio inisiatif strategis dan rutin IT.
 2. IT Business Analyst: Menganalisis user requirement, merekomendasikan solusi potensial, dan mengevaluasi serta menganalisis sistem.
 3. IT Project Implementation: Mengkoordinasikan dan menindaklanjuti kelengkapan dokumen proyek, mengidentifikasi dan mengembangkan area dan proses yang membutuhkan perbaikan, serta melakukan dokumentasi lesson learned dari PTR (Production Trial Run) dan PIR (Post Implementation Review).
 4. IT Vendor Management: Mengkoordinasikan dan mengontrol proses monitoring kinerja dan SLA atas penyedia jasa pihak ketiga, melakukan review, evaluasi, dan penilaian kinerja vendor pihak ketiga, serta memastikan kesesuaian kontrak dengan pihak ketiga.
@@ -61,7 +61,7 @@ Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk menca
 
 ### Project Initiative
 
-Inisiatif IT Strategis adalah pekerjaan yang mendukung inisiatif strategis IT perusahaan dan sesuai dengan corporate plan. Oleh karena itu, permintaan user yang masuk harus difilter dan diprioritaskan agar sesuai dengan corporate plan. Berikut adalah proses bisnis untuk inisiatif TI.
+Inisiatif IT Strategis adalah pekerjaan yang mendukung inisiatif strategis IT perusahaan dan sesuai dengan corporate plan. Oleh karena itu, permintaan user yang masuk harus difilter dan diprioritaskan agar sesuai dengan corporate plan. Berikut adalah proses bisnis untuk inisiatif IT.
 
 #### Tahap Pendefinisian (User Requirement)
 
@@ -111,7 +111,7 @@ Tahap implementasi adalah tahap di mana aplikasi/program yang telah dikembangkan
 
 #### Tahap Post Implementation Review
 
-Pada tahap kaji ulang ini, proyek yang sudah live diawasi dari segi arsitektur TI. Jika diperlukan pengembangan lebih lanjut, IT Architecture dapat melakukan update terkait dokumen arsitektur yang telah dibuat.
+Pada tahap kaji ulang ini, proyek yang sudah live diawasi dari segi arsitektur IT. Jika diperlukan pengembangan lebih lanjut, IT Architecture dapat melakukan update terkait dokumen arsitektur yang telah dibuat.
 
 ### Project Enhancement
 
@@ -137,7 +137,7 @@ Aktivitas operasional ISG didasarkan pada ketentuan internal BSI serta regulasi 
 
 Ketentuan internal yang berlaku di BSI terkait pengembangan produk digital Bank meliputi:
 
-1. SPO Teknologi Informasi: Standar Prosedur Operasional (SPO) Teknologi Informasi yang mengatur proses perencanaan, pengembangan, pengelolaan operasional, hingga pengamanan TI secara menyeluruh di BSI.
+1. SPO Teknologi Informasi: Standar Prosedur Operasional (SPO) Teknologi Informasi yang mengatur proses perencanaan, pengembangan, pengelolaan operasional, hingga pengamanan IT secara menyeluruh di BSI.
 2. PTO: Petunjuk Teknis Operasional (PTO) yang merinci langkah-langkah atau instruksi teknis yang harus diikuti untuk menjalankan proses, perangkat, atau sistem dengan benar dan efisien. PTO yang berlaku meliputi PTO SDLC, PTO SDLC Agile, dan PTO RCB.
 3. ITSP/RSTI BSI: Dokumen yang berisi arah, tujuan, dan rencana tindakan dalam jangka waktu 5 tahun terkait pemanfaatan teknologi informasi untuk mencapai tujuan bisnis atau organisasi.
 
@@ -153,58 +153,32 @@ Ketentuan eksternal yang berlaku di BSI terkait pengembangan produk digital Bank
 
 Kegiatan operasional di ISG merujuk pada serangkaian aktivitas rutin yang dilakukan untuk mencapai tujuan strategis unit kerja. Berikut adalah beberapa kegiatan operasional yang dilakukan oleh ISG:
 
-Unit kerja IT Strategic and Planning Group (ISG) melaksanakan berbagai kegiatan operasional yang terkait dengan pengembangan produk digital Bank. Berikut adalah beberapa kegiatan operasional yang dilakukan oleh ISG:
-
 ### IT Project & Partnership Management
 
 1. IT PMO: Berkoordinasi dengan Project Owner dan User untuk menyusun Project Charter, menentukan timeline dan resource, serta mengawal implementasi sistem/aplikasi hingga selesai dengan menyusun Berita Acara Instalasi.
 2. IT Business Analyst: Melakukan review draft dokumen FSD dan SDD dari Vendor atau IT Development, serta mengadakan Joint Discussion Meeting untuk membahas detail pengembangan sistem/aplikasi.
 3. IT Project Implementation: Mengadakan dan memantau proses PTR, memastikan object testing dilakukan kembali secara menyeluruh, dan menyusun Berita Acara PTR.
-4. IT Vendor Management: Melakukan analisis kebutuhan pihak ketiga, mencari jasa pihak ketiga, dan berkoordinasi dengan pihak ketiga serta Procurement group terkait kebutuhan TI atau resources.
+4. IT Vendor Management: Melakukan analisis kebutuhan pihak ketiga, mencari jasa pihak ketiga, dan berkoordinasi dengan pihak ketiga serta Procurement group terkait kebutuhan IT atau resources.
 
 ### IT Policy & Governance
 
-#### IT QA & Release Control
-
-1. Menerima QA Need dari IT PMO.
-2. Mengadakan Test Management Plan (TMP) Meeting bersama dengan User, IT BA, IT Development, dan IT SIT setelah requirement dari CR dan Software Development Document (SDD) sudah dipenuhi oleh IT Development.
-3. Menyusun dokumen Test Management Plan (TMP).
-
-#### IT Infrastructure & Network Governance
-
-1. Membuat dokumen Standarisasi Pelaksanaan Operasional (SPO) dan Petunjuk Teknis Operasional (PTO) terkait IT Infrastructure dan Network.
-2. Mengkomunikasikan SPO dan PTO kepada pihak terkait.
-
-#### IT Policy & Procedure
-
-1. Memastikan kesesuaian aplikasi atau sistem dengan kebijakan dan prosedur bank.
-2. Menyusun kebijakan dan pedoman yang mengatur penggunaan dan keamanan teknologi informasi di seluruh departemen dan unit kerja di bank.
-3. Memastikan penggunaan standar industri dan praktik terbaik dalam semua aspek TI bank.
+1. IT QA & Release Control: Menerima QA Need dari IT PMO, mengadakan TMP Meeting, dan menyusun dokumen TMP.
+2. IT Infrastructure & Network Governance: Membuat dokumen SPO dan PTO terkait IT Infrastructure dan Network, serta mengkomunikasikan SPO dan PTO kepada pihak terkait.
+3. IT Policy & Procedure: Memastikan kesesuaian aplikasi atau sistem dengan kebijakan dan prosedur bank, menyusun kebijakan dan pedoman yang mengatur penggunaan dan keamanan teknologi informasi di seluruh departemen dan unit kerja di bank.
 
 ### IT Strategic & Architecture
 
-#### IT Strategy
-
-1. Menyelenggarakan Feasibility Study Meeting (FS Meeting) sebulan sekali atau sewaktu-waktu jika diperlukan.
-2. Menyelenggarakan Joint Planning untuk pembahasan project Inisiatif Strategis TI dengan mengundang unit kerja MOR, CTO, AMG, dan Unit Kerja Risk lainnya, minimal setahun sekali.
-
-#### IT Planning & Budgeting
-
-1. Menyusun dan mengkoordinasikan laporan berupa progress report project inisiatif TI tahunan sesuai dengan perencanaan di awal.
-2. Menyusun dan mengkoordinasikan budget TI (Capex dan Opex) atas project inisiatif TI tahunan.
-
-#### IT Architecture
-
-1. Menyusun dan mengkoordinasikan rencana arsitektur penggunaan TI.
-2. Menyusun dan memperbarui dokumen arsitektur TI untuk semua aplikasi.
+1. IT Strategy: Menyusun Feasibility Study Meeting (FS Meeting) sebulan sekali atau sewaktu-waktu jika diperlukan, serta menyelenggarakan Joint Planning untuk pembahasan project Inisiatif Strategis IT dengan mengundang unit kerja MOR, CTO, AMG, dan Unit Kerja Risk lainnya, minimal setahun sekali.
+2. IT Planning & Budgeting: Menyusun dan mengkoordinasikan laporan berupa progress report project inisiatif IT tahunan sesuai dengan perencanaan di awal, serta menyusun dan mengkoordinasikan budget IT (Capex dan Opex) atas project inisiatif IT tahunan.
+3. IT Architecture: Menyusun dan mengkoordinasikan rencana arsitektur penggunaan IT, serta menyusun dan memperbarui dokumen arsitektur IT untuk semua aplikasi.
 
 ### IT Infrastructure & Network Strategy
 
-1. Memastikan penerapan seluruh aktivitas pada ruang Data Center / Disaster Recovery Center berjalan sesuai dengan pengaturan ketentuan Bank (PTO Pengelolaan DC dan DRC).
-2. Melakukan analisa dan identifikasi kebutuhan kapasitas agar dapat memberikan solusi yang sejalan dengan rencana dan strategi bisnis.
-3. Membuat perencanaan sistem infrastruktur (Infrastructure System Planning).
+1. Pengelolaan Data Center: Memastikan aktivitas di Data Center/Disaster Recovery Center sesuai ketentuan Bank (PTO Pengelolaan DC dan DRC).
+2. Analisa Kebutuhan: Melakukan analisa dan identifikasi kebutuhan kapasitas untuk memberikan solusi yang sejalan dengan rencana dan strategi bisnis.
+3. Perencanaan Infrastruktur: Membuat perencanaan sistem infrastruktur (Infrastructure System Planning).
 
 ### IT Business Partner
 
-1. Mendampingi user dalam proses pembuatan dan pengembangan Customer Request (CR) atau Business Request (BR).
-2. Bekerja sama dengan HIMBARA untuk sinergi dalam pengembangan teknologi.
+1. Pendampingan User: Mendampingi user dalam proses pembuatan dan pengembangan Customer Request (CR) atau Business Request (BR).
+2. Kerjasama HIMBARA: Bekerja sama dengan HIMBARA untuk sinergi dalam pengembangan teknologi.
