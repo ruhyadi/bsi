@@ -9,19 +9,19 @@ tags: ["brief"]
 
 ### Latar Belakang
 
-Industri perbankan secara umum memiliki peran yang sangat vital dalam perekonomian Indonesia. Bank berfungsi sebagai lembaga intermediasi yang menghubungkan pihak yang memiliki kelebihan dana dengan pihak yang membutuhkan dana. Melalui berbagai produk dan layanan keuangan, bank mendukung aktivitas ekonomi, mulai dari pembiayaan usaha kecil dan menengah hingga proyek-proyek besar yang memerlukan investasi jangka panjang. Selain itu, bank juga berperan dalam stabilisasi ekonomi melalui kebijakan moneter yang diterapkan oleh bank sentral.
+Industri perbankan memiliki peran vital dalam perekonomian Indonesia. Berfungsi sebagai lembaga intermediasi dengan menghubungkan pihak yang memiliki kelebihan dana dengan yang membutuhkan. Bank mendukung aktivitas ekonomi melalui berbagai produk dan layanan keuangan, dari pembiayaan usaha kecil hingga proyek besar. Selain itu, bank juga berperan dalam stabilisasi ekonomi melalui kebijakan moneter.
 
-Perbankan syariah memainkan peran penting dalam perekonomian Indonesia. Perbankan syariah tidak hanya menyediakan layanan keuangan yang sesuai dengan prinsip-prinsip syariah, tetapi juga berkontribusi pada inklusi keuangan dan pembangunan ekonomi yang berkelanjutan. Dengan prinsip-prinsip yang mengedepankan keadilan dan kesejahteraan bersama, perbankan syariah mampu menarik segmen masyarakat yang sebelumnya tidak terjangkau oleh perbankan konvensional, sehingga memperluas basis ekonomi dan mendukung pertumbuhan yang lebih inklusif.
+Perbankan syariah berkontribusi pada inklusi keuangan dan pembangunan ekonomi yang berkelanjutan. Dengan prinsip keadilan dan kesejahteraan bersama, perbankan syariah menarik segmen masyarakat yang tidak terjangkau oleh perbankan konvensional, mendukung pertumbuhan ekonomi yang inklusif.
 
-Bank Syariah Indonesia (BSI) adalah salah satu entitas utama dalam industri perbankan syariah di Indonesia. Resmi berdiri pada 1 Februari 2021, BSI merupakan hasil p   enggabungan tiga bank syariah milik negara, yaitu Bank Syariah Mandiri, BNI Syariah, dan BRI Syariah. Untuk mencapai visinya menjadi salah satu dari 10 bank syariah terbesar di dunia, BSI memiliki tiga misi utama. Salah satu misi tersebut adalah menjadi perusahaan yang menjadi pilihan dan kebanggaan bagi talenta terbaik Indonesia. Sebagai bagian dari upaya ini, BSI memenuhi kebutuhan sumber daya manusia melalui program BSI Young Leadership Excellence & Agility Development (BYLEAD).
+Bank Syariah Indonesia (BSI) berdiri pada 1 Februari 2021, hasil penggabungan tiga bank syariah milik negara, yaitu Bank Syariah Mandiri, BNI Syariah, dan BRI Syariah. Untuk menjadi salah satu dari 10 bank syariah terbesar di dunia, BSI memiliki misi menjadi pilihan dan kebanggaan bagi talenta terbaik Indonesia melalui program BSI Young Leadership Excellence & Agility Development (BYLEAD).
 
-BYLEAD adalah program pengembangan talenta yang dirancang untuk menciptakan pemimpin masa depan yang unggul dan adaptif. Program ini memberikan kesempatan bagi lulusan terbaik dari berbagai perguruan tinggi di Indonesia untuk mengembangkan potensi kepemimpinan mereka melalui serangkaian modul pelatihan dan pengalaman kerja di berbagai unit kerja BSI. Salah satu modul yang penting dalam BYLEAD adalah modul On the Job Training (OJT), yang memberikan peserta kesempatan untuk belajar dan berkontribusi langsung di unit kerja yang berbeda.
+BYLEAD adalah program pengembangan talenta untuk menciptakan pemimpin masa depan yang unggul dan adaptif. Program ini memberikan kesempatan bagi lulusan terbaik untuk mengembangkan potensi kepemimpinan melalui modul pelatihan dan pengalaman kerja di berbagai unit kerja BSI. Salah satu modul penting adalah On the Job Training (OJT), yang memberikan peserta kesempatan untuk belajar dan berkontribusi langsung di unit kerja yang berbeda.
 
-Dalam konteks OJT umum, peserta diberikan kesempatan untuk memahami dan mengalami berbagai aspek operasional dan strategis dari unit kerja di BSI. Dengan demikian, laporan ini bertujuan untuk mendokumentasikan temuan dan pengalaman selama OJT, serta menganalisis berbagai aspek yang berkaitan dengan strategi, fungsi, proses bisnis, dan operasional unit kerja. Dengan demikian, laporan ini diharapkan dapat memberikan wawasan yang komprehensif mengenai operasional perbankan syariah dan kontribusinya terhadap industri perbankan di Indonesia.
+Laporan ini bertujuan mendokumentasikan temuan dan pengalaman selama On the Job Training (OJT) umum di BSI, serta menganalisis strategi, fungsi, proses bisnis, dan operasional unit kerja, memberikan wawasan komprehensif mengenai operasional perbankan syariah.	
 
 ### Perumusan Masalah
 
-Dalam laporan ini, beberapa masalah utama yang akan dibahas meliputi:
+Berdasarkan latar belakang di atas, perumusan masalah yang diangkat dalam laporan ini adalah:
 
 1. Bagaimana strategi unit kerja?
 2. Apa fungsi dan peran unit kerja?
@@ -33,7 +33,7 @@ Dalam laporan ini, beberapa masalah utama yang akan dibahas meliputi:
 
 ## Tujuan Penulisan Laporan
 
-Tujuan penulisan laporan ini adalah untuk:
+Berdasarkan perumusan masalah di atas, tujuan penulisan laporan ini adalah:
 
 1. Menjelaskan strategi unit kerja.
 2. Menguraikan fungsi dan peran unit kerja.
