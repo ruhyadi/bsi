@@ -40,16 +40,16 @@ Departemen ini terbagi menjadi 3 divisi: Data Center, Disaster Recovery Center, 
 
 1. Infrastruktur Data Center: Mengelola infrastruktur Data Center untuk mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
 2. Infrastruktur Disaster Recovery Center: Mengelola Disaster Recovery Center untuk mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
-3. Mendukung operasional Environment & Data Management agar berjalan dengan baik, cepat, dan tepat serta mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
+3. Operasional Data Management: Mendukung operasional Environment & Data Management agar berjalan dengan baik, cepat, dan tepat serta mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
 
 ### IT Infrastructure/Network Environment
 
-Departemen IT Infrastructure/Network Environment dibagi menjadi 3 divisi: Infrastructure Engineer, Network Management, dan Network Operation Center. IT Infrastructure/Network Environment bertanggung jawab atas pengembangan kapabilitas dan evaluasi terkait implementasi dan operasi IT Infrastruktur Data Center, Service Management, Network, dan Security. Berikut adalah peran dan fungsi dari IT Infrastructure/Network Environment:
+Departemen ini terbagi menjadi 3 divisi: Infrastructure Engineer, Network Management, dan Network Operation Center. Departemen ini bertanggung jawab atas pengembangan kapabilitas dan evaluasi terkait implementasi dan operasi IT Infrastruktur Data Center, Service Management, Network, dan Security. Berikut adalah peran dan fungsinya:
 
-1. Merancang dan memantau hardware dan software teknologi informasi Bank terkait pengelolaan dan implementasi proyek Sistem Infrastruktur.
-2. Memastikan pengembangan desain atas infrastruktur jaringan guna meningkatkan keunggulan kompetitif dan mempercepat proses delivery time.
-3. Mengelola jaringan agar beroperasi optimal secara terus menerus sesuai ketentuan yang berlaku dan memenuhi SLA yang telah ditetapkan.
-4. Memantau, mengidentifikasi, dan menyelesaikan masalah jaringan agar beroperasi optimal secara terus menerus.
+1. Perancangan Infrastruktur: Merancang dan memantau hardware dan software teknologi informasi Bank terkait pengelolaan dan implementasi proyek Sistem Infrastruktur.
+2. Desain Jaringan: Memastikan pengembangan desain atas infrastruktur jaringan guna meningkatkan keunggulan kompetitif dan mempercepat proses delivery time.
+3. Pengelolaan Jaringan: Mengelola jaringan agar beroperasi optimal secara terus menerus sesuai ketentuan yang berlaku dan memenuhi SLA yang telah ditetapkan.
+4. Pemantauan Jaringan: Memantau, mengidentifikasi, dan menyelesaikan masalah jaringan agar beroperasi optimal secara terus menerus.
 
 ### IT Infrastructure Operation Management & Optimization
 
