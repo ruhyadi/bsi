@@ -68,7 +68,34 @@ Security Operations Center (SOC) bertanggung jawab untuk memantau, mendeteksi, m
 
 ## Bisnis Proses
 
-## Ketentuan Kegiatan Operasional
+Bisnis proses merupakan serangkaian kegiatan atau langkah-langkah yang dilakukan oleh unit kerja CSO untuk mencapai tujuan keamanan informasi dan sistem informasi di BSI. Bisnis proses ini mencakup berbagai aktivitas yang terstruktur dan terkoordinasi untuk memastikan keamanan, kepatuhan, dan perlindungan data nasabah. Berikut adalah bisnis proses dari unit kerja CSO:
+
+1. Identifikasi dan Penilaian Risiko:
+   1. Mengidentifikasi aset informasi dan menilai risiko yang terkait.
+   2. Mengelola akses pengguna dan memastikan hanya pengguna yang berwenang yang memiliki akses.
+2. Pengelolaan Kebijakan dan Kepatuhan:
+   1. Menyusun dan mengawasi kebijakan keamanan siber.
+   2. Memastikan kepatuhan terhadap regulasi dan standar keamanan.
+3. Perlindungan Aset IT:
+   1. Melindungi aset IT dengan firewall, enkripsi, dan sistem otentikasi.
+   2. Mengelola hak akses dan identitas pengguna.
+4. Deteksi Ancaman:
+   1. Mendeteksi ancaman dengan sistem deteksi intrusi dan pemantauan real-time.
+   2. Memantau jaringan dan sistem secara terus-menerus.
+5. Respons dan Pemulihan:
+   1. Merespons ancaman dengan perencanaan dan pelaksanaan respons keamanan.
+   2. Memulihkan sistem dan layanan setelah serangan.
+6. Pengelolaan Insiden Keamanan:
+   1. Menangani insiden keamanan dengan cepat dan efektif.
+   2. Melakukan investigasi dan mitigasi insiden.
+7. Peningkatan Keamanan Berkelanjutan:
+   1. Melakukan penilaian keamanan informasi secara berkala.
+   2. Mengidentifikasi dan mengatasi kelemahan atau kerentanan keamanan.
+8. Pelaporan dan Dokumentasi:
+   1. Menyusun laporan pengembangan produk dan jasa IT kepada pihak internal dan eksternal.
+   2. Mendokumentasikan proses dan hasil audit serta kepatuhan.
+
+## Ketentuan Operasional
 
 Unit kerja CSO memiliki SPO (Standar Prosedur Operasional) dan 19 PTO (Prosedur Teknis Operasional) yang mengatur berbagai aspek operasional, mulai dari pengelolaan akses pengguna hingga penanganan insiden keamanan. Setiap departemen memiliki PTO sesuai area kerjanya masing-masing. Secara umum, ketentuan operasional di CSO mencakup:
 
