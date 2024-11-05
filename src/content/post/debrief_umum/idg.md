@@ -86,7 +86,7 @@ Digital Delivery Enablement memiliki fungsi dan peran sebagai berikut:
 
 Proses bisnis di IT & Digital Development Group mengikuti System Development Life Cycle (SDLC). SDLC adalah siklus atau tahapan dalam pengembangan proyek seperti aplikasi, fitur, dan lainnya. Dalam SDLC, IT & Digital Development Group berperan pada tahap pengembangan.
 
-Bank Syariah Indonesia mengimplementasikan beberapa jenis SDLC. Berdasarkan jenis proyeknya, SDLC dibagi menjadi dua: SDLC proyek inisiatif dan SDLC proyek enhancement. Berdasarkan tahapan yang dilalui, SDLC terbagi menjadi dua: SDLC Waterfall dan SDLC Agile. Secara umum, SDLC terdiri dari beberapa tahapan: perencanaan, pendefinisian, pengembangan, testing plan, implementasi, dan PIR (Post Implementation Review).
+IDG mengimplementasikan beberapa jenis SDLC. Berdasarkan jenis proyeknya, SDLC dibagi menjadi dua: SDLC proyek inisiatif dan SDLC proyek enhancement. Berdasarkan tahapan yang dilalui, SDLC terbagi menjadi dua: SDLC Waterfall dan SDLC Agile. Secara umum, SDLC terdiri dari beberapa tahapan: perencanaan, pendefinisian, pengembangan, testing plan, implementasi, dan PIR (Post Implementation Review).
 
 Untuk proyek inisiatif dan proyek enhancement, tahapan yang dilakukan secara garis besar sama, hanya terdapat beberapa perbedaan dalam sub-tahapannya. SDLC proyek inisiatif digunakan untuk pengembangan proyek baru, sedangkan SDLC proyek enhancement digunakan untuk pengembangan proyek yang sudah ada. Skema tahapan proyek inisiatif dan proyek enhancement dapat dilihat pada Gambar 2.3-1 dan Gambar 2.3-2.
 
@@ -96,10 +96,10 @@ Dalam SDLC Agile, terdapat lima squad (yang akan bertambah lagi jumlahnya) denga
 
 ## Ketentuan Operasional
 
-Kegiatan operasional IT & Digital Development Group mengikuti SDLC (System Development Life Cycle) dan berfokus pada tahap pengembangan. Selama menjalankan kegiatan operasional, IT & Digital Development Group mematuhi beberapa ketentuan, terutama PTO SDLC dan PTO SDLC Agile yang sangat terkait dengan proses bisnis unit kerja ini. Selain kedua PTO tersebut, ada beberapa ketentuan lain yang juga mengatur tugas dan tanggung jawab IT & Digital Development Group. Berikut adalah ketentuan-ketentuan terkait kegiatan operasional IT & Digital Development Group:
+Kegiatan operasional IDG mengikuti SDLC dan berfokus pada tahap pengembangan. Selama menjalankan kegiatan operasional, IDG mematuhi beberapa ketentuan, terutama PTO SDLC dan PTO SDLC Agile yang sangat terkait dengan proses bisnis unit kerja ini. Selain kedua PTO tersebut, ada beberapa ketentuan lain yang juga mengatur tugas dan tanggung jawab IDG. Berikut adalah ketentuan-ketentuan terkait kegiatan operasional:
 
-- Petunjuk Teknis Operasional System Development Life Cycle (SDLC)
-- Petunjuk Teknis Operasional System Development Life Cycle (SDLC) Agile
+- Petunjuk Teknis Operasional SDLC
+- Petunjuk Teknis Operasional SDLC Agile
 - Standar Prosedur Operasional Teknologi Informasi
 - Kebijakan Teknologi Informasi
 - Petunjuk Teknis Operasional Teknologi Informasi Release Control Board (RCB)
