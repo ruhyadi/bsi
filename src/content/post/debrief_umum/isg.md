@@ -48,10 +48,12 @@ Departemen ini terbagi menjadi 2 divisi: IT Infrastructure Design & Strategy dan
 
 ### IT Business Partner
 
-1. Memfasilitasi user dalam kebutuhan pengembangan maupun informasi terkait teknologi baik dalam tahap perencanaan, progress maupun strategi
-2. Mendorong percepatan proses perencanaan suatu project dan memberikan advice terhadap prioritas project yang akan dikembangkan
-3. Mediasi dalam penyusunan solution dokumen yang berisi scope, high level solution, resource planning dan cost estimation
-4. Mendorong literasi digital dan technology knowledge kepada user
+Departemen ini bertanggung jawab untuk mendampingi user dalam proses pembuatan dan pengembangan Customer Request (CR). Departemen ini memiliki fungsi dan peran sebagai berikut:
+
+1. Pendampingan user: Memfasilitasi user dalam kebutuhan pengembangan maupun informasi terkait teknologi baik dalam tahap perencanaan, progress maupun strategi.
+2. Percepatan Proses: Mendorong percepatan proses perencanaan suatu project dan memberikan advice terhadap prioritas project yang akan dikembangkan.
+3. Literasi Digital: Mendorong literasi digital dan technology knowledge kepada user.
+4. Mediasi Solution Dokumen: Mediasi dalam penyusunan solution dokumen yang berisi scope, high level solution, resource planning dan cost estimation.
 
 ## Bisnis Proses
 
