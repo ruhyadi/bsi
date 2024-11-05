@@ -36,10 +36,10 @@ Departemen ini terbagi menjadi 4 divisi: Change and Release Management, Core Ban
 
 ### Data Center Management
 
-Departemen Data Center Management dibagi menjadi 3 divisi: Data Center, Disaster Recovery Center, dan Data Warehouse. Data Center Management bertanggung jawab atas kecukupan kapasitas dan kehandalan infrastruktur di DC dan DRC, deployment infra DC dan DRC secara optimal dan sesuai kebutuhan bank, serta mengelola operasional datacenter agar tetap terjaga. Berikut adalah peran dan fungsi dari Data Center Management:
+Departemen ini terbagi menjadi 3 divisi: Data Center, Disaster Recovery Center, dan Data Warehouse. Departemen ini bertanggung jawab atas kecukupan kapasitas dan kehandalan infrastruktur di DC dan DRC, deployment infra DC dan DRC secara optimal dan sesuai kebutuhan bank, serta mengelola operasional datacenter agar tetap terjaga. Berikut adalah peran dan fungsinya:
 
-1. Mengelola infrastruktur Data Center untuk mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
-2. Mengelola Disaster Recovery Center untuk mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
+1. Infrastruktur Data Center: Mengelola infrastruktur Data Center untuk mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
+2. Infrastruktur Disaster Recovery Center: Mengelola Disaster Recovery Center untuk mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
 3. Mendukung operasional Environment & Data Management agar berjalan dengan baik, cepat, dan tepat serta mendukung operasional teknologi informasi dalam rangka memenuhi kebutuhan dan strategi perusahaan.
 
 ### IT Infrastructure/Network Environment
