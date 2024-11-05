@@ -26,36 +26,12 @@ Security Project & Quality Assurance bertanggung jawab memastikan bahwa proyek t
 
 ### Application Identity Management 
 
-Application Identity Management adalah sub-departemen yang bertanggung jawab untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuan utamanya adalah memastikan bahwa setiap pengguna memiliki akses yang sesuai dengan kebutuhannya.
+Application Identity Management bertanggung jawab untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak yang digunakan dalam perusahaan. Tujuan utamanya adalah memastikan bahwa setiap pengguna memiliki akses yang sesuai dengan kebutuhannya. Departemen ini terdiri dari beberapa sub-departemen dengan fungsi peran sebagai berikut:
 
-#### Identity Management
-
-Identity Management bertugas mengelola identitas pengguna dan hak akses mereka terhadap aplikasi perangkat lunak di BSI. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Menangani tiket operasional terkait kebutuhan pengguna.
-2. Melakukan review terhadap pengguna yang aktif.
-3. Melakukan review terhadap matriks pengguna.
-
-#### Privilege Access Management
-
-Privilege Access Management bertugas mengelola hak akses khusus yang diberikan kepada pengguna tertentu. Hak akses ini biasanya diberikan kepada pengguna dengan tanggung jawab khusus atau akses ke data sensitif. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Mengatur dan memantau hak akses khusus untuk memastikan hanya pengguna yang berwenang yang memiliki akses.
-2. Memastikan bahwa pengguna dengan hak akses khusus telah melalui proses otentikasi dan otorisasi yang ketat.
-3. Mengelola kata sandi untuk akun dengan hak akses khusus, termasuk rotasi kata sandi secara berkala dan penggunaan kata sandi yang kuat.
-
-#### Endpoint Access Management
-
-Endpoint Access Management bertugas mengelola akses ke perangkat seperti desktop, laptop, tablet, dan handphone. Tujuan utamanya adalah memastikan bahwa hanya pengguna dan perangkat yang sah yang dapat mengakses data dan sumber daya jaringan yang sensitif. Dengan menerapkan Endpoint Access Management secara efektif, organisasi dapat mengurangi risiko keamanan, menjaga kepatuhan, dan memastikan bahwa sumber daya dan data sensitif terlindungi dengan baik.
-
-#### Directory Services & Email Management
-
-Directory Services & Email Management bertugas mengelola konfigurasi dalam penyimpanan, pembuatan, dan penghapusan data seperti informasi pengguna, hak akses, email, dan lainnya. Berikut adalah tugas dan tanggung jawabnya:
-
-1. Menerapkan kebijakan global.
-2. Mengelola akses pengguna pada direktori aktif hibrida.
-3. Menangani pengguna, komputer, aplikasi, dan kebijakan.
-4. Mengelola penugasan lisensi.
+1. Identity Management: Menangani tiket operasional terkait kebutuhan pengguna, melakukan review terhadap pengguna yang aktif, dan melakukan review terhadap matriks pengguna.
+2. Privilege Access Management: Mengatur dan memantau hak akses khusus untuk memastikan hanya pengguna yang berwenang yang memiliki akses, memastikan bahwa pengguna dengan hak akses khusus telah melalui proses otentikasi dan otorisasi yang ketat, serta mengelola kata sandi untuk akun dengan hak akses khusus.
+3. Endpoint Access Management: Mengelola akses ke perangkat seperti desktop, laptop, tablet, dan handphone untuk memastikan bahwa hanya pengguna dan perangkat yang sah yang dapat mengakses data dan sumber daya jaringan yang sensitif.
+4. Directory Services & Email Management: Menerapkan kebijakan global, mengelola akses pengguna pada direktori aktif hibrida, menangani pengguna, komputer, aplikasi, dan kebijakan, serta mengelola penugasan lisensi.
 
 ### Network Access & Data Protection
 
