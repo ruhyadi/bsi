@@ -54,7 +54,7 @@ IT Security Services bertanggung jawab untuk melakukan penilaian keamanan inform
 
 ### IT Security Operations
 
-IT Security Operations (SecOps) bertanggung jawab untuk memastikan keamanan arsitektur teknologi di Bank BSI. Tujuan utamanya adalah melindungi aset teknologi informasi organisasi dari serangan dan ancaman dengan tindakan preventif. Departemen ini terdiri dari beberapa sub-departemen dengan fungsi peran sebagai berikut:
+IT Security Operations (SecOps) bertanggung jawab untuk memastikan keamanan arsitektur teknologi di Bank BSI. Tujuan utamanya adalah melindungi aset teknologi informasi organisasi dari serangan dan ancaman dengan tindakan preventif. Departemen ini terdiri dari tiga sub-departemen:
 
 1. Infrastructure and System Security: Melindungi infrastruktur dan sistem dengan berbagai metode seperti penggunaan antivirus, Extended Detection and Response (XDR), pemblokiran Remote Desktop Connection (RDC), dan penggunaan Secure Shell (SSH).
 2. Network Security: Mengamankan jaringan dari serangan yang dapat mencuri informasi dengan menggunakan firewall, sistem pencegahan intrusi (IPS), dan manajemen permukaan serangan.
@@ -62,34 +62,11 @@ IT Security Operations (SecOps) bertanggung jawab untuk memastikan keamanan arsi
 
 ### Security Operations Center
 
-Security Operations Center (SOC) bertanggung jawab untuk memantau, mendeteksi, mengevaluasi, dan merespons ancaman keamanan informasi serta serangan siber terhadap organisasi.
+Security Operations Center (SOC) bertanggung jawab untuk memantau, mendeteksi, mengevaluasi, dan merespons ancaman keamanan informasi serta serangan siber terhadap organisasi. Departemen ini terdiri dari tiga sub-departemen:
 
-#### Security Monitoring
-
-Security Monitoring bertugas memantau insiden yang terjadi untuk mengidentifikasi serangan siber, pelanggaran keamanan, atau aktivitas mencurigakan di dalam atau sekitar jaringan dan sistem. Dengan monitoring yang efektif, organisasi dapat mendeteksi serangan siber lebih cepat, meminimalkan dampaknya, dan meningkatkan kemampuan untuk melindungi infrastruktur IT dari ancaman yang terus berkembang. Tugas dan tanggung jawab Security Monitoring meliputi:
-
-1. Memantau jaringan dan sistem secara real-time.
-2. Mengidentifikasi aktivitas mencurigakan atau pelanggaran keamanan.
-3. Menggunakan alat deteksi intrusi dan analitik keamanan.
-4. Melaporkan insiden keamanan kepada tim terkait.
-
-#### Incident Response
-
-Incident Response bertugas memvalidasi pola aktivitas yang terjadi dan menangani insiden terkait keamanan IT. Tujuannya adalah untuk mengurangi dampak insiden, mengidentifikasi penyebabnya, memulihkan layanan yang terpengaruh, dan memastikan bahwa serangan atau pelanggaran keamanan tidak terulang di masa mendatang.
-
-1. Menangani insiden keamanan dengan cepat dan efektif.
-2. Melakukan investigasi dan mitigasi insiden.
-3. Memulihkan layanan yang terpengaruh oleh insiden.
-4. Mengidentifikasi penyebab insiden dan mencegah terulangnya.
-
-#### Threat Hunting
-
-Threat Hunting bertugas secara aktif mencari ancaman dalam jaringan atau sistem IT organisasi yang tidak terdeteksi oleh solusi keamanan otomatis. Tujuannya adalah mengidentifikasi dan menangani ancaman serta mencegah serangan yang lebih luas. Dengan Threat Hunting yang teratur, organisasi dapat meningkatkan respons terhadap ancaman dan melindungi infrastruktur IT dari serangan siber.
-
-1. Mencari ancaman yang mungkin ada dalam jaringan atau sistem.
-2. Mengidentifikasi dan menangani ancaman yang tidak terdeteksi oleh solusi otomatis.
-3. Mencegah serangan yang lebih luas.
-4. Melakukan Threat Hunting secara teratur untuk meningkatkan respons terhadap ancaman.
+1. Security Monitoring: Memantau jaringan dan sistem secara real-time, mengidentifikasi aktivitas mencurigakan atau pelanggaran keamanan, menggunakan alat deteksi intrusi dan analitik keamanan, serta melaporkan insiden keamanan kepada tim terkait.
+2. Incident Response: Menangani insiden keamanan dengan cepat dan efektif, melakukan investigasi dan mitigasi insiden, memulihkan layanan yang terpengaruh oleh insiden, serta mengidentifikasi penyebab insiden dan mencegah terulangnya.
+3. Threat Hunting: Mencari ancaman yang mungkin ada dalam jaringan atau sistem, mengidentifikasi dan menangani ancaman yang tidak terdeteksi oleh solusi otomatis, mencegah serangan yang lebih luas, serta melakukan Threat Hunting secara teratur untuk meningkatkan respons terhadap ancaman.
 
 ## Bisnis Proses
 
