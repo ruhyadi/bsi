@@ -53,12 +53,12 @@ Departemen ini terbagi menjadi 3 divisi: Infrastructure Engineer, Network Manage
 
 ### IT Infrastructure Operation Management & Optimization
 
-Departemen IT Infrastructure Operation Management & Optimization dibagi menjadi 4 divisi: Database Administrator, Infrastructure & System Optimization, IT Operations Liaison and Assurance, dan Digital Technology Analyst. IT Infrastructure Operation Management & Optimization bertanggung jawab atas pengelolaan fungsi budgeting IOG, fungsi liaison & assurance terkait kebutuhan audit dan ISO, serta memastikan deliverable group comply dengan ketentuan internal dan eksternal. Berikut adalah peran dan fungsi dari IT Infrastructure Operation Management & Optimization:
+Departemen ini terbagi menjadi 4 divisi: Database Administrator, Infrastructure & System Optimization, IT Operations Liaison and Assurance, dan Digital Technology Analyst. Departemen ini bertanggung jawab atas pengelolaan fungsi budgeting IOG, fungsi liaison & assurance terkait kebutuhan audit dan ISO, serta memastikan deliverable group comply dengan ketentuan internal dan eksternal. Berikut adalah peran dan fungsinya:
 
-1. Merencanakan, menganalisis, dan mendesain seluruh database baik yang bersifat transaksional maupun non-transaksional perusahaan agar berjalan dengan baik sesuai prosedur.
-2. Mengeksplorasi dan mengidentifikasi desain sistem/infrastruktur serta melakukan penilaian topologi.
-3. Mengelola OPEX dan pembayaran pihak ketiga, menyusun RCSA, menindaklanjuti hasil audit, meninjau ketentuan, serta melaksanakan standar mutu ISO di IOG dan mengelola aktivitas IT Operations di cabang luar negeri.
-4. Menganalisis infrastruktur yang mendukung aplikasi digital serta memberikan dukungan untuk core banking digital berbasis cloud.
+1. Manajemen Database: Merencanakan, menganalisis, dan mendesain seluruh database baik yang bersifat transaksional maupun non-transaksional perusahaan agar berjalan dengan baik sesuai prosedur.
+2. Desain Sistem: Mengeksplorasi dan mengidentifikasi desain sistem/infrastruktur serta melakukan penilaian topologi.
+3. Pengelolaan OPEX: Mengelola OPEX dan pembayaran pihak ketiga, menyusun RCSA, menindaklanjuti hasil audit, meninjau ketentuan, serta melaksanakan standar mutu ISO di IOG dan mengelola aktivitas IT Operations di cabang luar negeri.
+4. Dukungan Digital: Menganalisis infrastruktur yang mendukung aplikasi digital serta memberikan dukungan untuk core banking digital berbasis cloud.
 
 ### Cloud Infrastructure Technology
 
