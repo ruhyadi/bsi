@@ -45,23 +45,12 @@ Network Access & Data Protection mengelola akses jaringan dan melindungi data di
 
 ### IT Security Services
 
-Departemen IT Security Services bertanggung jawab untuk melakukan penilaian keamanan informasi, menyelaraskan keamanan, melakukan kegiatan forensik, mengevaluasi laporan hasil investigasi, dan melakukan mitigasi risiko. Tujuan utama departemen ini adalah melindungi perusahaan dari ancaman siber yang terus berkembang.
+IT Security Services bertanggung jawab untuk melakukan penilaian keamanan informasi, menyelaraskan keamanan, melakukan kegiatan forensik, mengevaluasi laporan hasil investigasi, dan melakukan mitigasi risiko. Tujuan utama departemen ini adalah melindungi perusahaan dari ancaman siber yang terus berkembang. Departemen ini terdiri dari empat sub-departemen:
 
-#### Security Assessment
-
-Security Assessment adalah strategi untuk memeriksa semua sistem yang dimiliki perusahaan sebagai tindakan pencegahan sebelum insiden terjadi. Tujuan dari penilaian keamanan ini adalah mengidentifikasi kelemahan atau kerentanan keamanan dalam infrastruktur TI perusahaan dan memberikan rekomendasi untuk memperbaiki atau mengurangi risiko keamanan yang terkait. Melalui proses ini, perusahaan dapat mengelola risiko keamanan dengan lebih baik dan memastikan infrastruktur TI tetap terlindungi dari ancaman siber yang terus berkembang.
-
-#### Digital Forensic
-
-Digital Forensic bertugas memeriksa sistem setelah terjadinya insiden. Tujuannya adalah memulihkan, menganalisis, dan memvalidasi data yang ditemukan pada perangkat elektronik atau media digital. Digital forensic memainkan peran penting dalam menyelidiki dan menangani pelanggaran keamanan serta memfasilitasi proses hukum dan keadilan.
-
-#### Hardening and Patch Management
-
-Hardening and Patch Management bertugas memperkuat sistem (hardening) dan memperbarui perangkat lunak untuk mengatasi kerentanan potensial (patch). Hardening bertujuan mencegah serangan dengan mengurangi permukaan serangan potensial, sementara patch memastikan bahwa kerentanan yang diketahui diperbaiki dengan cepat setelah patch tersedia. Kedua langkah ini meningkatkan ketahanan terhadap serangan siber dan mengurangi risiko keamanan secara keseluruhan.
-
-#### Security Code Review
-
-Security Code Review bertugas memonitor dan memperbaiki kekurangan keamanan sebelum aplikasi atau perangkat lunak diimplementasikan secara luas. Tujuan utamanya adalah menemukan celah keamanan potensial yang dapat dieksploitasi oleh penyerang dan memastikan bahwa kode tersebut mematuhi praktik keamanan terbaik.
+1. Security Assessment: Memeriksa semua sistem yang dimiliki perusahaan sebagai tindakan pencegahan sebelum insiden terjadi, mengidentifikasi kelemahan atau kerentanan keamanan, dan memberikan rekomendasi untuk memperbaiki atau mengurangi risiko keamanan.
+2. Digital Forensic: Memeriksa sistem setelah terjadinya insiden, memulihkan, menganalisis, dan memvalidasi data yang ditemukan pada perangkat elektronik atau media digital, serta menyelidiki dan menangani pelanggaran keamanan.
+3. Hardening and Patch Management: Memperkuat sistem (hardening) dan memperbarui perangkat lunak untuk mengatasi kerentanan potensial (patch), meningkatkan ketahanan terhadap serangan siber, dan mengurangi risiko keamanan.
+4. Security Code Review: Memantau dan memperbaiki kekurangan keamanan sebelum aplikasi atau perangkat lunak diimplementasikan secara luas, menemukan celah keamanan potensial, dan memastikan bahwa kode tersebut mematuhi praktik keamanan terbaik.
 
 ### IT Security Operations
 
