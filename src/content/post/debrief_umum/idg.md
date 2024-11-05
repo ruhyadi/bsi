@@ -18,7 +18,7 @@ Diagram di atas menunjukkan struktur organisasi IDG. Setiap departemen dipimpin 
 
 ### IT Core Banking Development
 
-IT Core Banking Development memiliki fungsi dan peran sebagai berikut:
+Departemen ini bertanggung jawab untuk mengembangkan dan mengelola sistem core banking, termasuk channel yang terintegrasi dengan core banking. Fungsi peran departemen ini meliputi:
 
 1. Mengembangkan dan mengelola sistem core banking.
 2. Mengembangkan dan mengelola channel yang terintegrasi dengan core banking, seperti T24 dan EXA (Express Account).
@@ -43,14 +43,14 @@ IT Information & Platform Management Development memiliki fungsi dan peran sebag
 
 1. Melakukan ETL (Extract, Transform, Load) data core banking.
 2. Menyediakan data yang diperlukan untuk keperluan SLIK (Sistem Layanan Informasi Keuangan) OJK (Otoritas Jasa Keuangan).
-3. Mengembangkan dashboard untuk pengambilan data core banking.
+3. Mengembangkan dashboard untuk pengambilan data core banking oleh user bisnis.
 
 ### Classic E-channel Development
 
 Classic E-channel Development memiliki fungsi dan peran sebagai berikut:
 
-1. Mengembangkan aplikasi e-channel, seperti internet banking dan mobile banking.
-2. Melakukan integrasi dengan middleware payment.
+1. Mengembangkan aplikasi e-channel, seperti internet banking dan mobile banking (BSI Mobile).
+2. Melakukan integrasi dengan middleware payment (ESB) dan core banking.
 
 ### IT Financing & Collection Development
 
@@ -64,7 +64,8 @@ IT Financing & Collection Development memiliki fungsi dan peran sebagai berikut:
 IT Customer Banking Platform memiliki fungsi dan peran sebagai berikut:
 
 1. Mengembangkan aplikasi customer banking platform atau super app BYOND.
-2. Bertanggung jawab atas pelaksanaan dan pengembangan aplikasi BYOND.
+2. Menerapkan SDLC Agile dalam pengembangan aplikasi BYOND.
+3. Mengintegrasikan aplikasi BYOND dengan aplikasi internal dan eksternal menggunakan ESB (Enterprise Service Bus).
 
 ### IT Service Banking Platform
 
