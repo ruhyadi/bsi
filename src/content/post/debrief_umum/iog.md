@@ -62,11 +62,11 @@ Departemen ini terbagi menjadi 4 divisi: Database Administrator, Infrastructure 
 
 ### Cloud Infrastructure Technology
 
-Departemen Cloud Infrastructure Technology dibagi menjadi 3 divisi: Cloud Delivery Automation, Cloud Microservices & Application Platform, dan Cloud Network & Load Balancer Support. Cloud Infrastructure Technology bertanggung jawab atas teknologi infrastruktur cloud secara efektif dan efisien. Berikut adalah peran dan fungsi dari Cloud Infrastructure Technology:
+Departemen ini terbagi menjadi 3 divisi: Cloud Delivery Automation, Cloud Microservices & Application Platform, dan Cloud Network & Load Balancer Support. Departemen ini bertanggung jawab atas teknologi infrastruktur cloud secara efektif dan efisien. Berikut adalah peran dan fungsinya:
 
-1. Melakukan aktivitas cloud delivery automation secara efektif dan efisien.
-2. Melakukan aktivitas cloud microservices & application platform secara efektif dan efisien.
-3. Melakukan aktivitas cloud network & load balancer support secara efektif dan efisien.
+1. Cloud Delivery Automation: Melakukan aktivitas cloud delivery automation secara efektif dan efisien.
+2. Cloud Microservices & Application Platform: Melakukan aktivitas cloud microservices & application platform secara efektif dan efisien.
+3. Cloud Network & Load Balancer Support: Melakukan aktivitas cloud network & load balancer support secara efektif dan efisien.
 
 ## Bisnis Proses
 
@@ -80,21 +80,10 @@ Dengan memantau dan mengelola indikator-indikator ini, IOG memastikan bahwa laya
 
 Kegiatan operasional di IOG didasarkan pada ketentuan yang tertuang dalam Petunjuk Teknis Operasional (PTO). Setiap kegiatan yang dilakukan oleh IOG berpedoman pada beberapa PTO terkait pengelolaan DC DRC, disaster recovery plan, dan pengelolaan kapasitas. Berikut adalah ketentuan operasional yang dijalankan oleh IOG:
 
-### PTO Pengelolaan DC DRC
-
-Mengelola dan menginventarisasi aset TI di Data Center (DC) dan Disaster Recovery Center (DRC) untuk mendukung operasional dan meningkatkan daya saing, dengan melibatkan tim Data Center Management (DCM) dan departemen terkait.
-
-### PTO Disaster Recovery Plan
-
-Memberikan panduan pemulihan operasional sistem dalam situasi bencana, menetapkan Disaster Recovery Center (DRC) sebagai situs backup, dan mengelola serta menguji DRP secara berkala untuk memastikan efektivitas prosedur pemulihan.
-
-#### PTO Pengelolaan Kapasitas
-
-Melaksanakan perencanaan kapasitas untuk memastikan perangkat keras, perangkat lunak, dan perangkat jaringan sesuai dengan kebutuhan operasional bisnis, dengan pemantauan dan evaluasi berkala untuk mengantisipasi perkembangan di masa depan.
-
-#### PTO Backup Restore
-
-Mengelola sistem penyimpanan dan pemulihan data, termasuk manajemen media backup, pelaksanaan prosedur backup dan restore, serta dokumentasi untuk memastikan keamanan dan ketersediaan data dalam situasi darurat.
+1. PTO Pengelolaan DC DRC: Mengelola dan menginventarisasi aset TI di Data Center (DC) dan Disaster Recovery Center (DRC) untuk mendukung operasional dan meningkatkan daya saing, dengan melibatkan tim Data Center Management (DCM) dan departemen terkait.
+2. PTO Disaster Recovery Plan: Memberikan panduan pemulihan operasional sistem dalam situasi bencana, menetapkan Disaster Recovery Center (DRC) sebagai situs backup, dan mengelola serta menguji DRP secara berkala untuk memastikan efektivitas prosedur pemulihan.
+3. PTO Pengelolaan Kapasitas: Melaksanakan perencanaan kapasitas untuk memastikan perangkat keras, perangkat lunak, dan perangkat jaringan sesuai dengan kebutuhan operasional bisnis, dengan pemantauan dan evaluasi berkala untuk mengantisipasi perkembangan di masa depan.
+4. PTO Backup Restore: Mengelola sistem penyimpanan dan pemulihan data, termasuk manajemen media backup, pelaksanaan prosedur backup dan restore, serta dokumentasi untuk memastikan keamanan dan ketersediaan data dalam situasi darurat.
 
 ## Kegiatan Operasional
 
