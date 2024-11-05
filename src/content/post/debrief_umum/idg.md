@@ -112,22 +112,28 @@ Kegiatan operasional IDG mengikuti SDLC dan berfokus pada tahap pengembangan. Se
 
 ## Kegiatan Operasional
 
-IT & Digital Development Group dalam menjalankan perannya tidak terlepas dari kegiatan operasional yang tercantum dalam PTO SDLC dan SDLC Agile. Berdasarkan PTO SDLC, kegiatan operasional IT & Digital Development Group meliputi:
+Kegiatan operasional IDG merujuk pada serangkaian aktivitas rutin yang dilakukan dalam pengembangan aplikasi dan sistem digital. IDG menggunakan SDLC sebagai panduan dalam menjalankan kegiatan operasionalnya. Berikut adalah kegiatan operasional IDG berdasarkan SDLC yang terbagi menjadi kegiatan operasional programmer internal dan programmer eksternal:
 
-1. Kegiatan operasional programmer internal:
-   1. Mengembangkan sistem/aplikasi tanpa menggunakan jasa vendor.
-   2. Menyusun dokumen pengembangan Software Development Document (SDD).
-   3. Memperbaiki kelemahan atau masalah pada sistem/aplikasi berdasarkan hasil uji coba.
-   4. Melakukan Software Versioning untuk memudahkan tracking pengembangan, perubahan, atau revisi pada source code selama tahap pengembangan dan uji coba.
-   5. Menyimpan source code dan object delivery dari sistem/aplikasi yang dikembangkan dalam Version Control System (VCS) dan Repository Tools sesuai PTO Pengelolaan Source Code.
+### Programmer Internal
 
-2. Kegiatan operasional programmer eksternal:
-   1. Mengembangkan sistem/aplikasi sesuai Request for Proposal (RFP), Surat Perintah Kerja (SPK), dan/atau perjanjian kontrak kerjasama (PKS).
-   2. Menyusun dokumen Functional Specification Document (FSD).
-   3. Menyusun dokumen Technical Specification Document (TSD).
-   4. Memperbaiki kelemahan atau masalah pada sistem/aplikasi berdasarkan hasil uji coba.
-   5. Menyelesaikan pengembangan sesuai timeline yang disepakati dalam SPK/PKS.
-   6. Menyerahkan source code dan object delivery dari sistem/aplikasi yang dikembangkan kepada IT Development.
+Programmer internal bertanggung jawab untuk mengembangkan sistem/aplikasi tanpa menggunakan jasa vendor. Kegiatan operasional programmer internal meliputi:
+
+1. Pengembangan internal: Mengembangkan sistem/aplikasi tanpa menggunakan jasa vendor.
+2. Dokumen pengembangan: Menyusun dokumen Software Development Document (SDD).
+3. Perbaikan sistem: Memperbaiki kelemahan atau masalah pada sistem/aplikasi berdasarkan hasil uji coba.
+4. Software Versioning: Melakukan Software Versioning untuk memudahkan tracking pengembangan, perubahan, atau revisi pada source code selama tahap pengembangan dan uji coba.
+5. Version Control System: Menyimpan source code dan object delivery dari sistem/aplikasi yang dikembangkan dalam Version Control System (VCS) dan Repository Tools sesuai PTO Pengelolaan Source Code.
+
+### Programmer Eksternal
+
+Programmer eksternal bertanggung jawab untuk mengembangkan sistem/aplikasi sesuai Request for Proposal (RFP), Surat Perintah Kerja (SPK), dan/atau perjanjian kontrak kerjasama (PKS). Kegiatan operasional programmer eksternal meliputi:
+
+1. Pengembangan eksternal: Mengembangkan sistem/aplikasi sesuai RFP, SPK, dan/atau PKS.
+2. Dokumen FSD: Menyusun dokumen Functional Specification Document (FSD).
+3. Dokumen TSD: Menyusun dokumen Technical Specification Document (TSD).
+4. Perbaikan sistem: Memperbaiki kelemahan atau masalah pada sistem/aplikasi berdasarkan hasil uji coba.
+5. Timeline pengembangan: Menyelesaikan pengembangan sesuai timeline yang disepakati dalam SPK/PKS.
+6. Source code: Menyerahkan source code dan object delivery dari sistem/aplikasi yang dikembangkan kepada IT Development.
 
 Berdasarkan SDLC Agile, kegiatan operasional IT & Digital Development Group meliputi:
 
