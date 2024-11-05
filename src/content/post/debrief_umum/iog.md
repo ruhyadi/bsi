@@ -26,13 +26,13 @@ Departemen ini terbagi menjadi 3 divisi: Help Desk, Desktop & Peripheral, dan IT
 
 ### IT Implementation & Monitoring
 
-Departemen IT Implementation & Monitoring dibagi menjadi 4 divisi: Change and Release Management, Core Banking Team, Non Core Banking Team, dan E-Channel Team. IT Implementation & Monitoring bertanggung jawab atas implementasi (deployment) dan monitoring aplikasi core, aplikasi non-core, dan e-channel. Berikut adalah peran dan fungsi dari IT Implementation & Monitoring:
+Departemen ini terbagi menjadi 4 divisi: Change and Release Management, Core Banking Team, Non Core Banking Team, dan E-Channel Team. Departemen ini bertanggung jawab atas implementasi (deployment) dan monitoring aplikasi core, aplikasi non-core, dan e-channel. Berikut adalah peran dan fungsinya:
 
-1. Memastikan stabilitas dan ketersediaan aplikasi core, aplikasi non-core, dan e-channel untuk mencapai SLA yang telah ditetapkan.
-2. Memastikan kinerja sistem aplikasi yang berjalan agar relevan, terintegrasi, dan dapat beroperasi (online) dengan optimal.
-3. Memastikan proses close of business (COB) baik pada akhir hari, akhir bulan, dan akhir tahun berjalan dengan baik, lancar, dan tepat waktu.
-4. Memastikan terlaksananya uji coba Disaster Recovery Plan (DRP) dan pengambilan keputusan untuk melakukan DRP sesuai ketentuan deployment aplikasi IT.
-5. Mengelola penyediaan pelaporan kepada pihak internal dan eksternal (regulator) secara tepat waktu.
+1. Stabilitas Aplikasi: Memastikan stabilitas dan ketersediaan aplikasi core, aplikasi non-core, dan e-channel untuk mencapai SLA yang telah ditetapkan.
+2. Kinerja Sistem: Memastikan kinerja sistem aplikasi yang berjalan agar relevan, terintegrasi, dan dapat beroperasi (online) dengan optimal.
+3. Proses COB: Memastikan proses close of business (COB) baik pada akhir hari, akhir bulan, dan akhir tahun berjalan dengan baik, lancar, dan tepat waktu.
+4. Uji Coba DRP: Memastikan terlaksananya uji coba Disaster Recovery Plan (DRP) dan pengambilan keputusan untuk melakukan DRP sesuai ketentuan deployment aplikasi IT.
+5. Pelaporan: Mengelola penyediaan pelaporan kepada pihak internal dan eksternal (regulator) secara tepat waktu.
 
 ### Data Center Management
 
