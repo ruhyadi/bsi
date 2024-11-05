@@ -131,70 +131,36 @@ Tahap pendefinisian proyek enhancement adalah tahap awal dalam proses pengembang
 
 ## Ketentuan Operasional
 
-Aktivitas operasional IT Strategic Planning Group didasarkan pada ketentuan internal PT Bank Syariah Indonesia Tbk serta regulasi yang ditetapkan oleh regulator. Berikut adalah ketentuan operasional terkait pengembangan produk digital Bank yang diterapkan oleh IT Strategic Planning Group:
+Aktivitas operasional ISG didasarkan pada ketentuan internal BSI serta regulasi yang ditetapkan oleh regulator. Berikut adalah ketentuan operasional terkait pengembangan produk digital Bank yang diterapkan oleh ISG:
 
 ### Ketentuan Internal
 
-Ketentuan internal yang berlaku di PT Bank Syariah Indonesia Tbk terkait pengembangan produk digital Bank meliputi:
+Ketentuan internal yang berlaku di BSI terkait pengembangan produk digital Bank meliputi:
 
-#### Standar Prosedur Operasional (SPO) Teknologi Informasi
-
-SPO Teknologi Informasi mencakup pengaturan proses perencanaan, pengembangan, pengelolaan operasional, hingga pengamanan TI secara menyeluruh di PT Bank Syariah Indonesia Tbk. Dalam kegiatan operasional ISG, SPO TI mengatur aspek-aspek berikut:
-
-1. Perencanaan Teknologi Informasi
-2. Pengembangan Teknologi Informasi
-3. Dokumentasi, Administrasi, dan Pelaporan
-4. Monitoring dan Mitigasi Risiko
-
-#### Petunjuk Teknis Operasional (PTO)
-
-PTO berfungsi sebagai panduan yang merinci langkah-langkah atau instruksi teknis yang harus diikuti untuk menjalankan proses, perangkat, atau sistem dengan benar dan efisien. PTO yang berlaku meliputi:
-
-1. PTO SDLC: Mengatur tahapan proses dalam SDLC untuk pengembangan sistem/aplikasi menggunakan metode Waterfall Development Model.
-2. PTO SDLC Agile: Mengatur tahapan proses dalam SDLC untuk pengembangan sistem/aplikasi menggunakan metode Agile.
-3. PTO RCB: Mengatur tahapan proses dalam SDLC terkait Release Control Board (RCB).
-
-#### ITSP/RSTI BSI
-
-Dokumen ini berisi arah, tujuan, dan rencana tindakan dalam jangka waktu 5 tahun terkait pemanfaatan teknologi informasi untuk mencapai tujuan bisnis atau organisasi. ITSP/RSTI mencakup langkah-langkah yang direncanakan untuk mengembangkan, mengimplementasikan, dan mengelola TI guna mendukung kebutuhan bisnis dan memberikan nilai tambah bagi perusahaan.
+1. SPO Teknologi Informasi: Standar Prosedur Operasional (SPO) Teknologi Informasi yang mengatur proses perencanaan, pengembangan, pengelolaan operasional, hingga pengamanan TI secara menyeluruh di BSI.
+2. PTO: Petunjuk Teknis Operasional (PTO) yang merinci langkah-langkah atau instruksi teknis yang harus diikuti untuk menjalankan proses, perangkat, atau sistem dengan benar dan efisien. PTO yang berlaku meliputi PTO SDLC, PTO SDLC Agile, dan PTO RCB.
+3. ITSP/RSTI BSI: Dokumen yang berisi arah, tujuan, dan rencana tindakan dalam jangka waktu 5 tahun terkait pemanfaatan teknologi informasi untuk mencapai tujuan bisnis atau organisasi.
 
 ### Ketentuan Eksternal (Regulator)
 
-Ketentuan eksternal yang berlaku di PT Bank Syariah Indonesia Tbk terkait pengembangan produk digital Bank meliputi:
+Ketentuan eksternal yang berlaku di BSI terkait pengembangan produk digital Bank meliputi:
 
-1. UU No.19/2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi Dan Transaksi Elektronik.
-2. Peraturan Otoritas Jasa Keuangan (POJK) No. 38/POJK.03/2016 tentang Penerapan Manajemen Risiko dalam Penggunaan Teknologi Informasi oleh Bank Umum, sebagaimana diubah dengan POJK No. 13/POJK.03/2020.
-3. Peraturan Bank Indonesia No. 9/15/2007 tentang Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi Oleh Bank Umum, beserta segala perubahannya.
+1. UU ITE: Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik yang mengatur penggunaan teknologi informasi dan transaksi elektronik.
+2. POJK 38/POJK.03/2016: Peraturan Otoritas Jasa Keuangan (POJK) No. 38/POJK.03/2016 tentang Penerapan Manajemen Risiko dalam Penggunaan Teknologi Informasi oleh Bank Umum, sebagaimana diubah dengan POJK No. 13/POJK.03/2020.
+3. PBI 9/15/2007: Peraturan Bank Indonesia No. 9/15/2007 tentang Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi Oleh Bank Umum, beserta segala perubahannya.
 
 ## Kegiatan Operasional
 
+Kegiatan operasional di ISG merujuk pada serangkaian aktivitas rutin yang dilakukan untuk mencapai tujuan strategis unit kerja. Berikut adalah beberapa kegiatan operasional yang dilakukan oleh ISG:
+
 Unit kerja IT Strategic and Planning Group (ISG) melaksanakan berbagai kegiatan operasional yang terkait dengan pengembangan produk digital Bank. Berikut adalah beberapa kegiatan operasional yang dilakukan oleh ISG:
 
-### IT PMO & Partnership Management
+### IT Project & Partnership Management
 
-#### IT PMO
-
-1. Berkoordinasi dengan Project Owner dalam menyusun Project Charter terkait pembuatan atau pengembangan sistem/aplikasi yang merupakan Project Corplan/Project Inisiatif Strategis TI.
-2. Berkoordinasi dengan User untuk menentukan Timeline dan Resource Project.
-3. Mengawal sistem/aplikasi hingga berhasil diimplementasi dan menyusun Berita Acara Instalasi.
-
-#### IT Business Analyst
-
-1. Melakukan review draft dokumen Functional Specification Document (FSD) dari Vendor jika dilakukan pengembangan dari eksternal.
-2. Melakukan review draft dokumen Software Development Document (SDD) dari IT Development.
-3. Mengadakan Joint Discussion Meeting untuk membahas detail pengembangan sistem/aplikasi yang akan dikembangkan.
-
-#### IT Project Implementation
-
-1. Mengadakan dan memantau proses Production Trial Run (PTR), serta berkoordinasi dengan User dan IT QA selama proses PTR.
-2. Memastikan dalam pelaksanaan Production Trial Run (PTR), seluruh object testing yang dilakukan pada tahapan System Integration Test (SIT) dan User Acceptance Test (UAT) dilakukan kembali secara menyeluruh.
-3. Menyusun Berita Acara PTR.
-
-#### IT Vendor Management
-
-1. Melakukan analisis mengenai kebutuhan terkait pihak ketiga pada project yang membutuhkan.
-2. Mencari jasa pihak ketiga yang berkemungkinan dapat memenuhi kebutuhan yang dibutuhkan perusahaan (sistem atau resources).
-3. Berkoordinasi dengan pihak ketiga dan Procurement group terkait kebutuhan di sisi TI atau resources pada perusahaan.
+1. IT PMO: Berkoordinasi dengan Project Owner dan User untuk menyusun Project Charter, menentukan timeline dan resource, serta mengawal implementasi sistem/aplikasi hingga selesai dengan menyusun Berita Acara Instalasi.
+2. IT Business Analyst: Melakukan review draft dokumen FSD dan SDD dari Vendor atau IT Development, serta mengadakan Joint Discussion Meeting untuk membahas detail pengembangan sistem/aplikasi.
+3. IT Project Implementation: Mengadakan dan memantau proses PTR, memastikan object testing dilakukan kembali secara menyeluruh, dan menyusun Berita Acara PTR.
+4. IT Vendor Management: Melakukan analisis kebutuhan pihak ketiga, mencari jasa pihak ketiga, dan berkoordinasi dengan pihak ketiga serta Procurement group terkait kebutuhan TI atau resources.
 
 ### IT Policy & Governance
 
