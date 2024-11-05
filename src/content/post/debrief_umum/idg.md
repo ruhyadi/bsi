@@ -65,7 +65,12 @@ IT Customer Banking Platform memiliki fungsi dan peran sebagai berikut:
 
 1. Mengembangkan aplikasi customer banking platform atau super app BYOND.
 2. Menerapkan SDLC Agile dalam pengembangan aplikasi BYOND.
-3. Mengintegrasikan aplikasi BYOND dengan aplikasi internal dan eksternal menggunakan ESB (Enterprise Service Bus).
+3. Mempunyai 5 squad dengan peran dan fungsi sebagai berikut:
+   - Squad 1: Pengembangan fitur lifestyle & engagement.
+   - Squad 2: Pengembangan fitur investment & saving.
+   - Squad 3: Pengembangan fitur financing.
+   - Squad 4: Pengembangan fitur islamic ecosystem.
+   - Squad 5: Pengembangan fitur payment.
 
 ### IT Service Banking Platform
 
@@ -84,15 +89,15 @@ Digital Delivery Enablement memiliki fungsi dan peran sebagai berikut:
 
 ## Bisnis Proses
 
-Proses bisnis di IT & Digital Development Group mengikuti System Development Life Cycle (SDLC). SDLC adalah siklus atau tahapan dalam pengembangan proyek seperti aplikasi, fitur, dan lainnya. Dalam SDLC, IT & Digital Development Group berperan pada tahap pengembangan.
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Bisnis proses di IDG mengacu pada SDLC yang merupakan siklus hidup pengembangan sistem atau aplikasi. SDLC terdiri dari beberapa tahapan, yaitu perencanaan, analisis, desain, pengembangan, pengujian, implementasi, dan pemeliharaan. Dalam SDLC, IDG hanya fokus pada tahap pengembangan.
 
-IDG mengimplementasikan beberapa jenis SDLC. Berdasarkan jenis proyeknya, SDLC dibagi menjadi dua: SDLC proyek inisiatif dan SDLC proyek enhancement. Berdasarkan tahapan yang dilalui, SDLC terbagi menjadi dua: SDLC Waterfall dan SDLC Agile. Secara umum, SDLC terdiri dari beberapa tahapan: perencanaan, pendefinisian, pengembangan, testing plan, implementasi, dan PIR (Post Implementation Review).
+Direktorat IT BSI mengimplementasikan beberapa jenis SDLC. Berdasarkan jenis proyeknya, SDLC dibagi menjadi dua: SDLC proyek inisiatif dan SDLC proyek enhancement. Berdasarkan tahapan yang dilalui, SDLC terbagi menjadi dua: SDLC Waterfall dan SDLC Agile. 
 
-Untuk proyek inisiatif dan proyek enhancement, tahapan yang dilakukan secara garis besar sama, hanya terdapat beberapa perbedaan dalam sub-tahapannya. SDLC proyek inisiatif digunakan untuk pengembangan proyek baru, sedangkan SDLC proyek enhancement digunakan untuk pengembangan proyek yang sudah ada. Skema tahapan proyek inisiatif dan proyek enhancement dapat dilihat pada Gambar 2.3-1 dan Gambar 2.3-2.
+Proyek inisiatif merupakan proyek baru yang belum pernah ada sebelumnya, sedangkan proyek enhancement merupakan pengembangan dari proyek yang sudah ada. Tahapan yang dilalui dalam SDLC proyek inisiatif dan proyek enhancement hampir sama, namun terdapat beberapa perbedaan dalam sub-tahapannya. Skema tahapan proyek inisiatif dan proyek enhancement dapat dilihat pada Gambar x dan Gambar Y.
 
-IT & Digital Development Group mengadopsi dua jenis SDLC: SDLC Waterfall dan SDLC Agile. Perbedaan utama antara kedua metode ini terletak pada bagaimana setiap tahapan dijalankan. Metode SDLC Waterfall berjalan secara linear dari satu tahapan ke tahapan berikutnya, memastikan tahapan sebelumnya selesai terlebih dahulu untuk pemantauan kerja yang lebih terstruktur. Sebaliknya, metode Agile lebih fleksibel dan tidak terpaku pada urutan. Agile menekankan iterasi dari tahapan pendefinisian, pengembangan, testing, implementasi, hingga review, memungkinkan perubahan di tengah proses. Skema tahapan SDLC Waterfall dan SDLC Agile dapat dilihat pada Gambar 2.3-3.
+SDLC Waterfall adalah metode pengembangan perangkat lunak yang berjalan secara linear dari satu tahapan ke tahapan berikutnya. Setiap tahapan harus selesai terlebih dahulu sebelum memulai tahapan berikutnya. SDLC Waterfall cocok digunakan untuk proyek inisiatif yang memiliki scope yang jelas dan tidak berubah-ubah. SDLC Waterfall terdiri dari beberapa tahapan, yaitu perencanaan, analisis, desain, pengembangan, pengujian, implementasi, dan pemeliharaan.
 
-Dalam SDLC Agile, terdapat lima squad (yang akan bertambah lagi jumlahnya) dengan fokus tugas masing-masing. Squad satu berfokus pada pengembangan fitur lifestyle & engagement, squad dua pada fitur investment & saving, squad tiga pada fitur financing, squad empat pada fitur islamic ecosystem, dan squad lima pada fitur payment.
+SDLC Agile adalah metode pengembangan perangkat lunak yang lebih fleksibel dan tidak terpaku pada urutan tahapan. SDLC Agile memungkinkan perubahan di tengah proses pengembangan. SDLC Agile cocok digunakan untuk proyek enhancement yang membutuhkan adaptasi terhadap perubahan kebutuhan. SDLC Agile terdiri dari beberapa tahapan, yaitu pendefinisian, pengembangan, testing, implementasi, dan review.
 
 ## Ketentuan Operasional
 
