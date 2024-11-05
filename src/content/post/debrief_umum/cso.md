@@ -104,3 +104,46 @@ Unit kerja CSO memiliki SPO (Standar Prosedur Operasional) dan 19 PTO (Prosedur 
 3. Ketersediaan (Availability): Menjamin bahwa informasi dan sumber daya terkait siap digunakan oleh pengguna yang sah ketika diperlukan, serta mengatasi gangguan atau serangan yang dapat menghambat ketersediaan layanan maupun sistem.
 
 ## Kegiatan Operasional
+
+Kegiatan operasional di unit kerja CSO mencakup berbagai aktivitas sehari-hari yang dilakukan untuk memastikan keamanan informasi dan sistem informasi di BSI. Kegiatan ini melibatkan pencegahan dan deteksi ancaman, perlindungan data nasabah, kepatuhan terhadap regulasi, serta respons dan pemulihan dari insiden keamanan. Berikut adalah kegiatan operasional yang dilakukan oleh unit kerja CSO:
+
+### IT Risk Management
+1. Mengidentifikasi dan menilai risiko yang terkait dengan aset informasi.
+2. Mengelola akses pengguna untuk memastikan hanya pengguna yang berwenang yang memiliki akses.
+3. Melakukan penilaian risiko secara berkala dan menyusun laporan risiko.
+
+### IT Policy & Governance
+1. Menyusun dan mengawasi kebijakan keamanan siber.
+2. Memastikan kepatuhan terhadap regulasi dan standar keamanan.
+3. Menyusun laporan pengembangan produk dan jasa IT kepada pihak internal dan eksternal.
+4. Mendokumentasikan proses dan hasil audit serta kepatuhan.
+
+### IT Security Operations
+1. Melindungi aset IT dengan firewall, enkripsi, dan sistem otentikasi.
+2. Mengelola hak akses dan identitas pengguna.
+3. Melakukan penilaian keamanan informasi secara berkala.
+4. Mengidentifikasi dan mengatasi kelemahan atau kerentanan keamanan.
+
+### Security Monitoring & Incident Response
+1. Mendeteksi ancaman dengan sistem deteksi intrusi dan pemantauan real-time.
+2. Memantau jaringan dan sistem secara terus-menerus.
+3. Menangani insiden keamanan dengan cepat dan efektif.
+4. Melakukan investigasi dan mitigasi insiden.
+
+### Incident Response Team
+1. Merespons ancaman dengan perencanaan dan pelaksanaan respons keamanan.
+2. Memulihkan sistem dan layanan setelah serangan.
+3. Menangani insiden keamanan dengan cepat dan efektif.
+4. Melakukan investigasi dan mitigasi insiden.
+
+### IT QA & Release Control
+1. Menyusun kebijakan dan framework pengujian.
+2. Merancang metode software testing.
+3. Menjaga proses quality assurance.
+4. Merekomendasikan area dan proses QA serta Release Control yang membutuhkan perbaikan dan pengembangan.
+
+### IT Infrastructure & Network Governance
+1. Mengelola kerjasama dengan pihak ketiga.
+2. Memastikan kesesuaian kontrak.
+3. Memonitor tindak lanjut hasil audit.
+4. Menyusun pelaporan pengembangan produk serta jasa IT infrastructure dan network kepada pihak internal dan eksternal (regulator).
