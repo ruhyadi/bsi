@@ -185,117 +185,122 @@ Kegiatan operasional di ISG merujuk pada serangkaian aktivitas rutin yang dilaku
 
 ## Bisnis Proses 2
 
-Proses bisnis adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Di ISG, proses bisnis mengacu pada Software Development Lifecycle (SDLC) yang digunakan untuk menjalankan proyek inisiatif IT dan proyek enchancement IT yang dilakukan oleh internal BSI maupun pihak ketiga (eksternal).
+Proses bisnis adalah serangkaian aktivitas yang dilakukan untuk mencapai tujuan organisasi. Di ISG, proses bisnis mengikuti Software Development Lifecycle (SDLC) untuk proyek inisiatif IT dan proyek enhancement IT, baik yang dilakukan oleh internal BSI maupun pihak ketiga.
 
-Proyek inisiatif dan proyek enchancement dibedakan berdasarkan besaran biaya dan durasi pengerjaan. Proyek inisiatif adalah proyek dengan nilai anggaran di atas Rp500 juta dan durasi pengerjaan lebih dari 3 bulan. Sebaliknya, proyek enchancement adalah proyek dengan nilai anggaran di bawah Rp500 juta dan durasi pengerjaan kurang dari 3 bulan.
+Proyek inisiatif adalah proyek dengan anggaran di atas Rp500 juta dan durasi lebih dari 3 bulan, sedangkan proyek enhancement memiliki anggaran di bawah Rp500 juta dan durasi kurang dari 3 bulan.
 
-SDLC terbagi menjadi 4 tahap utama, yaitu: planning, devleopment, testing, dan deployment. Berikut adalah rincian proses bisnis SDLC di ISG:
+SDLC terdiri dari 4 tahap utama: perencanaan, pengembangan, pengujian, dan implementasi. Berikut adalah rincian proses bisnis SDLC di ISG:
 
-### Tahap Perencanaan:
+### Tahap Perencanaan
 
-1. Join Planning Session (JPS):
-   1. Koordinator : IT Planning
-   2. IT Planning melakukan sosialisasi kepada seluruh Unit Kerja Bisnis dan Unit Kerja Working Group (CTO*, OPR, IPR dan Unit Non IT Risk)
-   3. Dilakukan One-on-One meeting dengan masing-masing Unit kerja Menghasilkan draft CR dan draft FS
-2. Finalisasi Demand Analysis Document (DAD):
-   1. Koordinator : IT BP
-   2. Penerimaan draft CR hasil planning untuk menghasilkan DAD bersama dengan project owner/PM user
-   3. Perbaikan/penyesuaian dokumen FS, lalu mengirimkan kepada SOR untuk reviu dan approval oleh project owner
-3. Finalisasi CR:
-   1. Koordinator : IT BP
-   2. PM user melakukan finalisasi CR CR yang telah di review oleh IT BP diteruskan kepada unit IT Risk untuk dilakukan assessment resiko (dokumen Risk Register)
-   3. CR final diupload ke Jira
-   4. IT Planning menjadwalkan TF meeting
-4. Forum Working Group:
-   1. Koordinator : IT Planning
-   2. Hasil One-on-One Meeting berupa usulan Project dibahas dan ditentukan skala prioritasnya
-   3. Hasil dari Working Group Meeting dituang dalam Risalah Rapat atau Nota kajian dan akan disampaikan pada Rapat ITSC
-5. Forum ITSC
-   1. Koordinator : IT Planning
-   2. Usulan anggaran Project Inisiatif TI yang akan disampaikan harus melampirkan Dokumen Feasibility Study (FS) yang telah disetujui oleh Direktur Bidang
-   3. Hasil forum ITSC dituangkan dalam dokumen risalah Rapat atau Nota Persetujuan ITSC
+1. Join Planning Session (JPS)
+   - Koordinator: IT Planning
+   - Sosialisasi kepada seluruh Unit Kerja Bisnis dan Unit Kerja Working Group
+   - One-on-One meeting menghasilkan draft CR dan draft FS
+
+2. Finalisasi Demand Analysis Document (DAD)
+   - Koordinator: IT BP
+   - Penerimaan draft CR untuk menghasilkan DAD bersama project owner/PM user
+   - Perbaikan dokumen FS dan pengiriman kepada SOR untuk review dan approval
+
+3. Finalisasi CR
+   - Koordinator: IT BP
+   - PM user melakukan finalisasi CR yang telah direview oleh IT BP dan unit IT Risk
+   - CR final diupload ke Jira dan IT Planning menjadwalkan TF meeting
+
+4. Forum Working Group
+   - Koordinator: IT Planning
+   - Usulan Project dibahas dan ditentukan skala prioritasnya
+   - Hasil Working Group Meeting disampaikan pada Rapat ITSC
+
+5. Forum ITSC (IT Strategic Commitee)
+   - Koordinator: IT Planning
+   - Usulan anggaran Project Inisiatif TI harus melampirkan Dokumen FS yang disetujui oleh Direktur Bidang
+   - Hasil forum ITSC dituangkan dalam dokumen risalah Rapat atau Nota Persetujuan ITSC
+
 6. Menyusun Project Charter
-   1. Koordinator : PM User
-   2. PM User membuat dokumen Project Charter dan menyerahkannya kepada PM IT untuk direviu.
-   3. Reviu Project Charter oleh Project Owner, PM IT, dan unit kerja reviewer (Risk)
-   4. Project Owner dan Kepala Unit Kerja yang membawahi PM IT memutuskan/menentukan opsi buy/make dalam mengembangkan sistem/aplikasi
+   - Koordinator: PM User
+   - PM User membuat dokumen Project Charter dan menyerahkannya kepada PM IT untuk review
+   - Review oleh Project Owner, PM IT, dan unit kerja reviewer (Risk)
+   - Project Owner dan Kepala Unit Kerja memutuskan opsi buy/make
+
 7. Pemilihan Vendor
-   1. Koordinator : Procurement
-   2. Dilakukan jika pengembangan dilakukan secara eksternal
-   3. PM User dan IT PMO mengundang vendor untuk melakukan uji demo
-   4. PM User dan IT PMO mengevaluasi teknis, dan membuat Bill of Quantities
-   5. Unit kerja Procurement menginformasikan pemenang pengadaan melalui BA Auction
-   6. Unit kerja Procurement akan menerbitkan Surat Perintah Kerja (SPK) dan/atau Perjanjian Kontrak Kerjasama (PKS) sebagai landasan pengikatan kerjasama dengan Vendor
+   - Koordinator: Procurement
+   - Dilakukan jika pengembangan dilakukan secara eksternal
+   - PM User dan IT PMO mengundang vendor untuk uji demo dan mengevaluasi teknis
+   - Procurement menginformasikan pemenang pengadaan dan menerbitkan SPK (Surat Perintah Kerja) atau PKS (Perjanjian Kontrak Kerjasama)
 
-### Tahap Development
+### Tahap Pengembangan
 
-1. Pengembangan:
-   1. Koordinator : PM IT
-   2. Programmer membuat Program Aplikasi (Coding) dan memastikan menggunakan versioning source code terbaru (latest)
-   3. PM IT mendampingi dan memonitoring selama pelaksanaan pengembangan
+1. Pengembangan
+   - Koordinator: PM IT
+   - Programmer membuat Program Aplikasi (code) dan memastikan menggunakan versioning source code terbaru
+   - PM IT mendampingi dan memonitoring pengembangan
+
 2. Testing Development
-   1. Koordinator : PM IT
-   2. Programmermelakukan uji coba (unit testing) program dan database verification 
-   3. Programmer melakukan perbaikan sistem/aplikasi apabila terdapat kelemahan/permasalah pada tahapan uji coba baik System Integration Test (SIT), User Acceptance Test (UAT), Penetration Test dan uji coba lainnya yang dilakukan.
-3. Source Code Management
-   1. Koordinator : PM IT
-   2. Programmer menyimpan source code beserta software versioning dan object delivery dari hasil pengembangan ke dalam VCS dan/atau Repository Tools. 
-   3. Programmer membuat dokumen pengembangan yaitu dokumen SDD yang berisi antara lain, pengembangan yang dilakukan, hasil testing development, struktur data (data dictionary dan mapping data), tata cara implementasi, mekanisme backup restore aplikasi dan data
-4. Persiapan Kebutuhan Infrastruktur dan Security
-   1. Koordinator : PM IT
-   2. PM IT dan IT PMO berkoordinasi dengan IT Operation/CSO dalam menyiapkan dokumen form permintaan terkait infrastruktur/security
-   3. IT Operations dan CSO menerima form permintaan dan mereviu permintaan yang diajukan.
-   4. IT PMO membuat dokumen FKK sebagai dokumen pelaksanaan implementasi
+   - Koordinator: PM IT
+   - Programmer melakukan unit testing dan database verification
+   - Programmer memperbaiki sistem/aplikasi jika ada masalah pada SIT, UAT, Penetration Test, dll.
 
-### Tahap Testing
+3. Source Code Management
+   - Koordinator: PM IT
+   - Programmer menyimpan source code ke dalam VCS/Repository Tools
+   - Programmer membuat dokumen SDD yang berisi pengembangan, hasil testing, struktur data, tata cara implementasi, mekanisme backup restore
+
+4. Persiapan Kebutuhan Infrastruktur dan Security
+   - Koordinator: PM IT
+   - PM IT dan IT PMO berkoordinasi dengan IT Operation/CSO untuk menyiapkan dokumen permintaan infrastruktur/security
+   - IT Operations dan CSO mereview permintaan
+
+### Tahap Pengujian
 
 1. Testing Management Plan (TMP)
-   1. Koordinator : IT Release Management
-   2. IT Release Management menerima request TMP dari IT PMO dan menjadwalkan pelaksanaan TMP Meeting.
-   3. Hasil pelaksanaan TMP yaitu berupa TMP Report yang berisi antara lain test plan, test scope,test resource, test timeline, dan test script.
+   - Koordinator: IT Release Management
+   - IT Release Management menerima request TMP dari IT PMO dan menjadwalkan TMP Meeting
+   - Hasil TMP berupa TMP Report yang berisi test plan, test scope, test resource, test timeline, dan test script
+
 2. SIT (System Integration Testing)
-   1. Koordinator : PM IT
-   2. IT Testing melakukan uji coba integrasi sistem (SIT), pemeriksaan sistem/aplikasi
-   3. Tester melakukan uji coba positif test dan negatif test;
-   4. Tester memastikan output sesuai dengan CR
-   5. Tester memastikan tidak ada error
-   6. PM IT memastikan seluruh scenario test telah dijalankan dan berhasil
-   7. IT Testing menyerahkan dokumen SIT Report dan checklist kelengkapan dokumen kepada IT PMO
+   - Koordinator: PM IT
+   - IT Testing melakukan uji coba integrasi sistem (SIT)
+   - Tester memastikan output sesuai dengan CR dan tidak ada error
+   - IT Testing menyerahkan dokumen SIT Report dan checklist kelengkapan dokumen kepada IT PMO
+
 3. UAT (User Acceptance Testing)
-   1. IT PMO berkoordinasi dengan IT QA dan PM User untuk penyelenggaraan UAT.
-   2. IT QA melakukan UAT bersama PM User untuk memastikan kesesuaian hasil output sistem/aplikasi dengan kebutuhan User
-   3. IT QA membuat BA UAT dan ditandatangani oleh PM User
-   4. IT QA membuat Installation Guide yang berisi langkah-langkah implementasi ke mesin/environment testing
+   - IT PMO berkoordinasi dengan IT QA dan PM User untuk UAT
+   - IT QA melakukan UAT bersama PM User untuk memastikan kesesuaian hasil output dengan kebutuhan User
+   - IT QA membuat BA UAT dan Installation Guide
+
 4. Stress Test
-   1. Koordinator : PM IT
-   2. IT Performance Testing melakukan uji coba Stress Test sesuai dengan kesepakatan yang telah ditentukan pada saat Meeting TMP.
-   3. IT Performance Testing memastikan performance aplikasi tidak terkendala meski digunakan oleh banyak pengguna
-   4. IT Performance Testing membuat dokumen hasil Stress Test berupa report Stress Test
+   - Koordinator: PM IT
+   - IT Performance Testing melakukan uji coba Stress Test
+   - IT Performance Testing memastikan performance aplikasi tidak terkendala
+   - IT Performance Testing membuat dokumen hasil Stress Test
+
 5. Penetration Testing
-   1. Koordinator : CSO
-   2. CSO mengkoordinasikan pelaksanaan Penetration Test (Pentest) yang dilakukan oleh vendor
-   3. Sistem/aplikasi yang dilakukan Pentest adalah sistem/aplikasi yang telah disepakati pada TMP Meeting atau aplikasi yang masuk dalam kriteria sistem/aplikasi yang perlu dilakukan pentest
-   4. CSO mereviu dan menandatangani BA Pentest yang dibuat oleh vendor
+   - Koordinator: CSO
+   - CSO mengkoordinasikan pelaksanaan Penetration Test (Pentest) oleh vendor
+   - CSO mereview dan menandatangani BA Pentest
 
 ### Tahap Implementasi
 
 1. RCB (Release Control Board)
-   1. Koordinator : IT Release Management
-   2. IT PMO mendaftar forum Release Control Board (RCB) kepada IT Release Management
-   3. IT Release Management (Sekretariat RCB) menyelenggarakan RCB dengan pihak terkait yaitu Project Owner/PM User, PM IT dan Komite RCB, untuk sistem/aplikasi yang telah selesai dilakukan uji coba dan memenuhi persyaratan untuk dilakukan RCB
+   - Koordinator: IT Release Management
+   - IT PMO mendaftar forum RCB kepada IT Release Management
+   - IT Release Management menyelenggarakan RCB dengan pihak terkait untuk sistem/aplikasi yang telah selesai uji coba
+
 2. Implementasi ke Production
-   1. Koordinator : PM IT
-   2. IT Project Implementation berkoordinasi dengan IOG untuk membuat jadwal dan implementasi sistem/aplikasi
-   3. IOG melakukan implementasi ke mesin/environment production atau environment PTR setelah BA Instalasi ditandatangani oleh Department Head IT (sesuai template BA Instalasi)
-   4. IT PMO dan IT Application Services ikut dalam mengawal IT Project Implementation dan IOG dalam proses implementasi ke mesin/environment production atau environment PTR
-   5. IT PMO, IT Application Services, dan IT Project Implementation memastikan sistem/aplikasi berhasil diimplementasikan sesuai dengan parameter maupun pengaturan yang ada pada dokumen pengembangan (SDD/TSD) dan Installation Guide.
+   - Koordinator: PM IT
+   - IT Project Implementation berkoordinasi dengan IOG untuk jadwal dan implementasi sistem/aplikasi
+   - IOG melakukan implementasi ke environment production atau PTR
+   - IT PMO, IT Application Services, dan IT Project Implementation memastikan sistem/aplikasi berhasil diimplementasikan
+
 3. PTR (Production Trial Run)
-   1. Koordinator : IT Release Management
-   2. PM User melakukan Production Trial Run (PTR) sesuai dengan skenario yang digunakan pada proses UAT dan SIT didampingi oleh PM IT dan IT QA
-   3. PM User memastikan sistem/aplikasi berhasil berjalan dengan baik dan sesuai dengan skenario di mesin/environment production
+   - Koordinator: IT Release Management
+   - PM User melakukan PTR sesuai skenario UAT dan SIT didampingi oleh PM IT dan IT QA
+   - PM User memastikan sistem/aplikasi berjalan dengan baik di environment production
+
 4. Go Live
-   1. Koordinator : PM IT
-   2. Project Owner/PM User berkoordinasi dengan IT Helpdesk melakukan monitoring project yang telah diimplementasi ke environment production dan sudah digunakan menyeluruh oleh target pengguna selama periode 1 bulan
-   3. PM User dan IT PMO berkoordinasi dengan PM IT jika terdapat gangguan selama periode 1 bulan tersebut.
-   4. Dokumentasi problem dan perbaikan yang telah disusun oleh IT PM diserahkan ke IT Application Service dan IT Helpdesk sesudah periode monitoring berakhir
-   5. IT PMO membuat BA Go Live setelah melalui periode monitoring dan meminta persetujuan kepada Pemegang Kewenangan
+   - Koordinator: PM IT
+   - Project Owner/PM User berkoordinasi dengan IT Helpdesk untuk monitoring project selama 1 bulan
+   - PM User dan IT PMO berkoordinasi dengan PM IT jika ada gangguan selama periode monitoring
+   - IT PMO membuat BA Go Live setelah periode monitoring dan meminta persetujuan Pemegang Kewenangan
