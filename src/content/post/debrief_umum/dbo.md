@@ -11,7 +11,7 @@ Unit kerja DBO terdiri dari 5 departemen, yaitu: Digital Operations Strategic & 
 
 ### Digital Operations Strategic & Planning (DOSP)
 
-Departemen Digital Operations Strategic & Planning (DOSP) memiliki berbagai fungsi dan peran penting dalam mendukung operasional grup Digital Banking Operations (DBO). Fungsi utama departemen ini meliputi peningkatan proyek dan inisiatif strategis, penganggaran CAPEX dan OPEX, kebijakan dan tata kelola, penyelesaian audit, serta manajemen informasi. Berikut rincian fungsi dan peran dari departemen ini:
+Departemen DOSP mempunyai fungsi utama dalam peningkatan proyek dan inisiatif strategis, penganggaran CAPEX dan OPEX, kebijakan dan tata kelola, penyelesaian audit, serta manajemen informasi. Berikut rincian fungsi dan peran dari departemen ini:
 
 1. Project improvement/inisiatif strategis: DOSP bertanggung jawab merencanakan dan mengelola berbagai proyek yang dibutuhkan oleh grup DBO. Proyek-proyek ini mencakup perencanaan anggaran (budgeting), penelitian (research), hingga perencanaan proyek.
 2. Budgeting CAPEX/OPEX: DOSP melakukan penganggaran CAPEX (Capital Expenditure) dan OPEX (Operational Expenditure) untuk mendukung operasional DBO.
@@ -21,13 +21,13 @@ Departemen Digital Operations Strategic & Planning (DOSP) memiliki berbagai fung
 
 ### Digital Solutions & Services (DSS)
 
-Departemen DSS mempunyai fungsi peran sebagai berikut:
+Departemen DSS memiliki peran penting dalam memastikan operasional e-channel berjalan dengan baik dan efisien. DSS bertanggung jawab untuk melakukan monitoring e-channel selama 24x7, mengelola FLM ATM/CRM, serta menangani proses online onboarding. Selain itu, DSS juga melakukan analisa terhadap masalah yang terjadi pada e-channel dan bertindak sebagai dispatcher untuk pengaduan nasabah melalui BSIM. Berikut rincian fungsi dan peran dari departemen ini:
 
-1. Monitoring e-channel 24x7
-2. Pengelolaan FLM ATM/CRM
-3. Online Onboarding
-4. Analisa Problem E-Channel
-5. Dispatcher Pengaduan Nasabah via BSIM
+1. Monitoring e-channel 24x7: DSS melakukan pemantauan terhadap transaksi e-channel secara real-time untuk memastikan layanan berjalan dengan baik dan mengidentifikasi potensi masalah.
+2. Pengelolaan FLM ATM/CRM: DSS bertanggung jawab atas pengelolaan First Level Maintenance (FLM) untuk ATM dan CRM guna memastikan perangkat beroperasi dengan baik.
+3. Online Onboarding: DSS mengelola proses onboarding nasabah secara online (jika dibutuhkan) untuk memudahkan nasabah baru mendaftar dan menggunakan layanan digital.
+4. Analisa Problem E-Channel: DSS melakukan analisa terhadap masalah yang terjadi pada transaksi e-channel, seperti pembayaran, top-up, dan transfer, untuk menemukan penyebabnya dan memberikan solusi.
+5. Dispatcher Pengaduan Nasabah via BSIM: DSS bertindak sebagai dispatcher untuk pengaduan nasabah yang diterima melalui aplikasi BSI Mobile, memastikan keluhan nasabah ditindaklanjuti dengan cepat dan tepat.
 
 ### E-Channel Transaction Processing (ETP)
 
