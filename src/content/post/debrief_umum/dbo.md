@@ -62,6 +62,29 @@ Departemen DMO memiliki peran penting dalam mengelola operasional merchant di BS
 
 ## Bisnis Proses
 
+1. Proses Perencanaan dan Pengelolaan Proyek (DOSP)
+   1. Merencanakan dan mengelola proyek strategis.
+   2. Melakukan penelitian dan perencanaan anggaran (CAPEX/OPEX).
+   3. Menetapkan kebijakan dan tata kelola.
+2. Proses Monitoring dan Pemeliharaan E-Channel (DSS)
+   1. Melakukan pemantauan transaksi e-channel 24x7.
+   2. Mengelola First Level Maintenance (FLM) untuk ATM dan CRM.
+   3. Menangani proses online onboarding dan analisa masalah e-channel.
+3. Proses Rekonsiliasi dan Penyelesaian Transaksi (ETP)
+   1. Melakukan rekonsiliasi dan penyelesaian transaksi tunai dan non-tunai.
+   2. Menangani penyelesaian sengketa transaksi.
+   3. Mengelola suplai uang tunai dan operasional ATM/CRM.
+4. Proses Manajemen Kartu dan Tabungan Emas (ECO)
+   1. Mengelola produksi dan pengiriman Kartu Debit dan Hasanah Card.
+   2. Melakukan deployment dan pengelolaan SLM ATM/CRM.
+   3. Mengelola operasional tabungan emas.
+5. Proses Pengelolaan Merchant (DMO)
+   1. Memproses data dan transaksi merchant.
+   2. Mengelola operasional EDC dan QRIS.
+   3. Menyediakan layanan help desk untuk merchant.
+
+## Keterkaitan
+
 Proses bisnis di Digital Banking Operations (DBO) melibatkan beberapa departemen yang saling berkoordinasi untuk memastikan kelancaran operasional dan layanan bagi nasabah. Dalam pengelolaan ATM, tahap deployment atau pemasangan mesin ATM dilakukan terlebih dahulu oleh departemen E-Channel Operations (ECO). Pengisian uang di ATM kemudian menjadi tanggung jawab departemen E-Channel Transaction Processing (ETP), sementara jika terjadi masalah teknis atau memerlukan First Level Maintenance (FLM), maka departemen Digital Solution & Service (DSS) yang menanganinya. Jika permasalahan terkait dengan Second Line Maintenance (SLM), tanggung jawabnya kembali ke departemen ECO. Proses rekonsiliasi data transaksi ATM juga diurus oleh departemen ETP.
 
 Untuk transaksi digital melalui BSI Mobile, BSI Net, dan CMS, departemen DSS melakukan pemantauan selama 24x7, termasuk memonitor online onboarding. Jika terjadi masalah, DSS akan menganalisis terlebih dahulu sebelum berkoordinasi dengan departemen lain, terutama jika berkaitan dengan pemrosesan transaksi, yang kemudian ditangani oleh ETP. Setiap transaksi harian direkonsiliasi oleh tim ETP, dan jika ada dispute atau sanggahan transaksi, ETP juga bertanggung jawab dalam penyelesaiannya.
