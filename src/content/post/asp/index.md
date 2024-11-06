@@ -27,6 +27,7 @@ tags: ["digital"]
   - Ticketing dari semua group BSI terkait problem dan incident
   - Memo
   - Menangani semua middleware dan switching
+  - Jika tidak mampu/terlalu besar: akan di eskalasi ke IDG
   - Testing: di test oleh teman-teman testing (document QA needs)
   - Solve: mendaftarkan ke tim release untuk deploy ulang
   - IOG: deploy ulang aplikasi
