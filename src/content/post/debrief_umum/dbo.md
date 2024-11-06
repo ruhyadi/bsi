@@ -49,10 +49,12 @@ Departemen ECO memiliki peran penting dalam mendukung operasional e-channel di B
 
 ### Merchant Operations (DMO)
 
-1. Merchant Processing
-2. EDC & QRIS Operations 
-3. Help Desk Merchant 
-4. Reconciliation, Settlement/ Disbursement, Dispute & Chargeback transaksi Merchant & Hasanah Card
+Departemen DMO memiliki peran penting dalam mengelola operasional merchant di BSI. DMO bertanggung jawab atas pemrosesan merchant, operasional EDC dan QRIS, serta menyediakan layanan help desk untuk merchant. Selain itu, departemen ini juga menangani rekonsiliasi, penyelesaian/disbursement, penyelesaian sengketa, dan chargeback transaksi merchant dan Hasanah Card. Berikut rincian fungsi dan peran dari departemen ini:
+
+1. Merchant Processing: DMO bertanggung jawab atas pemrosesan data dan transaksi merchant, memastikan transaksi berjalan lancar dan sesuai standar.
+2. EDC & QRIS Operations: DMO mengelola operasional EDC dan QRIS, termasuk penanganan permasalahan teknis, pemeliharaan perangkat, dan pemantauan kinerja perangkat.
+3. Help Desk Merchant: DMO menyediakan layanan help desk untuk merchant, membantu menyelesaikan persoalan teknis, transaksi, dan permasalahan lain yang dihadapi oleh merchant.
+4. Reconciliation, Settlement/Disbursement, Dispute & Chargeback transaksi Merchant & Hasanah Card: DMO bertanggung jawab atas rekonsiliasi, penyelesaian/disbursement, penyelesaian sengketa, dan chargeback transaksi merchant dan Hasanah Card, memastikan akurasi dan keandalan data transaksi.
 
 ## Bisnis Proses
 
