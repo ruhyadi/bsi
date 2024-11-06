@@ -40,12 +40,12 @@ Departemen ETP memiliki peran penting dalam memastikan kelancaran dan keakuratan
 
 ### Electronic Channel Operation (ECO)
 
-Departemen ECO mempunyai fungsi peran sebagai berikut:
- 
-1. Manajemen, Produksi & Pengiriman Kartu Debit & Hasanah Card
-2. Deployment ATM/CRM
-3. Pengelolaan SLM ATM/CRM
-4. Operasional tabungan emas
+Departemen ECO memiliki peran penting dalam mendukung operasional e-channel di BSI. ECO bertanggung jawab atas manajemen, produksi, dan pengiriman Kartu Debit dan Hasanah Card, serta deployment dan pengelolaan SLM ATM/CRM. Selain itu, departemen ini juga mengelola operasional tabungan emas. Berikut rincian fungsi dan peran dari departemen ini:
+
+1. Manajemen, Produksi & Pengiriman Kartu Debit & Hasanah Card: ECO bertanggung jawab atas manajemen, produksi, dan pengiriman Kartu Debit dan Hasanah Card kepada nasabah, memastikan prosesnya berjalan lancar dan sesuai standar.
+2. Deployment ATM/CRM: ECO melakukan deployment perangkat ATM dan CRM di berbagai lokasi, memastikan perangkat beroperasi dengan baik dan siap digunakan oleh nasabah.
+3. Pengelolaan SLM ATM/CRM: ECO bertanggung jawab atas pengelolaan Second Level Management (SLM) untuk ATM dan CRM, memastikan perangkat selalu beroperasi dengan baik dan memberikan layanan yang memuaskan.
+4. Operasional tabungan emas: ECO mengelola operasional tabungan emas, termasuk pembelian fisik emas dari ANTAM, pengecekan fisik emas, dan memastikan ketersediaan emas untuk nasabah. 
 
 ### Merchant Operations (DMO)
 
