@@ -1,9 +1,13 @@
 
 ## Strategi
 
-Unit kerja Digital Banking & E-Channel Operations (DBO) bertanggung jawab atas pengelolaan operasional digital banking dan e-channel selama 24/7. Digital Banking merujuk pada layanan perbankan yang disediakan melalui platform digital, seperti aplikasi mobile banking, internet banking, dan layanan perbankan online lainnya. Sementara itu, E-Channel Operations merujuk pada layanan perbankan yang disediakan melalui saluran elektronik, seperti ATM, EDC, dan layanan perbankan elektronik lainnya. DBO bertujuan untuk memberikan layanan digital banking dan e-channel yang aman, andal, dan responsif kepada nasabah.
+Unit kerja Digital Banking & E-Channel Operations (DBO) bertanggung jawab atas pengelolaan operasional digital banking dan e-channel selama 24/7. Digital Banking merujuk pada layanan perbankan yang disediakan melalui platform digital, seperti aplikasi mobile banking, internet banking, dan layanan perbankan online lainnya. Sementara itu, E-Channel Operations merujuk pada layanan perbankan yang disediakan melalui saluran elektronik, seperti ATM, EDC, dan layanan perbankan elektronik lainnya. DBO bertujuan untuk memberikan layanan digital banking dan e-channel yang aman, andal, dan responsif kepada nasabah. Berikut adalah strategi yang diterapkan oleh DBO:
 
-Digital Banking Operation (DBO) adalah unit kerja di bawah direktorat IT Bank Syariah Indonesia (BSI) yang bertanggung jawab mengawasi dan memonitor seluruh produk digital BSI untuk memastikan layanan berjalan lancar, aman, dan sesuai standar. Tugas utama DBO meliputi monitoring transaksi digital di berbagai platform seperti ATM, merchant (QRIS dan EDC), kartu debit, kartu kredit, dan BSI Mobile/Byond, serta rekonsiliasi data transaksi untuk memastikan akurasi dan validitas. DBO juga menangani dispute transaksi antara nasabah dan bank, serta mengawasi transaksi pada BSI NET dan CMS (Cash Management System). Unit ini berperan krusial dalam menjaga integritas dan keandalan sistem perbankan digital BSI melalui monitoring dan pengelolaan yang cermat.
+1. Optimasi Proses Rekonsiliasi dan Penyelesaian Transaksi: Mengimplementasikan sistem otomatisasi untuk mempercepat dan meningkatkan akurasi proses rekonsiliasi dan penyelesaian transaksi.
+2. Peningkatan Layanan Pelanggan: Memperkuat layanan help desk dan dispatcher pengaduan nasabah untuk memastikan keluhan ditangani dengan cepat dan tepat.
+3. Pemantauan dan Analisis Real-Time: Menggunakan alat pemantauan dan analisis real-time untuk mendeteksi dan menyelesaikan masalah operasional dengan cepat.
+4. Peningkatan Merchant QRIS & EDC: Meningkatkan kualitas dan kuantitas merchant QRIS dan EDC untuk mendukung pertumbuhan transaksi non-tunai.
+5. Peningkatan ATM/CRM: Meningkatkan kualitas dan kuantitas ATM dan CRM untuk memastikan ketersediaan layanan tunai yang memadai.
 
 ## Fungsi Peran
 
