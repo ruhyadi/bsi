@@ -96,3 +96,38 @@ Dalam hal audit, prosesnya diatur oleh departemen Operasional dan Strategi Proye
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
+
+### Digital Operations Strategic & Planning (DOSP)
+
+1. Membuat strategi peningkatan layanan melalui berbagai inisiatif strategis untuk mendukung operasional digital yang efisien dan berdaya saing.
+2. Melakukan perencanaan dan pengelolaan anggaran CAPEX (Capital Expenditure) dan OPEX (Operational Expenditure) untuk memastikan alokasi dana sesuai kebutuhan strategis.
+3. Mengelola kebijakan dan tata kelola (Policy & Governance) yang berkaitan dengan operasional digital, termasuk pemutakhiran standar yang mendukung kepatuhan dan keamanan.
+4. Membantu penyelesaian audit dengan menyiapkan dokumen, menjawab pertanyaan audit, dan menindaklanjuti temuan yang perlu diperbaiki.
+5. Melakukan manajemen informasi untuk mengelola data operasional yang dibutuhkan oleh berbagai departemen, guna mendukung pengambilan keputusan yang berbasis data.
+
+### Digital Solutions & Services (DSS)
+
+1. Melakukan pemantauan e-channel secara real-time selama 24 jam setiap hari (24x7) untuk memastikan kelancaran operasional dan deteksi dini terhadap potensi masalah.
+2. Mengelola First Level Maintenance (FLM) pada mesin ATM/CRM, termasuk penanganan gangguan teknis agar layanan tetap optimal.
+3. Memproses onboarding nasabah secara online untuk mendukung pertumbuhan layanan digital dengan cara yang cepat dan aman.
+4. Melakukan analisis terhadap permasalahan yang terjadi di e-channel untuk segera menemukan solusi dan mencegah terjadinya gangguan yang berulang.
+5. Berfungsi sebagai dispatcher untuk menerima dan mendistribusikan pengaduan nasabah melalui aplikasi BSI Mobile (BSIM) ke departemen terkait.
+
+### E-Channel Transaction Processing (ETP)
+
+1. Melakukan rekonsiliasi dan settlement transaksi yang mencakup kas (Cash), non-kas (Non-Cash), dan pembayaran (Payment) untuk memastikan keakuratan dan integritas data keuangan.
+2. Menangani dispute yang dilaporkan oleh Customer Care Group (CCG) atau pihak ketiga dengan melakukan analisis dan menyelesaikan transaksi bermasalah.
+3. Mengelola vendor yang bertugas melakukan pengisian uang tunai di seluruh mesin ATM BSI yang tersebar di Indonesia, serta memastikan kecukupan persediaan uang.
+
+### Electronic Channel Operation (ECO)
+
+1. Mengelola manajemen, produksi, dan pengiriman kartu debit dan Hasanah Card kepada nasabah sesuai permintaan dan kebutuhan operasional.
+2. Melakukan deployment atau pemasangan mesin ATM dan CRM di berbagai lokasi untuk memperluas akses layanan perbankan.
+3. Mengelola Second Line Maintenance (SLM) pada ATM/CRM untuk pemeliharaan teknis tingkat lanjut dan memastikan ketersediaan layanan yang optimal.
+4. Mengoperasikan dan memastikan ketersediaan emas untuk layanan tabungan emas nasabah, termasuk melakukan rekonsiliasi bulanan dengan pihak Antam.
+
+### Merchant Operations (DMO)
+
+1. Menerima dan memproses permintaan merchant yang diajukan oleh cabang, termasuk instalasi perangkat untuk layanan merchant sesuai standar.
+2. Bertindak sebagai helpdesk untuk menerima pengaduan atau keluhan yang berkaitan dengan layanan merchant dan memberikan dukungan teknis yang dibutuhkan.
+3. Melakukan rekonsiliasi, settlement, dan penanganan transaksi merchant termasuk disbursement, dispute, dan chargeback pada transaksi merchant dan Hasanah Card.
