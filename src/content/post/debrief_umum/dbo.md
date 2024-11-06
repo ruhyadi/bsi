@@ -31,15 +31,12 @@ Departemen DSS memiliki peran penting dalam memastikan operasional e-channel ber
 
 ### E-Channel Transaction Processing (ETP)
 
-Departemen ETP mempunyai fungsi peran sebagai berikut:
+Departemen ETP memiliki peran penting dalam memastikan kelancaran dan keakuratan transaksi e-channel. ETP bertanggung jawab atas rekonsiliasi dan penyelesaian transaksi baik tunai maupun non-tunai, serta pembayaran. Selain itu, departemen ini juga menangani penyelesaian sengketa, pengelolaan suplai uang tunai, dan operasional ATM/CRM. Berikut rincian fungsi dan peran dari departemen ini:
 
-1. Reconciliation & Settlement:
-   - Cash
-   - Non Cash
-   - Payment
-2. Dispute Resolution
-3. Cash Supply
-4. ATM/CRM
+1. Reconciliation & Settlement: ETP melakukan rekonsiliasi dan penyelesaian transaksi tunai (setor-tarik tunai ATM), non-tunai (transfer, top-up), dan pembayaran (tagihan, cicilan) untuk memastikan akurasi dan keandalan data transaksi.
+2. Dispute Resolution: ETP menangani penyelesaian sengketa antara nasabah dan bank terkait transaksi e-channel yang bermasalah, seperti transaksi ganda, transaksi tidak sah, dan transaksi gagal.
+3. Cash Supply: ETP bertanggung jawab atas pengelolaan suplai uang tunai untuk ATM dan CRM, memastikan perangkat selalu terisi uang dan siap digunakan oleh nasabah.
+4. ATM/CRM: ETP mengelola operasional ATM dan CRM, termasuk penanganan permasalahan teknis, pemeliharaan perangkat, dan pemantauan kinerja perangkat.
 
 ### Electronic Channel Operation (ECO)
 
