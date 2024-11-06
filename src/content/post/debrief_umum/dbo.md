@@ -3,9 +3,11 @@
 
 Unit kerja Digital Banking & E-Channel Operations (DBO) bertanggung jawab atas pengelolaan operasional digital banking dan e-channel selama 24/7. Digital Banking merujuk pada layanan perbankan yang disediakan melalui platform digital, seperti aplikasi mobile banking, internet banking, dan layanan perbankan online lainnya. Sementara itu, E-Channel Operations merujuk pada layanan perbankan yang disediakan melalui saluran elektronik, seperti ATM, EDC, dan layanan perbankan elektronik lainnya. DBO bertujuan untuk memberikan layanan digital banking dan e-channel yang aman, andal, dan responsif kepada nasabah.
 
+Digital Banking Operation (DBO) adalah unit kerja di bawah direktorat IT Bank Syariah Indonesia (BSI) yang bertanggung jawab mengawasi dan memonitor seluruh produk digital BSI untuk memastikan layanan berjalan lancar, aman, dan sesuai standar. Tugas utama DBO meliputi monitoring transaksi digital di berbagai platform seperti ATM, merchant (QRIS dan EDC), kartu debit, kartu kredit, dan BSI Mobile/Byond, serta rekonsiliasi data transaksi untuk memastikan akurasi dan validitas. DBO juga menangani dispute transaksi antara nasabah dan bank, serta mengawasi transaksi pada BSI NET dan CMS (Cash Management System). Unit ini berperan krusial dalam menjaga integritas dan keandalan sistem perbankan digital BSI melalui monitoring dan pengelolaan yang cermat.
+
 ## Fungsi Peran
 
-Unit kerja DBO terdiri dari 5 departemen, yaitu: Digital Operations Strategic & Planning (DOSP), Digital Solutions & Services (DSS), E-Channel Transaction Processing (ETP), Electronic Channel Operation (ECO), dan Merchant Operations (DMO).
+Unit kerja DBO terdiri dari 5 departemen, yaitu: Digital Operations Strategic & Planning (DOSP), Digital Solutions & Services (DSS), E-Channel Transaction Processing (ETP), Electronic Channel Operation (ECO), dan Merchant Operations (DMO). DBO bertanggung jawab mengawasi dan memonitor seluruh produk digital BSI untuk memastikan layanan berjalan lancar, aman, dan sesuai standar. Berikut adalah fungsi dan peran dari masing-masing departemen:
 
 ### Digital Operations Strategic & Planning (DOSP)
 
