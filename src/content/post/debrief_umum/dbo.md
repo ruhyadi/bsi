@@ -62,6 +62,14 @@ Departemen DMO memiliki peran penting dalam mengelola operasional merchant di BS
 
 ## Bisnis Proses
 
+Proses bisnis di Digital Banking Operations (DBO) melibatkan beberapa departemen yang saling berkoordinasi untuk memastikan kelancaran operasional dan layanan bagi nasabah. Dalam pengelolaan ATM, tahap deployment atau pemasangan mesin ATM dilakukan terlebih dahulu oleh departemen E-Channel Operations (ECO). Pengisian uang di ATM kemudian menjadi tanggung jawab departemen E-Channel Transaction Processing (ETP), sementara jika terjadi masalah teknis atau memerlukan First Level Maintenance (FLM), maka departemen Digital Solution & Service (DSS) yang menanganinya. Jika permasalahan terkait dengan Second Line Maintenance (SLM), tanggung jawabnya kembali ke departemen ECO. Proses rekonsiliasi data transaksi ATM juga diurus oleh departemen ETP.
+
+Untuk transaksi digital melalui BSI Mobile, BSI Net, dan CMS, departemen DSS melakukan pemantauan selama 24x7, termasuk memonitor online onboarding. Jika terjadi masalah, DSS akan menganalisis terlebih dahulu sebelum berkoordinasi dengan departemen lain, terutama jika berkaitan dengan pemrosesan transaksi, yang kemudian ditangani oleh ETP. Setiap transaksi harian direkonsiliasi oleh tim ETP, dan jika ada dispute atau sanggahan transaksi, ETP juga bertanggung jawab dalam penyelesaiannya.
+
+Pengelolaan merchant seperti perangkat EDC, Hasanah Card, dan QRIS melibatkan departemen Merchant Operations (DMO), yang menangani seluruh proses dari pengajuan, instalasi, monitoring, helpdesk, hingga rekonsiliasi dan penyelesaian dispute.
+
+Dalam hal audit, prosesnya diatur oleh departemen Operasional dan Strategi Proyek (DOSP). Jika ada audit, DOSP mengkoordinasikan permintaan dokumen dari masing-masing departemen dan membantu dalam menjawab atau menindaklanjuti pertanyaan yang diajukan oleh tim audit. Selain itu, jika ada permintaan pengembangan sistem dari tim lain, DOSP juga yang bertanggungjawab untuk memproses dan mengelola permintaan tersebut agar berjalan sesuai kebutuhan operasional.
+
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
