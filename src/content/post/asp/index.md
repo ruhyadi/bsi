@@ -5,6 +5,31 @@ description: "Digital banking is the future of banking."
 tags: ["digital"]
 ---
 
+## Overview
+
+- ASP group baru (2023 Oktober)
+- Pecahan dari IDG
+- IDG (70% development)
+- ASP (70% analisa)
+- Bug fixing, tuning dan troubleshooting (30% coding, ASP)
+  - Tidak merubah bisnis proses (harus ke CR terlebih dahulu)
+- Monitoring:
+  - Production issue passive (Seconda Layer)
+  - Memberikan solusi untuk improvement (short term dan long term)
+- Setiap solution harus aline dengan management resiko
+- Tugas:
+  - Struktur ASP
+  - Job Desk
+  - SDLC di BSI apa saja
+  - Arsitektur yang ada di BSI
+  - Issue apa saja?
+  - Solving bagaimana?
+- Hari 1: IT core banking
+- Hari 2: IT payment & integration services
+- Hari 3: IT wholesale, IT digital banking, IT classic channel
+- Hari 4: monitoring, testing
+- Hari 5: IT financing
+
 ## IT Payment & Integration Services
 
 - Middleware menggunakan SmartVista
