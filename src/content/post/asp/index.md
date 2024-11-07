@@ -56,3 +56,22 @@ tags: ["digital"]
   - Testing: di test oleh teman-teman testing (document QA needs)
   - Solve: mendaftarkan ke tim release untuk deploy ulang
   - IOG: deploy ulang aplikasi
+
+## IT Core Banking
+
+- Pembicara: Rendi
+- 2007 BSM Data Center
+- 2012 Application Support
+- 2017 Development Core Banking Programmer
+- 2022 Alamy
+- 2023 Dept Head Application Support
+- Garansi 3 bulan (jika ada masalah akan balik ke IDG)
+- Stream/team:
+  - Funding
+  - Financing
+  - Integration
+  - Transaction
+  - Operation
+  - Wholesale
+  - Report and Recon
+  - Change Management
