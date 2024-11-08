@@ -45,12 +45,12 @@ Berdasarkan perumusan masalah di atas, tujuan penulisan laporan ini adalah:
 
 ### Kesimpulan
 
-Dari hasil debrief OJT umum di berbagai unit kerja di bawah Direktorat IT, dapat disimpulkan beberapa hal sebagai berikut:
+Berdasarkan hasil debrief OJT umum di berbagai unit kerja di bawah Direktorat IT, dapat disimpulkan beberapa poin penting sebagai berikut:
 
-1. Strategi unit kerja berfokus pada pencapaian tujuan bisnis dan keberlanjutan operasional.
-2. Fungsi dan peran unit kerja didesain untuk mendukung operasional Bank Syariah Indonesia.
-3. Bisnis proses dan keterkaitan unit kerja menunjukkan integrasi yang baik antara fungsi-fungsi yang berbeda.
-4. Ketentuan yang berkaitan dengan kegiatan operasional unit kerja telah diatur dengan baik dan sesuai dengan standar regulator.
+1. Strategi unit kerja dirancang untuk mencapai tujuan bisnis dan memastikan keberlanjutan operasional yang optimal.
+2. Fungsi dan peran setiap unit kerja disusun untuk mendukung operasional Bank Syariah Indonesia secara efektif.
+3. Proses bisnis dan keterkaitan antar unit kerja menunjukkan adanya integrasi yang baik, memastikan kolaborasi yang efisien antara berbagai unit kerja dan departemen.
+4. Ketentuan yang mengatur kegiatan operasional unit kerja telah disusun dengan baik dan sesuai dengan standar yang ditetapkan oleh regulator.
 5. Kegiatan operasional unit kerja dilaksanakan dengan baik dan efisien untuk mendukung operasional Bank Syariah Indonesia.
 
 ### Rekomendasi
