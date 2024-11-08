@@ -57,56 +57,56 @@ Berdasarkan hasil debrief OJT umum di berbagai unit kerja di bawah Direktorat IT
 
 #### IT & Development Group
 
-1. Budaya kerja agile scrum yang masih dapat mampu ditingkatkan untuk departemen selain customer banking.
-2. Penerapan standarisasi code untuk meningkatkan efisiensi setelah produk diserahkan ke ASP.
-3. Peningkatan proses dokumentasi code agar dapat berjalan lebih optimal.
+1. Meningkatkan penerapan budaya kerja agile scrum di departemen selain customer banking.
+2. Menerapkan standarisasi kode untuk meningkatkan efisiensi setelah produk diserahkan ke ASP.
+3. Mengoptimalkan proses dokumentasi kode agar lebih efektif.
 
 #### Chief Information Security Officer
 
-1. Penambahan sumber daya manusia Penerapan 
-2. SIM (Single Identity Management) untuk meningkatkan efektivitas dan efisiensi kegiatan operasional pegawai.
+1. Menambah sumber daya manusia.
+2. Menerapkan Single Identity Management (SIM) untuk meningkatkan efektivitas dan efisiensi operasional pegawai.
 
 #### IT Operation Group
 
-1. Pembuatan sistem pendokumentasian history problem dan cara penyelesaian yang pernah dilakukan
-2. Pembuatan guidelines dalam hal ticketing bukan ketika request namun penyelesaian dan penanganannya sudah terdefinisikan
-3. Peningkatan pelayanan procurement.
+1. Membuat sistem pendokumentasian riwayat masalah dan solusi yang pernah dilakukan.
+2. Membuat panduan dalam hal ticketing, tidak hanya saat permintaan tetapi juga penyelesaian dan penanganannya sudah terdefinisikan.
+3. Meningkatkan layanan pengadaan.
 
 #### IT Strategic and Planning Group
 
-1. Menerapkan vendor dan asset management platform untuk mengkoordinasi pemeliharaan dan pengadaan asset.
-2. Pembuatan platform sistem tracking document saat JPS.
-3. Peningkatan pengadaan PTO untuk unit kerja IT.
+1. Menerapkan platform manajemen vendor dan aset untuk mengkoordinasikan pemeliharaan dan pengadaan aset.
+2. Membuat platform sistem pelacakan dokumen saat JPS.
+3. Meningkatkan pengadaan PTO untuk unit kerja IT.
 
 #### IT Fraud & Risk Group
 
-1. Penambahan sertifikasi untuk karyawan.
-2. Pembuatan PTO terkait pembuatan risk register.
-3. Pendefinisian ulang beberapa jobdesc terkait funding, finance & wealth dengan digital banking channel
+1. Menambah sertifikasi untuk karyawan.
+2. Membuat PTO terkait pembuatan risk register.
+3. Mendefinisikan ulang beberapa jobdesc terkait pendanaan, keuangan & kekayaan dengan saluran perbankan digital.
 
 #### Senior Operational Risk
 
-1. Membuat sistem otomasi unit kerja dalam melakukan Control Testing
-2. Standarisasi Kertas Kerja Control Testing
-3. Penyeragaman Framework yang akan diterapkan ke unit kerja
+1. Membuat sistem otomatisasi unit kerja dalam melakukan Control Testing.
+2. Standarisasi Kertas Kerja Control Testing.
+3. Menyeragamkan Framework yang akan diterapkan ke unit kerja.
 
 #### Digital Banking & E-Channel Operations
 
-1. Menerapkan sistem otomatisasi dalam rekonsiliasi
-2. Peningkatan kualitas ruang mesin perso
-3. Tracking distribusi kartu debit, hasanah card, dil
+1. Menerapkan sistem otomatisasi dalam rekonsiliasi.
+2. Meningkatkan kualitas ruang mesin perso.
+3. Melacak distribusi kartu debit, hasanah card, dll.
 
-#### Data & Decision Managment
+#### Data & Decision Management
 
-1. Pembuatan PTO yang sesuai dengan kegiatan operasional DDM
-2. Pernambahan lisensi Tableau untuk banyak pengguna di unit kerja.
-3. Penambahan sumber daya manusia untuk menunjang operasional unit kerja.
+1. Membuat PTO yang sesuai dengan kegiatan operasional DDM.
+2. Menambah lisensi Tableau untuk banyak pengguna di unit kerja.
+3. Menambah sumber daya manusia untuk menunjang operasional unit kerja.
 
 #### IT Application Support Group
 
-1. Pengadaan repository source code
-2. Perlu benchmark dan transfer knowledge mengenai Core Banking terbaru.
-3. Peningkatan proses maintenance BSI Mobile yang masih terlalu panjang
+1. Mengadakan repository source code.
+2. Melakukan benchmark dan transfer knowledge mengenai Core Banking terbaru.
+3. Meningkatkan proses maintenance BSI Mobile yang masih terlalu panjang.
 
 ## Penutup
 
