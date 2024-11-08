@@ -25,11 +25,9 @@ Berdasarkan latar belakang di atas, perumusan masalah yang diangkat dalam lapora
 
 1. Bagaimana strategi unit kerja?
 2. Apa fungsi dan peran unit kerja?
-3. Bagaimana bisnis proses unit kerja?
-4. Bagaimana keterkaitan fungsi antar unit kerja?
-5. Apa saja ketentuan yang berkaitan dengan kegiatan operasional unit kerja?
-6. Apa saja kegiatan operasional unit kerja?
-7. Apa informasi lain yang dianggap penting dan perlu diketahui?
+3. Bagaimana bisnis proses & keterkaitan unit kerja?
+4. Apa saja ketentuan yang berkaitan dengan kegiatan operasional unit kerja?
+5. Apa saja kegiatan operasional unit kerja?
 
 ## Tujuan Penulisan Laporan
 
@@ -37,15 +35,25 @@ Berdasarkan perumusan masalah di atas, tujuan penulisan laporan ini adalah:
 
 1. Menjelaskan strategi unit kerja.
 2. Menguraikan fungsi dan peran unit kerja.
-3. Menganalisis bisnis proses unit kerja.
-4. Menjelaskan keterkaitan fungsi antar unit kerja.
-5. Mengidentifikasi ketentuan yang berkaitan dengan kegiatan operasional unit kerja.
-6. Menguraikan kegiatan operasional unit kerja.
-7. Menyampaikan informasi lain yang dianggap penting dan perlu diketahui.
+3. Menganalisis bisnis proses & keterkaitan unit kerja.
+4. Mengidentifikasi ketentuan yang berkaitan dengan kegiatan operasional unit kerja.
+5. Menguraikan kegiatan operasional unit kerja.
 
 ## Pembahasan
 
 ## Kesimpulan dan Rekomendasi
+
+### Kesimpulan
+
+Dari hasil debrief OJT umum di berbagai unit kerja di bawah Direktorat IT, dapat disimpulkan beberapa hal sebagai berikut:
+
+1. Strategi unit kerja berfokus pada pencapaian tujuan bisnis dan keberlanjutan operasional.
+2. Fungsi dan peran unit kerja didesain untuk mendukung operasional Bank Syariah Indonesia.
+3. Bisnis proses dan keterkaitan unit kerja menunjukkan integrasi yang baik antara fungsi-fungsi yang berbeda.
+4. Ketentuan yang berkaitan dengan kegiatan operasional unit kerja telah diatur dengan baik dan sesuai dengan standar regulator.
+5. Kegiatan operasional unit kerja dilaksanakan dengan baik dan efisien untuk mendukung operasional Bank Syariah Indonesia.
+
+### Rekomendasi
 
 ## Penutup
 
