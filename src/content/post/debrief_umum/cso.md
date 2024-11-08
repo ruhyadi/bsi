@@ -144,30 +144,30 @@ Kegiatan operasional di unit kerja CSO mencakup berbagai aktivitas sehari-hari y
 
 ## Bisnis Proses 2
 
-Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Unit kerja CSO setidaknya mempunyai 4 bisnis proses utama: SDLC, network security, user management, dan monitoring. Berikut adalah rincian dari masing-masing bisnis proses tersebut:
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Unit kerja CSO memiliki empat bisnis proses utama: SDLC, keamanan jaringan, manajemen pengguna, dan pemantauan. Berikut adalah rincian dari masing-masing bisnis proses tersebut:
 
 ### SDLC
 
-SDLC pada unit kerja CSO hanya berfokus pada tahap pengujian. Proses pengujian ini dilakukan untuk memastikan bahwa aplikasi atau sistem yang dikembangkan telah memenuhi standar keamanan yang telah ditetapkan. Proses pengujian ini mencakup:
+Dalam unit kerja CSO, SDLC berfokus pada tahap pengujian untuk memastikan bahwa aplikasi atau sistem yang dikembangkan memenuhi standar keamanan yang telah ditetapkan. Proses pengujian ini mencakup:
 
 1. Source Code Review: Melakukan review kode sumber untuk mengidentifikasi kerentanan keamanan dan memastikan bahwa kode tersebut mematuhi praktik keamanan terbaik. Review kode sumber menggunakan prinsip SAST (Static Application Security Testing) dan DAST (Dynamic Application Security Testing).
-2. Penetration Testing: Melakukan uji penetrasi untuk mengidentifikasi kerentanan keamanan yang mungkin ada dalam aplikasi atau sistem. Pentest dilakukan oleh pihak ke-3 yang independen dan memiliki keahlian khusus dalam uji penetrasi.
-3. Vulnerability Assessment: Melakukan penilaian kerentanan untuk mengidentifikasi kelemahan keamanan yang perlu diperbaiki. VA dilakukan oleh pihak ke-3 yang independen dan memiliki keahlian khusus dalam penilaian kerentanan.
+2. Penetration Testing: Melakukan uji penetrasi untuk mengidentifikasi kerentanan keamanan yang mungkin ada dalam aplikasi atau sistem. Uji penetrasi dilakukan oleh pihak ketiga yang independen dan memiliki keahlian khusus dalam uji penetrasi.
+3. Vulnerability Assessment: Melakukan penilaian kerentanan untuk mengidentifikasi kelemahan keamanan yang perlu diperbaiki. Penilaian kerentanan dilakukan oleh pihak ketiga yang independen dan memiliki keahlian khusus dalam penilaian kerentanan.
 
-### Network Security
+### Keamanan Jaringan
 
-Network security pada unit kerja CSO bertujuan untuk melindungi jaringan dan sistem informasi dari serangan siber. Perlindungan ini mencakup pada perlindungan network, data center, cloud, dan services. Proses network security mencakup:
+Keamanan jaringan dalam unit kerja CSO bertujuan untuk melindungi jaringan dan sistem informasi dari serangan siber. Perlindungan ini mencakup jaringan, pusat data, cloud, dan layanan. Proses keamanan jaringan mencakup:
 
 1. Firewall Configuration: Mengkonfigurasi firewall untuk membatasi akses ke jaringan dan sistem, serta mencegah serangan dari luar.
 2. VPN Configuration: Mengkonfigurasi VPN untuk mengamankan koneksi antara perangkat dan jaringan, serta melindungi data yang dikirimkan melalui jaringan.
 
-### User Management
+### Manajemen Pengguna
 
-User management pada unit kerja CSO bertujuan untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi dan sistem. Proses user management mencakup:
+Manajemen pengguna dalam unit kerja CSO bertujuan untuk mengelola identitas pengguna dan hak akses mereka terhadap aplikasi dan sistem. Proses manajemen pengguna mencakup:
 
-1. Identity Management: Mengelola identitas pengguna dan hak akses mereka terhadap aplikasi dan sistem. Identity management mencakup proses pendaftaran, otentikasi, otorisasi, dan manajemen identitas pengguna.
-2. Privilege Access Management: Mengelola hak akses khusus untuk memastikan hanya pengguna yang berwenang yang memiliki akses yang dapat mengakses data dan server yang sensitif.
+1. Identity Management: Mengelola identitas pengguna dan hak akses mereka terhadap aplikasi dan sistem. Proses ini mencakup pendaftaran, otentikasi, otorisasi, dan manajemen identitas pengguna.
+2. Privilege Access Management: Mengelola hak akses khusus untuk memastikan hanya pengguna yang berwenang yang memiliki akses ke data dan server yang sensitif.
 
-### Monitoring
+### Pemantauan
 
-Monitoring pada unit kerja CSO bertujuan untuk memantau jaringan dan sistem secara real-time, mengidentifikasi aktivitas mencurigakan atau pelanggaran keamanan, serta memberikan respons yang cepat terhadap ancaman keamanan. Proses monitoring mencakup pada monitoring network, data center, cloud, dan services.
+Pemantauan dalam unit kerja CSO bertujuan untuk memantau jaringan dan sistem secara real-time, mengidentifikasi aktivitas mencurigakan atau pelanggaran keamanan, serta memberikan respons yang cepat terhadap ancaman keamanan. Proses pemantauan mencakup pemantauan jaringan, pusat data, cloud, dan layanan.
