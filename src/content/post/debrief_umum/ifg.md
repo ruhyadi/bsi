@@ -86,3 +86,20 @@ Kegiatan operasional IFG mencakup aktivitas rutin untuk memastikan manajemen ris
    - Mematuhi peraturan yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) dan Bank Indonesia (BI).
    - Mengikuti POJK Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum.
    - Mengikuti SEOJK Nomor 21/SEOJK.03/2017 tentang Penerapan Manajemen Risiko Teknologi Informasi oleh Bank Umum.
+
+## Bisnis Proses
+
+Bisnis proses adalah serangkaian aktivitas untuk mencapai tujuan organisasi. IFG bertanggung jawab atas manajemen risiko dalam setiap tahap pengembangan, peluncuran, dan operasi produk atau layanan digital. Tahapan bisnis proses IFG meliputi:
+
+### SDLC
+
+Unit kerja IFG bertanggung jawab atas manajemen risiko proses pengembangan aplikasi pada tahap perencanaan. Berikut adalah tahapan SDLC yang dilakukan oleh IFG:
+
+1. Risk Register (RR): Melakukan identifikasi risiko dan pengukuran risiko pada Customer Request (CR) yang diajukan oleh unit owner.
+
+### Monitoring Transaksi
+
+Unit kerja IFG bertanggung jawab atas keamanan setiap transaksi yang dilakukan oleh nasabah. Berikut adalah tahapan monitoring transaksi yang dilakukan oleh IFG:
+
+1. Anti-Fraud Strategy: Menerapkan strategi anti-penipuan untuk mengurangi risiko kejahatan siber dan kecurangan dalam transaksi nasabah. Strategi disusun oleh departemen AFS (Anti-Fraud Strategy).
+2. Anti-Fraud Operation: Melakukan monitoring dari setiap transaksi yang dilakukan oleh nasabah untuk mendeteksi potensi kecurangan atau aktivitas mencurigakan. Operasi dilakukan oleh departemen AFO (Anti-Fraud Operation).
