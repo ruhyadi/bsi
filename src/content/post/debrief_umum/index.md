@@ -49,17 +49,17 @@ Berdasarkan perumusan masalah di atas, tujuan penulisan laporan ini adalah:
 
 ## Penutup
 
-Alhamdulillah, penulis menyampaikan puji syukur kepada Allah SWT atas rahmat, karunia, serta kemudahan yang diberikan, sehingga rangkaian kegiatan On the Job Training (OJT) Umum selama kurang lebih 9 minggu di berbagai unit kerja di bawah Direktorat IT dapat terlaksana dengan baik. Laporan debrief OJT Umum ini disusun sebagai bagian dari persyaratan dalam Program Officer Development Program (ODP) BYLEAD IT tahun 2024.
+Alhamdulillah, penulis mengucapkan puji syukur kepada Allah SWT atas rahmat, karunia, dan kemudahan yang diberikan sehingga kegiatan On the Job Training (OJT) Umum selama kurang lebih 9 minggu di berbagai unit kerja di bawah Direktorat IT dapat terlaksana dengan baik. Laporan debrief OJT Umum ini disusun sebagai bagian dari persyaratan dalam Program Officer Development Program (ODP) IT tahun 2024.
 
-Penyusunan laporan ini tidak terlepas dari kontribusi, bimbingan, serta pengetahuan yang diberikan oleh para mentor dan tim di setiap departemen di bawah Direktorat IT. Selama program ini, penulis memperoleh banyak ilmu, pengalaman, dan wawasan berharga terkait tugas dan tanggung jawab di berbagai unit kerja serta keterkaitan antara fungsi-fungsi yang mendukung operasional Bank Syariah Indonesia.
+Penyusunan laporan ini tidak lepas dari kontribusi, bimbingan, dan pengetahuan yang diberikan oleh para mentor dan tim di setiap departemen di bawah Direktorat IT. Selama program ini, penulis memperoleh banyak ilmu, pengalaman, dan wawasan berharga terkait tugas dan tanggung jawab di berbagai unit kerja serta keterkaitan antara fungsi-fungsi yang mendukung operasional Bank Syariah Indonesia.
 
-Dengan penuh rasa hormat dan penghargaan, penulis menyampaikan terima kasih yang sebesar-besarnya kepada seluruh pihak yang telah memberikan dukungan, secara khusus kepada para mentor yang telah memberikan bimbingan, wawasan, serta arahan selama berada di unit masing-masing.
+Dengan penuh rasa hormat dan penghargaan, penulis menyampaikan terima kasih yang sebesar-besarnya kepada seluruh pihak yang telah memberikan dukungan, terutama kepada para mentor yang telah memberikan bimbingan, wawasan, dan arahan selama berada di unit masing-masing.
 
 1. Bapak Muhammad Akbar selaku Department Head (DH) serta sebagai mentor kami selama berada di IT Digital Development.
 2. Bapak Aditya Budi Trapsilo selaku Department Head (DH) serta sebagai mentor kami selama berada di Chief Security Officer.
 3. Ibu Helzah Wahyuni selaku Department Head (DH) IT Services serta sebagai mentor kami selama berada di IT Operations Group.
 4. Bapak Rino Rachmat selaku Department Head (DH) serta sebagai mentor kami selama berada di IT Strategic & Planning Group.
-5. Bapak Teddy August Prima selaku Department Head (DH) serta sebagai mentor kami selama berada di IT Fraud & Risk Management. 
+5. Bapak Teddy August Prima selaku Department Head (DH) serta sebagai mentor kami selama berada di IT Fraud & Risk Management.
 6. Bapak Satya Sofiadhi selaku Department Head (DH) DCOR IT serta sebagai mentor selama berada di SORH IT.
 7. Bapak Aries Indra Gunawan selaku Department Head (DH) mentor selama berada di Digital Business Operations.
 8. Bapak Agung Sindoro selaku Department Head (DH) Data Management (DM) serta sebagai mentor kami selama berada di Data Decision Management.
