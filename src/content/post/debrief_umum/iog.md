@@ -99,3 +99,33 @@ IT Operations Group memainkan peran penting dalam menyediakan infrastruktur yang
 4. IT Infrastructure/Network Environment: Merancang, memantau, dan mengelola hardware dan software teknologi informasi serta jaringan agar beroperasi optimal sesuai ketentuan dan SLA.
 5. IT Infrastructure Operation Management & Optimization: Mengelola fungsi budgeting, audit, dan ISO, serta mendesain dan menganalisis sistem/infrastruktur untuk mendukung aplikasi digital dan core banking.
 6. Cloud Infrastructure Technology: Mengelola teknologi infrastruktur cloud secara efektif dan efisien melalui aktivitas cloud delivery automation, microservices & application platform, dan network & load balancer support.
+
+## Bisnis Proses 2
+
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Unit kerja IOG memiliki tiga bisnis proses utama: SDLC, Helpdesk, dan Monitoring. Berikut adalah rincian dari masing-masing bisnis proses:
+
+### SDLC
+
+Dalam unit kerja IOG, SDLC berokus pada tahap implementasi (deployment) aplikasi yang telah dikembangkan oleh unit kerja IDG. Proses SDLC implementasi aplikasi melibatkan beberapa tahapan, yaitu:
+
+1. Release Control Board (RCB): Menetapkan rencana rilis aplikasi yang akan diimplementasikan. Unit kerja ISG bertanggung jawab atas proses ini.
+2. Deploy to Production: Melakukan implementasi aplikasi ke lingkungan produksi baik bersifat monolithic maupun microservices.
+3. Production Trial Run (PTR): Melakukan uji coba aplikasi di lingkungan produksi untuk memastikan aplikasi berjalan dengan baik sebelum dioperasikan secara penuh. Pada tahap ini aplikasi akan diuji oleh unit kerja ASP.
+4. Go Live: Melakukan peluncuran aplikasi secara penuh dan dioperasikan oleh unit kerja IOG.
+5. Monitoring: Aplikasi yang telah diimplementasikan akan terus dimonitor oleh unit kerja IOG (Helpdesk) selama 1 bulan penuh untuk memastikan kinerja aplikasi sesuai dengan SLA.
+
+### Help Desk
+
+Help Desk merupakan unit kerja yang bertanggung jawab atas pelayanan teknis kepada pengguna dalam menyelesaikan masalah operasional IT. Proses Help Desk melibatkan beberapa tahapan, yaitu:
+
+1. ITKU: Pengguna melaporkan masalah operasional IT ke ITKU yang merupakan platform tiketing berbasis JIRA.
+2. Problem Solving: ITKU meneruskan laporan masalah ke tim Help Desk yang akan menyelesaikan masalah tersebut.
+3. Escalation: Jika masalah tidak dapat diselesaikan oleh tim Help Desk, masalah akan di eskalasi ke unit kerja ASP atau CSO.
+
+### Monitoring
+
+Unit kerja IOG bertugas memantau kinerja network, data center, cloud, services dan aplikasi yang berjalan di lingkungan produksi. Proses Monitoring melibatkan beberapa tahapan, yaitu:
+
+1. Response Time: Memantau waktu respon aplikasi dan layanan IT yang berjalan di lingkungan produksi.
+2. Availability: Memantau ketersediaan aplikasi dan layanan IT yang berjalan di lingkungan produksi.
+3. Utilization: Memantau penggunaan resource seperti CPU, Memory, Storage, dan Network yang digunakan oleh aplikasi dan layanan IT.
