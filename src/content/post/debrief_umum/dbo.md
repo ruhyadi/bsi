@@ -62,26 +62,35 @@ Departemen DMO memiliki peran penting dalam mengelola operasional merchant di BS
 
 ## Bisnis Proses
 
-1. Proses Perencanaan dan Pengelolaan Proyek (DOSP)
-   1. Merencanakan dan mengelola proyek strategis.
-   2. Melakukan penelitian dan perencanaan anggaran (CAPEX/OPEX).
-   3. Menetapkan kebijakan dan tata kelola.
-2. Proses Monitoring dan Pemeliharaan E-Channel (DSS)
-   1. Melakukan pemantauan transaksi e-channel 24x7.
-   2. Mengelola First Level Maintenance (FLM) untuk ATM dan CRM.
-   3. Menangani proses online onboarding dan analisa masalah e-channel.
-3. Proses Rekonsiliasi dan Penyelesaian Transaksi (ETP)
-   1. Melakukan rekonsiliasi dan penyelesaian transaksi tunai dan non-tunai.
-   2. Menangani penyelesaian sengketa transaksi.
-   3. Mengelola suplai uang tunai dan operasional ATM/CRM.
-4. Proses Manajemen Kartu dan Tabungan Emas (ECO)
-   1. Mengelola produksi dan pengiriman Kartu Debit dan Hasanah Card.
-   2. Melakukan deployment dan pengelolaan SLM ATM/CRM.
-   3. Mengelola operasional tabungan emas.
-5. Proses Pengelolaan Merchant (DMO)
-   1. Memproses data dan transaksi merchant.
-   2. Mengelola operasional EDC dan QRIS.
-   3. Menyediakan layanan help desk untuk merchant.
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Dalam konteks DBO, bisnis proses melibatkan berbagai tahapan operasional yang harus dilakukan untuk menjaga kelancaran layanan digital banking dan e-channel. Berikut adalah tahapan bisnis proses yang dilakukan oleh DBO:
+
+### Monitoring E-Channel
+
+Unit kerja DBO bertanggung jawab atas pengelolaan operasional digital banking dan e-channel selama 24/7. DBO memantau dan menganalisis kinerja e-channel secara real-time untuk memastikan layanan berjalan lancar dan responsif.
+
+### ATM/CRM Operations
+
+Unit kerja DBO bertanggung jawab atas pengelolaan operasional ATM dan CRM, termasuk deployment, maintenance, dan penanganan masalah teknis. DBO memastikan ketersediaan layanan tunai yang memadai bagi nasabah. Berikut adalah rincian bisnis proses yang terkait dengan ATM/CRM Operations:
+
+1. Stagging & Deployment: Proses pemasangan dan penyiapan mesin ATM/CRM di lokasi-lokasi tertentu untuk memperluas akses layanan perbankan.
+2. FLM & SLM: Proses pemeliharaan dan perbaikan mesin ATM/CRM, termasuk First Level Maintenance (FLM) dan Second Level Maintenance (SLM).
+3. Monitoring & Cash Supply: Proses pemantauan ketersediaan uang tunai di mesin ATM dan CRM, serta pengelolaan persediaan uang tunai.
+4. Card Production & Delivery: Proses produksi dan pengiriman Kartu Debit dan Hasanah Card kepada nasabah sesuai permintaan.
+
+### Reconciliation, Settlement, & Dispute
+
+Unit kerja DBO bertanggung jawab atas rekonsiliasi, penyelesaian, dan penanganan sengketa transaksi e-channel. DBO memastikan keakuratan dan integritas data transaksi untuk memenuhi kebutuhan operasional dan kepatuhan. Berikut adalah rincian bisnis proses yang terkait dengan Reconciliation, Settlement, & Dispute:
+
+1. Dispatcher: Proses penerimaan dan distribusi pengaduan nasabah melalui aplikasi BSI Mobile (BSIM) ke departemen terkait.
+2. Reconciliation & Settlement: Proses rekonsiliasi dan penyelesaian transaksi kas (Cash), non-kas (Non-Cash), dan pembayaran (Payment). Data rekonsiliasi berasal dari MIS yang dihandle oleh IDG.
+
+### Merchant Operations
+
+Unit kerja DBO bertanggung jawab atas pengelolaan operasional merchant, termasuk pemrosesan, instalasi, monitoring, help desk, rekonsiliasi, dan penyelesaian sengketa. DBO memastikan layanan merchant berjalan lancar dan sesuai standar. Berikut adalah rincian bisnis proses yang terkait dengan Merchant Operations:
+
+1. QRIS/EDC Installation: Proses pengajuan dan instalasi perangkat EDC dan QRIS untuk layanan merchant.
+2. Help Desk: Proses penerimaan dan penanganan pengaduan atau keluhan yang berkaitan dengan layanan merchant.
+3. Monitoring & Reconciliation: Proses pemantauan dan rekonsiliasi transaksi merchant, termasuk penyelesaian/disbursement, dispute, dan chargeback.
 
 ## Keterkaitan
 

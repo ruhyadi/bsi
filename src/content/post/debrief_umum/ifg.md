@@ -87,7 +87,7 @@ Kegiatan operasional IFG mencakup aktivitas rutin untuk memastikan manajemen ris
    - Mengikuti POJK Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum.
    - Mengikuti SEOJK Nomor 21/SEOJK.03/2017 tentang Penerapan Manajemen Risiko Teknologi Informasi oleh Bank Umum.
 
-## Bisnis Proses
+## Bisnis Proses 2
 
 Bisnis proses adalah serangkaian aktivitas untuk mencapai tujuan organisasi. IFG bertanggung jawab atas manajemen risiko dalam setiap tahap pengembangan, peluncuran, dan operasi produk atau layanan digital. Tahapan bisnis proses IFG meliputi:
 
