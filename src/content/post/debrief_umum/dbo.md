@@ -106,6 +106,8 @@ Dalam hal audit, prosesnya diatur oleh departemen Operasional dan Strategi Proye
 
 ## Kegiatan Operasional
 
+Kegiatan operasional DBO mencakup berbagai aktivitas rutin yang dilakukan untuk memastikan layanan digital banking dan e-channel berjalan dengan baik. Kegiatan tersebut meliputi pemantauan e-channel, pengelolaan ATM/CRM, rekonsiliasi dan penyelesaian transaksi, serta operasional merchant. Berikut adalah rincian kegiatan operasional yang dilakukan oleh DBO:
+
 ### Digital Operations Strategic & Planning (DOSP)
 
 1. Membuat strategi peningkatan layanan melalui berbagai inisiatif strategis untuk mendukung operasional digital yang efisien dan berdaya saing.
