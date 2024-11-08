@@ -57,32 +57,30 @@ Berdasarkan hasil debrief OJT umum di berbagai unit kerja di bawah Direktorat IT
 
 #### IT & Development Group
 
-1. Meningkatkan penerapan budaya kerja agile scrum di departemen selain customer banking.
-2. Menerapkan standarisasi kode untuk meningkatkan efisiensi setelah produk diserahkan ke ASP.
-3. Mengoptimalkan proses dokumentasi kode agar lebih efektif.
+1. Menerapkan CI/CD (DevOps) di departemen selain customer banking
+2. Menerapkan Open API untuk setiap service agar dapat terintegrasi dengan service lain dengan mudah.
+3. Melakukan pembuatan unit test pada setiap fungsi untuk meningkatkan code coverage dan meminimalkan bugs di production.
 
 #### Chief Information Security Officer
 
-1. Menambah sumber daya manusia.
-2. Menerapkan Single Identity Management (SIM) untuk meningkatkan efektivitas dan efisiensi operasional pegawai.
+1. Menerapkan Single Identity Management (SIM) untuk meningkatkan efektivitas dan efisiensi operasional pegawai.
+2. Membuat red tim internal untuk dapat memetakan kerentantan sistem dari serangan siber.
 
 #### IT Operation Group
 
-1. Membuat sistem pendokumentasian riwayat masalah dan solusi yang pernah dilakukan.
-2. Membuat panduan dalam hal ticketing, tidak hanya saat permintaan tetapi juga penyelesaian dan penanganannya sudah terdefinisikan.
-3. Meningkatkan layanan pengadaan.
+1. Membuat katalog riwayat masalah dan solusi yang pernah terjadi.
+2. Deployment aplikasi non-critital secara CI/CD untuk mempercepat proses deployment.
+3. Migrasi dari sistem monolith ke microservice untuk meningkatkan skalabilitas dan fleksibilitas.
 
 #### IT Strategic and Planning Group
 
 1. Menerapkan platform manajemen vendor dan aset untuk mengkoordinasikan pemeliharaan dan pengadaan aset.
 2. Membuat platform sistem pelacakan dokumen saat JPS.
-3. Meningkatkan pengadaan PTO untuk unit kerja IT.
 
 #### IT Fraud & Risk Group
 
 1. Menambah sertifikasi untuk karyawan.
 2. Membuat PTO terkait pembuatan risk register.
-3. Mendefinisikan ulang beberapa jobdesc terkait pendanaan, keuangan & kekayaan dengan saluran perbankan digital.
 
 #### Senior Operational Risk
 
@@ -94,13 +92,13 @@ Berdasarkan hasil debrief OJT umum di berbagai unit kerja di bawah Direktorat IT
 
 1. Menerapkan sistem otomatisasi dalam rekonsiliasi.
 2. Meningkatkan kualitas ruang mesin perso.
-3. Melacak distribusi kartu debit, hasanah card, dll.
+3. Membuat sistem pelacakan distribusi kartu debit, hasanah card, dll.
 
 #### Data & Decision Management
 
-1. Membuat PTO yang sesuai dengan kegiatan operasional DDM.
-2. Menambah lisensi Tableau untuk banyak pengguna di unit kerja.
-3. Menambah sumber daya manusia untuk menunjang operasional unit kerja.
+1. Menambah lisensi Tableau untuk banyak pengguna di unit kerja.
+2. Menerapkan MLOps (Machine Learning Operations) untuk mempercepat deployment model ML.
+3. Mengadakan repository code untuk versioning code dan model ML.
 
 #### IT Application Support Group
 
