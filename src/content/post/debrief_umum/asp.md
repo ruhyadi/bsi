@@ -95,6 +95,17 @@ Departemen IT Wholesale & Office Automation Services bertugas mengelola, menerim
 
 ## Bisnis Proses
 
+Bisnis proses di ASP mencakup serangkaian aktivitas yang dilakukan untuk memberikan dukungan operasional terhadap aplikasi yang telah diimplementasikan dan pengujian terhadap aplikasi pada tahap development ataupun production. Tahapan bisnis proses di ASP meliputi:
+
+### SDLC
+
+Unit kerja ASP bertanggung jawab terhadap tahapan pengujian aplikasi pada tahap development. Tahapan SDLC yang dilakukan di ASP meliputi:
+
+1. Test Management Plan (TMP): Menyusun rencana pengujian yang mencakup skenario pengujian, lingkup pengujian, dan sumber daya yang diperlukan.
+2. System Integration Testing (SIT): Memastikan bahwa berbagai komponen atau sistem yang berbeda dapat bekerja bersama dengan baik.
+3. User Acceptance Testing (UAT): Memastikan bahwa sistem atau aplikasi memenuhi kebutuhan dan persyaratan bisnis pengguna akhir.
+4. Performance Testing: Mengukur kinerja sistem atau aplikasi di bawah beban kerja tertentu untuk memastikan kecepatan, skalabilitas, dan stabilitas.
+
 ## Ketentuan Operasional
 
 ## Kegiatan Operasional
