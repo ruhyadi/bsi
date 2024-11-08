@@ -175,11 +175,11 @@ Berdasarkan SDLC Agile, kegiatan operasional IT & Digital Development Group meli
 
 ## Bisnis Proses 2
 
-Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Bisnis proses di IDG mengacu pada SDLC (Software Development Lifecycle) yang merupakan siklus hidup pengembangan sistem atau aplikasi. SDLC terdiri dari beberapa tahapan, yaitu planning, development, testing, dan deployment. Dalam SDLC, IDG hanya fokus pada tahap development.
+Bisnis proses adalah serangkaian aktivitas atau tugas yang dilakukan untuk mencapai tujuan tertentu dalam organisasi. Di IDG, bisnis proses mengacu pada SDLC (Software Development Lifecycle), yang merupakan siklus hidup pengembangan sistem atau aplikasi. SDLC terdiri dari beberapa tahapan: perencanaan, pengembangan, pengujian, dan penerapan. IDG fokus pada tahap pengembangan dalam SDLC.
 
-Gambar x menunjukkan diagram alur bisnis proses pengembangan aplikasi di IDG. Proses dimulai dari perencanaan yang dilakukan oleh unit kerja ISG, kemudian berlanjut ke tahap pengembangan dan berakhir pada tahap testing oleh unit kerja ASP dan CSO. Berikut adalah rincian dari setiap tahapan pengembangan:
+Diagram alur bisnis proses pengembangan aplikasi di IDG dapat dilihat pada Gambar x. Proses ini dimulai dari perencanaan oleh unit kerja ISG, dilanjutkan dengan tahap pengembangan, dan diakhiri dengan tahap pengujian oleh unit kerja ASP dan CSO. Berikut adalah rincian dari setiap tahapan pengembangan:
 
-1. Development: Merupakan tahap pengembangan aplikasi sesuai dengan spesifikasi yang telah ditentukan di dokumen FSD (Functional Specification Document) dan TSD (Technical Specification Document).
-2. Testing Development: Merupakan tahap pengujian aplikasi (unit test) yang telah dikembangkan untuk memastikan kualitas dan keberfungsian aplikasi. Pengujian dilakukan menggunakan prinsip CI/CD (Continuous Integration/Continuous Deployment).
-3. Source Code Management: Merupakan tahap pengelolaan source code aplikasi yang dikembangkan meliputi tahap Continuous Integration (CI) dan Continuous Deployment (CD).
-4. Infrastructue & Security Readiness: Merupakan tahap kesiapan infrastruktur dan keamanan aplikasi sebelum dilakukan deployment ke production server. Pada tahap ini unit kerj IDG bekerja sama dengan unit kerja IOG dan CSO.
+Pengembangan: Tahap ini melibatkan pengembangan aplikasi sesuai dengan spesifikasi yang telah ditentukan dalam dokumen FSD (Functional Specification Document) dan TSD (Technical Specification Document) yang disusun oleh unit kerja ISG.
+Pengujian Pengembangan: Pada tahap ini, aplikasi yang telah dikembangkan diuji (unit test) untuk memastikan kualitas dan fungsionalitasnya. Pengujian dilakukan dengan menggunakan prinsip CI/CD (Continuous Integration/Continuous Deployment).
+Manajemen Kode Sumber: Tahap ini mencakup pengelolaan kode sumber aplikasi yang dikembangkan, termasuk tahap Continuous Integration (CI) dan Continuous Deployment (CD).
+Kesiapan Infrastruktur & Keamanan: Sebelum aplikasi diterapkan ke server produksi, tahap ini memastikan kesiapan infrastruktur dan keamanan aplikasi. Pada tahap ini, unit kerja IDG bekerja sama dengan unit kerja IOG dan CSO.
